@@ -1,67 +1,1174 @@
 {
-  "title": "Daily X narrative digest — YYYY-MM-DD",
-  "date": "2026-09-15",
+  "title": "Daily X narrative digest - 2026-10-25",
+  "date": "2026-10-25",
   "timezone": "America/Toronto",
-  "updated": "2026-09-16T12:05:31+03:00",
+  "updated": "2026-10-26T10:43:33-04:00",
   "brand_title": "Grok Bot X Virality Score",
   "brand_handle": "@SMKP_Films",
-  "hits": [],
-  "virals": [],
-  "outsiders": [],
+  "hits": [
+    {
+      "id": "2114390625202344157",
+      "name": "Gossip Goblin",
+      "display_name": "Gossip Goblin",
+      "handle": "@Gossip_Goblin",
+      "views": 36174,
+      "views_label": "36,174",
+      "url": "https://x.com/Gossip_Goblin/status/2114390625202344157",
+      "created_at": "2026-10-25T16:16:23.000Z",
+      "highlight": true,
+      "text": "AI Psychosis",
+      "original_en": "AI Psychosis",
+      "hook": "Two words and a 2-minute video: \"AI Psychosis\" pulled 36K views, 1.1K likes and 198 bookmarks.",
+      "media": "video 2:01",
+      "likes": 1145,
+      "reposts": 92,
+      "bookmarks": 198,
+      "video_tip": "Cut a 60-120s psychological-horror short: a person slowly losing track of what is real while an AI voice reassures them. Open on the creepiest frame in the first second, no title card, let the two-word caption do the rest.",
+      "board_rank": 3,
+      "draft_en": "Sometimes the best caption is the shortest one.\n\nTwo words, a strong video, and the audience fills in the rest. Gossip Goblin proved it again with AI Psychosis.\n\nMy rule now: if the video needs a paragraph to explain it, the video is not done yet.",
+      "draft_keywords": [
+        "AI Psychosis",
+        "video"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.0,
+        "word_overlap": 0.053,
+        "max_copied_run": 2
+      },
+      "top10_rank": 3,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "note": "followers: no data",
+        "topic": null
+      }
+    }
+  ],
+  "virals": [
+    {
+      "id": "2114049297582874715",
+      "name": "bot. creates",
+      "display_name": "bot. creates",
+      "handle": "@botcreates",
+      "views": 469701,
+      "views_label": "469,701",
+      "url": "https://x.com/botcreates/status/2114049297582874715",
+      "created_at": "2026-10-24T17:40:04.000Z",
+      "text": "Jimtama\n\nJim sneaks into a mysterious hideout searching for his missing girl, only to encounter a powerful oni who makes quick work of his supernatural string abilities. What begins as a rescue mission turns into an unexpected alliance in this Gintama-inspired retro AI anime adventure.\n\nReference Images: MidJourney + ChatGPT Image\nPrompting: Grok 4.7\nAnimation: Seedance\n#Gintama #AIAnime #Anime #AIAnime #AI #Seedance #Kling4",
+      "original_en": "Jimtama\n\nJim sneaks into a mysterious hideout searching for his missing girl, only to encounter a powerful oni who makes quick work of his supernatural string abilities. What begins as a rescue mission turns into an unexpected alliance in this Gintama-inspired retro AI anime adventure.\n\nReference Images: MidJourney + ChatGPT Image\nPrompting: Grok 4.7\nAnimation: Seedance\n#Gintama #AIAnime #Anime #AIAnime #AI #Seedance #Kling4",
+      "hook": "A Gintama-style retro AI anime short with a full credits stack (MidJourney + ChatGPT Image refs, Grok 4.7 prompts, Seedance animation) hit 469.7K views.",
+      "video_tip": "Make a 60-90s retro anime fight scene from a fan-favorite series vibe: lock 4-6 reference frames first, animate each beat separately, and end the caption with the exact tool stack.",
+      "followers": 6416,
+      "likes": 3341,
+      "board_rank": 1,
+      "draft_en": "The AI anime that wins is not the cleanest one. It is the one that feels like a show you already love.\n\nPick a series vibe, lock your reference frames first, then animate beat by beat with Seedance. Keep the character sheet open the whole time.\n\nCredit your stack in the caption. People save the recipe.",
+      "draft_keywords": [
+        "AI anime",
+        "Seedance"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.0,
+        "word_overlap": 0.115,
+        "max_copied_run": 2
+      },
+      "top10_rank": 1,
+      "why_hit": {
+        "trend_match": 67,
+        "verdict": "trend",
+        "matched_keywords": [
+          "Seedance",
+          "ChatGPT",
+          "MidJourney"
+        ],
+        "media": "no data",
+        "note": "media: no data, followers: no data",
+        "topic": null
+      }
+    },
+    {
+      "id": "2114553605416263750",
+      "name": "Pirat_Nation 🔴",
+      "display_name": "Pirat_Nation 🔴",
+      "handle": "@Pirat_Nation",
+      "views": 58236,
+      "views_label": "58,236",
+      "url": "https://x.com/Pirat_Nation/status/2114553605416263750",
+      "created_at": "2026-10-26T03:04:00.000Z",
+      "text": "Gunner, HEAT, PC! Declares war against AI-slop modding\n\nThe game’s official subreddit has updated its rules to ban any content created wholly or partly with generative AI.\n\nThat includes:\n\n• AI-generated text summaries\n• Image edits and AI “art”\n• Animated clips and video",
+      "original_en": "Gunner, HEAT, PC! Declares war against AI-slop modding\n\nThe game’s official subreddit has updated its rules to ban any content created wholly or partly with generative AI.\n\nThat includes:\n\n• AI-generated text summaries\n• Image edits and AI “art”\n• Animated clips and video",
+      "hook": "Gaming news account: a game's official subreddit banned anything made wholly or partly with generative AI.",
+      "video_tip": "Talking-head or screen-record reaction: show the rule text, then a side-by-side of a fully AI clip vs. an AI-assisted edit, and ask where the line should be.",
+      "followers": 370517,
+      "likes": 1719,
+      "board_rank": 2,
+      "draft_en": "A game community banning generative AI content is not the end of AI video. It is a signal.\n\nAudiences are tired of lazy output, not of the tools. The fix is taste: real direction, real editing, a story worth finishing.\n\nWhere do you draw the line between AI-assisted and AI-generated?",
+      "draft_keywords": [
+        "generative AI",
+        "AI-generated"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.0,
+        "word_overlap": 0.16,
+        "max_copied_run": 2
+      },
+      "top10_rank": 2,
+      "why_hit": {
+        "trend_match": 58,
+        "verdict": "trend",
+        "matched_keywords": [
+          "video",
+          "AI-generated"
+        ],
+        "media": "no data",
+        "note": "media: no data, followers: no data",
+        "topic": null
+      }
+    },
+    {
+      "id": "2114390663609418112",
+      "name": "Zasti",
+      "display_name": "Zasti",
+      "handle": "@0xZasti",
+      "views": 19960,
+      "views_label": "19,960",
+      "url": "https://x.com/0xZasti/status/2114390663609418112",
+      "created_at": "2026-10-25T16:16:32.000Z",
+      "text": "A BUS IS PARKED ON THE EDGE OF A CLIFF. 8M VIEWS. $8,000 IN CLIENT ORDERS.\n\na yellow excavator digs on a grassy lip of rock, a river and a village far down the valley, mountains going blue in the distance. a long white bus is parked right along the drop, its wheels hidden, the ground under it cut away on one side.\n\nthen a man in black, a mask and glasses, kneeling in the empty shell with a drill and a bundle of red and blue wire. frames go up, insulation goes in, wooden panels, a roller of paint, a platform bed with drawers built into it. he carries furniture in. at the end there's a bed with pillows, warm light along the ceiling, plants, a desk with a laptop and a telescope, and a window the size of the wall with the whole mountain range in it.\n\nnobody asks how the bus got there. there's no road, no tracks, and the excavator is digging a hole under its own ground. the video moves too fast to ask.\n\nthe clip didn't sell anything. it was the demo. 8M people watched it, and some of them were people who need a video made: brands, small studios, anyone with something to show and no crew. they didn't ask what the author charges. they asked for the same thing, with their product in it.\n\nthat's how a single clip turned into $8,000 of orders. the view count brought the audience. the quality of the work brought the clients.\n\nwhy it works:\n\n→ an impossible place, then a payoff: empty on one side, finished on the other\n→ every stage is readable with the sound off\n→ the view in the last shot is the thing everyone wants, so people watch to the end to see it\n→ one man in black as the anchor, so the story has a hero without a single face\n→ a dozen small steps instead of one long scene, and each step is its own short clip\n\nhow it's made:\n\n→ 1. plan the stages. Claude or ChatGPT: \"list the stages of converting a bus into a studio on a cliff, from digging to the finished room, one visual per stage.\" you get a shot list.\n→ 2. a key frame for every stage. Flux, Midjourney, Grok Imagine or Seedream, with the same wording and the same reference images so the bus, the light and the man look like one set.\n→ 3. image to video, one stage per clip. Kling, Runway, Luma Dream Machine, Hailuo or Veo, each clip a few seconds.\n→ 4. keep the man consistent: the same reference photo in every generation, the same black clothes, mask and glasses.\n→ 5. CapCut or DaVinci: join the clips, speed them up like a timelapse, add a quiet building soundtrack.\n→ 6. post with the AI-generated label on.\n\nthe exterior prompt:\n\n\"Yellow excavator digging on a grassy cliff edge, a long white bus parked along the edge of a steep drop, panoramic mountain valley with a river and a village in the distance, photorealistic, cinematic\"\n\nthe interior prompt:\n\n\"Inside an empty white bus, a man in black clothes and a mask installing electrical wires with a drill, cables on the floor, mountain view through the windows, photorealistic timelapse style\"\n\nthe finale:\n\n\"Luxury modern bus interior conversion, wooden ceiling, tiled floor, bed with pillows, warm LED lighting, desk with laptop and telescope, large windows with a mountain panorama, photorealistic, cinematic\"\n\nthe first take is never the one you keep. most of the cost is retries.\n\nthe bus was the demo. the view was the pitch.",
+      "original_en": "A BUS IS PARKED ON THE EDGE OF A CLIFF. 8M VIEWS. $8,000 IN CLIENT ORDERS.\n\na yellow excavator digs on a grassy lip of rock, a river and a village far down the valley, mountains going blue in the distance. a long white bus is parked right along the drop, its wheels hidden, the ground under it cut away on one side.\n\nthen a man in black, a mask and glasses, kneeling in the empty shell with a drill and a bundle of red and blue wire. frames go up, insulation goes in, wooden panels, a roller of paint, a platform bed with drawers built into it. he carries furniture in. at the end there's a bed with pillows, warm light along the ceiling, plants, a desk with a laptop and a telescope, and a window the size of the wall with the whole mountain range in it.\n\nnobody asks how the bus got there. there's no road, no tracks, and the excavator is digging a hole under its own ground. the video moves too fast to ask.\n\nthe clip didn't sell anything. it was the demo. 8M people watched it, and some of them were people who need a video made: brands, small studios, anyone with something to show and no crew. they didn't ask what the author charges. they asked for the same thing, with their product in it.\n\nthat's how a single clip turned into $8,000 of orders. the view count brought the audience. the quality of the work brought the clients.\n\nwhy it works:\n\n→ an impossible place, then a payoff: empty on one side, finished on the other\n→ every stage is readable with the sound off\n→ the view in the last shot is the thing everyone wants, so people watch to the end to see it\n→ one man in black as the anchor, so the story has a hero without a single face\n→ a dozen small steps instead of one long scene, and each step is its own short clip\n\nhow it's made:\n\n→ 1. plan the stages. Claude or ChatGPT: \"list the stages of converting a bus into a studio on a cliff, from digging to the finished room, one visual per stage.\" you get a shot list.\n→ 2. a key frame for every stage. Flux, Midjourney, Grok Imagine or Seedream, with the same wording and the same reference images so the bus, the light and the man look like one set.\n→ 3. image to video, one stage per clip. Kling, Runway, Luma Dream Machine, Hailuo or Veo, each clip a few seconds.\n→ 4. keep the man consistent: the same reference photo in every generation, the same black clothes, mask and glasses.\n→ 5. CapCut or DaVinci: join the clips, speed them up like a timelapse, add a quiet building soundtrack.\n→ 6. post with the AI-generated label on.\n\nthe exterior prompt:\n\n\"Yellow excavator digging on a grassy cliff edge, a long white bus parked along the edge of a steep drop, panoramic mountain valley with a river and a village in the distance, photorealistic, cinematic\"\n\nthe interior prompt:\n\n\"Inside an empty white bus, a man in black clothes and a mask installing electrical wires with a drill, cables on the floor, mountain view through the windows, photorealistic timelapse style\"\n\nthe finale:\n\n\"Luxury modern bus interior conversion, wooden ceiling, tiled floor, bed with pillows, warm LED lighting, desk with laptop and telescope, large windows with a mountain panorama, photorealistic, cinematic\"\n\nthe first take is never the one you keep. most of the cost is retries.\n\nthe bus was the demo. the view was the pitch.",
+      "hook": "Case-study thread: an AI bus-on-a-cliff conversion timelapse drew 8M views and $8,000 in client orders, with the full shot list and prompts.",
+      "video_tip": "Recreate the formula: an impossible location, 10-12 short image-to-video stages with one faceless anchor character, sped up like a timelapse, and the money shot saved for the last frame.",
+      "followers": 1504,
+      "likes": 33,
+      "board_rank": 4,
+      "draft_en": "The best AI Video I have seen this week was not a showcase. It was a sales pitch in disguise.\n\nImpossible location, a dozen short stages, one faceless builder, and the payoff saved for the final shot.\n\nBrands see a clip like that and want their own version of it. That is how views turn into clients.",
+      "draft_keywords": [
+        "AI Video"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.0,
+        "word_overlap": 0.52,
+        "max_copied_run": 2
+      },
+      "top10_rank": 4,
+      "why_hit": {
+        "trend_match": 89,
+        "verdict": "trend",
+        "matched_keywords": [
+          "video",
+          "Kling",
+          "AI-generated",
+          "ChatGPT",
+          "Claude",
+          "MidJourney"
+        ],
+        "media": "no data",
+        "note": "media: no data, followers: no data",
+        "topic": null
+      }
+    },
+    {
+      "id": "2114419647009395018",
+      "name": "Ozan Sihay",
+      "display_name": "Ozan Sihay",
+      "handle": "@ozansihay",
+      "views": 8869,
+      "views_label": "8,869",
+      "url": "https://x.com/ozansihay/status/2114419647009395018",
+      "created_at": "2026-10-25T18:11:42.000Z",
+      "text": "Yeni YouTube videom yayında. Bu videoda başta Seedance 2.5 ve Kling 4.0 olmak üzere en popüler 8 video modelini 3 farklı yöntem üzerinden kıyasladım. İyi seyirler. Link aşağıda 👇",
+      "original_en": "My new YouTube video is live. In it I compare the 8 most popular video models, led by Seedance 2.5 and Kling 4.0, across 3 different methods. Enjoy. Link below.",
+      "hook": "Turkish creator: a YouTube comparison of 8 video models, led by Seedance 2.5 and Kling 4.0, across 3 methods.",
+      "video_tip": "Post a 30-45s split-screen teaser: same prompt, 4 models in a grid, a scorecard overlay, and the long version linked in the reply.",
+      "followers": 78753,
+      "likes": 64,
+      "board_rank": 5,
+      "draft_en": "Everyone asks which video model is best. Wrong question.\n\nSeedance 2.5 is great for motion and camera moves. Kling 4.0 holds characters together better. The right pick depends on the shot, not the leaderboard.\n\nRun the same prompt through both before you commit to a scene.",
+      "draft_keywords": [
+        "Seedance 2.5",
+        "Kling 4.0"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.0,
+        "word_overlap": 0.2,
+        "max_copied_run": 2
+      },
+      "top10_rank": 5,
+      "why_hit": {
+        "trend_match": 73,
+        "verdict": "trend",
+        "matched_keywords": [
+          "video",
+          "Kling",
+          "Seedance"
+        ],
+        "media": "no data",
+        "note": "media: no data, followers: no data",
+        "topic": null
+      }
+    },
+    {
+      "id": "2114276626909507846",
+      "name": "Safwan",
+      "display_name": "Safwan",
+      "handle": "@tec_safwan",
+      "views": 5231,
+      "views_label": "5,231",
+      "url": "https://x.com/tec_safwan/status/2114276626909507846",
+      "created_at": "2026-10-25T08:43:23.000Z",
+      "text": "120 AI tools that can save you hours in 2026. 🚀\n\nFrom AI assistants to coding, automation, research, and web data tools.\n\nHere's a collection worth bookmarking🔖\n\nAI Assistants\n\n1. ChatGPT\n2. Claude\n3. Gemini\n4. Grok\n5. Perplexity\n6. DeepSeek\n7. Microsoft Copilot\n8. Mistral Le",
+      "original_en": "120 AI tools that can save you hours in 2026. 🚀\n\nFrom AI assistants to coding, automation, research, and web data tools.\n\nHere's a collection worth bookmarking🔖\n\nAI Assistants\n\n1. ChatGPT\n2. Claude\n3. Gemini\n4. Grok\n5. Perplexity\n6. DeepSeek\n7. Microsoft Copilot\n8. Mistral Le",
+      "hook": "Listicle: 120 AI tools grouped by category, pitched as worth bookmarking.",
+      "video_tip": "Turn it into a carousel or a 20s scroll-through screencast of your own AI video stack by category (script, image, video, voice, edit).",
+      "followers": 10497,
+      "likes": 108,
+      "board_rank": 6,
+      "draft_en": "You do not need a huge list of AI tools. You need a short stack you know deeply.\n\nMine for AI filmmaking: ChatGPT or Claude for the script, MidJourney for frames, Kling for motion, then a real edit.\n\nDepth beats breadth every time.",
+      "draft_keywords": [
+        "ChatGPT",
+        "Claude",
+        "MidJourney",
+        "Kling"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.0,
+        "word_overlap": 0.136,
+        "max_copied_run": 2
+      },
+      "top10_rank": 6,
+      "why_hit": {
+        "trend_match": 49,
+        "verdict": "coincidence/other",
+        "matched_keywords": [
+          "ChatGPT",
+          "Claude"
+        ],
+        "media": "no data",
+        "note": "media: no data, followers: no data",
+        "topic": null
+      }
+    },
+    {
+      "id": "2114408402545971493",
+      "name": "Hugging Models",
+      "display_name": "Hugging Models",
+      "handle": "@HuggingModels",
+      "views": 5079,
+      "views_label": "5,079",
+      "url": "https://x.com/HuggingModels/status/2114408402545971493",
+      "created_at": "2026-10-25T17:27:01.000Z",
+      "text": "Meet Wan-2.2: the image-to-video model that's blowing up with over 8 million downloads! Turn any still image into a dynamic video clip using ComfyUI. This is next-level content creation.",
+      "original_en": "Meet Wan-2.2: the image-to-video model that's blowing up with over 8 million downloads! Turn any still image into a dynamic video clip using ComfyUI. This is next-level content creation.",
+      "hook": "Wan-2.2 image-to-video model passes 8 million downloads and runs in ComfyUI.",
+      "video_tip": "Screen-record a ComfyUI graph turning one still into a clip, with the before and after side by side in the first 2 seconds.",
+      "followers": 72108,
+      "likes": 70,
+      "board_rank": 7,
+      "draft_en": "Open models are quietly catching up in image to video.\n\nOne still, a clean graph, and you get motion you can actually cut into a scene. For indie creators that changes the budget math completely.\n\nAI Video Generation is not only a closed-model game anymore.",
+      "draft_keywords": [
+        "AI Video Generation"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.0,
+        "word_overlap": 0.091,
+        "max_copied_run": 2
+      },
+      "top10_rank": 7,
+      "why_hit": {
+        "trend_match": 35,
+        "verdict": "coincidence/other",
+        "matched_keywords": [
+          "video"
+        ],
+        "media": "no data",
+        "note": "media: no data, followers: no data",
+        "topic": null
+      }
+    },
+    {
+      "id": "2114544652380774785",
+      "name": "PowerTokens",
+      "display_name": "PowerTokens",
+      "handle": "@PowerTokensAI",
+      "views": 1114,
+      "views_label": "1,114",
+      "url": "https://x.com/PowerTokensAI/status/2114544652380774785",
+      "created_at": "2026-10-26T02:28:26.000Z",
+      "text": "Welcome to the Cursed Circus 👻: a surreal AI-generated short film where dark fantasy meets the big top. \n\nStart creating with Seedance 2.0 mini \n— now 50% OFF💥 \n\nExplore more on Powertokens \n#Powertokens #Seedance #AIvideo #Hallowen #GenAI",
+      "original_en": "Welcome to the Cursed Circus 👻: a surreal AI-generated short film where dark fantasy meets the big top. \n\nStart creating with Seedance 2.0 mini \n— now 50% OFF💥 \n\nExplore more on Powertokens \n#Powertokens #Seedance #AIvideo #Hallowen #GenAI",
+      "hook": "Promo: 'Cursed Circus', a surreal dark-fantasy AI short made with Seedance 2.0 mini, timed for Halloween.",
+      "video_tip": "Halloween-season short: dark-fantasy circus or carnival, 30-45s, one recurring creepy character, end on a jump-cut reveal.",
+      "followers": 5958,
+      "likes": 3,
+      "board_rank": 8,
+      "draft_en": "Halloween is the easiest week of the year to post AI horror.\n\nPick one creepy setting, one recurring character, and let Seedance handle the motion. Keep it under a minute and end on the reveal.\n\nWhat are you making this year?",
+      "draft_keywords": [
+        "Seedance"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.0,
+        "word_overlap": 0.056,
+        "max_copied_run": 1
+      },
+      "top10_rank": 8,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "coincidence/other",
+        "matched_keywords": [],
+        "media": "no data",
+        "note": "media: no data, followers: no data",
+        "topic": null
+      }
+    },
+    {
+      "id": "2114616198130487331",
+      "name": "anya",
+      "display_name": "anya",
+      "handle": "@anya_yfa7",
+      "views": 1021,
+      "views_label": "1,021",
+      "url": "https://x.com/anya_yfa7/status/2114616198130487331",
+      "created_at": "2026-10-26T07:12:43.000Z",
+      "text": "AI video models are getting seriously competitive 👀\n\nMiniMax H3 Max\nP-Video-2 Pro\nKling 4.0\nHeyGen\n\nare all fighting for the top spots in this Image to Video snapshot\n\nWhich model would you pick for your next video? 🎬",
+      "original_en": "AI video models are getting seriously competitive 👀\n\nMiniMax H3 Max\nP-Video-2 Pro\nKling 4.0\nHeyGen\n\nare all fighting for the top spots in this Image to Video snapshot\n\nWhich model would you pick for your next video? 🎬",
+      "hook": "Snapshot of the image-to-video race: MiniMax H3 Max, P-Video-2 Pro, Kling 4.0 and HeyGen fighting for the top spots.",
+      "video_tip": "Run one still through 3-4 models and post the grid with a poll asking which one wins.",
+      "followers": 2962,
+      "likes": 25,
+      "board_rank": 9,
+      "draft_en": "The image to video race is the most fun part of AI right now.\n\nKling 4.0 is a strong all-rounder, but every few weeks a new model takes a single shot type and owns it.\n\nTest the same still across a few of them and keep a notebook of which one wins which shot.",
+      "draft_keywords": [
+        "Kling 4.0"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.0,
+        "word_overlap": 0.238,
+        "max_copied_run": 3
+      },
+      "top10_rank": 9,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "coincidence/other",
+        "matched_keywords": [],
+        "media": "no data",
+        "note": "media: no data, followers: no data",
+        "topic": null
+      }
+    },
+    {
+      "id": "2114503579696271512",
+      "name": "YouArt",
+      "display_name": "YouArt",
+      "handle": "@YouArtStudio",
+      "views": 823,
+      "views_label": "823",
+      "url": "https://x.com/YouArtStudio/status/2114503579696271512",
+      "created_at": "2026-10-25T23:45:13.000Z",
+      "text": "Seedance 2.5 vs Kling 4.0. Which one wins ?",
+      "original_en": "Seedance 2.5 vs Kling 4.0. Which one wins ?",
+      "hook": "Seedance 2.5 vs Kling 4.0 head-to-head, framed as a question.",
+      "video_tip": "Same prompt, two models, split screen, 10-15s, and let the replies vote.",
+      "followers": 6359,
+      "likes": 22,
+      "board_rank": 10,
+      "draft_en": "Seedance 2.5 or Kling 4.0?\n\nMy honest answer after testing both: it depends on the shot. Fast action and camera moves go one way, faces and acting go the other.\n\nPost your split screen tests below, I want to see what you are getting.",
+      "draft_keywords": [
+        "Seedance 2.5",
+        "Kling 4.0"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.0,
+        "word_overlap": 0.182,
+        "max_copied_run": 2
+      },
+      "top10_rank": 10,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "coincidence/other",
+        "matched_keywords": [],
+        "media": "no data",
+        "note": "media: no data, followers: no data",
+        "topic": null
+      }
+    },
+    {
+      "id": "2114253125779329503",
+      "name": "Machine Learning FLX",
+      "display_name": "Machine Learning FLX",
+      "handle": "@machinelearnflx",
+      "views": 644,
+      "views_label": "644",
+      "url": "https://x.com/machinelearnflx/status/2114253125779329503",
+      "created_at": "2026-10-25T07:10:00.000Z",
+      "text": "Take a look at AI Video Generation Masterclass: Runway, Sora, Kling &amp; Veo. Practice seamless looping with OpenAI Sora. #AD #AIVideo",
+      "original_en": "Take a look at AI Video Generation Masterclass: Runway, Sora, Kling &amp; Veo. Practice seamless looping with OpenAI Sora. #AD #AIVideo",
+      "hook": "Ad for a masterclass on Runway, Sora, Kling and Veo, with a seamless-loop angle.",
+      "video_tip": "Show a perfect 5s seamless loop and reveal the cut point; loops rewatch well.",
+      "followers": 170770,
+      "likes": 0,
+      "board_rank": 11,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "coincidence/other",
+        "matched_keywords": [],
+        "media": "no data",
+        "note": "media: no data, followers: no data",
+        "topic": null
+      }
+    },
+    {
+      "id": "2114328531559972974",
+      "name": "The SI Maximalist",
+      "display_name": "The SI Maximalist",
+      "handle": "@thesimaximalist",
+      "views": 556,
+      "views_label": "556",
+      "url": "https://x.com/thesimaximalist/status/2114328531559972974",
+      "created_at": "2026-10-25T12:09:38.000Z",
+      "text": "I thought Claude Code was addictive last year. I use Grok Imagine even more.\n\nUltra-photorealistic video. Volumetric lighting. First-person gryphon flights through Stormwind. Cities on Mars. Optimus with a record deal.\n\n“One more prompt.” I’m actually addicted. 😂 @grok @imagine",
+      "original_en": "I thought Claude Code was addictive last year. I use Grok Imagine even more.\n\nUltra-photorealistic video. Volumetric lighting. First-person gryphon flights through Stormwind. Cities on Mars. Optimus with a record deal.\n\n“One more prompt.” I’m actually addicted. 😂 @grok @imagine",
+      "hook": "Creator says Grok Imagine is more addictive than Claude Code: gryphon flights, cities on Mars, 'one more prompt'.",
+      "video_tip": "Rapid-fire montage of 6-8 wildly different Grok Imagine clips, one per second, captioned 'one more prompt'.",
+      "followers": 8377,
+      "likes": 7,
+      "board_rank": 12,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "coincidence/other",
+        "matched_keywords": [],
+        "media": "no data",
+        "note": "media: no data, followers: no data",
+        "topic": null
+      }
+    },
+    {
+      "id": "2114008496534409295",
+      "name": "emotional strikes anime",
+      "display_name": "emotional strikes anime",
+      "handle": "@c12346hn",
+      "views": 505,
+      "views_label": "505",
+      "url": "https://x.com/c12346hn/status/2114008496534409295",
+      "created_at": "2026-10-24T14:57:56.000Z",
+      "text": "🎬 AI VIDEO COMPANIES & CREATOR PARTNERSHIP TEAMS — LET'S TALK!\n\nI'm an independent AI filmmaker and anime creator with 24 completed long-form AI anime episodes across my original IP, The Kalthrax Chronicles.\n\nI'm actively building an ongoing anime franchise, not just standalone AI clips.\n\n🤝 Open to:\nAI Creator Partner Programs (CPP) | AI Video Creator Programs | Creator Recruitment | Brand Partnerships | AI Sponsorships | Paid Collaborations | AI Ambassador Programs | Creative Partnerships | AI Filmmaking Partnerships | Generative AI Partnerships | Video Generation Platform Collaborations\n\n🎥 AI Anime | AI Animation | AI Filmmaking | Long-Form AI Video | AI Storytelling | Generative Video | Text-to-Video | Image-to-Video | Cinematic AI | AI Video Production | Original IP | Indie Animation\n\nLooking to connect with AI video platforms interested in supporting ongoing, original productions.\n\n#AIVideo #AIFilmmaking #AIAnime #GenerativeAI #AICreator #CreatorPartnerships #CreatorProgram #CPP #BrandPartnerships #PaidCollaboration #AISponsorship #AIAnimation #TextToVideo #ImageToVideo #IndieAnimation #AIContentCreator #CreatorEconomy",
+      "original_en": "🎬 AI VIDEO COMPANIES & CREATOR PARTNERSHIP TEAMS — LET'S TALK!\n\nI'm an independent AI filmmaker and anime creator with 24 completed long-form AI anime episodes across my original IP, The Kalthrax Chronicles.\n\nI'm actively building an ongoing anime franchise, not just standalone AI clips.\n\n🤝 Open to:\nAI Creator Partner Programs (CPP) | AI Video Creator Programs | Creator Recruitment | Brand Partnerships | AI Sponsorships | Paid Collaborations | AI Ambassador Programs | Creative Partnerships | AI Filmmaking Partnerships | Generative AI Partnerships | Video Generation Platform Collaborations\n\n🎥 AI Anime | AI Animation | AI Filmmaking | Long-Form AI Video | AI Storytelling | Generative Video | Text-to-Video | Image-to-Video | Cinematic AI | AI Video Production | Original IP | Indie Animation\n\nLooking to connect with AI video platforms interested in supporting ongoing, original productions.\n\n#AIVideo #AIFilmmaking #AIAnime #GenerativeAI #AICreator #CreatorPartnerships #CreatorProgram #CPP #BrandPartnerships #PaidCollaboration #AISponsorship #AIAnimation #TextToVideo #ImageToVideo #IndieAnimation #AIContentCreator #CreatorEconomy",
+      "hook": "AI anime creator with 24 long-form episodes of an original IP pitching for creator programs and brand partnerships.",
+      "video_tip": "A 30s sizzle reel of your own series or IP with episode count on screen works better than a text pitch.",
+      "followers": 2967,
+      "likes": 13,
+      "board_rank": 13,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "coincidence/other",
+        "matched_keywords": [],
+        "media": "no data",
+        "note": "media: no data, followers: no data",
+        "topic": null
+      }
+    },
+    {
+      "id": "2114075278876238279",
+      "name": "Emaan",
+      "display_name": "Emaan",
+      "handle": "@emaann28",
+      "views": 489,
+      "views_label": "489",
+      "url": "https://x.com/emaann28/status/2114075278876238279",
+      "created_at": "2026-10-24T19:23:18.000Z",
+      "text": "I think the TestDrive car just discovered it can FLY \n\nTried another image-to-video experiment with @Kling_ai and this little guy went from driving toward the camera to suddenly jumping into the air \n\nWhat I liked was how Kling kept the car's cute design and facial expression consistent while adding movement.\n\nOne thing I'd improve is the landing. The transition from jumping back to driving could feel smoother.\n\nStill, turning one static mascot image into a fun little animation in seconds is pretty impressive.\n\nNow I'm wondering what other ridiculous things I can make this car do.\n\nHere's the result",
+      "original_en": "I think the TestDrive car just discovered it can FLY \n\nTried another image-to-video experiment with @Kling_ai and this little guy went from driving toward the camera to suddenly jumping into the air \n\nWhat I liked was how Kling kept the car's cute design and facial expression consistent while adding movement.\n\nOne thing I'd improve is the landing. The transition from jumping back to driving could feel smoother.\n\nStill, turning one static mascot image into a fun little animation in seconds is pretty impressive.\n\nNow I'm wondering what other ridiculous things I can make this car do.\n\nHere's the result",
+      "hook": "Kling image-to-video test: a mascot car jumps into the air while keeping its design consistent; honest note that the landing could be smoother.",
+      "video_tip": "Animate a single mascot or character still doing something impossible, and say what failed; honest notes earn replies.",
+      "followers": 1768,
+      "likes": 20,
+      "board_rank": 14,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "coincidence/other",
+        "matched_keywords": [],
+        "media": "no data",
+        "note": "media: no data, followers: no data",
+        "topic": null
+      }
+    },
+    {
+      "id": "2114512880582246503",
+      "name": "Spooky Key 🎃 🗝 🦊",
+      "display_name": "Spooky Key 🎃 🗝 🦊",
+      "handle": "@KeyTryer",
+      "views": 451,
+      "views_label": "451",
+      "url": "https://x.com/KeyTryer/status/2114512880582246503",
+      "created_at": "2026-10-26T00:22:11.000Z",
+      "text": "Grok Imagine is so butt now that Elon doing this is mostly bad PR for AI primarily because it's Grok Imagine.",
+      "original_en": "Grok Imagine is so butt now that Elon doing this is mostly bad PR for AI primarily because it's Grok Imagine.",
+      "hook": "Critical take: the Grok Imagine Odyssey is bad PR for AI because of the model's quality.",
+      "video_tip": "If you react, show your own Grok Imagine shot next to a frame from the episode and let the work argue.",
+      "followers": 3895,
+      "likes": 4,
+      "board_rank": 15,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "coincidence/other",
+        "matched_keywords": [],
+        "media": "no data",
+        "note": "media: no data, followers: no data",
+        "topic": null
+      }
+    },
+    {
+      "id": "2114578977767432592",
+      "name": "Root",
+      "display_name": "Root",
+      "handle": "@r00t404t",
+      "views": 449,
+      "views_label": "449",
+      "url": "https://x.com/r00t404t/status/2114578977767432592",
+      "created_at": "2026-10-26T04:44:49.000Z",
+      "text": "When Christopher Nolan announced his adaptation of The Odyssey, Elon Musk criticized the film’s casting and promised to do it differently with AI.\n\nIn July, Musk made a bold claim: Grok Imagine would create a full-length, historically accurate adaptation of Homer’s epic by the",
+      "original_en": "When Christopher Nolan announced his adaptation of The Odyssey, Elon Musk criticized the film’s casting and promised to do it differently with AI.\n\nIn July, Musk made a bold claim: Grok Imagine would create a full-length, historically accurate adaptation of Homer’s epic by the",
+      "hook": "Context post on Musk's Grok Imagine Odyssey vs. Christopher Nolan's adaptation of The Odyssey.",
+      "video_tip": "A 20s 'myth in 5 shots' piece in the Odyssey theme rides the conversation without picking a side.",
+      "followers": 872,
+      "likes": 1,
+      "board_rank": 16,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "coincidence/other",
+        "matched_keywords": [],
+        "media": "no data",
+        "note": "media: no data, followers: no data",
+        "topic": null
+      }
+    },
+    {
+      "id": "2114350555707670789",
+      "name": "Glenn Williams",
+      "display_name": "Glenn Williams",
+      "handle": "@GlennHasABeard",
+      "views": 367,
+      "views_label": "367",
+      "url": "https://x.com/GlennHasABeard/status/2114350555707670789",
+      "created_at": "2026-10-25T13:37:09.000Z",
+      "text": "Mr. Quarter put a 25% sticker on a cow. The cow did not take it well. All Kling 4.0 generations are 25% off on @runwayml until November 30.\n\nMade with Kling 4.0 through the Runway API.\n\nGLENN25 = 25% off any Runway plan (affiliate, I earn commission).",
+      "original_en": "Mr. Quarter put a 25% sticker on a cow. The cow did not take it well. All Kling 4.0 generations are 25% off on @runwayml until November 30.\n\nMade with Kling 4.0 through the Runway API.\n\nGLENN25 = 25% off any Runway plan (affiliate, I earn commission).",
+      "hook": "Comedy short made with Kling 4.0 via the Runway API (a cow with a 25% sticker), tied to an affiliate promo.",
+      "video_tip": "Absurd one-joke 10s clip with a deadpan caption; the joke carries the tool mention.",
+      "followers": 6492,
+      "likes": 11,
+      "board_rank": 17,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "coincidence/other",
+        "matched_keywords": [],
+        "media": "no data",
+        "note": "media: no data, followers: no data",
+        "topic": null
+      }
+    },
+    {
+      "id": "2114701792034332700",
+      "name": "Lucas Jnr",
+      "display_name": "Lucas Jnr",
+      "handle": "@Lucasxcode2",
+      "views": 317,
+      "views_label": "317",
+      "url": "https://x.com/Lucasxcode2/status/2114701792034332700",
+      "created_at": "2026-10-26T12:52:51.000Z",
+      "text": "Major AI Video Generation Tools\n\nGoogle Flow\nGoogle Veo\nHiggsfield AI\nKling AI\nRunway\nSora",
+      "original_en": "Major AI Video Generation Tools\n\nGoogle Flow\nGoogle Veo\nHiggsfield AI\nKling AI\nRunway\nSora",
+      "hook": "Simple list of major AI video generators: Google Flow, Veo, Higgsfield, Kling, Runway, Sora.",
+      "video_tip": "Make it visual: one 2s clip per tool in a fast montage with the name on screen.",
+      "followers": 2745,
+      "likes": 16,
+      "board_rank": 18,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "coincidence/other",
+        "matched_keywords": [],
+        "media": "no data",
+        "note": "media: no data, followers: no data",
+        "topic": null
+      }
+    },
+    {
+      "id": "2114609095613600140",
+      "name": "Elena",
+      "display_name": "Elena",
+      "handle": "@PandaChique",
+      "views": 300,
+      "views_label": "300",
+      "url": "https://x.com/PandaChique/status/2114609095613600140",
+      "created_at": "2026-10-26T06:44:30.000Z",
+      "text": "Good morning! Have a good day! \n\nAnimation: image to video @Kling_ai 4.0",
+      "original_en": "Good morning! Have a good day! \n\nAnimation: image to video @Kling_ai 4.0",
+      "hook": "Good-morning post with a Kling 4.0 image-to-video animation.",
+      "video_tip": "Daily greeting clip is an easy habit post; keep it 5-8s with one strong motion.",
+      "followers": 3120,
+      "likes": 19,
+      "board_rank": 19,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "coincidence/other",
+        "matched_keywords": [],
+        "media": "no data",
+        "note": "media: no data, followers: no data",
+        "topic": null
+      }
+    },
+    {
+      "id": "2114134769005158792",
+      "name": "john downs",
+      "display_name": "john downs",
+      "handle": "@jdownsa1",
+      "views": 289,
+      "views_label": "289",
+      "url": "https://x.com/jdownsa1/status/2114134769005158792",
+      "created_at": "2026-10-24T23:19:42.000Z",
+      "text": "Been putting Grok Imagine through its paces at Graf-A-Cools Studios.\n\nExperimenting with AI filmmaking, character performance, voice, and lip sync. The results are getting interesting!\n\nMade with Grok Imagine. 🎬\n\n@elonmusk @grok\n\nAI-generated parody.",
+      "original_en": "Been putting Grok Imagine through its paces at Graf-A-Cools Studios.\n\nExperimenting with AI filmmaking, character performance, voice, and lip sync. The results are getting interesting!\n\nMade with Grok Imagine. 🎬\n\n@elonmusk @grok\n\nAI-generated parody.",
+      "hook": "Grok Imagine tests on character performance, voice and lip sync, labeled AI parody.",
+      "video_tip": "Show a 15s lip-sync test with the raw take and the final take back to back.",
+      "followers": 49,
+      "likes": 7,
+      "board_rank": 20,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "coincidence/other",
+        "matched_keywords": [],
+        "media": "no data",
+        "note": "media: no data, followers: no data",
+        "topic": null
+      }
+    }
+  ],
+  "outsiders": [
+    {
+      "id": "2114049297582874715",
+      "name": "bot. creates",
+      "display_name": "bot. creates",
+      "handle": "@botcreates",
+      "views": 469701,
+      "views_label": "469,701",
+      "url": "https://x.com/botcreates/status/2114049297582874715",
+      "created_at": "2026-10-24T17:40:04.000Z",
+      "text": "Jimtama\n\nJim sneaks into a mysterious hideout searching for his missing girl, only to encounter a powerful oni who makes quick work of his supernatural string abilities. What begins as a rescue mission turns into an unexpected alliance in this Gintama-inspired retro AI anime adventure.\n\nReference Images: MidJourney + ChatGPT Image\nPrompting: Grok 4.7\nAnimation: Seedance\n#Gintama #AIAnime #Anime #AIAnime #AI #Seedance #Kling4",
+      "original_en": "Jimtama\n\nJim sneaks into a mysterious hideout searching for his missing girl, only to encounter a powerful oni who makes quick work of his supernatural string abilities. What begins as a rescue mission turns into an unexpected alliance in this Gintama-inspired retro AI anime adventure.\n\nReference Images: MidJourney + ChatGPT Image\nPrompting: Grok 4.7\nAnimation: Seedance\n#Gintama #AIAnime #Anime #AIAnime #AI #Seedance #Kling4",
+      "hook": "A Gintama-style retro AI anime short with a full credits stack (MidJourney + ChatGPT Image refs, Grok 4.7 prompts, Seedance animation) hit 469.7K views.",
+      "video_tip": "Make a 60-90s retro anime fight scene from a fan-favorite series vibe: lock 4-6 reference frames first, animate each beat separately, and end the caption with the exact tool stack.",
+      "followers": 6416,
+      "likes": 3341,
+      "board_rank": 1,
+      "draft_en": "The AI anime that wins is not the cleanest one. It is the one that feels like a show you already love.\n\nPick a series vibe, lock your reference frames first, then animate beat by beat with Seedance. Keep the character sheet open the whole time.\n\nCredit your stack in the caption. People save the recipe.",
+      "draft_keywords": [
+        "AI anime",
+        "Seedance"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.0,
+        "word_overlap": 0.115,
+        "max_copied_run": 2
+      },
+      "top10_rank": 1
+    },
+    {
+      "id": "2114553605416263750",
+      "name": "Pirat_Nation 🔴",
+      "display_name": "Pirat_Nation 🔴",
+      "handle": "@Pirat_Nation",
+      "views": 58236,
+      "views_label": "58,236",
+      "url": "https://x.com/Pirat_Nation/status/2114553605416263750",
+      "created_at": "2026-10-26T03:04:00.000Z",
+      "text": "Gunner, HEAT, PC! Declares war against AI-slop modding\n\nThe game’s official subreddit has updated its rules to ban any content created wholly or partly with generative AI.\n\nThat includes:\n\n• AI-generated text summaries\n• Image edits and AI “art”\n• Animated clips and video",
+      "original_en": "Gunner, HEAT, PC! Declares war against AI-slop modding\n\nThe game’s official subreddit has updated its rules to ban any content created wholly or partly with generative AI.\n\nThat includes:\n\n• AI-generated text summaries\n• Image edits and AI “art”\n• Animated clips and video",
+      "hook": "Gaming news account: a game's official subreddit banned anything made wholly or partly with generative AI.",
+      "video_tip": "Talking-head or screen-record reaction: show the rule text, then a side-by-side of a fully AI clip vs. an AI-assisted edit, and ask where the line should be.",
+      "followers": 370517,
+      "likes": 1719,
+      "board_rank": 2,
+      "draft_en": "A game community banning generative AI content is not the end of AI video. It is a signal.\n\nAudiences are tired of lazy output, not of the tools. The fix is taste: real direction, real editing, a story worth finishing.\n\nWhere do you draw the line between AI-assisted and AI-generated?",
+      "draft_keywords": [
+        "generative AI",
+        "AI-generated"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.0,
+        "word_overlap": 0.16,
+        "max_copied_run": 2
+      },
+      "top10_rank": 2
+    },
+    {
+      "id": "2114390663609418112",
+      "name": "Zasti",
+      "display_name": "Zasti",
+      "handle": "@0xZasti",
+      "views": 19960,
+      "views_label": "19,960",
+      "url": "https://x.com/0xZasti/status/2114390663609418112",
+      "created_at": "2026-10-25T16:16:32.000Z",
+      "text": "A BUS IS PARKED ON THE EDGE OF A CLIFF. 8M VIEWS. $8,000 IN CLIENT ORDERS.\n\na yellow excavator digs on a grassy lip of rock, a river and a village far down the valley, mountains going blue in the distance. a long white bus is parked right along the drop, its wheels hidden, the ground under it cut away on one side.\n\nthen a man in black, a mask and glasses, kneeling in the empty shell with a drill and a bundle of red and blue wire. frames go up, insulation goes in, wooden panels, a roller of paint, a platform bed with drawers built into it. he carries furniture in. at the end there's a bed with pillows, warm light along the ceiling, plants, a desk with a laptop and a telescope, and a window the size of the wall with the whole mountain range in it.\n\nnobody asks how the bus got there. there's no road, no tracks, and the excavator is digging a hole under its own ground. the video moves too fast to ask.\n\nthe clip didn't sell anything. it was the demo. 8M people watched it, and some of them were people who need a video made: brands, small studios, anyone with something to show and no crew. they didn't ask what the author charges. they asked for the same thing, with their product in it.\n\nthat's how a single clip turned into $8,000 of orders. the view count brought the audience. the quality of the work brought the clients.\n\nwhy it works:\n\n→ an impossible place, then a payoff: empty on one side, finished on the other\n→ every stage is readable with the sound off\n→ the view in the last shot is the thing everyone wants, so people watch to the end to see it\n→ one man in black as the anchor, so the story has a hero without a single face\n→ a dozen small steps instead of one long scene, and each step is its own short clip\n\nhow it's made:\n\n→ 1. plan the stages. Claude or ChatGPT: \"list the stages of converting a bus into a studio on a cliff, from digging to the finished room, one visual per stage.\" you get a shot list.\n→ 2. a key frame for every stage. Flux, Midjourney, Grok Imagine or Seedream, with the same wording and the same reference images so the bus, the light and the man look like one set.\n→ 3. image to video, one stage per clip. Kling, Runway, Luma Dream Machine, Hailuo or Veo, each clip a few seconds.\n→ 4. keep the man consistent: the same reference photo in every generation, the same black clothes, mask and glasses.\n→ 5. CapCut or DaVinci: join the clips, speed them up like a timelapse, add a quiet building soundtrack.\n→ 6. post with the AI-generated label on.\n\nthe exterior prompt:\n\n\"Yellow excavator digging on a grassy cliff edge, a long white bus parked along the edge of a steep drop, panoramic mountain valley with a river and a village in the distance, photorealistic, cinematic\"\n\nthe interior prompt:\n\n\"Inside an empty white bus, a man in black clothes and a mask installing electrical wires with a drill, cables on the floor, mountain view through the windows, photorealistic timelapse style\"\n\nthe finale:\n\n\"Luxury modern bus interior conversion, wooden ceiling, tiled floor, bed with pillows, warm LED lighting, desk with laptop and telescope, large windows with a mountain panorama, photorealistic, cinematic\"\n\nthe first take is never the one you keep. most of the cost is retries.\n\nthe bus was the demo. the view was the pitch.",
+      "original_en": "A BUS IS PARKED ON THE EDGE OF A CLIFF. 8M VIEWS. $8,000 IN CLIENT ORDERS.\n\na yellow excavator digs on a grassy lip of rock, a river and a village far down the valley, mountains going blue in the distance. a long white bus is parked right along the drop, its wheels hidden, the ground under it cut away on one side.\n\nthen a man in black, a mask and glasses, kneeling in the empty shell with a drill and a bundle of red and blue wire. frames go up, insulation goes in, wooden panels, a roller of paint, a platform bed with drawers built into it. he carries furniture in. at the end there's a bed with pillows, warm light along the ceiling, plants, a desk with a laptop and a telescope, and a window the size of the wall with the whole mountain range in it.\n\nnobody asks how the bus got there. there's no road, no tracks, and the excavator is digging a hole under its own ground. the video moves too fast to ask.\n\nthe clip didn't sell anything. it was the demo. 8M people watched it, and some of them were people who need a video made: brands, small studios, anyone with something to show and no crew. they didn't ask what the author charges. they asked for the same thing, with their product in it.\n\nthat's how a single clip turned into $8,000 of orders. the view count brought the audience. the quality of the work brought the clients.\n\nwhy it works:\n\n→ an impossible place, then a payoff: empty on one side, finished on the other\n→ every stage is readable with the sound off\n→ the view in the last shot is the thing everyone wants, so people watch to the end to see it\n→ one man in black as the anchor, so the story has a hero without a single face\n→ a dozen small steps instead of one long scene, and each step is its own short clip\n\nhow it's made:\n\n→ 1. plan the stages. Claude or ChatGPT: \"list the stages of converting a bus into a studio on a cliff, from digging to the finished room, one visual per stage.\" you get a shot list.\n→ 2. a key frame for every stage. Flux, Midjourney, Grok Imagine or Seedream, with the same wording and the same reference images so the bus, the light and the man look like one set.\n→ 3. image to video, one stage per clip. Kling, Runway, Luma Dream Machine, Hailuo or Veo, each clip a few seconds.\n→ 4. keep the man consistent: the same reference photo in every generation, the same black clothes, mask and glasses.\n→ 5. CapCut or DaVinci: join the clips, speed them up like a timelapse, add a quiet building soundtrack.\n→ 6. post with the AI-generated label on.\n\nthe exterior prompt:\n\n\"Yellow excavator digging on a grassy cliff edge, a long white bus parked along the edge of a steep drop, panoramic mountain valley with a river and a village in the distance, photorealistic, cinematic\"\n\nthe interior prompt:\n\n\"Inside an empty white bus, a man in black clothes and a mask installing electrical wires with a drill, cables on the floor, mountain view through the windows, photorealistic timelapse style\"\n\nthe finale:\n\n\"Luxury modern bus interior conversion, wooden ceiling, tiled floor, bed with pillows, warm LED lighting, desk with laptop and telescope, large windows with a mountain panorama, photorealistic, cinematic\"\n\nthe first take is never the one you keep. most of the cost is retries.\n\nthe bus was the demo. the view was the pitch.",
+      "hook": "Case-study thread: an AI bus-on-a-cliff conversion timelapse drew 8M views and $8,000 in client orders, with the full shot list and prompts.",
+      "video_tip": "Recreate the formula: an impossible location, 10-12 short image-to-video stages with one faceless anchor character, sped up like a timelapse, and the money shot saved for the last frame.",
+      "followers": 1504,
+      "likes": 33,
+      "board_rank": 4,
+      "draft_en": "The best AI Video I have seen this week was not a showcase. It was a sales pitch in disguise.\n\nImpossible location, a dozen short stages, one faceless builder, and the payoff saved for the final shot.\n\nBrands see a clip like that and want their own version of it. That is how views turn into clients.",
+      "draft_keywords": [
+        "AI Video"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.0,
+        "word_overlap": 0.52,
+        "max_copied_run": 2
+      },
+      "top10_rank": 4
+    },
+    {
+      "id": "2114419647009395018",
+      "name": "Ozan Sihay",
+      "display_name": "Ozan Sihay",
+      "handle": "@ozansihay",
+      "views": 8869,
+      "views_label": "8,869",
+      "url": "https://x.com/ozansihay/status/2114419647009395018",
+      "created_at": "2026-10-25T18:11:42.000Z",
+      "text": "Yeni YouTube videom yayında. Bu videoda başta Seedance 2.5 ve Kling 4.0 olmak üzere en popüler 8 video modelini 3 farklı yöntem üzerinden kıyasladım. İyi seyirler. Link aşağıda 👇",
+      "original_en": "My new YouTube video is live. In it I compare the 8 most popular video models, led by Seedance 2.5 and Kling 4.0, across 3 different methods. Enjoy. Link below.",
+      "hook": "Turkish creator: a YouTube comparison of 8 video models, led by Seedance 2.5 and Kling 4.0, across 3 methods.",
+      "video_tip": "Post a 30-45s split-screen teaser: same prompt, 4 models in a grid, a scorecard overlay, and the long version linked in the reply.",
+      "followers": 78753,
+      "likes": 64,
+      "board_rank": 5,
+      "draft_en": "Everyone asks which video model is best. Wrong question.\n\nSeedance 2.5 is great for motion and camera moves. Kling 4.0 holds characters together better. The right pick depends on the shot, not the leaderboard.\n\nRun the same prompt through both before you commit to a scene.",
+      "draft_keywords": [
+        "Seedance 2.5",
+        "Kling 4.0"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.0,
+        "word_overlap": 0.2,
+        "max_copied_run": 2
+      },
+      "top10_rank": 5
+    },
+    {
+      "id": "2114276626909507846",
+      "name": "Safwan",
+      "display_name": "Safwan",
+      "handle": "@tec_safwan",
+      "views": 5231,
+      "views_label": "5,231",
+      "url": "https://x.com/tec_safwan/status/2114276626909507846",
+      "created_at": "2026-10-25T08:43:23.000Z",
+      "text": "120 AI tools that can save you hours in 2026. 🚀\n\nFrom AI assistants to coding, automation, research, and web data tools.\n\nHere's a collection worth bookmarking🔖\n\nAI Assistants\n\n1. ChatGPT\n2. Claude\n3. Gemini\n4. Grok\n5. Perplexity\n6. DeepSeek\n7. Microsoft Copilot\n8. Mistral Le",
+      "original_en": "120 AI tools that can save you hours in 2026. 🚀\n\nFrom AI assistants to coding, automation, research, and web data tools.\n\nHere's a collection worth bookmarking🔖\n\nAI Assistants\n\n1. ChatGPT\n2. Claude\n3. Gemini\n4. Grok\n5. Perplexity\n6. DeepSeek\n7. Microsoft Copilot\n8. Mistral Le",
+      "hook": "Listicle: 120 AI tools grouped by category, pitched as worth bookmarking.",
+      "video_tip": "Turn it into a carousel or a 20s scroll-through screencast of your own AI video stack by category (script, image, video, voice, edit).",
+      "followers": 10497,
+      "likes": 108,
+      "board_rank": 6,
+      "draft_en": "You do not need a huge list of AI tools. You need a short stack you know deeply.\n\nMine for AI filmmaking: ChatGPT or Claude for the script, MidJourney for frames, Kling for motion, then a real edit.\n\nDepth beats breadth every time.",
+      "draft_keywords": [
+        "ChatGPT",
+        "Claude",
+        "MidJourney",
+        "Kling"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.0,
+        "word_overlap": 0.136,
+        "max_copied_run": 2
+      },
+      "top10_rank": 6
+    },
+    {
+      "id": "2114408402545971493",
+      "name": "Hugging Models",
+      "display_name": "Hugging Models",
+      "handle": "@HuggingModels",
+      "views": 5079,
+      "views_label": "5,079",
+      "url": "https://x.com/HuggingModels/status/2114408402545971493",
+      "created_at": "2026-10-25T17:27:01.000Z",
+      "text": "Meet Wan-2.2: the image-to-video model that's blowing up with over 8 million downloads! Turn any still image into a dynamic video clip using ComfyUI. This is next-level content creation.",
+      "original_en": "Meet Wan-2.2: the image-to-video model that's blowing up with over 8 million downloads! Turn any still image into a dynamic video clip using ComfyUI. This is next-level content creation.",
+      "hook": "Wan-2.2 image-to-video model passes 8 million downloads and runs in ComfyUI.",
+      "video_tip": "Screen-record a ComfyUI graph turning one still into a clip, with the before and after side by side in the first 2 seconds.",
+      "followers": 72108,
+      "likes": 70,
+      "board_rank": 7,
+      "draft_en": "Open models are quietly catching up in image to video.\n\nOne still, a clean graph, and you get motion you can actually cut into a scene. For indie creators that changes the budget math completely.\n\nAI Video Generation is not only a closed-model game anymore.",
+      "draft_keywords": [
+        "AI Video Generation"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.0,
+        "word_overlap": 0.091,
+        "max_copied_run": 2
+      },
+      "top10_rank": 7
+    },
+    {
+      "id": "2114544652380774785",
+      "name": "PowerTokens",
+      "display_name": "PowerTokens",
+      "handle": "@PowerTokensAI",
+      "views": 1114,
+      "views_label": "1,114",
+      "url": "https://x.com/PowerTokensAI/status/2114544652380774785",
+      "created_at": "2026-10-26T02:28:26.000Z",
+      "text": "Welcome to the Cursed Circus 👻: a surreal AI-generated short film where dark fantasy meets the big top. \n\nStart creating with Seedance 2.0 mini \n— now 50% OFF💥 \n\nExplore more on Powertokens \n#Powertokens #Seedance #AIvideo #Hallowen #GenAI",
+      "original_en": "Welcome to the Cursed Circus 👻: a surreal AI-generated short film where dark fantasy meets the big top. \n\nStart creating with Seedance 2.0 mini \n— now 50% OFF💥 \n\nExplore more on Powertokens \n#Powertokens #Seedance #AIvideo #Hallowen #GenAI",
+      "hook": "Promo: 'Cursed Circus', a surreal dark-fantasy AI short made with Seedance 2.0 mini, timed for Halloween.",
+      "video_tip": "Halloween-season short: dark-fantasy circus or carnival, 30-45s, one recurring creepy character, end on a jump-cut reveal.",
+      "followers": 5958,
+      "likes": 3,
+      "board_rank": 8,
+      "draft_en": "Halloween is the easiest week of the year to post AI horror.\n\nPick one creepy setting, one recurring character, and let Seedance handle the motion. Keep it under a minute and end on the reveal.\n\nWhat are you making this year?",
+      "draft_keywords": [
+        "Seedance"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.0,
+        "word_overlap": 0.056,
+        "max_copied_run": 1
+      },
+      "top10_rank": 8
+    },
+    {
+      "id": "2114616198130487331",
+      "name": "anya",
+      "display_name": "anya",
+      "handle": "@anya_yfa7",
+      "views": 1021,
+      "views_label": "1,021",
+      "url": "https://x.com/anya_yfa7/status/2114616198130487331",
+      "created_at": "2026-10-26T07:12:43.000Z",
+      "text": "AI video models are getting seriously competitive 👀\n\nMiniMax H3 Max\nP-Video-2 Pro\nKling 4.0\nHeyGen\n\nare all fighting for the top spots in this Image to Video snapshot\n\nWhich model would you pick for your next video? 🎬",
+      "original_en": "AI video models are getting seriously competitive 👀\n\nMiniMax H3 Max\nP-Video-2 Pro\nKling 4.0\nHeyGen\n\nare all fighting for the top spots in this Image to Video snapshot\n\nWhich model would you pick for your next video? 🎬",
+      "hook": "Snapshot of the image-to-video race: MiniMax H3 Max, P-Video-2 Pro, Kling 4.0 and HeyGen fighting for the top spots.",
+      "video_tip": "Run one still through 3-4 models and post the grid with a poll asking which one wins.",
+      "followers": 2962,
+      "likes": 25,
+      "board_rank": 9,
+      "draft_en": "The image to video race is the most fun part of AI right now.\n\nKling 4.0 is a strong all-rounder, but every few weeks a new model takes a single shot type and owns it.\n\nTest the same still across a few of them and keep a notebook of which one wins which shot.",
+      "draft_keywords": [
+        "Kling 4.0"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.0,
+        "word_overlap": 0.238,
+        "max_copied_run": 3
+      },
+      "top10_rank": 9
+    },
+    {
+      "id": "2114503579696271512",
+      "name": "YouArt",
+      "display_name": "YouArt",
+      "handle": "@YouArtStudio",
+      "views": 823,
+      "views_label": "823",
+      "url": "https://x.com/YouArtStudio/status/2114503579696271512",
+      "created_at": "2026-10-25T23:45:13.000Z",
+      "text": "Seedance 2.5 vs Kling 4.0. Which one wins ?",
+      "original_en": "Seedance 2.5 vs Kling 4.0. Which one wins ?",
+      "hook": "Seedance 2.5 vs Kling 4.0 head-to-head, framed as a question.",
+      "video_tip": "Same prompt, two models, split screen, 10-15s, and let the replies vote.",
+      "followers": 6359,
+      "likes": 22,
+      "board_rank": 10,
+      "draft_en": "Seedance 2.5 or Kling 4.0?\n\nMy honest answer after testing both: it depends on the shot. Fast action and camera moves go one way, faces and acting go the other.\n\nPost your split screen tests below, I want to see what you are getting.",
+      "draft_keywords": [
+        "Seedance 2.5",
+        "Kling 4.0"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.0,
+        "word_overlap": 0.182,
+        "max_copied_run": 2
+      },
+      "top10_rank": 10
+    },
+    {
+      "id": "2114253125779329503",
+      "name": "Machine Learning FLX",
+      "display_name": "Machine Learning FLX",
+      "handle": "@machinelearnflx",
+      "views": 644,
+      "views_label": "644",
+      "url": "https://x.com/machinelearnflx/status/2114253125779329503",
+      "created_at": "2026-10-25T07:10:00.000Z",
+      "text": "Take a look at AI Video Generation Masterclass: Runway, Sora, Kling &amp; Veo. Practice seamless looping with OpenAI Sora. #AD #AIVideo",
+      "original_en": "Take a look at AI Video Generation Masterclass: Runway, Sora, Kling &amp; Veo. Practice seamless looping with OpenAI Sora. #AD #AIVideo",
+      "hook": "Ad for a masterclass on Runway, Sora, Kling and Veo, with a seamless-loop angle.",
+      "video_tip": "Show a perfect 5s seamless loop and reveal the cut point; loops rewatch well.",
+      "followers": 170770,
+      "likes": 0,
+      "board_rank": 11
+    },
+    {
+      "id": "2114328531559972974",
+      "name": "The SI Maximalist",
+      "display_name": "The SI Maximalist",
+      "handle": "@thesimaximalist",
+      "views": 556,
+      "views_label": "556",
+      "url": "https://x.com/thesimaximalist/status/2114328531559972974",
+      "created_at": "2026-10-25T12:09:38.000Z",
+      "text": "I thought Claude Code was addictive last year. I use Grok Imagine even more.\n\nUltra-photorealistic video. Volumetric lighting. First-person gryphon flights through Stormwind. Cities on Mars. Optimus with a record deal.\n\n“One more prompt.” I’m actually addicted. 😂 @grok @imagine",
+      "original_en": "I thought Claude Code was addictive last year. I use Grok Imagine even more.\n\nUltra-photorealistic video. Volumetric lighting. First-person gryphon flights through Stormwind. Cities on Mars. Optimus with a record deal.\n\n“One more prompt.” I’m actually addicted. 😂 @grok @imagine",
+      "hook": "Creator says Grok Imagine is more addictive than Claude Code: gryphon flights, cities on Mars, 'one more prompt'.",
+      "video_tip": "Rapid-fire montage of 6-8 wildly different Grok Imagine clips, one per second, captioned 'one more prompt'.",
+      "followers": 8377,
+      "likes": 7,
+      "board_rank": 12
+    },
+    {
+      "id": "2114008496534409295",
+      "name": "emotional strikes anime",
+      "display_name": "emotional strikes anime",
+      "handle": "@c12346hn",
+      "views": 505,
+      "views_label": "505",
+      "url": "https://x.com/c12346hn/status/2114008496534409295",
+      "created_at": "2026-10-24T14:57:56.000Z",
+      "text": "🎬 AI VIDEO COMPANIES & CREATOR PARTNERSHIP TEAMS — LET'S TALK!\n\nI'm an independent AI filmmaker and anime creator with 24 completed long-form AI anime episodes across my original IP, The Kalthrax Chronicles.\n\nI'm actively building an ongoing anime franchise, not just standalone AI clips.\n\n🤝 Open to:\nAI Creator Partner Programs (CPP) | AI Video Creator Programs | Creator Recruitment | Brand Partnerships | AI Sponsorships | Paid Collaborations | AI Ambassador Programs | Creative Partnerships | AI Filmmaking Partnerships | Generative AI Partnerships | Video Generation Platform Collaborations\n\n🎥 AI Anime | AI Animation | AI Filmmaking | Long-Form AI Video | AI Storytelling | Generative Video | Text-to-Video | Image-to-Video | Cinematic AI | AI Video Production | Original IP | Indie Animation\n\nLooking to connect with AI video platforms interested in supporting ongoing, original productions.\n\n#AIVideo #AIFilmmaking #AIAnime #GenerativeAI #AICreator #CreatorPartnerships #CreatorProgram #CPP #BrandPartnerships #PaidCollaboration #AISponsorship #AIAnimation #TextToVideo #ImageToVideo #IndieAnimation #AIContentCreator #CreatorEconomy",
+      "original_en": "🎬 AI VIDEO COMPANIES & CREATOR PARTNERSHIP TEAMS — LET'S TALK!\n\nI'm an independent AI filmmaker and anime creator with 24 completed long-form AI anime episodes across my original IP, The Kalthrax Chronicles.\n\nI'm actively building an ongoing anime franchise, not just standalone AI clips.\n\n🤝 Open to:\nAI Creator Partner Programs (CPP) | AI Video Creator Programs | Creator Recruitment | Brand Partnerships | AI Sponsorships | Paid Collaborations | AI Ambassador Programs | Creative Partnerships | AI Filmmaking Partnerships | Generative AI Partnerships | Video Generation Platform Collaborations\n\n🎥 AI Anime | AI Animation | AI Filmmaking | Long-Form AI Video | AI Storytelling | Generative Video | Text-to-Video | Image-to-Video | Cinematic AI | AI Video Production | Original IP | Indie Animation\n\nLooking to connect with AI video platforms interested in supporting ongoing, original productions.\n\n#AIVideo #AIFilmmaking #AIAnime #GenerativeAI #AICreator #CreatorPartnerships #CreatorProgram #CPP #BrandPartnerships #PaidCollaboration #AISponsorship #AIAnimation #TextToVideo #ImageToVideo #IndieAnimation #AIContentCreator #CreatorEconomy",
+      "hook": "AI anime creator with 24 long-form episodes of an original IP pitching for creator programs and brand partnerships.",
+      "video_tip": "A 30s sizzle reel of your own series or IP with episode count on screen works better than a text pitch.",
+      "followers": 2967,
+      "likes": 13,
+      "board_rank": 13
+    },
+    {
+      "id": "2114075278876238279",
+      "name": "Emaan",
+      "display_name": "Emaan",
+      "handle": "@emaann28",
+      "views": 489,
+      "views_label": "489",
+      "url": "https://x.com/emaann28/status/2114075278876238279",
+      "created_at": "2026-10-24T19:23:18.000Z",
+      "text": "I think the TestDrive car just discovered it can FLY \n\nTried another image-to-video experiment with @Kling_ai and this little guy went from driving toward the camera to suddenly jumping into the air \n\nWhat I liked was how Kling kept the car's cute design and facial expression consistent while adding movement.\n\nOne thing I'd improve is the landing. The transition from jumping back to driving could feel smoother.\n\nStill, turning one static mascot image into a fun little animation in seconds is pretty impressive.\n\nNow I'm wondering what other ridiculous things I can make this car do.\n\nHere's the result",
+      "original_en": "I think the TestDrive car just discovered it can FLY \n\nTried another image-to-video experiment with @Kling_ai and this little guy went from driving toward the camera to suddenly jumping into the air \n\nWhat I liked was how Kling kept the car's cute design and facial expression consistent while adding movement.\n\nOne thing I'd improve is the landing. The transition from jumping back to driving could feel smoother.\n\nStill, turning one static mascot image into a fun little animation in seconds is pretty impressive.\n\nNow I'm wondering what other ridiculous things I can make this car do.\n\nHere's the result",
+      "hook": "Kling image-to-video test: a mascot car jumps into the air while keeping its design consistent; honest note that the landing could be smoother.",
+      "video_tip": "Animate a single mascot or character still doing something impossible, and say what failed; honest notes earn replies.",
+      "followers": 1768,
+      "likes": 20,
+      "board_rank": 14
+    },
+    {
+      "id": "2114512880582246503",
+      "name": "Spooky Key 🎃 🗝 🦊",
+      "display_name": "Spooky Key 🎃 🗝 🦊",
+      "handle": "@KeyTryer",
+      "views": 451,
+      "views_label": "451",
+      "url": "https://x.com/KeyTryer/status/2114512880582246503",
+      "created_at": "2026-10-26T00:22:11.000Z",
+      "text": "Grok Imagine is so butt now that Elon doing this is mostly bad PR for AI primarily because it's Grok Imagine.",
+      "original_en": "Grok Imagine is so butt now that Elon doing this is mostly bad PR for AI primarily because it's Grok Imagine.",
+      "hook": "Critical take: the Grok Imagine Odyssey is bad PR for AI because of the model's quality.",
+      "video_tip": "If you react, show your own Grok Imagine shot next to a frame from the episode and let the work argue.",
+      "followers": 3895,
+      "likes": 4,
+      "board_rank": 15
+    },
+    {
+      "id": "2114578977767432592",
+      "name": "Root",
+      "display_name": "Root",
+      "handle": "@r00t404t",
+      "views": 449,
+      "views_label": "449",
+      "url": "https://x.com/r00t404t/status/2114578977767432592",
+      "created_at": "2026-10-26T04:44:49.000Z",
+      "text": "When Christopher Nolan announced his adaptation of The Odyssey, Elon Musk criticized the film’s casting and promised to do it differently with AI.\n\nIn July, Musk made a bold claim: Grok Imagine would create a full-length, historically accurate adaptation of Homer’s epic by the",
+      "original_en": "When Christopher Nolan announced his adaptation of The Odyssey, Elon Musk criticized the film’s casting and promised to do it differently with AI.\n\nIn July, Musk made a bold claim: Grok Imagine would create a full-length, historically accurate adaptation of Homer’s epic by the",
+      "hook": "Context post on Musk's Grok Imagine Odyssey vs. Christopher Nolan's adaptation of The Odyssey.",
+      "video_tip": "A 20s 'myth in 5 shots' piece in the Odyssey theme rides the conversation without picking a side.",
+      "followers": 872,
+      "likes": 1,
+      "board_rank": 16
+    },
+    {
+      "id": "2114350555707670789",
+      "name": "Glenn Williams",
+      "display_name": "Glenn Williams",
+      "handle": "@GlennHasABeard",
+      "views": 367,
+      "views_label": "367",
+      "url": "https://x.com/GlennHasABeard/status/2114350555707670789",
+      "created_at": "2026-10-25T13:37:09.000Z",
+      "text": "Mr. Quarter put a 25% sticker on a cow. The cow did not take it well. All Kling 4.0 generations are 25% off on @runwayml until November 30.\n\nMade with Kling 4.0 through the Runway API.\n\nGLENN25 = 25% off any Runway plan (affiliate, I earn commission).",
+      "original_en": "Mr. Quarter put a 25% sticker on a cow. The cow did not take it well. All Kling 4.0 generations are 25% off on @runwayml until November 30.\n\nMade with Kling 4.0 through the Runway API.\n\nGLENN25 = 25% off any Runway plan (affiliate, I earn commission).",
+      "hook": "Comedy short made with Kling 4.0 via the Runway API (a cow with a 25% sticker), tied to an affiliate promo.",
+      "video_tip": "Absurd one-joke 10s clip with a deadpan caption; the joke carries the tool mention.",
+      "followers": 6492,
+      "likes": 11,
+      "board_rank": 17
+    },
+    {
+      "id": "2114701792034332700",
+      "name": "Lucas Jnr",
+      "display_name": "Lucas Jnr",
+      "handle": "@Lucasxcode2",
+      "views": 317,
+      "views_label": "317",
+      "url": "https://x.com/Lucasxcode2/status/2114701792034332700",
+      "created_at": "2026-10-26T12:52:51.000Z",
+      "text": "Major AI Video Generation Tools\n\nGoogle Flow\nGoogle Veo\nHiggsfield AI\nKling AI\nRunway\nSora",
+      "original_en": "Major AI Video Generation Tools\n\nGoogle Flow\nGoogle Veo\nHiggsfield AI\nKling AI\nRunway\nSora",
+      "hook": "Simple list of major AI video generators: Google Flow, Veo, Higgsfield, Kling, Runway, Sora.",
+      "video_tip": "Make it visual: one 2s clip per tool in a fast montage with the name on screen.",
+      "followers": 2745,
+      "likes": 16,
+      "board_rank": 18
+    },
+    {
+      "id": "2114609095613600140",
+      "name": "Elena",
+      "display_name": "Elena",
+      "handle": "@PandaChique",
+      "views": 300,
+      "views_label": "300",
+      "url": "https://x.com/PandaChique/status/2114609095613600140",
+      "created_at": "2026-10-26T06:44:30.000Z",
+      "text": "Good morning! Have a good day! \n\nAnimation: image to video @Kling_ai 4.0",
+      "original_en": "Good morning! Have a good day! \n\nAnimation: image to video @Kling_ai 4.0",
+      "hook": "Good-morning post with a Kling 4.0 image-to-video animation.",
+      "video_tip": "Daily greeting clip is an easy habit post; keep it 5-8s with one strong motion.",
+      "followers": 3120,
+      "likes": 19,
+      "board_rank": 19
+    },
+    {
+      "id": "2114134769005158792",
+      "name": "john downs",
+      "display_name": "john downs",
+      "handle": "@jdownsa1",
+      "views": 289,
+      "views_label": "289",
+      "url": "https://x.com/jdownsa1/status/2114134769005158792",
+      "created_at": "2026-10-24T23:19:42.000Z",
+      "text": "Been putting Grok Imagine through its paces at Graf-A-Cools Studios.\n\nExperimenting with AI filmmaking, character performance, voice, and lip sync. The results are getting interesting!\n\nMade with Grok Imagine. 🎬\n\n@elonmusk @grok\n\nAI-generated parody.",
+      "original_en": "Been putting Grok Imagine through its paces at Graf-A-Cools Studios.\n\nExperimenting with AI filmmaking, character performance, voice, and lip sync. The results are getting interesting!\n\nMade with Grok Imagine. 🎬\n\n@elonmusk @grok\n\nAI-generated parody.",
+      "hook": "Grok Imagine tests on character performance, voice and lip sync, labeled AI parody.",
+      "video_tip": "Show a 15s lip-sync test with the raw take and the final take back to back.",
+      "followers": 49,
+      "likes": 7,
+      "board_rank": 20
+    }
+  ],
   "patterns": [
-    "example-pattern"
+    "Two-word caption + long video (Gossip_Goblin 'AI Psychosis', 36K)",
+    "Series parody anime: 'Gintama-inspired retro AI anime' with full tool credits (469.7K)",
+    "Tool-stack credits in caption: refs / prompting / animation",
+    "Case-study thread: views + money + shot list + prompts (19.9K)",
+    "Model vs model: Seedance 2.5 vs Kling 4.0",
+    "Image to video demos (Kling 4.0, Wan-2.2, ComfyUI)",
+    "Grok Imagine Odyssey debate",
+    "AI backlash / bans on generative AI content",
+    "Halloween dark-fantasy shorts",
+    "QT-your-art community prompts (low views on the watchlist)"
   ],
   "no_hits": [
     {
-      "handle": "@example_quiet",
-      "reason": "No unpinned day original reached 5,000 views; highest observed was 1,200 views.",
-      "max_views": 1200
+      "handle": "@pixelbouncer",
+      "reason": "15 original posts on 2026-10-25; none reached 5,000 views (best 793).",
+      "max_views": 793
+    },
+    {
+      "handle": "@andresvandal",
+      "reason": "1 original posts on 2026-10-25; none reached 5,000 views (best 3,559).",
+      "max_views": 3559
+    },
+    {
+      "handle": "@LudovicCreator",
+      "reason": "5 original posts on 2026-10-25; none reached 5,000 views (best 2,462).",
+      "max_views": 2462
     }
   ],
-  "virals_narrative": "Short outsider synthesis goes here.",
-  "narrative_synthesis": "Short outsider synthesis goes here.",
+  "virals_narrative": "The outsider chatter in the last ~48h has three threads. First, finished AI anime and story shorts beat everything else by a mile: a Gintama-style retro AI anime short credited to MidJourney + ChatGPT Image, Grok 4.7 and Seedance hit about 470K views, and a thread breaking down an AI bus-on-a-cliff timelapse (8M views, $8,000 in client orders) pulled about 20K. Second, the model race is the default conversation: Seedance 2.5 vs Kling 4.0 comparisons, a 4K Seedance 2.5 release, Kling 4.0 image-to-video tests and Wan-2.2 passing 8M downloads all show up, but plain comparison posts mostly stay under 1K views. Third, Musk's Grok Imagine Odyssey episode is drawing both fans and critics, and a gaming subreddit's ban on AI content (58K views) shows the backlash side gets reach too. Note: this is a search sample, and most outsider posts found were under 1K views, so only 8 of the 19 outsiders cleared 800 views.",
+  "narrative_synthesis": "The outsider chatter in the last ~48h has three threads. First, finished AI anime and story shorts beat everything else by a mile: a Gintama-style retro AI anime short credited to MidJourney + ChatGPT Image, Grok 4.7 and Seedance hit about 470K views, and a thread breaking down an AI bus-on-a-cliff timelapse (8M views, $8,000 in client orders) pulled about 20K. Second, the model race is the default conversation: Seedance 2.5 vs Kling 4.0 comparisons, a 4K Seedance 2.5 release, Kling 4.0 image-to-video tests and Wan-2.2 passing 8M downloads all show up, but plain comparison posts mostly stay under 1K views. Third, Musk's Grok Imagine Odyssey episode is drawing both fans and critics, and a gaming subreddit's ban on AI content (58K views) shows the backlash side gets reach too. Note: this is a search sample, and most outsider posts found were under 1K views, so only 8 of the 19 outsiders cleared 800 views.",
   "virals_window": "last ~48h",
   "virals_target": 20,
-  "hits_count": 0,
-  "outsiders_count": 0,
-  "previous_day": {
-    "date": "2026-09-14",
-    "hits_count": 0,
-    "total_views": 0,
-    "x_score": 0
-  },
+  "hits_count": 1,
+  "outsiders_count": 19,
   "leaderboards": {
-    "as_of": "2026-09-15",
+    "as_of": "2026-10-25",
     "tracking_start": "2026-09-13",
     "days_included": [
-      "2026-09-09",
-      "2026-09-10",
-      "2026-09-11",
-      "2026-09-12",
-      "2026-09-13",
-      "2026-09-14",
-      "2026-09-15"
+      "2026-10-19",
+      "2026-10-20",
+      "2026-10-21",
+      "2026-10-22",
+      "2026-10-23",
+      "2026-10-24",
+      "2026-10-25"
     ],
     "month_days_included": [
-      "2026-09-13",
-      "2026-09-14",
-      "2026-09-15"
+      "2026-10-25"
     ],
     "week": {
-      "label": "Rolling week · Sep 9–Sep 15",
+      "label": "Rolling week · Oct 19–Oct 25",
       "range": [
-        "2026-09-09",
-        "2026-09-15"
+        "2026-10-19",
+        "2026-10-25"
       ],
-      "entries": []
+      "entries": [
+        {
+          "handle": "@Gossip_Goblin",
+          "name": "Gossip Goblin",
+          "hits": 1,
+          "days": 1,
+          "views": 36174,
+          "best": 36174,
+          "best_url": "https://x.com/Gossip_Goblin/status/2114390625202344157"
+        }
+      ]
     },
     "month": {
-      "label": "September 2026 · from Sep 13",
+      "label": "October 2026 · from Oct 25",
       "range": [
-        "2026-09-13",
-        "2026-09-15"
+        "2026-10-25",
+        "2026-10-25"
       ],
-      "entries": []
+      "entries": [
+        {
+          "handle": "@Gossip_Goblin",
+          "name": "Gossip Goblin",
+          "hits": 1,
+          "days": 1,
+          "views": 36174,
+          "best": 36174,
+          "best_url": "https://x.com/Gossip_Goblin/status/2114390625202344157"
+        }
+      ]
     }
   },
   "board_features": {
@@ -94,7 +1201,1563 @@
   "ui": {
     "default_theme": "night"
   },
-  "day_roster": [],
-  "you_rank": null,
-  "trend_input_only_posts": []
+  "day_roster": [
+    {
+      "handle": "@Gossip_Goblin",
+      "name": "Gossip Goblin",
+      "views": 36174,
+      "total_views": 36174,
+      "hit": true,
+      "posts": 1
+    },
+    {
+      "handle": "@andresvandal",
+      "name": "Andres Vandal",
+      "views": 3559,
+      "total_views": 3559,
+      "hit": false,
+      "posts": 1
+    },
+    {
+      "handle": "@LudovicCreator",
+      "name": "LudovicCreator",
+      "views": 2462,
+      "total_views": 8811,
+      "hit": false,
+      "posts": 5
+    },
+    {
+      "handle": "@pixelbouncer",
+      "name": "Ƥ!ЖΣLƁΘUNCΣR",
+      "views": 793,
+      "total_views": 2980,
+      "hit": false,
+      "posts": 15
+    },
+    {
+      "handle": "@SMKP_Films",
+      "name": "Bogdan Orlic",
+      "views": 399,
+      "total_views": 1911,
+      "hit": false,
+      "posts": 9
+    }
+  ],
+  "you_rank": {
+    "best_views": 399,
+    "total_views": 1911,
+    "best_url": "https://x.com/SMKP_Films/status/2114552517778624935",
+    "rank_among_watchlist": 5,
+    "total_accounts": 5,
+    "vs_5k": "pending",
+    "vs_10k": "pending",
+    "posts": 9
+  },
+  "trend_input_only_posts": [],
+  "trend_input_only": [],
+  "drafts_top10": [
+    {
+      "rank": 1,
+      "id": "2114049297582874715",
+      "handle": "@botcreates",
+      "views": 469701,
+      "lane": "outsider"
+    },
+    {
+      "rank": 2,
+      "id": "2114553605416263750",
+      "handle": "@Pirat_Nation",
+      "views": 58236,
+      "lane": "outsider"
+    },
+    {
+      "rank": 3,
+      "id": "2114390625202344157",
+      "handle": "@Gossip_Goblin",
+      "views": 36174,
+      "lane": "watchlist"
+    },
+    {
+      "rank": 4,
+      "id": "2114390663609418112",
+      "handle": "@0xZasti",
+      "views": 19960,
+      "lane": "outsider"
+    },
+    {
+      "rank": 5,
+      "id": "2114419647009395018",
+      "handle": "@ozansihay",
+      "views": 8869,
+      "lane": "outsider"
+    },
+    {
+      "rank": 6,
+      "id": "2114276626909507846",
+      "handle": "@tec_safwan",
+      "views": 5231,
+      "lane": "outsider"
+    },
+    {
+      "rank": 7,
+      "id": "2114408402545971493",
+      "handle": "@HuggingModels",
+      "views": 5079,
+      "lane": "outsider"
+    },
+    {
+      "rank": 8,
+      "id": "2114544652380774785",
+      "handle": "@PowerTokensAI",
+      "views": 1114,
+      "lane": "outsider"
+    },
+    {
+      "rank": 9,
+      "id": "2114616198130487331",
+      "handle": "@anya_yfa7",
+      "views": 1021,
+      "lane": "outsider"
+    },
+    {
+      "rank": 10,
+      "id": "2114503579696271512",
+      "handle": "@YouArtStudio",
+      "views": 823,
+      "lane": "outsider"
+    }
+  ],
+  "trend_keywords": {
+    "date": "2026-10-25",
+    "window": "day D board posts + last-24h posts >= min_views + outsiders + trend-input accounts + pattern brief",
+    "method": "sum(log10 views) over distinct posts x author spread x phrase length x entity/brief bonus; >=2 authors",
+    "keywords": [
+      {
+        "keyword": "video",
+        "rank": 1,
+        "score": 187.4,
+        "posts": 10,
+        "authors": 10
+      },
+      {
+        "keyword": "Kling",
+        "rank": 2,
+        "score": 180.7,
+        "posts": 9,
+        "authors": 9
+      },
+      {
+        "keyword": "Grok Imagine",
+        "rank": 3,
+        "score": 82.6,
+        "posts": 5,
+        "authors": 5
+      },
+      {
+        "keyword": "Kling 4.0",
+        "rank": 4,
+        "score": 56.1,
+        "posts": 4,
+        "authors": 4
+      },
+      {
+        "keyword": "Seedance",
+        "rank": 5,
+        "score": 52.2,
+        "posts": 4,
+        "authors": 4
+      },
+      {
+        "keyword": "Animation",
+        "rank": 6,
+        "score": 48.9,
+        "posts": 4,
+        "authors": 4
+      },
+      {
+        "keyword": "AI Video",
+        "rank": 7,
+        "score": 40.0,
+        "posts": 4,
+        "authors": 4
+      },
+      {
+        "keyword": "AI-generated",
+        "rank": 8,
+        "score": 38.7,
+        "posts": 4,
+        "authors": 4
+      },
+      {
+        "keyword": "Runway",
+        "rank": 9,
+        "score": 34.1,
+        "posts": 4,
+        "authors": 4
+      },
+      {
+        "keyword": "ChatGPT",
+        "rank": 10,
+        "score": 29.1,
+        "posts": 3,
+        "authors": 3
+      },
+      {
+        "keyword": "Kling ai",
+        "rank": 11,
+        "score": 24.9,
+        "posts": 3,
+        "authors": 3
+      },
+      {
+        "keyword": "AI anime",
+        "rank": 12,
+        "score": 24.7,
+        "posts": 2,
+        "authors": 2
+      },
+      {
+        "keyword": "Claude",
+        "rank": 13,
+        "score": 23.4,
+        "posts": 3,
+        "authors": 3
+      },
+      {
+        "keyword": "generative AI",
+        "rank": 14,
+        "score": 22.1,
+        "posts": 2,
+        "authors": 2
+      },
+      {
+        "keyword": "Veo",
+        "rank": 15,
+        "score": 21.9,
+        "posts": 3,
+        "authors": 3
+      },
+      {
+        "keyword": "Seedance 2.5",
+        "rank": 16,
+        "score": 19.8,
+        "posts": 2,
+        "authors": 2
+      },
+      {
+        "keyword": "AIVideo",
+        "rank": 17,
+        "score": 19.2,
+        "posts": 3,
+        "authors": 3
+      },
+      {
+        "keyword": "MidJourney",
+        "rank": 18,
+        "score": 16.8,
+        "posts": 2,
+        "authors": 2
+      },
+      {
+        "keyword": "AI Video Generation",
+        "rank": 19,
+        "score": 16.2,
+        "posts": 2,
+        "authors": 2
+      },
+      {
+        "keyword": "Gintama-inspired retro AI",
+        "rank": 20,
+        "score": 14.7,
+        "posts": 1,
+        "authors": 1
+      },
+      {
+        "keyword": "retro AI anime",
+        "rank": 21,
+        "score": 14.7,
+        "posts": 1,
+        "authors": 1
+      },
+      {
+        "keyword": "AIAnime",
+        "rank": 22,
+        "score": 14.6,
+        "posts": 2,
+        "authors": 2
+      },
+      {
+        "keyword": "Runway Sora",
+        "rank": 23,
+        "score": 13.2,
+        "posts": 2,
+        "authors": 2
+      },
+      {
+        "keyword": "AI Filmmaking",
+        "rank": 24,
+        "score": 13.2,
+        "posts": 2,
+        "authors": 2
+      },
+      {
+        "keyword": "video models",
+        "rank": 25,
+        "score": 12.2,
+        "posts": 2,
+        "authors": 2
+      },
+      {
+        "keyword": "Elon",
+        "rank": 26,
+        "score": 10.1,
+        "posts": 2,
+        "authors": 2
+      },
+      {
+        "keyword": "AI Psychosis",
+        "rank": 27,
+        "score": 9.6,
+        "posts": 1,
+        "authors": 1
+      }
+    ]
+  },
+  "trend_radar": {
+    "date": "2026-10-25",
+    "title": "Trends and post ideas",
+    "window": {
+      "end": "2026-10-26T10:41:00-04:00",
+      "label24": "25.10 10:41 - 26.10 10:41 UTC",
+      "label48": "24.10 10:41 - 26.10 10:41 UTC"
+    },
+    "corpus": {
+      "posts": 7,
+      "min_views": 5000,
+      "lanes": {
+        "watchlist": 1,
+        "outsider": 6,
+        "24h": 0,
+        "trend_input": 0
+      }
+    },
+    "summary": {
+      "top10_line": "TOP-10: 4/10 (40%) matched trends · coincidence/other 5, trend 4, visual 1",
+      "headline": "4 of 20 board hits (20%) matched 24-48 h trends. Median views: trend 39.1K vs non-trend 530 (mean 139.2K vs 3.4K). Watchlist: 0/1 on trend. 1 hits with video, median 36.2K vs - without.",
+      "takeaway": "Finished stories (AI anime, horror shorts, build timelapses) out-pulled model talk by a wide margin; compare models only inside a real scene.",
+      "stats": {
+        "all": {
+          "n": 20,
+          "trend_n": 4,
+          "trend_pct": 20,
+          "avg_trend": 139192,
+          "avg_other": 3363,
+          "median_trend": 39098,
+          "median_other": 530,
+          "verdicts": {
+            "trend": 4,
+            "visual": 1,
+            "author/audience": 0,
+            "coincidence/other": 15
+          }
+        },
+        "watchlist": {
+          "n": 1,
+          "trend_n": 0,
+          "trend_pct": 0,
+          "avg_trend": null,
+          "avg_other": 36174,
+          "median_trend": null,
+          "median_other": 36174,
+          "verdicts": {
+            "trend": 0,
+            "visual": 1,
+            "author/audience": 0,
+            "coincidence/other": 0
+          }
+        },
+        "outsiders": {
+          "n": 19,
+          "trend_n": 4,
+          "trend_pct": 21,
+          "avg_trend": 139192,
+          "avg_other": 1176,
+          "median_trend": 39098,
+          "median_other": 505,
+          "verdicts": {
+            "trend": 4,
+            "visual": 0,
+            "author/audience": 0,
+            "coincidence/other": 15
+          }
+        },
+        "top10": {
+          "n": 10,
+          "trend_n": 4,
+          "trend_pct": 40,
+          "avg_trend": 139192,
+          "avg_other": 8240,
+          "median_trend": 39098,
+          "median_other": 3096,
+          "verdicts": {
+            "trend": 4,
+            "visual": 1,
+            "author/audience": 0,
+            "coincidence/other": 5
+          }
+        },
+        "media": {
+          "video_n": 1,
+          "median_video": 36174,
+          "other_n": 0,
+          "median_other": null
+        }
+      }
+    },
+    "topics": [],
+    "ideas": [
+      {
+        "title": "Runway vs Seedance vs Kling, same prompt",
+        "topic": "Runway",
+        "keywords": [
+          "Runway",
+          "Seedance",
+          "Kling"
+        ],
+        "format": "video",
+        "visual_type": "video",
+        "visual": "Three-way split screen, same still and prompt, 8-10s each, scorecard overlay at the end.",
+        "angle": "One shot, three models, honest verdict per shot type.",
+        "hook_en": "Same prompt, three models. Runway, Seedance or Kling: which one would you ship?",
+        "why": "Runway and Seedance are the top 2 keywords in the X table over the last 24h (157,382 and 44,164 sample views).",
+        "x_keywords": [
+          "Runway",
+          "Seedance",
+          "Kling"
+        ],
+        "x_rank": 1,
+        "source": "x-keywords"
+      },
+      {
+        "title": "Retro anime fight scene with the stack in the caption",
+        "topic": "Seedance",
+        "keywords": [
+          "AI anime",
+          "Seedance"
+        ],
+        "format": "video",
+        "visual_type": "video",
+        "visual": "60-90s retro anime fight: 4-6 locked reference frames, each beat animated separately, end card listing the tools.",
+        "angle": "Series-vibe AI anime with an honest tool credit line.",
+        "hook_en": "I made a retro AI anime fight scene in one evening. Here is the full stack, Seedance did the motion.",
+        "why": "botcreates' Gintama-style AI anime short hit 469,701 views, the biggest post in this sample.",
+        "x_keywords": [
+          "Seedance"
+        ],
+        "x_rank": 2,
+        "source": "x-keywords"
+      },
+      {
+        "title": "A two-word-caption horror short",
+        "topic": "short film",
+        "keywords": [
+          "AI Psychosis",
+          "short film"
+        ],
+        "format": "video",
+        "visual_type": "video",
+        "visual": "60-120s psychological horror short; open on the strongest frame, no title card.",
+        "angle": "Let the video carry it, keep the caption to two words.",
+        "hook_en": "A short film with a two-word caption, in the spirit of AI Psychosis. No explanation, just watch.",
+        "why": "Gossip_Goblin's 'AI Psychosis' (two words plus a 2-minute video) was the only watchlist hit: 36,174 views.",
+        "x_keywords": [
+          "short film"
+        ],
+        "x_rank": 5,
+        "source": "x-keywords"
+      },
+      {
+        "title": "Impossible location build timelapse",
+        "topic": "Kling",
+        "keywords": [
+          "Kling"
+        ],
+        "format": "video",
+        "visual_type": "video",
+        "visual": "10-12 short image-to-video stages of a build in an impossible place, one faceless builder, payoff in the last shot.",
+        "angle": "A demo reel disguised as a satisfying timelapse.",
+        "hook_en": "Built a cabin on a floating rock with Kling, stage by stage. Watch to the last shot.",
+        "why": "0xZasti's breakdown of a bus-on-a-cliff build clip (claiming 8M views and $8,000 in orders) drew 19,960 views; Kling is rising in the X table (up x2.56).",
+        "x_keywords": [
+          "Kling"
+        ],
+        "x_rank": 6,
+        "source": "x-keywords"
+      },
+      {
+        "title": "AI-assisted vs AI-generated, shown not told",
+        "topic": "AI video",
+        "keywords": [
+          "generative AI",
+          "AI-generated",
+          "AI video"
+        ],
+        "format": "video",
+        "visual_type": "video",
+        "visual": "Same scene twice: raw AI-generated output, then the edited, directed version with sound design.",
+        "angle": "Answer the backlash with craft.",
+        "hook_en": "A gaming subreddit just banned generative AI content. Here is the difference between AI-generated and AI-directed AI video.",
+        "why": "Pirat_Nation's post about the ban reached 58,236 views.",
+        "x_keywords": [
+          "AI video"
+        ],
+        "x_rank": 11,
+        "source": "x-keywords"
+      },
+      {
+        "title": "Seedance 2.5 vs Kling 4.0 acting test",
+        "topic": "Seedance",
+        "keywords": [
+          "Seedance 2.5",
+          "Kling 4.0"
+        ],
+        "format": "video",
+        "visual_type": "video",
+        "visual": "Side-by-side close-up of a character delivering one emotional line, raw output, no edits.",
+        "angle": "Faces and acting, not just motion.",
+        "hook_en": "Everyone tests Seedance 2.5 vs Kling 4.0 on action. I tested them on acting.",
+        "why": "Seedance 2.5 vs Kling 4.0 comparisons came up in several outsider posts (ozansihay 8,869 views, YouArtStudio 823).",
+        "x_keywords": [],
+        "x_rank": null,
+        "source": "watchlist-virals"
+      }
+    ],
+    "articles": [
+      {
+        "title": "Why AI anime is winning on X right now",
+        "thesis": "Series-vibe AI anime with clear credits beats generic model demos by a wide margin.",
+        "outline": [
+          "The 469K-view example",
+          "Reference frames first",
+          "Beat-by-beat animation",
+          "Crediting the stack",
+          "What to try this week"
+        ],
+        "keywords": [
+          "AI anime",
+          "Seedance"
+        ],
+        "visual": "Cover: a frame grid from your own anime test; inline: the tool stack as a simple diagram.",
+        "why": "botcreates' AI anime short is the top post in the sample at 469,701 views.",
+        "x_keywords": [
+          "Seedance"
+        ]
+      },
+      {
+        "title": "Runway, Seedance, Kling: picking a model per shot",
+        "thesis": "There is no best model, only the best model for a shot type.",
+        "outline": [
+          "Action and camera",
+          "Faces and acting",
+          "Consistency across shots",
+          "Cost of retries",
+          "My shot-to-model cheat sheet"
+        ],
+        "keywords": [
+          "Runway",
+          "Seedance",
+          "Kling"
+        ],
+        "visual": "Cover: three-way split frame; inline: a cheat-sheet table image.",
+        "why": "Runway, Seedance and Kling are three of the top 6 keywords in the 24h X table.",
+        "x_keywords": [
+          "Runway",
+          "Seedance",
+          "Kling"
+        ]
+      }
+    ],
+    "why_hit": [
+      {
+        "id": "2114390625202344157",
+        "handle": "@Gossip_Goblin",
+        "lane": "watchlist",
+        "views": 36174,
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "followers": null,
+        "topic": null,
+        "self_quote": false,
+        "note": "followers: no data"
+      },
+      {
+        "id": "2114049297582874715",
+        "handle": "@botcreates",
+        "lane": "outsider",
+        "views": 469701,
+        "trend_match": 67,
+        "verdict": "trend",
+        "matched_keywords": [
+          "Seedance",
+          "ChatGPT",
+          "MidJourney"
+        ],
+        "media": "no data",
+        "followers": null,
+        "topic": null,
+        "self_quote": false,
+        "note": "media: no data, followers: no data"
+      },
+      {
+        "id": "2114553605416263750",
+        "handle": "@Pirat_Nation",
+        "lane": "outsider",
+        "views": 58236,
+        "trend_match": 58,
+        "verdict": "trend",
+        "matched_keywords": [
+          "video",
+          "AI-generated"
+        ],
+        "media": "no data",
+        "followers": null,
+        "topic": null,
+        "self_quote": false,
+        "note": "media: no data, followers: no data"
+      },
+      {
+        "id": "2114390663609418112",
+        "handle": "@0xZasti",
+        "lane": "outsider",
+        "views": 19960,
+        "trend_match": 89,
+        "verdict": "trend",
+        "matched_keywords": [
+          "video",
+          "Kling",
+          "AI-generated",
+          "ChatGPT",
+          "Claude",
+          "MidJourney"
+        ],
+        "media": "no data",
+        "followers": null,
+        "topic": null,
+        "self_quote": false,
+        "note": "media: no data, followers: no data"
+      },
+      {
+        "id": "2114419647009395018",
+        "handle": "@ozansihay",
+        "lane": "outsider",
+        "views": 8869,
+        "trend_match": 73,
+        "verdict": "trend",
+        "matched_keywords": [
+          "video",
+          "Kling",
+          "Seedance"
+        ],
+        "media": "no data",
+        "followers": null,
+        "topic": null,
+        "self_quote": false,
+        "note": "media: no data, followers: no data"
+      },
+      {
+        "id": "2114276626909507846",
+        "handle": "@tec_safwan",
+        "lane": "outsider",
+        "views": 5231,
+        "trend_match": 49,
+        "verdict": "coincidence/other",
+        "matched_keywords": [
+          "ChatGPT",
+          "Claude"
+        ],
+        "media": "no data",
+        "followers": null,
+        "topic": null,
+        "self_quote": false,
+        "note": "media: no data, followers: no data"
+      },
+      {
+        "id": "2114408402545971493",
+        "handle": "@HuggingModels",
+        "lane": "outsider",
+        "views": 5079,
+        "trend_match": 35,
+        "verdict": "coincidence/other",
+        "matched_keywords": [
+          "video"
+        ],
+        "media": "no data",
+        "followers": null,
+        "topic": null,
+        "self_quote": false,
+        "note": "media: no data, followers: no data"
+      },
+      {
+        "id": "2114544652380774785",
+        "handle": "@PowerTokensAI",
+        "lane": "outsider",
+        "views": 1114,
+        "trend_match": 0,
+        "verdict": "coincidence/other",
+        "matched_keywords": [],
+        "media": "no data",
+        "followers": null,
+        "topic": null,
+        "self_quote": false,
+        "note": "media: no data, followers: no data"
+      },
+      {
+        "id": "2114616198130487331",
+        "handle": "@anya_yfa7",
+        "lane": "outsider",
+        "views": 1021,
+        "trend_match": 0,
+        "verdict": "coincidence/other",
+        "matched_keywords": [],
+        "media": "no data",
+        "followers": null,
+        "topic": null,
+        "self_quote": false,
+        "note": "media: no data, followers: no data"
+      },
+      {
+        "id": "2114503579696271512",
+        "handle": "@YouArtStudio",
+        "lane": "outsider",
+        "views": 823,
+        "trend_match": 0,
+        "verdict": "coincidence/other",
+        "matched_keywords": [],
+        "media": "no data",
+        "followers": null,
+        "topic": null,
+        "self_quote": false,
+        "note": "media: no data, followers: no data"
+      },
+      {
+        "id": "2114253125779329503",
+        "handle": "@machinelearnflx",
+        "lane": "outsider",
+        "views": 644,
+        "trend_match": 0,
+        "verdict": "coincidence/other",
+        "matched_keywords": [],
+        "media": "no data",
+        "followers": null,
+        "topic": null,
+        "self_quote": false,
+        "note": "media: no data, followers: no data"
+      },
+      {
+        "id": "2114328531559972974",
+        "handle": "@thesimaximalist",
+        "lane": "outsider",
+        "views": 556,
+        "trend_match": 0,
+        "verdict": "coincidence/other",
+        "matched_keywords": [],
+        "media": "no data",
+        "followers": null,
+        "topic": null,
+        "self_quote": false,
+        "note": "media: no data, followers: no data"
+      },
+      {
+        "id": "2114008496534409295",
+        "handle": "@c12346hn",
+        "lane": "outsider",
+        "views": 505,
+        "trend_match": 0,
+        "verdict": "coincidence/other",
+        "matched_keywords": [],
+        "media": "no data",
+        "followers": null,
+        "topic": null,
+        "self_quote": false,
+        "note": "media: no data, followers: no data"
+      },
+      {
+        "id": "2114075278876238279",
+        "handle": "@emaann28",
+        "lane": "outsider",
+        "views": 489,
+        "trend_match": 0,
+        "verdict": "coincidence/other",
+        "matched_keywords": [],
+        "media": "no data",
+        "followers": null,
+        "topic": null,
+        "self_quote": false,
+        "note": "media: no data, followers: no data"
+      },
+      {
+        "id": "2114512880582246503",
+        "handle": "@KeyTryer",
+        "lane": "outsider",
+        "views": 451,
+        "trend_match": 0,
+        "verdict": "coincidence/other",
+        "matched_keywords": [],
+        "media": "no data",
+        "followers": null,
+        "topic": null,
+        "self_quote": false,
+        "note": "media: no data, followers: no data"
+      },
+      {
+        "id": "2114578977767432592",
+        "handle": "@r00t404t",
+        "lane": "outsider",
+        "views": 449,
+        "trend_match": 0,
+        "verdict": "coincidence/other",
+        "matched_keywords": [],
+        "media": "no data",
+        "followers": null,
+        "topic": null,
+        "self_quote": false,
+        "note": "media: no data, followers: no data"
+      },
+      {
+        "id": "2114350555707670789",
+        "handle": "@GlennHasABeard",
+        "lane": "outsider",
+        "views": 367,
+        "trend_match": 0,
+        "verdict": "coincidence/other",
+        "matched_keywords": [],
+        "media": "no data",
+        "followers": null,
+        "topic": null,
+        "self_quote": false,
+        "note": "media: no data, followers: no data"
+      },
+      {
+        "id": "2114701792034332700",
+        "handle": "@Lucasxcode2",
+        "lane": "outsider",
+        "views": 317,
+        "trend_match": 0,
+        "verdict": "coincidence/other",
+        "matched_keywords": [],
+        "media": "no data",
+        "followers": null,
+        "topic": null,
+        "self_quote": false,
+        "note": "media: no data, followers: no data"
+      },
+      {
+        "id": "2114609095613600140",
+        "handle": "@PandaChique",
+        "lane": "outsider",
+        "views": 300,
+        "trend_match": 0,
+        "verdict": "coincidence/other",
+        "matched_keywords": [],
+        "media": "no data",
+        "followers": null,
+        "topic": null,
+        "self_quote": false,
+        "note": "media: no data, followers: no data"
+      },
+      {
+        "id": "2114134769005158792",
+        "handle": "@jdownsa1",
+        "lane": "outsider",
+        "views": 289,
+        "trend_match": 0,
+        "verdict": "coincidence/other",
+        "matched_keywords": [],
+        "media": "no data",
+        "followers": null,
+        "topic": null,
+        "self_quote": false,
+        "note": "media: no data, followers: no data"
+      }
+    ],
+    "labels": {
+      "trend": "trend",
+      "visual": "visual",
+      "author": "author/audience",
+      "other": "coincidence/other",
+      "nontrend": "non-trend",
+      "self_quote": "self-quote",
+      "no_data": "no data"
+    },
+    "x_keywords": {
+      "fetched_at": "2026-10-26T14:41:00+00:00",
+      "window_start": "2026-10-24T14:41:00Z",
+      "calls": 32,
+      "method": "Read-only x MCP search_posts_all, 2 calls per keyword: last 24 h and previous 24 h (24-48 h ago); lang:en, no retweets/replies, sort=relevancy, up to 25 posts per window. This is a SAMPLE of top-relevance posts, not every post on X. Views = impression_count at fetch time. Rank = sum of sampled 24 h views; 48 h = both windows; trend = 24 h sum / previous 24 h sum (up >=1.3, down <=0.7). Fresh posts are still gaining views, so 'up' is understated. Top-post share > 70% means one viral post carries the keyword.",
+      "missing": [],
+      "sample": true,
+      "sample_size_per_call": 25,
+      "keywords": [
+        {
+          "keyword": "Runway",
+          "query": "\"Runway\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 25,
+            "total": 157382,
+            "median": 41,
+            "top": {
+              "views": 84409,
+              "url": "https://x.com/DefiantLs/status/2114515351371215257",
+              "handle": "@DefiantLs",
+              "text": "A Jet2 Boeing 737-800 slid off the runway while landing at Birmingham Airport. Why does the runway look like an actual r"
+            }
+          },
+          "prev24": {
+            "n": 25,
+            "total": 20863,
+            "median": 27,
+            "top": {
+              "views": 17251,
+              "url": "https://x.com/safashionweek/status/2114099696046084276",
+              "handle": "@safashionweek",
+              "text": "Before the runway, the dressing room. The @orlandopirates players getting ready backstage at SAFW AW27: final fittings, "
+            }
+          },
+          "w48": {
+            "n": 50,
+            "total": 178245,
+            "top": {
+              "views": 84409,
+              "url": "https://x.com/DefiantLs/status/2114515351371215257",
+              "handle": "@DefiantLs",
+              "text": "A Jet2 Boeing 737-800 slid off the runway while landing at Birmingham Airport. Why does the runway look like an actual r"
+            }
+          },
+          "change": 7.54,
+          "trend": "up",
+          "partial": false,
+          "top_share": 0.54,
+          "rank": 1
+        },
+        {
+          "keyword": "Seedance",
+          "query": "\"Seedance\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 25,
+            "total": 44164,
+            "median": 6,
+            "top": {
+              "views": 15417,
+              "url": "https://x.com/zainabkhan673/status/2114414944032821454",
+              "handle": "@zainabkhan673",
+              "text": "If Seedance has been on your “I should try that” list, here’s your excuse. Dreamina’s $0.29 partner offer is available t"
+            }
+          },
+          "prev24": {
+            "n": 25,
+            "total": 32360,
+            "median": 6,
+            "top": {
+              "views": 20344,
+              "url": "https://x.com/aimikoda/status/2114007429146964169",
+              "handle": "@aimikoda",
+              "text": "Seedance 2.5 + Claude Opus 5.5 The Gunslinger Tried out a Sandevistan effect with Seedance. Asked Opus to add some edits"
+            }
+          },
+          "w48": {
+            "n": 50,
+            "total": 76524,
+            "top": {
+              "views": 20344,
+              "url": "https://x.com/aimikoda/status/2114007429146964169",
+              "handle": "@aimikoda",
+              "text": "Seedance 2.5 + Claude Opus 5.5 The Gunslinger Tried out a Sandevistan effect with Seedance. Asked Opus to add some edits"
+            }
+          },
+          "change": 1.36,
+          "trend": "up",
+          "partial": false,
+          "top_share": 0.35,
+          "rank": 2
+        },
+        {
+          "keyword": "Higgsfield",
+          "query": "\"Higgsfield\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 25,
+            "total": 20077,
+            "median": 13,
+            "top": {
+              "views": 15806,
+              "url": "https://x.com/JonahBlake/status/2114507566005010768",
+              "handle": "@JonahBlake",
+              "text": "Companies like this will either have to copy the playbook of higgsfield or get acquired by higgsfield I think many YC fo"
+            }
+          },
+          "prev24": {
+            "n": 25,
+            "total": 90765,
+            "median": 193,
+            "top": {
+              "views": 49930,
+              "url": "https://x.com/shishirdotai/status/2114339266746888535",
+              "handle": "@shishirdotai",
+              "text": "Malfoid &amp; Harry 💚 | The Troll in the Dungeon Created on Higgsfield @higgsfield #malfoy #harrypotter #malfoid #animat"
+            }
+          },
+          "w48": {
+            "n": 50,
+            "total": 110842,
+            "top": {
+              "views": 49930,
+              "url": "https://x.com/shishirdotai/status/2114339266746888535",
+              "handle": "@shishirdotai",
+              "text": "Malfoid &amp; Harry 💚 | The Troll in the Dungeon Created on Higgsfield @higgsfield #malfoy #harrypotter #malfoid #animat"
+            }
+          },
+          "change": 0.22,
+          "trend": "down",
+          "partial": false,
+          "top_share": 0.79,
+          "rank": 3
+        },
+        {
+          "keyword": "Sora",
+          "query": "\"Sora\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 25,
+            "total": 19128,
+            "median": 33,
+            "top": {
+              "views": 11136,
+              "url": "https://x.com/SORALOVEBOT/status/2114519235347316964",
+              "handle": "@SORALOVEBOT",
+              "text": "Love how nobody is mentioning Sora here 😭😭😭 Sora is chopped as fuck theory https://t.co/ZG42d8Jbu1"
+            }
+          },
+          "prev24": {
+            "n": 25,
+            "total": 34516,
+            "median": 241,
+            "top": {
+              "views": 13641,
+              "url": "https://x.com/yenpress/status/2114348891940208719",
+              "handle": "@yenpress",
+              "text": "NEW SERIES ANNOUNCEMENT: Is the Hot-Voiced Streamer Into Me?! Sora Hoshino is a college student who dreams of meeting th"
+            }
+          },
+          "w48": {
+            "n": 50,
+            "total": 53644,
+            "top": {
+              "views": 13641,
+              "url": "https://x.com/yenpress/status/2114348891940208719",
+              "handle": "@yenpress",
+              "text": "NEW SERIES ANNOUNCEMENT: Is the Hot-Voiced Streamer Into Me?! Sora Hoshino is a college student who dreams of meeting th"
+            }
+          },
+          "change": 0.55,
+          "trend": "down",
+          "partial": false,
+          "top_share": 0.58,
+          "rank": 4
+        },
+        {
+          "keyword": "short film",
+          "query": "\"short film\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 25,
+            "total": 15046,
+            "median": 36,
+            "top": {
+              "views": 11862,
+              "url": "https://x.com/mustachecat212/status/2114582054679797937",
+              "handle": "@mustachecat212",
+              "text": "🐟Sound of the sea - Full animated short film🐟 Putting this up on twitter as well! This was a short film made made in thr"
+            }
+          },
+          "prev24": {
+            "n": 25,
+            "total": 22702,
+            "median": 39,
+            "top": {
+              "views": 13078,
+              "url": "https://x.com/afewsmalbeers/status/2114345058292154845",
+              "handle": "@afewsmalbeers",
+              "text": "The director is only 18 years old btw . Great short film https://t.co/tKIS9zdCzp"
+            }
+          },
+          "w48": {
+            "n": 50,
+            "total": 37748,
+            "top": {
+              "views": 13078,
+              "url": "https://x.com/afewsmalbeers/status/2114345058292154845",
+              "handle": "@afewsmalbeers",
+              "text": "The director is only 18 years old btw . Great short film https://t.co/tKIS9zdCzp"
+            }
+          },
+          "change": 0.66,
+          "trend": "down",
+          "partial": false,
+          "top_share": 0.79,
+          "rank": 5
+        },
+        {
+          "keyword": "Kling",
+          "query": "\"Kling\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 25,
+            "total": 10251,
+            "median": 27,
+            "top": {
+              "views": 8316,
+              "url": "https://x.com/johnmccoyx/status/2114466414551572626",
+              "handle": "@johnmccoyx",
+              "text": "neither of these girls exists 💀 left is Seedance 2.5 at $3.61 right is Kling 4 at $0.26 same real TikTok, same new face,"
+            }
+          },
+          "prev24": {
+            "n": 25,
+            "total": 3998,
+            "median": 44,
+            "top": {
+              "views": 1105,
+              "url": "https://x.com/sumelabs/status/2114212289880715656",
+              "handle": "@sumelabs",
+              "text": "Kling 4.0 &amp; Kling 4.0 omni is now available in Sume. at the original price @Kling_ai https://t.co/MPrNCHO1xf"
+            }
+          },
+          "w48": {
+            "n": 50,
+            "total": 14249,
+            "top": {
+              "views": 8316,
+              "url": "https://x.com/johnmccoyx/status/2114466414551572626",
+              "handle": "@johnmccoyx",
+              "text": "neither of these girls exists 💀 left is Seedance 2.5 at $3.61 right is Kling 4 at $0.26 same real TikTok, same new face,"
+            }
+          },
+          "change": 2.56,
+          "trend": "up",
+          "partial": false,
+          "top_share": 0.81,
+          "rank": 6
+        },
+        {
+          "keyword": "AI animation",
+          "query": "\"AI animation\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 25,
+            "total": 7483,
+            "median": 14,
+            "top": {
+              "views": 2277,
+              "url": "https://x.com/xmliisu/status/2114397147085017264",
+              "handle": "@xmliisu",
+              "text": "This AI animation just unlocked a whole new level of goosebumps. 🔥 https://t.co/5LL15qgae8"
+            }
+          },
+          "prev24": {
+            "n": 25,
+            "total": 123033,
+            "median": 14,
+            "top": {
+              "views": 61658,
+              "url": "https://x.com/Kubra_286/status/2114189043265347625",
+              "handle": "@Kubra_286",
+              "text": "This Ai animation is literally A masterpiece This made with seedance 2.5 https://t.co/2KCszVhWTI"
+            }
+          },
+          "w48": {
+            "n": 50,
+            "total": 130516,
+            "top": {
+              "views": 61658,
+              "url": "https://x.com/Kubra_286/status/2114189043265347625",
+              "handle": "@Kubra_286",
+              "text": "This Ai animation is literally A masterpiece This made with seedance 2.5 https://t.co/2KCszVhWTI"
+            }
+          },
+          "change": 0.06,
+          "trend": "down",
+          "partial": false,
+          "top_share": 0.3,
+          "rank": 7
+        },
+        {
+          "keyword": "ComfyUI",
+          "query": "\"ComfyUI\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 25,
+            "total": 5599,
+            "median": 30,
+            "top": {
+              "views": 2781,
+              "url": "https://x.com/NO8D_2026/status/2114402102537818620",
+              "handle": "@NO8D_2026",
+              "text": "New LoRA is ready #comfyui #Fibo2 #loras #A2R https://t.co/bpBiZIjd9C"
+            }
+          },
+          "prev24": {
+            "n": 25,
+            "total": 95902,
+            "median": 100,
+            "top": {
+              "views": 88737,
+              "url": "https://x.com/TheRoyalSkies/status/2114224845290398132",
+              "handle": "@TheRoyalSkies",
+              "text": "Here's the smoothest Free, Local, and Uncensored character workflow I found with Krita &amp; ComfyUI ~ #ComfyUI #AIArt #"
+            }
+          },
+          "w48": {
+            "n": 50,
+            "total": 101501,
+            "top": {
+              "views": 88737,
+              "url": "https://x.com/TheRoyalSkies/status/2114224845290398132",
+              "handle": "@TheRoyalSkies",
+              "text": "Here's the smoothest Free, Local, and Uncensored character workflow I found with Krita &amp; ComfyUI ~ #ComfyUI #AIArt #"
+            }
+          },
+          "change": 0.06,
+          "trend": "down",
+          "partial": false,
+          "top_share": 0.5,
+          "rank": 8
+        },
+        {
+          "keyword": "text to video",
+          "query": "\"text to video\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 25,
+            "total": 4463,
+            "median": 5,
+            "top": {
+              "views": 3719,
+              "url": "https://x.com/ZenMuxAI/status/2114596443365462207",
+              "handle": "@ZenMuxAI",
+              "text": "🚀 MiniMax H3 Highspeed &amp; H3 Lite are now live on ZenMux! Two new options for your video workflow: 🎬 H3 Highspeed — S"
+            }
+          },
+          "prev24": {
+            "n": 25,
+            "total": 1080,
+            "median": 6,
+            "top": {
+              "views": 414,
+              "url": "https://x.com/WrongNebula/status/2114177405954793487",
+              "handle": "@WrongNebula",
+              "text": "There is an easy way to vibe code games that sells 💵💰 Ask a text to video model to produce a few seconds of gameplay of "
+            }
+          },
+          "w48": {
+            "n": 50,
+            "total": 5543,
+            "top": {
+              "views": 3719,
+              "url": "https://x.com/ZenMuxAI/status/2114596443365462207",
+              "handle": "@ZenMuxAI",
+              "text": "🚀 MiniMax H3 Highspeed &amp; H3 Lite are now live on ZenMux! Two new options for your video workflow: 🎬 H3 Highspeed — S"
+            }
+          },
+          "change": 4.13,
+          "trend": "up",
+          "partial": false,
+          "top_share": 0.83,
+          "rank": 9
+        },
+        {
+          "keyword": "image to video",
+          "query": "\"image to video\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 25,
+            "total": 3759,
+            "median": 7,
+            "top": {
+              "views": 1654,
+              "url": "https://x.com/liu8in/status/2114443991093744002",
+              "handle": "@liu8in",
+              "text": "image-to-video taken to a new level using @HyperFrames_ 👏👏👏 https://t.co/DukngaAb04"
+            }
+          },
+          "prev24": {
+            "n": 25,
+            "total": 86460,
+            "median": 85,
+            "top": {
+              "views": 53668,
+              "url": "https://x.com/rexsooo/status/2114287563057897870",
+              "handle": "@rexsooo",
+              "text": "YOU CAN CREATE 18+ ADULT CONTENT USING AI ON THIS SITE https://t.co/26xtH3vFOp gives you access to: • NSFW image models "
+            }
+          },
+          "w48": {
+            "n": 50,
+            "total": 90219,
+            "top": {
+              "views": 53668,
+              "url": "https://x.com/rexsooo/status/2114287563057897870",
+              "handle": "@rexsooo",
+              "text": "YOU CAN CREATE 18+ ADULT CONTENT USING AI ON THIS SITE https://t.co/26xtH3vFOp gives you access to: • NSFW image models "
+            }
+          },
+          "change": 0.04,
+          "trend": "down",
+          "partial": false,
+          "top_share": 0.44,
+          "rank": 10
+        },
+        {
+          "keyword": "AI video",
+          "query": "\"AI video\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 25,
+            "total": 3371,
+            "median": 20,
+            "top": {
+              "views": 912,
+              "url": "https://x.com/financial_index/status/2114562286602133807",
+              "handle": "@financial_index",
+              "text": "$NVDA is backing AI video startup Higgsfield. Everyone’s arguing about whether we need all this compute. AI video is one"
+            }
+          },
+          "prev24": {
+            "n": 25,
+            "total": 65338,
+            "median": 10,
+            "top": {
+              "views": 43331,
+              "url": "https://x.com/wallstengine/status/2114297852948091174",
+              "handle": "@wallstengine",
+              "text": "$NVDA INVESTS IN AI VIDEO STARTUP HIGGSFIELD Nvidia and TCV have joined an extension of Higgsfield's Series B funding ro"
+            }
+          },
+          "w48": {
+            "n": 50,
+            "total": 68709,
+            "top": {
+              "views": 43331,
+              "url": "https://x.com/wallstengine/status/2114297852948091174",
+              "handle": "@wallstengine",
+              "text": "$NVDA INVESTS IN AI VIDEO STARTUP HIGGSFIELD Nvidia and TCV have joined an extension of Higgsfield's Series B funding ro"
+            }
+          },
+          "change": 0.05,
+          "trend": "down",
+          "partial": false,
+          "top_share": 0.27,
+          "rank": 11
+        },
+        {
+          "keyword": "AI filmmaking",
+          "query": "\"AI filmmaking\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 25,
+            "total": 2904,
+            "median": 8,
+            "top": {
+              "views": 1112,
+              "url": "https://x.com/LeadHerLogic/status/2114713835407847579",
+              "handle": "@LeadHerLogic",
+              "text": "20. Google Flow 🔗 https://t.co/uU4fUpGWgE Explore Google's AI filmmaking tool for creating cinematic scenes and developi"
+            }
+          },
+          "prev24": {
+            "n": 25,
+            "total": 3447,
+            "median": 18,
+            "top": {
+              "views": 1181,
+              "url": "https://x.com/Aira368/status/2114339267195601107",
+              "handle": "@Aira368",
+              "text": "What happens when the creativity of theatre meets the limitless possibilities of AI filmmaking? 🎭🎬 BytePlus’s Next Frame"
+            }
+          },
+          "w48": {
+            "n": 50,
+            "total": 6351,
+            "top": {
+              "views": 1181,
+              "url": "https://x.com/Aira368/status/2114339267195601107",
+              "handle": "@Aira368",
+              "text": "What happens when the creativity of theatre meets the limitless possibilities of AI filmmaking? 🎭🎬 BytePlus’s Next Frame"
+            }
+          },
+          "change": 0.84,
+          "trend": "flat",
+          "partial": false,
+          "top_share": 0.38,
+          "rank": 12
+        },
+        {
+          "keyword": "Midjourney",
+          "query": "\"Midjourney\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 25,
+            "total": 2398,
+            "median": 15,
+            "top": {
+              "views": 969,
+              "url": "https://x.com/jamesyeung18/status/2114639314709782747",
+              "handle": "@jamesyeung18",
+              "text": "As you know, I am a die-hard Midjourney supporter. However they really need to find a way to sort out the limbs and huma"
+            }
+          },
+          "prev24": {
+            "n": 25,
+            "total": 7202,
+            "median": 54,
+            "top": {
+              "views": 3274,
+              "url": "https://x.com/TokenBlack31/status/2114065309099597996",
+              "handle": "@TokenBlack31",
+              "text": "#Midjourney #FantasyArt #DarkFantasy #wallpapers Fantasy Wallpaper Set https://t.co/Ql2LcLiFEJ"
+            }
+          },
+          "w48": {
+            "n": 50,
+            "total": 9600,
+            "top": {
+              "views": 3274,
+              "url": "https://x.com/TokenBlack31/status/2114065309099597996",
+              "handle": "@TokenBlack31",
+              "text": "#Midjourney #FantasyArt #DarkFantasy #wallpapers Fantasy Wallpaper Set https://t.co/Ql2LcLiFEJ"
+            }
+          },
+          "change": 0.33,
+          "trend": "down",
+          "partial": false,
+          "top_share": 0.4,
+          "rank": 13
+        },
+        {
+          "keyword": "Veo",
+          "query": "\"Veo\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 25,
+            "total": 2344,
+            "median": 28,
+            "top": {
+              "views": 713,
+              "url": "https://x.com/Carlukeroversfc/status/2114373668033991121",
+              "handle": "@Carlukeroversfc",
+              "text": "Glenvale v Carluke Rovers - WOSFL Third Division - 24th October 2026 Veo Highlights now available on YouTube - https://t"
+            }
+          },
+          "prev24": {
+            "n": 25,
+            "total": 56270,
+            "median": 29,
+            "top": {
+              "views": 54712,
+              "url": "https://x.com/GrilliotTodd/status/2114015306633081340",
+              "handle": "@GrilliotTodd",
+              "text": "Here's why ai video models like Sora or Veo can't animate pixel art - they understand motion, but they don't understand "
+            }
+          },
+          "w48": {
+            "n": 50,
+            "total": 58614,
+            "top": {
+              "views": 54712,
+              "url": "https://x.com/GrilliotTodd/status/2114015306633081340",
+              "handle": "@GrilliotTodd",
+              "text": "Here's why ai video models like Sora or Veo can't animate pixel art - they understand motion, but they don't understand "
+            }
+          },
+          "change": 0.04,
+          "trend": "down",
+          "partial": false,
+          "top_share": 0.3,
+          "rank": 14
+        },
+        {
+          "keyword": "anime",
+          "query": "\"anime\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 25,
+            "total": 2192,
+            "median": 12,
+            "top": {
+              "views": 935,
+              "url": "https://x.com/Stxnxrx/status/2114577208438333525",
+              "handle": "@Stxnxrx",
+              "text": "One dab and suddenly anime hits different 😶‍🌫️ Drop the best anime of all time 👇 #stoner #anime https://t.co/8wjzggPoga"
+            }
+          },
+          "prev24": {
+            "n": 25,
+            "total": 56093,
+            "median": 41,
+            "top": {
+              "views": 53280,
+              "url": "https://x.com/thatoneguy7560/status/2114332413228720632",
+              "handle": "@thatoneguy7560",
+              "text": "“why does this ecchi anime have better animation than my fav anime?!” the animation credits are right there. anime direc"
+            }
+          },
+          "w48": {
+            "n": 50,
+            "total": 58285,
+            "top": {
+              "views": 53280,
+              "url": "https://x.com/thatoneguy7560/status/2114332413228720632",
+              "handle": "@thatoneguy7560",
+              "text": "“why does this ecchi anime have better animation than my fav anime?!” the animation credits are right there. anime direc"
+            }
+          },
+          "change": 0.04,
+          "trend": "down",
+          "partial": false,
+          "top_share": 0.43,
+          "rank": 15
+        },
+        {
+          "keyword": "Grok Imagine",
+          "query": "\"Grok Imagine\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 24,
+            "total": 1601,
+            "median": 17,
+            "top": {
+              "views": 451,
+              "url": "https://x.com/KeyTryer/status/2114512880582246503",
+              "handle": "@KeyTryer",
+              "text": "Grok Imagine is so butt now that Elon doing this is mostly bad PR for AI primarily because it's Grok Imagine. https://t."
+            }
+          },
+          "prev24": {
+            "n": 24,
+            "total": 2508,
+            "median": 61,
+            "top": {
+              "views": 556,
+              "url": "https://x.com/thesimaximalist/status/2114328531559972974",
+              "handle": "@thesimaximalist",
+              "text": "I thought Claude Code was addictive last year. I use Grok Imagine even more. Ultra-photorealistic video. Volumetric ligh"
+            }
+          },
+          "w48": {
+            "n": 48,
+            "total": 4109,
+            "top": {
+              "views": 556,
+              "url": "https://x.com/thesimaximalist/status/2114328531559972974",
+              "handle": "@thesimaximalist",
+              "text": "I thought Claude Code was addictive last year. I use Grok Imagine even more. Ultra-photorealistic video. Volumetric ligh"
+            }
+          },
+          "change": 0.64,
+          "trend": "down",
+          "partial": false,
+          "top_share": 0.28,
+          "rank": 16
+        }
+      ]
+    },
+    "legend": "Trend match 0-100% = 1 - prod(1 - w) over matched 24 h keywords that another author also used in the 48 h window (w: rank 1-10 0.35, 11-25 0.22, 26-40 0.12, curated 0.20). Verdict: >= 50% -> trend; else video/image in the post data -> visual; else >= 100K followers (outsiders without follower data: >= 500K views, estimate) -> author/audience; else coincidence/other. Missing data shows as 'no data'. Heat = sum log10(views) of topic posts (24 h x1, 24-48 h x0.5), scaled to 100. Momentum = log-views last 24 h / previous 24 h. Trend-input-only accounts feed the corpus but are never shown as hits."
+  }
 }
