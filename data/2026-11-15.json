@@ -1,0 +1,3402 @@
+{
+  "title": "X Virality Score · 2026-11-15",
+  "brand_title": "Grok Bot X Virality Score",
+  "brand_handle": "@SMKP_Films",
+  "operator": {
+    "handle": "SMKP_Films",
+    "name": "Bogdan Orlic",
+    "profile_url": "https://x.com/SMKP_Films"
+  },
+  "timezone": "America/Toronto",
+  "date": "2026-11-15",
+  "updated": "2026-11-16T10:39:30-05:00",
+  "ui": {
+    "default_theme": "night"
+  },
+  "board_features": {
+    "count_up": true,
+    "live_pulse": true,
+    "theme_toggle": true,
+    "themes": [
+      "night",
+      "day"
+    ],
+    "grok_ambient": true,
+    "week_month_boards": true,
+    "day_roster_best_total": true,
+    "day_compare_chart": true,
+    "week_strip": true,
+    "no_hits_reasons": true,
+    "marker_class": "xvs-dash-2026",
+    "top10_drafts_v4": true,
+    "trend_keywords": true,
+    "trend_radar": true,
+    "x_keyword_table": true,
+    "experiment": true,
+    "self_quote_badge": true
+  },
+  "previous_day": {
+    "date": "2026-11-14",
+    "hits_count": 1,
+    "total_views": 14171,
+    "stars": 1,
+    "x_score": 12,
+    "top_hit": null
+  },
+  "hits": [
+    {
+      "id": "2122005491794722988",
+      "name": "Gossip Goblin",
+      "display_name": "Gossip Goblin",
+      "handle": "@Gossip_Goblin",
+      "views": 104950,
+      "views_label": "104,950",
+      "url": "https://x.com/Gossip_Goblin/status/2122005491794722988",
+      "created_at": "2026-11-15T16:35:08.000Z",
+      "posted_at": "2026-11-15T16:35:08.000Z",
+      "highlight": true,
+      "text": "Carnal Pursuits https://t.co/tOITOjrtb0",
+      "original_en": "Carnal Pursuits https://t.co/tOITOjrtb0",
+      "lang": "en",
+      "media": "video",
+      "likes": 2577,
+      "reposts": 210,
+      "bookmarks": 652,
+      "replies": 95,
+      "quotes": 21,
+      "followers_count": 124817,
+      "hook": "Two-word title card \"Carnal Pursuits\" over a surreal, uncanny AI short with a twist ending - no explanation, no tool list - 105K views, 2.6K likes, 652 bookmarks, 95 replies and 21 quotes (many reacting to the ending and the pandas).",
+      "video_tip": "Cut a 30-45s self-contained 40K vignette with a twist in the last 5 seconds (e.g. a Slaanesh cult's perfect feast revealed as something else), post it with only a 2-3 word title, and let the quotes explain it.",
+      "board_rank": 4,
+      "draft_en": "New video: Carnal Pursuits. Hit play.",
+      "draft_keywords": [
+        "video",
+        "Carnal Pursuits"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.0,
+        "word_overlap": 0.4,
+        "max_copied_run": 2
+      },
+      "top10_rank": 4,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "note": "",
+        "topic": "Bare-title shorts and trailers"
+      }
+    },
+    {
+      "id": "2121834058267156701",
+      "name": "Christopher Gwinn | Grindhouse Glitch",
+      "display_name": "Christopher Gwinn | Grindhouse Glitch",
+      "handle": "@ChrisGwinnLA",
+      "views": 23566,
+      "views_label": "23,566",
+      "url": "https://x.com/ChrisGwinnLA/status/2121834058267156701",
+      "created_at": "2026-11-15T05:13:55.000Z",
+      "posted_at": "2026-11-15T05:13:55.000Z",
+      "highlight": true,
+      "text": "The full 8.5 minute edit of part one of Treasure Of The Himalayas, a feature length, 1960s-style, Technicolor Sci-Fi Adventure AI film produced by @PeterHyoguchi and myself. \n\nWe are currently on the hunt for investors - hopefully we can make the entire film in 2027! \n\nMade with https://t.co/INQmWArbya",
+      "original_en": "The full 8.5 minute edit of part one of Treasure Of The Himalayas, a feature length, 1960s-style, Technicolor Sci-Fi Adventure AI film produced by @PeterHyoguchi and myself. \n\nWe are currently on the hunt for investors - hopefully we can make the entire film in 2027! \n\nMade with https://t.co/INQmWArbya",
+      "lang": "en",
+      "media": "video",
+      "likes": 695,
+      "reposts": 84,
+      "bookmarks": 371,
+      "replies": 76,
+      "quotes": 20,
+      "followers_count": 7041,
+      "hook": "Full-length release of a passion project: the 8.5-minute part one of \"Treasure Of The Himalayas\", a 1960s Technicolor sci-fi adventure AI film, plus an open call for investors to finish the feature in 2027 - 23.6K views, 371 bookmarks, 76 replies.",
+      "video_tip": "Post a longer cut (3-8 min) of your 80s-anime 40K episode natively on X, name the era-style and genre in line one, and add a clear next step (part two, a pitch, or a call for collaborators).",
+      "board_rank": 7,
+      "draft_en": "Treasure Of The Himalayas is a 1960s Technicolor sci-fi adventure built as an AI film, and its first part is now up as a complete 8.5 minute video, produced with @PeterHyoguchi.\n\nThe goal is a feature length release. The team is looking for investors and hopes to finish the whole thing in 2027.",
+      "draft_keywords": [
+        "AI film",
+        "video"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.02,
+        "word_overlap": 0.577,
+        "max_copied_run": 4
+      },
+      "top10_rank": 7,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "note": "",
+        "topic": "Bare-title shorts and trailers"
+      }
+    }
+  ],
+  "hits_count": 2,
+  "outsiders": [
+    {
+      "id": "2122183574308700468",
+      "name": "Kling AI",
+      "display_name": "Kling AI",
+      "handle": "@Kling_ai",
+      "views": 276734,
+      "views_label": "276,734",
+      "url": "https://x.com/Kling_ai/status/2122183574308700468",
+      "created_at": "2026-11-16T04:22:47.000Z",
+      "posted_at": "2026-11-16T04:22:47.000Z",
+      "text": "With adrenaline-pumping racing sequences and captivating performances, Redline, a Kling AI Original, brings the intensity of motorsport to the screen.\n\nGo behind the scenes with director Stephane Benini @BeniniStep9801 to discover how he used Kling 4.0 to bring this high-octane story to life, putting AI filmmaking to the test in one of its most challenging genres: car racing.",
+      "original_en": "With adrenaline-pumping racing sequences and captivating performances, Redline, a Kling AI Original, brings the intensity of motorsport to the screen.\n\nGo behind the scenes with director Stephane Benini @BeniniStep9801 to discover how he used Kling 4.0 to bring this high-octane story to life, putting AI filmmaking to the test in one of its most challenging genres: car racing.",
+      "lang": "en",
+      "hook": "Official studio release: 'Redline', a Kling AI Original racing film, framed as AI filmmaking tested in its hardest genre (car racing) with a director behind-the-scenes - 276.7K views, but only 510 likes (promoted reach).",
+      "video_tip": "Pick the hardest genre for AI (fast vehicles, crowds) and cut a 30s 40K chase - a Rhino or bike squadron run - and say why it's hard in line one.",
+      "media": "video",
+      "followers_count": 139057,
+      "likes": 510,
+      "reposts": 19,
+      "bookmarks": 62,
+      "replies": 35,
+      "quotes": 4,
+      "self_quote": false,
+      "board_rank": 1,
+      "draft_en": "Car racing might be the hardest genre to crack with AI filmmaking - and Kling just went straight at it.\n\nRedline, an AI Original from Kling, puts motorsport on screen with high-speed race sequences and strong performances. A behind-the-scenes video follows director Stephane Benini @BeniniStep9801 through how he built it with Kling 4.0.",
+      "draft_keywords": [
+        "AI filmmaking",
+        "Kling",
+        "AI Original",
+        "video"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.02,
+        "word_overlap": 0.536,
+        "max_copied_run": 4
+      },
+      "top10_rank": 1
+    },
+    {
+      "id": "2122043372047401368",
+      "name": "TUPACABRA",
+      "display_name": "TUPACABRA",
+      "handle": "@tupacabra",
+      "views": 134872,
+      "views_label": "134,872",
+      "url": "https://x.com/tupacabra/status/2122043372047401368",
+      "created_at": "2026-11-15T19:05:40.000Z",
+      "posted_at": "2026-11-15T19:05:40.000Z",
+      "text": "Hollywood can't be honest about history because they are funded by the people who are lying about it.",
+      "original_en": "Hollywood can't be honest about history because they are funded by the people who are lying about it.",
+      "lang": "en",
+      "hook": "The NUREMBERG trailer creator turns his attention into a one-line contrarian take on Hollywood and history - 134.9K views, 8.3K likes, 276 replies.",
+      "video_tip": "After a breakout, a one-line opinion from the maker travels on its own; pair yours with a single striking frame from your last episode.",
+      "media": "text",
+      "followers_count": 160801,
+      "likes": 8256,
+      "reposts": 687,
+      "bookmarks": 213,
+      "replies": 276,
+      "quotes": 48,
+      "self_quote": false,
+      "board_rank": 2,
+      "draft_en": "Studio money is the whole problem. Hollywood will never tell history straight while its backers are the ones distorting it.",
+      "draft_keywords": [
+        "Studio"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.0,
+        "word_overlap": 0.167,
+        "max_copied_run": 1
+      },
+      "top10_rank": 2
+    },
+    {
+      "id": "2122269057600885152",
+      "name": "TUPACABRA",
+      "display_name": "TUPACABRA",
+      "handle": "@tupacabra",
+      "views": 108564,
+      "views_label": "108,564",
+      "url": "https://x.com/tupacabra/status/2122269057600885152",
+      "created_at": "2026-11-16T10:02:27.000Z",
+      "posted_at": "2026-11-16T10:02:27.000Z",
+      "text": "4K NUREMBERG TRAILER https://t.co/D8vEjO8pKY",
+      "original_en": "4K NUREMBERG TRAILER https://t.co/D8vEjO8pKY",
+      "lang": "en",
+      "hook": "Bare-title re-release: '4K NUREMBERG TRAILER' - the week's AI-film event upgraded to 4K and re-posted - 108.6K views, 712 bookmarks.",
+      "video_tip": "Re-post your best 40K trailer as a 4K remaster with a bare title caption; the upgrade is the news.",
+      "media": "text",
+      "followers_count": 160801,
+      "likes": 2805,
+      "reposts": 280,
+      "bookmarks": 712,
+      "replies": 130,
+      "quotes": 34,
+      "self_quote": false,
+      "board_rank": 3,
+      "draft_en": "The 4K Nuremberg Trailer is out - the same AI film, now at full resolution. Watch it below.",
+      "draft_keywords": [
+        "4K Nuremberg Trailer",
+        "AI film"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.0,
+        "word_overlap": 0.333,
+        "max_copied_run": 3
+      },
+      "top10_rank": 3
+    },
+    {
+      "id": "2122067445523575180",
+      "name": "VORTEX: AI Bros & AI Arena, Peak AI Buzz",
+      "display_name": "VORTEX: AI Bros & AI Arena, Peak AI Buzz",
+      "handle": "@VORTEX_Promos",
+      "views": 80877,
+      "views_label": "80,877",
+      "url": "https://x.com/VORTEX_Promos/status/2122067445523575180",
+      "created_at": "2026-11-15T20:41:19.000Z",
+      "posted_at": "2026-11-15T20:41:19.000Z",
+      "text": "Who said AI games can't be this cozy!! a win in my book!\n@TesanaAI https://t.co/mBugMZbOT2 https://t.co/yEJSFXNvBP",
+      "original_en": "Who said AI games can't be this cozy!! a win in my book!\n@TesanaAI https://t.co/mBugMZbOT2 https://t.co/yEJSFXNvBP",
+      "lang": "en",
+      "hook": "Aggregator quote of a cozy AI game with a 'who said AI games can't be this cozy' frame - 80.9K views, 270 likes, 0 bookmarks.",
+      "video_tip": "A cozy, non-grimdark counter-programming clip (a quiet Imperial shrine, a servitor tending plants) can stand out against battle-heavy feeds.",
+      "media": "photo",
+      "followers_count": 125240,
+      "likes": 270,
+      "reposts": 0,
+      "bookmarks": 0,
+      "replies": 30,
+      "quotes": 0,
+      "self_quote": false,
+      "board_rank": 5,
+      "draft_en": "Step inside this cozy AI game and tell me AI games can't feel warm. Counting it as a win. @TesanaAI",
+      "draft_keywords": [
+        "Inside"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.0,
+        "word_overlap": 0.364,
+        "max_copied_run": 3
+      },
+      "top10_rank": 5
+    },
+    {
+      "id": "2122028933638156470",
+      "name": "el.cine",
+      "display_name": "el.cine",
+      "handle": "@EHuanglu",
+      "views": 24765,
+      "views_label": "24,765",
+      "url": "https://x.com/EHuanglu/status/2122028933638156470",
+      "created_at": "2026-11-15T18:08:17.000Z",
+      "posted_at": "2026-11-15T18:08:17.000Z",
+      "text": "AI is ready to make Ice Age 7 https://t.co/jNa7AHVWSe",
+      "original_en": "AI is ready to make Ice Age 7 https://t.co/jNa7AHVWSe",
+      "lang": "en",
+      "hook": "Five-word franchise-pitch caption 'AI is ready to make Ice Age 7' over a polished animated clip - 24.8K views.",
+      "video_tip": "Caption a short animated 40K clip as a franchise pitch ('AI is ready for a 40K animated series') and let the clip prove it.",
+      "media": "video",
+      "followers_count": 151886,
+      "likes": 220,
+      "reposts": 14,
+      "bookmarks": 59,
+      "replies": 19,
+      "quotes": 3,
+      "self_quote": false,
+      "board_rank": 6,
+      "draft_en": "Ice Age 7, made with AI? Going by this animation, it's ready.",
+      "draft_keywords": [
+        "animation"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.0,
+        "word_overlap": 0.75,
+        "max_copied_run": 3
+      },
+      "top10_rank": 6
+    },
+    {
+      "id": "2121896807215304968",
+      "name": "Natalia",
+      "display_name": "Natalia",
+      "handle": "@AIwithNatalia",
+      "views": 16175,
+      "views_label": "16,175",
+      "url": "https://x.com/AIwithNatalia/status/2121896807215304968",
+      "created_at": "2026-11-15T09:23:16.000Z",
+      "posted_at": "2026-11-15T09:23:16.000Z",
+      "text": "I just entered the @OiiOii_AI creative challenge with my short film MISSION AURORA!\n\nI brought my sci-fi idea to life using AI, creating a story about a robot discovering human emotions. It was such a fun experience seeing the whole concept turn into a cinematic short film! https://t.co/iiTnJJhNQj https://t.co/lA65XllpWh",
+      "original_en": "I just entered the @OiiOii_AI creative challenge with my short film MISSION AURORA!\n\nI brought my sci-fi idea to life using AI, creating a story about a robot discovering human emotions. It was such a fun experience seeing the whole concept turn into a cinematic short film! https://t.co/iiTnJJhNQj https://t.co/lA65XllpWh",
+      "lang": "en",
+      "hook": "Contest-entry sci-fi short (robot discovering human emotions) with a warm creator note - 16.2K views, 63 replies, 0 bookmarks (contest push).",
+      "video_tip": "Enter one open AI film challenge with a 40K story and post it as an entry with a one-line premise.",
+      "media": "video",
+      "followers_count": 12502,
+      "likes": 169,
+      "reposts": 4,
+      "bookmarks": 0,
+      "replies": 63,
+      "quotes": 0,
+      "self_quote": false,
+      "board_rank": 8,
+      "draft_en": "What happens when a machine starts to feel? MISSION AURORA, an entry in the @OiiOii_AI creative challenge, turns that sci-fi premise into a short AI film with a cinematic look. A lovely example of a single concept growing into something watchable.",
+      "draft_keywords": [
+        "AI film"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.051,
+        "word_overlap": 0.435,
+        "max_copied_run": 5
+      },
+      "top10_rank": 8
+    },
+    {
+      "id": "2122017193000878192",
+      "name": "Min Choi",
+      "display_name": "Min Choi",
+      "handle": "@minchoi",
+      "views": 15479,
+      "views_label": "15,479",
+      "url": "https://x.com/minchoi/status/2122017193000878192",
+      "created_at": "2026-11-15T17:21:38.000Z",
+      "posted_at": "2026-11-15T17:21:38.000Z",
+      "text": "5 years later... \n\n(wait for it) https://t.co/UaPrrCmsVt https://t.co/Ihrt7IXGpa",
+      "original_en": "5 years later... \n\n(wait for it) https://t.co/UaPrrCmsVt https://t.co/Ihrt7IXGpa",
+      "lang": "en",
+      "hook": "'5 years later... (wait for it)' quote-format comparison of old vs new AI video - 15.5K views.",
+      "video_tip": "Post a then-vs-now split: your earliest AI 40K clip next to a new Seedance 2.5 render, with 'wait for it' pacing.",
+      "media": "video",
+      "followers_count": 392600,
+      "likes": 56,
+      "reposts": 5,
+      "bookmarks": 6,
+      "replies": 8,
+      "quotes": 0,
+      "self_quote": false,
+      "board_rank": 9,
+      "draft_en": "Give it a second... 5 years later. Video below.",
+      "draft_keywords": [
+        "video"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.0,
+        "word_overlap": 0.4,
+        "max_copied_run": 3
+      },
+      "top10_rank": 9
+    },
+    {
+      "id": "2122041559889957177",
+      "name": "TechHalla",
+      "display_name": "TechHalla",
+      "handle": "@techhalla",
+      "views": 12238,
+      "views_label": "12,238",
+      "url": "https://x.com/techhalla/status/2122041559889957177",
+      "created_at": "2026-11-15T18:58:28.000Z",
+      "posted_at": "2026-11-15T18:58:28.000Z",
+      "text": "Futurama but it's 1971 🛸 https://t.co/mRaeaI7eG9",
+      "original_en": "Futurama but it's 1971 🛸 https://t.co/mRaeaI7eG9",
+      "lang": "en",
+      "hook": "Era-swap remix: 'Futurama but it's 1971' - a familiar show reimagined as a vintage cartoon, near-empty caption - 12.2K views, 435 likes.",
+      "video_tip": "Do '40K but it's 1985' - a short 80s-anime opening for a chapter you already love; you already own this look.",
+      "media": "video",
+      "followers_count": 103889,
+      "likes": 435,
+      "reposts": 45,
+      "bookmarks": 78,
+      "replies": 17,
+      "quotes": 2,
+      "self_quote": false,
+      "board_rank": 10,
+      "draft_en": "What if Futurama had been made in 1971? This animation answers it.",
+      "draft_keywords": [
+        "animation"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.0,
+        "word_overlap": 0.5,
+        "max_copied_run": 1
+      },
+      "top10_rank": 10
+    },
+    {
+      "id": "2121821003450081560",
+      "name": "Smiling Khan",
+      "display_name": "Smiling Khan",
+      "handle": "@AIwithkhan",
+      "views": 11389,
+      "views_label": "11,389",
+      "url": "https://x.com/AIwithkhan/status/2121821003450081560",
+      "created_at": "2026-11-15T04:22:03.000Z",
+      "posted_at": "2026-11-15T04:22:03.000Z",
+      "text": "Not a good Sunday beginning 😭 \n\nMade using Seedance 2.5 on @frameo_ai \n\n#MadeWithFrameo \n\nPrompt :\n\nCreate an ultra-realistic 30-second live-action Korean revenge-action scene inside a modern, crowded Seoul subway train during daytime. The scene should look like an actual big-budget Korean action movie, with natural handheld camera movement, realistic human interactions, detailed facial expressions, cinematic lighting, authentic subway ambience, and physically believable action choreography.\nThe footage must look like real live-action cinematography, not animation, a video game, or a staged comedy skit.\nMAIN CHARACTERS\nWoman: A stylish Korean woman in her mid-20s with a short black bob haircut, wearing a fitted pink crop top, high-waisted light-blue jeans, fashionable black boots, and a small black shoulder bag. She holds a takeaway iced coffee in one hand while gripping a vertical metal support pole with the other. She has a confident, carefree personality.\nMan: A Korean man in his late 20s with messy dark hair, wearing a black leather jacket, dark trousers, and fashionable black sunglasses. He behaves arrogantly and aggressively.\nACTION SEQUENCE — EXACTLY 30 SECONDS\n\n0–5 seconds: Establishing Scene\n\nEstablish a busy modern Seoul subway train moving through the city. Several passengers are standing and sitting, holding support poles and scrolling through their phones. The woman stands near the subway doors, casually enjoying her iced coffee through a straw while holding a vertical metal pole with her other hand. She looks relaxed and completely unaware of what is about to happen. The camera naturally tracks toward her.\n5–9 seconds: The Incident\nThe man standing beside her deliberately touches and brushes against her hand while she is holding the metal pole. She immediately looks at him with an irritated expression and slightly moves her hand away. He gives her an arrogant smirk, suddenly grabs her iced coffee, and aggressively throws the entire drink toward her. Coffee splashes across her face, hair, and pink crop top. The empty plastic cup drops onto the train floor. Nearby passengers turn around in shock.\n9–13 seconds: Her Reaction\nShe looks down at her coffee-stained outfit, then slowly turns toward the man. Her facial expression changes from disbelief to cold anger. The man laughs mockingly and adjusts his sunglasses, believing she will do nothing. She releases the support pole and takes a determined step toward him. Use a close-up to capture her intense expression.\n\n13–20 seconds: The man aggressively approaches and attempts to shove her. She grabs his leather jacket, sidesteps, uses his forward momentum, and forcefully pushes him toward the open subway doorway. The train is completely stationary at the platform. He stumbles backward and falls onto his hands and knees, catching himself against a pillar. His sunglasses slide across the platform. Show realistic physical resistance, natural body weight, and believable stunt choreography. No flying, spinning, exaggerated flips, or fake comedic falls. Film the entire confrontation in one continuous shot.\n20–24 seconds: Looking down at him, she says confidently: \"Next time, buy your own coffee!\" The subway warning chime sounds.\n24–30 seconds: The doors close. She brushes coffee off her top, adjusts her shoulder bag, grabs the pole, and smiles confidently as the train departs. The embarrassed man remains on the platform.\nSOUND DESIGN\nAuthentic subway ambience, coffee splashing, mocking laughter, realistic physical impacts, passenger gasps, footsteps, warning chime, and synchronized dialogue.\nVISUAL REQUIREMENTS\nUltra-photorealistic Korean action-comedy cinematography. Consistent characters and clothing, realistic body physics, natural facial expressions, detailed skin textures, and smooth camera movement. Exactly 30 seconds. No animation, gore, supernatural powers, cartoon physics, or exaggerated stunts.",
+      "original_en": "Not a good Sunday beginning 😭 \n\nMade using Seedance 2.5 on @frameo_ai \n\n#MadeWithFrameo \n\nPrompt :\n\nCreate an ultra-realistic 30-second live-action Korean revenge-action scene inside a modern, crowded Seoul subway train during daytime. The scene should look like an actual big-budget Korean action movie, with natural handheld camera movement, realistic human interactions, detailed facial expressions, cinematic lighting, authentic subway ambience, and physically believable action choreography.\nThe footage must look like real live-action cinematography, not animation, a video game, or a staged comedy skit.\nMAIN CHARACTERS\nWoman: A stylish Korean woman in her mid-20s with a short black bob haircut, wearing a fitted pink crop top, high-waisted light-blue jeans, fashionable black boots, and a small black shoulder bag. She holds a takeaway iced coffee in one hand while gripping a vertical metal support pole with the other. She has a confident, carefree personality.\nMan: A Korean man in his late 20s with messy dark hair, wearing a black leather jacket, dark trousers, and fashionable black sunglasses. He behaves arrogantly and aggressively.\nACTION SEQUENCE — EXACTLY 30 SECONDS\n\n0–5 seconds: Establishing Scene\n\nEstablish a busy modern Seoul subway train moving through the city. Several passengers are standing and sitting, holding support poles and scrolling through their phones. The woman stands near the subway doors, casually enjoying her iced coffee through a straw while holding a vertical metal pole with her other hand. She looks relaxed and completely unaware of what is about to happen. The camera naturally tracks toward her.\n5–9 seconds: The Incident\nThe man standing beside her deliberately touches and brushes against her hand while she is holding the metal pole. She immediately looks at him with an irritated expression and slightly moves her hand away. He gives her an arrogant smirk, suddenly grabs her iced coffee, and aggressively throws the entire drink toward her. Coffee splashes across her face, hair, and pink crop top. The empty plastic cup drops onto the train floor. Nearby passengers turn around in shock.\n9–13 seconds: Her Reaction\nShe looks down at her coffee-stained outfit, then slowly turns toward the man. Her facial expression changes from disbelief to cold anger. The man laughs mockingly and adjusts his sunglasses, believing she will do nothing. She releases the support pole and takes a determined step toward him. Use a close-up to capture her intense expression.\n\n13–20 seconds: The man aggressively approaches and attempts to shove her. She grabs his leather jacket, sidesteps, uses his forward momentum, and forcefully pushes him toward the open subway doorway. The train is completely stationary at the platform. He stumbles backward and falls onto his hands and knees, catching himself against a pillar. His sunglasses slide across the platform. Show realistic physical resistance, natural body weight, and believable stunt choreography. No flying, spinning, exaggerated flips, or fake comedic falls. Film the entire confrontation in one continuous shot.\n20–24 seconds: Looking down at him, she says confidently: \"Next time, buy your own coffee!\" The subway warning chime sounds.\n24–30 seconds: The doors close. She brushes coffee off her top, adjusts her shoulder bag, grabs the pole, and smiles confidently as the train departs. The embarrassed man remains on the platform.\nSOUND DESIGN\nAuthentic subway ambience, coffee splashing, mocking laughter, realistic physical impacts, passenger gasps, footsteps, warning chime, and synchronized dialogue.\nVISUAL REQUIREMENTS\nUltra-photorealistic Korean action-comedy cinematography. Consistent characters and clothing, realistic body physics, natural facial expressions, detailed skin textures, and smooth camera movement. Exactly 30 seconds. No animation, gore, supernatural powers, cartoon physics, or exaggerated stunts.",
+      "lang": "en",
+      "hook": "30s Seedance 2.5 Korean subway revenge scene with the full timed prompt (0-5s, 5-9s...) and a one-line emotional hook - 11.4K views, 51 replies.",
+      "video_tip": "Post a 30s single-scene Seedance 2.5 clip with the full second-by-second prompt pasted under it.",
+      "media": "video",
+      "followers_count": 15674,
+      "likes": 125,
+      "reposts": 9,
+      "bookmarks": 35,
+      "replies": 51,
+      "quotes": 0,
+      "self_quote": false,
+      "board_rank": 11
+    },
+    {
+      "id": "2121826097029591312",
+      "name": "𝗦𝗮𝗻𝗶𝗮",
+      "display_name": "𝗦𝗮𝗻𝗶𝗮",
+      "handle": "@saniaspeaks_",
+      "views": 10629,
+      "views_label": "10,629",
+      "url": "https://x.com/saniaspeaks_/status/2121826097029591312",
+      "created_at": "2026-11-15T04:42:17.000Z",
+      "posted_at": "2026-11-15T04:42:17.000Z",
+      "text": "A sunny stroll turns sweet when a surprise bird sends a strawberry cone tumbling and the two can't stop laughing.\n\nMade with seedance 2.5 via @CuddlerAI\n\n#Cuddler #CuddlerPartner \n\nPrompt \nCreate a 30-second beautiful hand-painted 2D animated romantic short film with a soft watercolor storybook aesthetic.\n\n**Character consistency:** A charming young man with messy black hair and round glasses, wearing a black suit, and a beautiful young woman with a short black bob haircut, wearing a flowing red dress. Keep their faces, hairstyles, outfits and body proportions exactly consistent throughout the entire video.\n\n**Scene 1 (0–4s): The Ice Cream Date**\nA beautiful sunny afternoon in a charming European-style street. The couple walks together past colorful little shops and flower-covered windows. They stop at a cute vintage ice cream shop.\n\n**Scene 2 (4–7s): Choosing Flavors**\nInside the shop, the girl excitedly points at strawberry ice cream while the boy chooses chocolate. The shopkeeper hands them two beautiful ice cream cones. They smile happily.\n\n**Scene 3 (7–11s): A Sweet Walk**\nThey walk along a beautiful flower-lined street, enjoying their ice cream. The girl tastes her strawberry ice cream and offers the boy a bite. He leans forward playfully and takes a small taste.\n\n**Scene 4 (11–15s): The Funny Accident**\nSuddenly, a little bird flies past and surprises the girl. Her ice cream slips from her hand and falls onto the pavement. She looks shocked for a moment. The boy looks at the fallen ice cream, then at her.\n\n**Scene 5 (15–19s): Laughter Together**\nThe girl starts laughing at the unexpected accident. The boy laughs with her, gently wiping a tiny ice cream spot from her cheek with a napkin. Their expressions are sweet and natural.\n\n**Scene 6 (19–23s): Sharing Is Caring**\nThe boy offers his chocolate ice cream to the girl. She takes a small bite, smiles warmly and playfully feeds him a bite of her imaginary strawberry flavor, making them both laugh.\n\n**Scene 7 (23–27s): A Little Romantic Moment**\nThey sit together on a wooden park bench beneath a beautiful cherry blossom tree. The boy gently holds her hand while colorful petals float around them. They exchange a loving smile.\n\n**Scene 8 (27–30s): Beautiful Ending**\nWide cinematic shot of the couple walking hand in hand through a charming flower-filled street in golden afternoon sunlight. The boy holds his remaining ice cream in his other hand. Cherry blossom petals drift across the screen as the scene fades out.\n\n**Animation and visual direction:** Exquisite hand-painted 2D animation, delicate watercolor backgrounds, soft pastel colors, beautiful romantic atmosphere, expressive facial animation, natural body movements, detailed environments, warm sunlight, gentle wind, flowing dress fabric, floating flower petals and smooth cinematic transitions.\n\n**Important consistency rules:** One continuous story with logical scene transitions. Same two characters, identical faces, hairstyles and outfits in every scene. Ice cream must remain in their hands until the accidental drop. Only the girl's strawberry ice cream falls; the boy keeps his chocolate cone. No disappearing objects, no extra characters, no random scene changes, no distorted hands, no face changes, no 3D or photorealistic rendering. Professional polished 2D animated short-film quality.",
+      "original_en": "A sunny stroll turns sweet when a surprise bird sends a strawberry cone tumbling and the two can't stop laughing.\n\nMade with seedance 2.5 via @CuddlerAI\n\n#Cuddler #CuddlerPartner \n\nPrompt \nCreate a 30-second beautiful hand-painted 2D animated romantic short film with a soft watercolor storybook aesthetic.\n\n**Character consistency:** A charming young man with messy black hair and round glasses, wearing a black suit, and a beautiful young woman with a short black bob haircut, wearing a flowing red dress. Keep their faces, hairstyles, outfits and body proportions exactly consistent throughout the entire video.\n\n**Scene 1 (0–4s): The Ice Cream Date**\nA beautiful sunny afternoon in a charming European-style street. The couple walks together past colorful little shops and flower-covered windows. They stop at a cute vintage ice cream shop.\n\n**Scene 2 (4–7s): Choosing Flavors**\nInside the shop, the girl excitedly points at strawberry ice cream while the boy chooses chocolate. The shopkeeper hands them two beautiful ice cream cones. They smile happily.\n\n**Scene 3 (7–11s): A Sweet Walk**\nThey walk along a beautiful flower-lined street, enjoying their ice cream. The girl tastes her strawberry ice cream and offers the boy a bite. He leans forward playfully and takes a small taste.\n\n**Scene 4 (11–15s): The Funny Accident**\nSuddenly, a little bird flies past and surprises the girl. Her ice cream slips from her hand and falls onto the pavement. She looks shocked for a moment. The boy looks at the fallen ice cream, then at her.\n\n**Scene 5 (15–19s): Laughter Together**\nThe girl starts laughing at the unexpected accident. The boy laughs with her, gently wiping a tiny ice cream spot from her cheek with a napkin. Their expressions are sweet and natural.\n\n**Scene 6 (19–23s): Sharing Is Caring**\nThe boy offers his chocolate ice cream to the girl. She takes a small bite, smiles warmly and playfully feeds him a bite of her imaginary strawberry flavor, making them both laugh.\n\n**Scene 7 (23–27s): A Little Romantic Moment**\nThey sit together on a wooden park bench beneath a beautiful cherry blossom tree. The boy gently holds her hand while colorful petals float around them. They exchange a loving smile.\n\n**Scene 8 (27–30s): Beautiful Ending**\nWide cinematic shot of the couple walking hand in hand through a charming flower-filled street in golden afternoon sunlight. The boy holds his remaining ice cream in his other hand. Cherry blossom petals drift across the screen as the scene fades out.\n\n**Animation and visual direction:** Exquisite hand-painted 2D animation, delicate watercolor backgrounds, soft pastel colors, beautiful romantic atmosphere, expressive facial animation, natural body movements, detailed environments, warm sunlight, gentle wind, flowing dress fabric, floating flower petals and smooth cinematic transitions.\n\n**Important consistency rules:** One continuous story with logical scene transitions. Same two characters, identical faces, hairstyles and outfits in every scene. Ice cream must remain in their hands until the accidental drop. Only the girl's strawberry ice cream falls; the boy keeps his chocolate cone. No disappearing objects, no extra characters, no random scene changes, no distorted hands, no face changes, no 3D or photorealistic rendering. Professional polished 2D animated short-film quality.",
+      "lang": "en",
+      "hook": "Hand-painted 2D romance short with scene-by-scene Seedance 2.5 prompt (partner post) - 10.6K views, 49 replies.",
+      "video_tip": "Share a watercolor-style 40K vignette with a scene-by-scene prompt and character consistency notes.",
+      "media": "video",
+      "followers_count": 16592,
+      "likes": 172,
+      "reposts": 5,
+      "bookmarks": 8,
+      "replies": 49,
+      "quotes": 0,
+      "self_quote": false,
+      "board_rank": 12
+    },
+    {
+      "id": "2122310961692569716",
+      "name": "TechHalla",
+      "display_name": "TechHalla",
+      "handle": "@techhalla",
+      "views": 7700,
+      "views_label": "7,700",
+      "url": "https://x.com/techhalla/status/2122310961692569716",
+      "created_at": "2026-11-16T12:48:58.000Z",
+      "posted_at": "2026-11-16T12:48:58.000Z",
+      "text": "Men in Black but it's 1977 👽 https://t.co/wbnylMQtYn",
+      "original_en": "Men in Black but it's 1977 👽 https://t.co/wbnylMQtYn",
+      "lang": "en",
+      "hook": "Second era-swap from the same creator: 'Men in Black but it's 1977' - 7.7K views within hours.",
+      "video_tip": "Series the format: one era-swap a day for a week builds an expectation loop.",
+      "media": "video",
+      "followers_count": 103889,
+      "likes": 286,
+      "reposts": 33,
+      "bookmarks": 46,
+      "replies": 7,
+      "quotes": 0,
+      "self_quote": false,
+      "board_rank": 13
+    },
+    {
+      "id": "2121817354279510226",
+      "name": "Sᴀɪʀᴀ",
+      "display_name": "Sᴀɪʀᴀ",
+      "handle": "@itsSaira_1",
+      "views": 6324,
+      "views_label": "6,324",
+      "url": "https://x.com/itsSaira_1/status/2121817354279510226",
+      "created_at": "2026-11-15T04:07:33.000Z",
+      "posted_at": "2026-11-15T04:07:33.000Z",
+      "text": "A moment of unexpected connection between two wild souls. ⚡\n\nMade with Seedance 2.5 \n\nPrompt:\n\nCreate a hyper-realistic cinematic 4K video in 16:9 aspect ratio, 24 FPS, featuring a beautiful female motorcycle rider on a winding coastal mountain highway.\n\nScene 1 (0–2 seconds): Begin with a wide cinematic rear tracking shot of a female rider wearing a red and black striped sweater and black pants, riding a powerful black sport motorcycle along a winding mountain coastal highway. Rocky cliffs, metal guardrails, ocean views and several vehicles are visible in the distance. Her long dark hair flows naturally in the wind.\n\nScene 2 (2–4 seconds): Transition into a dynamic low-angle tracking shot from behind and beside the motorcycle as she accelerates and leans into a sharp road curve. The red LED taillight glows brightly. Other motorcycles and cars travel along the highway. Realistic tire movement, natural road motion and cinematic motion blur.\n\nScene 3 (4–6 seconds): Cut to a roadside cinematic shot revealing a large, beautiful black panther standing beside the metal guardrail on the rocky roadside. The panther calmly watches the approaching motorcycles. Its muscular body, glossy black fur and realistic facial details are clearly visible.\n\nScene 4 (6–8 seconds): The female rider notices the panther, gradually slows down and carefully stops her black motorcycle beside it. She turns toward the animal with a surprised but gentle expression. Use a smooth medium-wide camera shot showing both the woman and the panther.\n\nScene 5 (8–10 seconds): The woman carefully leans toward the panther and slowly extends her right hand. The panther calmly raises one front paw and gently touches her fingers. Capture this emotional interaction with a cinematic close-up, showing realistic hand movement, detailed fur and natural animal behavior.\n\nScene 6 (10–12 seconds): Show an intimate close-up of the panther gently touching the woman's hand. She looks at the animal with amazement and affection. The panther slowly withdraws its paw and turns its head. Soft wind moves her long hair. Beautiful cinematic depth of field.\n\nScene 7 (12–15 seconds): Finish with a wide cinematic shot of the coastal highway. The woman returns to her motorcycle and rides away along the winding road while other motorcycles continue ahead. The black panther remains near the roadside. Camera smoothly follows the glowing red taillight as the motorcycle disappears into the scenic distance.\n\nVisual Style: Ultra-photorealistic, Hollywood-style cinematography, natural cloudy daylight, realistic physics, detailed textures, smooth camera transitions, cinematic color grading, professional action-film quality.\n\nCharacter Consistency: Maintain exactly the same female face, long dark hair, red and black striped sweater, black pants and black sport motorcycle throughout the entire video. Keep the same black panther with consistent body proportions and appearance in every scene.\n\nNegative Prompt: Cartoon, animation, CGI look, unrealistic anatomy, deformed hands, extra fingers, extra limbs, duplicate animals, changing faces, changing clothes, different motorcycles, flickering, unnatural movements, distorted objects, low resolution, excessive motion blur, inconsistent backgrounds.\n\n#AI #AiArt #VisualArt",
+      "original_en": "A moment of unexpected connection between two wild souls. ⚡\n\nMade with Seedance 2.5 \n\nPrompt:\n\nCreate a hyper-realistic cinematic 4K video in 16:9 aspect ratio, 24 FPS, featuring a beautiful female motorcycle rider on a winding coastal mountain highway.\n\nScene 1 (0–2 seconds): Begin with a wide cinematic rear tracking shot of a female rider wearing a red and black striped sweater and black pants, riding a powerful black sport motorcycle along a winding mountain coastal highway. Rocky cliffs, metal guardrails, ocean views and several vehicles are visible in the distance. Her long dark hair flows naturally in the wind.\n\nScene 2 (2–4 seconds): Transition into a dynamic low-angle tracking shot from behind and beside the motorcycle as she accelerates and leans into a sharp road curve. The red LED taillight glows brightly. Other motorcycles and cars travel along the highway. Realistic tire movement, natural road motion and cinematic motion blur.\n\nScene 3 (4–6 seconds): Cut to a roadside cinematic shot revealing a large, beautiful black panther standing beside the metal guardrail on the rocky roadside. The panther calmly watches the approaching motorcycles. Its muscular body, glossy black fur and realistic facial details are clearly visible.\n\nScene 4 (6–8 seconds): The female rider notices the panther, gradually slows down and carefully stops her black motorcycle beside it. She turns toward the animal with a surprised but gentle expression. Use a smooth medium-wide camera shot showing both the woman and the panther.\n\nScene 5 (8–10 seconds): The woman carefully leans toward the panther and slowly extends her right hand. The panther calmly raises one front paw and gently touches her fingers. Capture this emotional interaction with a cinematic close-up, showing realistic hand movement, detailed fur and natural animal behavior.\n\nScene 6 (10–12 seconds): Show an intimate close-up of the panther gently touching the woman's hand. She looks at the animal with amazement and affection. The panther slowly withdraws its paw and turns its head. Soft wind moves her long hair. Beautiful cinematic depth of field.\n\nScene 7 (12–15 seconds): Finish with a wide cinematic shot of the coastal highway. The woman returns to her motorcycle and rides away along the winding road while other motorcycles continue ahead. The black panther remains near the roadside. Camera smoothly follows the glowing red taillight as the motorcycle disappears into the scenic distance.\n\nVisual Style: Ultra-photorealistic, Hollywood-style cinematography, natural cloudy daylight, realistic physics, detailed textures, smooth camera transitions, cinematic color grading, professional action-film quality.\n\nCharacter Consistency: Maintain exactly the same female face, long dark hair, red and black striped sweater, black pants and black sport motorcycle throughout the entire video. Keep the same black panther with consistent body proportions and appearance in every scene.\n\nNegative Prompt: Cartoon, animation, CGI look, unrealistic anatomy, deformed hands, extra fingers, extra limbs, duplicate animals, changing faces, changing clothes, different motorcycles, flickering, unnatural movements, distorted objects, low resolution, excessive motion blur, inconsistent backgrounds.\n\n#AI #AiArt #VisualArt",
+      "lang": "en",
+      "hook": "Hyper-real Seedance 2.5 woman-and-panther motorcycle scene with full prompt and negative prompt - 6.3K views.",
+      "video_tip": "Include a negative prompt block with your clip; viewers bookmark full recipes.",
+      "media": "video",
+      "followers_count": 6763,
+      "likes": 345,
+      "reposts": 27,
+      "bookmarks": 116,
+      "replies": 45,
+      "quotes": 0,
+      "self_quote": false,
+      "board_rank": 14
+    },
+    {
+      "id": "2121793730600722521",
+      "name": "Zarnab Ai",
+      "display_name": "Zarnab Ai",
+      "handle": "@Zarnab_with_Ai",
+      "views": 3221,
+      "views_label": "3,221",
+      "url": "https://x.com/Zarnab_with_Ai/status/2121793730600722521",
+      "created_at": "2026-11-15T02:33:41.000Z",
+      "posted_at": "2026-11-15T02:33:41.000Z",
+      "text": "Made with seedance 2.5\n\nPrompt 👇 \nCreate a high-quality cinematic 3D animated family comedy short film in a beautiful Pixar-inspired style, with expressive characters, detailed facial animations, realistic lighting, smooth camera movements, and consistent character designs.\n\nScene 1 – Inside the Car:\nA beautiful young mother with long, curly brown hair, wearing a blue denim shirt, is driving a red family car. Her adorable little daughter, wearing a purple outfit with a purple bow in her hair, is sitting in the back seat, smiling and enjoying the ride. Show close-up shots of their happy expressions and a cinematic view through the car windows.\n\nScene 2 – Arriving Home:\nThe red car arrives near the family house. Transition smoothly to a warm, beautifully decorated living room with cozy lighting and Christmas decorations.\n\nScene 3 – Family Living Room:\nThe mother enters the living room with her little daughter. The father, a young man with curly dark hair and a beard, wearing a white button-up shirt and dark pants, is relaxing on the sofa watching television. The little girl happily approaches her father.\n\nScene 4 – Unexpected Comedy:\nThe father is enjoying a drink while relaxing on the sofa. Suddenly, a funny accident happens, spilling food and liquid all over his white shirt. His facial expression changes from relaxed happiness to complete shock and confusion.\n\nScene 5 – Funny Reaction:\nShow the father looking down at his messy shirt with wide eyes and an exaggerated shocked expression. The mother and daughter react with surprise. Use expressive cartoon facial animation and perfectly timed comedic reactions.\n\nScene 6 – Final Shot:\nThe father stands up, looking embarrassed and confused, while the mother and daughter watch him. End with a close-up of his funny facial expression.\n\nVisual Style: Premium Pixar-inspired 3D animation, adorable character designs, cinematic storytelling, detailed hair and clothing textures, warm interior lighting, realistic shadows, smooth character movements, expressive eyes, professional animation quality.\n\nImportant: Maintain consistent character faces, hairstyles, outfits, and proportions throughout every scene. Use cinematic camera angles, smooth transitions, natural body movements, and entertaining storytelling. Vertical 9:16 format, high resolution, no subtitles, no text, no watermark.",
+      "original_en": "Made with seedance 2.5\n\nPrompt 👇 \nCreate a high-quality cinematic 3D animated family comedy short film in a beautiful Pixar-inspired style, with expressive characters, detailed facial animations, realistic lighting, smooth camera movements, and consistent character designs.\n\nScene 1 – Inside the Car:\nA beautiful young mother with long, curly brown hair, wearing a blue denim shirt, is driving a red family car. Her adorable little daughter, wearing a purple outfit with a purple bow in her hair, is sitting in the back seat, smiling and enjoying the ride. Show close-up shots of their happy expressions and a cinematic view through the car windows.\n\nScene 2 – Arriving Home:\nThe red car arrives near the family house. Transition smoothly to a warm, beautifully decorated living room with cozy lighting and Christmas decorations.\n\nScene 3 – Family Living Room:\nThe mother enters the living room with her little daughter. The father, a young man with curly dark hair and a beard, wearing a white button-up shirt and dark pants, is relaxing on the sofa watching television. The little girl happily approaches her father.\n\nScene 4 – Unexpected Comedy:\nThe father is enjoying a drink while relaxing on the sofa. Suddenly, a funny accident happens, spilling food and liquid all over his white shirt. His facial expression changes from relaxed happiness to complete shock and confusion.\n\nScene 5 – Funny Reaction:\nShow the father looking down at his messy shirt with wide eyes and an exaggerated shocked expression. The mother and daughter react with surprise. Use expressive cartoon facial animation and perfectly timed comedic reactions.\n\nScene 6 – Final Shot:\nThe father stands up, looking embarrassed and confused, while the mother and daughter watch him. End with a close-up of his funny facial expression.\n\nVisual Style: Premium Pixar-inspired 3D animation, adorable character designs, cinematic storytelling, detailed hair and clothing textures, warm interior lighting, realistic shadows, smooth character movements, expressive eyes, professional animation quality.\n\nImportant: Maintain consistent character faces, hairstyles, outfits, and proportions throughout every scene. Use cinematic camera angles, smooth transitions, natural body movements, and entertaining storytelling. Vertical 9:16 format, high resolution, no subtitles, no text, no watermark.",
+      "lang": "en",
+      "hook": "3D family-comedy short 'Made with seedance 2.5' plus the full prompt - 3.2K views.",
+      "video_tip": "A light comedic 40K beat (a grot stealing a Commissar's hat) widens the audience beyond lore fans.",
+      "media": "video",
+      "followers_count": 5321,
+      "likes": 122,
+      "reposts": 36,
+      "bookmarks": 38,
+      "replies": 39,
+      "quotes": 1,
+      "self_quote": false,
+      "board_rank": 15
+    },
+    {
+      "id": "2122343937977581924",
+      "name": "Kling AI",
+      "display_name": "Kling AI",
+      "handle": "@Kling_ai",
+      "views": 2181,
+      "views_label": "2,181",
+      "url": "https://x.com/Kling_ai/status/2122343937977581924",
+      "created_at": "2026-11-16T15:00:00.000Z",
+      "posted_at": "2026-11-16T15:00:00.000Z",
+      "text": "Stunningly realistic.\nSharp. \nPrecise.\n\nKling Image 4.0 is coming soon. Stay tuned.",
+      "original_en": "Stunningly realistic.\nSharp. \nPrecise.\n\nKling Image 4.0 is coming soon. Stay tuned.",
+      "lang": "en",
+      "hook": "Three-word teaser 'Stunningly realistic. Sharp. Precise.' announcing Kling Image 4.0 coming soon - 2.2K views in minutes.",
+      "video_tip": "Be first to test Kling Image 4.0 when it drops with a 40K character-sheet comparison.",
+      "media": "photo",
+      "followers_count": 139057,
+      "likes": 50,
+      "reposts": 9,
+      "bookmarks": 3,
+      "replies": 6,
+      "quotes": 6,
+      "self_quote": false,
+      "board_rank": 16
+    },
+    {
+      "id": "2122160843324592416",
+      "name": "Ima Studio",
+      "display_name": "Ima Studio",
+      "handle": "@ImaStudio_ai",
+      "views": 2177,
+      "views_label": "2,177",
+      "url": "https://x.com/ImaStudio_ai/status/2122160843324592416",
+      "created_at": "2026-11-16T02:52:27.000Z",
+      "posted_at": "2026-11-16T02:52:27.000Z",
+      "text": "MiniMax H3 Fashion MV | 3 Looks, 9 Cuts, Red Collage 🔴\nCRIMSON INDEX turns a 15-second K-fashion edit into a magazine cover.\nMake your own on Ima Studio 👉https://t.co/BcM2lpd5dX\nFull prompt below 👇\n\nCreate a 15-second live-action Korean fashion editorial. 16:9 landscape, 24 fps, exactly nine full-frame shots. Keep the model’s face and key actions within a centered 9:16 safe crop.\nCharacter\nUse @Image1 as the only identity reference. Feature one adult Korean woman throughout. Preserve her face, skin tone, long dark-brown waves, wispy bangs, and natural proportions. Do not copy the reference outfit, pose, or background.\nVisual style\nA red fashion magazine in motion. Pair realistic skin and directional studio lighting with crisp 2D graphics, cool-white negative space, and a palette of scarlet, burgundy, black, and white. Use one leading graphic per shot: a checkerboard strip, a fine black grid, or a burgundy diagonal panel. Keep graphics away from her eyes.\nWardrobe\nShots 01–03: Fitted black-and-white top and high-waisted burgundy skirt.\nShots 04–06: Scarlet cropped blazer, black high-waisted skirt, and tall boots.\nShots 07–09: Asymmetric burgundy dress and silver earrings.\nChange outfits only on the hard cuts into shots 04 and 07. No wardrobe morphing within shots.\nShot sequence\n0.0–1.6s | Beauty close-up. She lifts her gaze as a red checkerboard strip slides behind her shoulder.\n1.6–3.2s | Full body. She takes half a step and looks back as a burgundy panel slides in.\n3.2–4.8s | Seated medium shot. She lowers her hand from her jaw as a fine black grid rises behind her.\n4.8–6.4s | Half-body. In the scarlet blazer, she brushes her hair back as a checkerboard strip sweeps behind her.\n6.4–8.0s | Low-angle medium shot. She settles one hand on her waist as burgundy diagonals close in from the sides.\n8.0–9.6s | Locked close-up. She lowers her chin, then meets the lens. A fine grid stops behind her shoulder.\n9.6–11.2s | Full body. In the burgundy dress, she turns and rests one hand on a rail. A checkerboard strip follows the rail’s line.\n11.2–12.8s | Shoulder close-up. She adjusts one earring as the graphics pull back into a single red panel.\n12.8–15.0s | Final cover. She turns to face the lens. Frame her right of center with clean title space on the left. Hold completely still for the final 0.5 seconds.\nMusic and finish\nUse a 120 BPM K-pop fashion-pop instrumental with no vocals. Time the graphics to the beat or her gestures. Add CRIMSON INDEX and ISSUE 01 in post for clean, readable type. Keep the movement natural and restrained. No dancing, extra people, identity drift, storyboard grids, or fade to black.\n\n#AIVideo #FashionMarketing #MotionDesign #CreativeProduction #ImaStudio",
+      "original_en": "MiniMax H3 Fashion MV | 3 Looks, 9 Cuts, Red Collage 🔴\nCRIMSON INDEX turns a 15-second K-fashion edit into a magazine cover.\nMake your own on Ima Studio 👉https://t.co/BcM2lpd5dX\nFull prompt below 👇\n\nCreate a 15-second live-action Korean fashion editorial. 16:9 landscape, 24 fps, exactly nine full-frame shots. Keep the model’s face and key actions within a centered 9:16 safe crop.\nCharacter\nUse @Image1 as the only identity reference. Feature one adult Korean woman throughout. Preserve her face, skin tone, long dark-brown waves, wispy bangs, and natural proportions. Do not copy the reference outfit, pose, or background.\nVisual style\nA red fashion magazine in motion. Pair realistic skin and directional studio lighting with crisp 2D graphics, cool-white negative space, and a palette of scarlet, burgundy, black, and white. Use one leading graphic per shot: a checkerboard strip, a fine black grid, or a burgundy diagonal panel. Keep graphics away from her eyes.\nWardrobe\nShots 01–03: Fitted black-and-white top and high-waisted burgundy skirt.\nShots 04–06: Scarlet cropped blazer, black high-waisted skirt, and tall boots.\nShots 07–09: Asymmetric burgundy dress and silver earrings.\nChange outfits only on the hard cuts into shots 04 and 07. No wardrobe morphing within shots.\nShot sequence\n0.0–1.6s | Beauty close-up. She lifts her gaze as a red checkerboard strip slides behind her shoulder.\n1.6–3.2s | Full body. She takes half a step and looks back as a burgundy panel slides in.\n3.2–4.8s | Seated medium shot. She lowers her hand from her jaw as a fine black grid rises behind her.\n4.8–6.4s | Half-body. In the scarlet blazer, she brushes her hair back as a checkerboard strip sweeps behind her.\n6.4–8.0s | Low-angle medium shot. She settles one hand on her waist as burgundy diagonals close in from the sides.\n8.0–9.6s | Locked close-up. She lowers her chin, then meets the lens. A fine grid stops behind her shoulder.\n9.6–11.2s | Full body. In the burgundy dress, she turns and rests one hand on a rail. A checkerboard strip follows the rail’s line.\n11.2–12.8s | Shoulder close-up. She adjusts one earring as the graphics pull back into a single red panel.\n12.8–15.0s | Final cover. She turns to face the lens. Frame her right of center with clean title space on the left. Hold completely still for the final 0.5 seconds.\nMusic and finish\nUse a 120 BPM K-pop fashion-pop instrumental with no vocals. Time the graphics to the beat or her gestures. Add CRIMSON INDEX and ISSUE 01 in post for clean, readable type. Keep the movement natural and restrained. No dancing, extra people, identity drift, storyboard grids, or fade to black.\n\n#AIVideo #FashionMarketing #MotionDesign #CreativeProduction #ImaStudio",
+      "lang": "en",
+      "hook": "MiniMax H3 fashion MV with a nine-shot timed prompt and outfit-change rules - 2.2K views, 41 bookmarks.",
+      "video_tip": "Use a nine-shot timed structure for a 15s 40K character reveal (three looks: armor, robes, battle-damaged).",
+      "media": "video",
+      "followers_count": 2817,
+      "likes": 51,
+      "reposts": 9,
+      "bookmarks": 41,
+      "replies": 12,
+      "quotes": 0,
+      "self_quote": false,
+      "board_rank": 17
+    },
+    {
+      "id": "2122191678706700615",
+      "name": "SYD",
+      "display_name": "SYD",
+      "handle": "@SYDGamesStudio",
+      "views": 1860,
+      "views_label": "1,860",
+      "url": "https://x.com/SYDGamesStudio/status/2122191678706700615",
+      "created_at": "2026-11-16T04:54:59.000Z",
+      "posted_at": "2026-11-16T04:54:59.000Z",
+      "text": "These last few weeks, A LOT of people assured me that:\n\n1) Gamers would NEVER EVER buy games made with AI because \"soul\", \"warmth\", and \"human touch\".\n2) Gamedevs should NEVER EVER disclose their use of AI because of \"backlash\" and \"review bombing\".\n\nSeems like most people don't https://t.co/lW4yftL8Ps https://t.co/2QxJlyXpUK",
+      "original_en": "These last few weeks, A LOT of people assured me that:\n\n1) Gamers would NEVER EVER buy games made with AI because \"soul\", \"warmth\", and \"human touch\".\n2) Gamedevs should NEVER EVER disclose their use of AI because of \"backlash\" and \"review bombing\".\n\nSeems like most people don't https://t.co/lW4yftL8Ps https://t.co/2QxJlyXpUK",
+      "lang": "en",
+      "hook": "Contrarian data post: gamers said they'd never buy AI-made games, sales say otherwise - 1.9K views.",
+      "video_tip": "Pair a short clip with a 'people said X, the numbers say Y' caption about AI fan films.",
+      "media": "video",
+      "followers_count": 119,
+      "likes": 44,
+      "reposts": 2,
+      "bookmarks": 13,
+      "replies": 4,
+      "quotes": 0,
+      "self_quote": false,
+      "board_rank": 18
+    },
+    {
+      "id": "2121763805072162934",
+      "name": "Peter Kazanjy",
+      "display_name": "Peter Kazanjy",
+      "handle": "@Kazanjy",
+      "views": 1788,
+      "views_label": "1,788",
+      "url": "https://x.com/Kazanjy/status/2121763805072162934",
+      "created_at": "2026-11-15T00:34:46.000Z",
+      "posted_at": "2026-11-15T00:34:46.000Z",
+      "text": "We are about to see a golden age of AI filmmaking - not even original necessarily, but the filmification of untold novels and non-fiction that historically wouldn't have drawn sufficient crowd (and post 2010, would be pooh pooh'd by purple haired septum pierced gatekeepers). \n\nI'm probably going to commission an AI-film rendition of Heinlein's Have Spacesuit Will Travel - one of his juvenile scifi ouevre that my 9 year old absolutely loves (think Hardy Boys, in space, with interstellar travel) just to see how it might work.",
+      "original_en": "We are about to see a golden age of AI filmmaking - not even original necessarily, but the filmification of untold novels and non-fiction that historically wouldn't have drawn sufficient crowd (and post 2010, would be pooh pooh'd by purple haired septum pierced gatekeepers). \n\nI'm probably going to commission an AI-film rendition of Heinlein's Have Spacesuit Will Travel - one of his juvenile scifi ouevre that my 9 year old absolutely loves (think Hardy Boys, in space, with interstellar travel) just to see how it might work.",
+      "lang": "en",
+      "hook": "Prediction post: a golden age of AI filmmaking adapting untold novels - 1.8K views.",
+      "video_tip": "Pitch an AI adaptation of an old public-domain sci-fi story and show a 15s proof-of-concept.",
+      "media": "text",
+      "followers_count": 29040,
+      "likes": 23,
+      "reposts": 1,
+      "bookmarks": 2,
+      "replies": 5,
+      "quotes": 0,
+      "self_quote": false,
+      "board_rank": 19
+    },
+    {
+      "id": "2122271852773150846",
+      "name": "Umesh",
+      "display_name": "Umesh",
+      "handle": "@umesh_ai",
+      "views": 1750,
+      "views_label": "1,750",
+      "url": "https://x.com/umesh_ai/status/2122271852773150846",
+      "created_at": "2026-11-16T10:13:34.000Z",
+      "posted_at": "2026-11-16T10:13:34.000Z",
+      "text": "How far would you go when someone's entire world depends on you? \n\nThat thought became the inspiration for my latest cinematic short film.\n\nI challenged myself to go from a simple idea to a finished AI film using Adobe Firefly Boards.\n\nHere's how the film turned out 👇\n\nThis post https://t.co/WXuEbZ6avH",
+      "original_en": "How far would you go when someone's entire world depends on you? \n\nThat thought became the inspiration for my latest cinematic short film.\n\nI challenged myself to go from a simple idea to a finished AI film using Adobe Firefly Boards.\n\nHere's how the film turned out 👇\n\nThis post https://t.co/WXuEbZ6avH",
+      "lang": "en",
+      "hook": "Idea-to-finished-film challenge using Adobe Firefly Boards with an emotional question hook - 1.8K views.",
+      "video_tip": "Open with a question that frames the stakes of your short, then show the film.",
+      "media": "video",
+      "followers_count": 48399,
+      "likes": 36,
+      "reposts": 6,
+      "bookmarks": 7,
+      "replies": 18,
+      "quotes": 0,
+      "self_quote": false,
+      "board_rank": 20
+    },
+    {
+      "id": "2122138854690058321",
+      "name": "Victorior",
+      "display_name": "Victorior",
+      "handle": "@VictoriorCG",
+      "views": 1409,
+      "views_label": "1,409",
+      "url": "https://x.com/VictoriorCG/status/2122138854690058321",
+      "created_at": "2026-11-16T01:25:05.000Z",
+      "posted_at": "2026-11-16T01:25:05.000Z",
+      "text": "The Star Keeper 🌟  Seedance2.5 4K\nHow much does a 4K AI short film really cost? \nI tracked every credit 👇\n\n2:40 min animated short, every shot Seedance 2.5 4K in CapCut\n✅ If every take worked: ~$215\n😅 Reality, 29 generations: ~around $625\n⏱ 4K ≈ $1.32/sec\n\n4K is available https://t.co/6QvbWCAq5J",
+      "original_en": "The Star Keeper 🌟  Seedance2.5 4K\nHow much does a 4K AI short film really cost? \nI tracked every credit 👇\n\n2:40 min animated short, every shot Seedance 2.5 4K in CapCut\n✅ If every take worked: ~$215\n😅 Reality, 29 generations: ~around $625\n⏱ 4K ≈ $1.32/sec\n\n4K is available https://t.co/6QvbWCAq5J",
+      "lang": "en",
+      "hook": "Credit-tracked cost breakdown of a 2:40 Seedance 2.5 4K short: ~$215 ideal vs ~$625 real across 29 generations, ~$1.32/sec - 1.4K views, 31 replies.",
+      "video_tip": "Track credits on your next 40K short and post the real-vs-ideal cost next to the clip.",
+      "media": "video",
+      "followers_count": 13760,
+      "likes": 31,
+      "reposts": 6,
+      "bookmarks": 5,
+      "replies": 31,
+      "quotes": 1,
+      "self_quote": false,
+      "board_rank": 21
+    },
+    {
+      "id": "2122340891025448974",
+      "name": "Dreamina AI",
+      "display_name": "Dreamina AI",
+      "handle": "@dreamina_ai",
+      "views": 1392,
+      "views_label": "1,392",
+      "url": "https://x.com/dreamina_ai/status/2122340891025448974",
+      "created_at": "2026-11-16T14:47:54.000Z",
+      "posted_at": "2026-11-16T14:47:54.000Z",
+      "text": "Dreamina AI Motion Studio is LIVE!\n\nDescribe your idea in a prompt and turn it into code-rendered motion graphics. Explore a range of style templates to start creating faster.\n\nSmarter structure. Clearer storytelling. \n‣ Organize your ideas, copy, and assets into a coherent narrative, with a clear structure and thoughtfully planned pacing.\n\nCode-driven animation. Precise control. \n‣ Fine-tune layouts, element entrances, and animation timing to guide attention and present each detail exactly as intended.\n\nReady-to-use styles. Faster creation. \n‣ Apply preset styles in one click, then refine your content, look, and pacing through follow-up prompts.\n\nSound and visuals. Designed together. \n‣ Combine text, images, and graphics into distinctive animations, with voiceover and music that complement the visual rhythm.\n\nFrom a written idea to polished motion graphics—create it all in Dreamina AI's Motion Studio.\n\n🕐 Limited-time offers:\n‣ Not a subscriber yet? Try Motion Studio free for 1 month.\n‣ Get credits at 40% off.\n \n🎁 Repost and comment within 12 hours of this post going live. The first 200 people to complete both will receive 1,000 Dreamina credits each. First come, first served.\n\n#DreaminaAI #DreaminaMotionStudio",
+      "original_en": "Dreamina AI Motion Studio is LIVE!\n\nDescribe your idea in a prompt and turn it into code-rendered motion graphics. Explore a range of style templates to start creating faster.\n\nSmarter structure. Clearer storytelling. \n‣ Organize your ideas, copy, and assets into a coherent narrative, with a clear structure and thoughtfully planned pacing.\n\nCode-driven animation. Precise control. \n‣ Fine-tune layouts, element entrances, and animation timing to guide attention and present each detail exactly as intended.\n\nReady-to-use styles. Faster creation. \n‣ Apply preset styles in one click, then refine your content, look, and pacing through follow-up prompts.\n\nSound and visuals. Designed together. \n‣ Combine text, images, and graphics into distinctive animations, with voiceover and music that complement the visual rhythm.\n\nFrom a written idea to polished motion graphics—create it all in Dreamina AI's Motion Studio.\n\n🕐 Limited-time offers:\n‣ Not a subscriber yet? Try Motion Studio free for 1 month.\n‣ Get credits at 40% off.\n \n🎁 Repost and comment within 12 hours of this post going live. The first 200 people to complete both will receive 1,000 Dreamina credits each. First come, first served.\n\n#DreaminaAI #DreaminaMotionStudio",
+      "lang": "en",
+      "hook": "Product launch: Dreamina AI Motion Studio (prompt to code-rendered motion graphics) with a repost-for-credits giveaway - 1.4K views.",
+      "video_tip": "Test Motion Studio for animated title cards on your 40K episodes.",
+      "media": "video",
+      "followers_count": 31177,
+      "likes": 56,
+      "reposts": 25,
+      "bookmarks": 11,
+      "replies": 29,
+      "quotes": 2,
+      "self_quote": false,
+      "board_rank": 22
+    }
+  ],
+  "outsiders_count": 20,
+  "virals": [
+    {
+      "id": "2122183574308700468",
+      "name": "Kling AI",
+      "display_name": "Kling AI",
+      "handle": "@Kling_ai",
+      "views": 276734,
+      "views_label": "276,734",
+      "url": "https://x.com/Kling_ai/status/2122183574308700468",
+      "created_at": "2026-11-16T04:22:47.000Z",
+      "posted_at": "2026-11-16T04:22:47.000Z",
+      "text": "With adrenaline-pumping racing sequences and captivating performances, Redline, a Kling AI Original, brings the intensity of motorsport to the screen.\n\nGo behind the scenes with director Stephane Benini @BeniniStep9801 to discover how he used Kling 4.0 to bring this high-octane story to life, putting AI filmmaking to the test in one of its most challenging genres: car racing.",
+      "original_en": "With adrenaline-pumping racing sequences and captivating performances, Redline, a Kling AI Original, brings the intensity of motorsport to the screen.\n\nGo behind the scenes with director Stephane Benini @BeniniStep9801 to discover how he used Kling 4.0 to bring this high-octane story to life, putting AI filmmaking to the test in one of its most challenging genres: car racing.",
+      "lang": "en",
+      "hook": "Official studio release: 'Redline', a Kling AI Original racing film, framed as AI filmmaking tested in its hardest genre (car racing) with a director behind-the-scenes - 276.7K views, but only 510 likes (promoted reach).",
+      "video_tip": "Pick the hardest genre for AI (fast vehicles, crowds) and cut a 30s 40K chase - a Rhino or bike squadron run - and say why it's hard in line one.",
+      "media": "video",
+      "followers_count": 139057,
+      "likes": 510,
+      "reposts": 19,
+      "bookmarks": 62,
+      "replies": 35,
+      "quotes": 4,
+      "self_quote": false,
+      "board_rank": 1,
+      "draft_en": "Car racing might be the hardest genre to crack with AI filmmaking - and Kling just went straight at it.\n\nRedline, an AI Original from Kling, puts motorsport on screen with high-speed race sequences and strong performances. A behind-the-scenes video follows director Stephane Benini @BeniniStep9801 through how he built it with Kling 4.0.",
+      "draft_keywords": [
+        "AI filmmaking",
+        "Kling",
+        "AI Original",
+        "video"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.02,
+        "word_overlap": 0.536,
+        "max_copied_run": 4
+      },
+      "top10_rank": 1,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "note": "",
+        "topic": "Studio-scale AI film releases"
+      }
+    },
+    {
+      "id": "2122043372047401368",
+      "name": "TUPACABRA",
+      "display_name": "TUPACABRA",
+      "handle": "@tupacabra",
+      "views": 134872,
+      "views_label": "134,872",
+      "url": "https://x.com/tupacabra/status/2122043372047401368",
+      "created_at": "2026-11-15T19:05:40.000Z",
+      "posted_at": "2026-11-15T19:05:40.000Z",
+      "text": "Hollywood can't be honest about history because they are funded by the people who are lying about it.",
+      "original_en": "Hollywood can't be honest about history because they are funded by the people who are lying about it.",
+      "lang": "en",
+      "hook": "The NUREMBERG trailer creator turns his attention into a one-line contrarian take on Hollywood and history - 134.9K views, 8.3K likes, 276 replies.",
+      "video_tip": "After a breakout, a one-line opinion from the maker travels on its own; pair yours with a single striking frame from your last episode.",
+      "media": "text",
+      "followers_count": 160801,
+      "likes": 8256,
+      "reposts": 687,
+      "bookmarks": 213,
+      "replies": 276,
+      "quotes": 48,
+      "self_quote": false,
+      "board_rank": 2,
+      "draft_en": "Studio money is the whole problem. Hollywood will never tell history straight while its backers are the ones distorting it.",
+      "draft_keywords": [
+        "Studio"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.0,
+        "word_overlap": 0.167,
+        "max_copied_run": 1
+      },
+      "top10_rank": 2,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "author/audience",
+        "matched_keywords": [],
+        "media": "text",
+        "note": "",
+        "topic": null
+      }
+    },
+    {
+      "id": "2122269057600885152",
+      "name": "TUPACABRA",
+      "display_name": "TUPACABRA",
+      "handle": "@tupacabra",
+      "views": 108564,
+      "views_label": "108,564",
+      "url": "https://x.com/tupacabra/status/2122269057600885152",
+      "created_at": "2026-11-16T10:02:27.000Z",
+      "posted_at": "2026-11-16T10:02:27.000Z",
+      "text": "4K NUREMBERG TRAILER https://t.co/D8vEjO8pKY",
+      "original_en": "4K NUREMBERG TRAILER https://t.co/D8vEjO8pKY",
+      "lang": "en",
+      "hook": "Bare-title re-release: '4K NUREMBERG TRAILER' - the week's AI-film event upgraded to 4K and re-posted - 108.6K views, 712 bookmarks.",
+      "video_tip": "Re-post your best 40K trailer as a 4K remaster with a bare title caption; the upgrade is the news.",
+      "media": "text",
+      "followers_count": 160801,
+      "likes": 2805,
+      "reposts": 280,
+      "bookmarks": 712,
+      "replies": 130,
+      "quotes": 34,
+      "self_quote": false,
+      "board_rank": 3,
+      "draft_en": "The 4K Nuremberg Trailer is out - the same AI film, now at full resolution. Watch it below.",
+      "draft_keywords": [
+        "4K Nuremberg Trailer",
+        "AI film"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.0,
+        "word_overlap": 0.333,
+        "max_copied_run": 3
+      },
+      "top10_rank": 3,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "author/audience",
+        "matched_keywords": [],
+        "media": "text",
+        "note": "",
+        "topic": "Bare-title shorts and trailers"
+      }
+    },
+    {
+      "id": "2122067445523575180",
+      "name": "VORTEX: AI Bros & AI Arena, Peak AI Buzz",
+      "display_name": "VORTEX: AI Bros & AI Arena, Peak AI Buzz",
+      "handle": "@VORTEX_Promos",
+      "views": 80877,
+      "views_label": "80,877",
+      "url": "https://x.com/VORTEX_Promos/status/2122067445523575180",
+      "created_at": "2026-11-15T20:41:19.000Z",
+      "posted_at": "2026-11-15T20:41:19.000Z",
+      "text": "Who said AI games can't be this cozy!! a win in my book!\n@TesanaAI https://t.co/mBugMZbOT2 https://t.co/yEJSFXNvBP",
+      "original_en": "Who said AI games can't be this cozy!! a win in my book!\n@TesanaAI https://t.co/mBugMZbOT2 https://t.co/yEJSFXNvBP",
+      "lang": "en",
+      "hook": "Aggregator quote of a cozy AI game with a 'who said AI games can't be this cozy' frame - 80.9K views, 270 likes, 0 bookmarks.",
+      "video_tip": "A cozy, non-grimdark counter-programming clip (a quiet Imperial shrine, a servitor tending plants) can stand out against battle-heavy feeds.",
+      "media": "photo",
+      "followers_count": 125240,
+      "likes": 270,
+      "reposts": 0,
+      "bookmarks": 0,
+      "replies": 30,
+      "quotes": 0,
+      "self_quote": false,
+      "board_rank": 5,
+      "draft_en": "Step inside this cozy AI game and tell me AI games can't feel warm. Counting it as a win. @TesanaAI",
+      "draft_keywords": [
+        "Inside"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.0,
+        "word_overlap": 0.364,
+        "max_copied_run": 3
+      },
+      "top10_rank": 5,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "image",
+        "note": "",
+        "topic": null
+      }
+    },
+    {
+      "id": "2122028933638156470",
+      "name": "el.cine",
+      "display_name": "el.cine",
+      "handle": "@EHuanglu",
+      "views": 24765,
+      "views_label": "24,765",
+      "url": "https://x.com/EHuanglu/status/2122028933638156470",
+      "created_at": "2026-11-15T18:08:17.000Z",
+      "posted_at": "2026-11-15T18:08:17.000Z",
+      "text": "AI is ready to make Ice Age 7 https://t.co/jNa7AHVWSe",
+      "original_en": "AI is ready to make Ice Age 7 https://t.co/jNa7AHVWSe",
+      "lang": "en",
+      "hook": "Five-word franchise-pitch caption 'AI is ready to make Ice Age 7' over a polished animated clip - 24.8K views.",
+      "video_tip": "Caption a short animated 40K clip as a franchise pitch ('AI is ready for a 40K animated series') and let the clip prove it.",
+      "media": "video",
+      "followers_count": 151886,
+      "likes": 220,
+      "reposts": 14,
+      "bookmarks": 59,
+      "replies": 19,
+      "quotes": 3,
+      "self_quote": false,
+      "board_rank": 6,
+      "draft_en": "Ice Age 7, made with AI? Going by this animation, it's ready.",
+      "draft_keywords": [
+        "animation"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.0,
+        "word_overlap": 0.75,
+        "max_copied_run": 3
+      },
+      "top10_rank": 6,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "note": "",
+        "topic": null
+      }
+    },
+    {
+      "id": "2121896807215304968",
+      "name": "Natalia",
+      "display_name": "Natalia",
+      "handle": "@AIwithNatalia",
+      "views": 16175,
+      "views_label": "16,175",
+      "url": "https://x.com/AIwithNatalia/status/2121896807215304968",
+      "created_at": "2026-11-15T09:23:16.000Z",
+      "posted_at": "2026-11-15T09:23:16.000Z",
+      "text": "I just entered the @OiiOii_AI creative challenge with my short film MISSION AURORA!\n\nI brought my sci-fi idea to life using AI, creating a story about a robot discovering human emotions. It was such a fun experience seeing the whole concept turn into a cinematic short film! https://t.co/iiTnJJhNQj https://t.co/lA65XllpWh",
+      "original_en": "I just entered the @OiiOii_AI creative challenge with my short film MISSION AURORA!\n\nI brought my sci-fi idea to life using AI, creating a story about a robot discovering human emotions. It was such a fun experience seeing the whole concept turn into a cinematic short film! https://t.co/iiTnJJhNQj https://t.co/lA65XllpWh",
+      "lang": "en",
+      "hook": "Contest-entry sci-fi short (robot discovering human emotions) with a warm creator note - 16.2K views, 63 replies, 0 bookmarks (contest push).",
+      "video_tip": "Enter one open AI film challenge with a 40K story and post it as an entry with a one-line premise.",
+      "media": "video",
+      "followers_count": 12502,
+      "likes": 169,
+      "reposts": 4,
+      "bookmarks": 0,
+      "replies": 63,
+      "quotes": 0,
+      "self_quote": false,
+      "board_rank": 8,
+      "draft_en": "What happens when a machine starts to feel? MISSION AURORA, an entry in the @OiiOii_AI creative challenge, turns that sci-fi premise into a short AI film with a cinematic look. A lovely example of a single concept growing into something watchable.",
+      "draft_keywords": [
+        "AI film"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.051,
+        "word_overlap": 0.435,
+        "max_copied_run": 5
+      },
+      "top10_rank": 8,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "note": "",
+        "topic": "Full-prompt Seedance 2.5 shorts"
+      }
+    },
+    {
+      "id": "2122017193000878192",
+      "name": "Min Choi",
+      "display_name": "Min Choi",
+      "handle": "@minchoi",
+      "views": 15479,
+      "views_label": "15,479",
+      "url": "https://x.com/minchoi/status/2122017193000878192",
+      "created_at": "2026-11-15T17:21:38.000Z",
+      "posted_at": "2026-11-15T17:21:38.000Z",
+      "text": "5 years later... \n\n(wait for it) https://t.co/UaPrrCmsVt https://t.co/Ihrt7IXGpa",
+      "original_en": "5 years later... \n\n(wait for it) https://t.co/UaPrrCmsVt https://t.co/Ihrt7IXGpa",
+      "lang": "en",
+      "hook": "'5 years later... (wait for it)' quote-format comparison of old vs new AI video - 15.5K views.",
+      "video_tip": "Post a then-vs-now split: your earliest AI 40K clip next to a new Seedance 2.5 render, with 'wait for it' pacing.",
+      "media": "video",
+      "followers_count": 392600,
+      "likes": 56,
+      "reposts": 5,
+      "bookmarks": 6,
+      "replies": 8,
+      "quotes": 0,
+      "self_quote": false,
+      "board_rank": 9,
+      "draft_en": "Give it a second... 5 years later. Video below.",
+      "draft_keywords": [
+        "video"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.0,
+        "word_overlap": 0.4,
+        "max_copied_run": 3
+      },
+      "top10_rank": 9,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "note": "",
+        "topic": null
+      }
+    },
+    {
+      "id": "2122041559889957177",
+      "name": "TechHalla",
+      "display_name": "TechHalla",
+      "handle": "@techhalla",
+      "views": 12238,
+      "views_label": "12,238",
+      "url": "https://x.com/techhalla/status/2122041559889957177",
+      "created_at": "2026-11-15T18:58:28.000Z",
+      "posted_at": "2026-11-15T18:58:28.000Z",
+      "text": "Futurama but it's 1971 🛸 https://t.co/mRaeaI7eG9",
+      "original_en": "Futurama but it's 1971 🛸 https://t.co/mRaeaI7eG9",
+      "lang": "en",
+      "hook": "Era-swap remix: 'Futurama but it's 1971' - a familiar show reimagined as a vintage cartoon, near-empty caption - 12.2K views, 435 likes.",
+      "video_tip": "Do '40K but it's 1985' - a short 80s-anime opening for a chapter you already love; you already own this look.",
+      "media": "video",
+      "followers_count": 103889,
+      "likes": 435,
+      "reposts": 45,
+      "bookmarks": 78,
+      "replies": 17,
+      "quotes": 2,
+      "self_quote": false,
+      "board_rank": 10,
+      "draft_en": "What if Futurama had been made in 1971? This animation answers it.",
+      "draft_keywords": [
+        "animation"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.0,
+        "word_overlap": 0.5,
+        "max_copied_run": 1
+      },
+      "top10_rank": 10,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "note": "",
+        "topic": null
+      }
+    },
+    {
+      "id": "2121821003450081560",
+      "name": "Smiling Khan",
+      "display_name": "Smiling Khan",
+      "handle": "@AIwithkhan",
+      "views": 11389,
+      "views_label": "11,389",
+      "url": "https://x.com/AIwithkhan/status/2121821003450081560",
+      "created_at": "2026-11-15T04:22:03.000Z",
+      "posted_at": "2026-11-15T04:22:03.000Z",
+      "text": "Not a good Sunday beginning 😭 \n\nMade using Seedance 2.5 on @frameo_ai \n\n#MadeWithFrameo \n\nPrompt :\n\nCreate an ultra-realistic 30-second live-action Korean revenge-action scene inside a modern, crowded Seoul subway train during daytime. The scene should look like an actual big-budget Korean action movie, with natural handheld camera movement, realistic human interactions, detailed facial expressions, cinematic lighting, authentic subway ambience, and physically believable action choreography.\nThe footage must look like real live-action cinematography, not animation, a video game, or a staged comedy skit.\nMAIN CHARACTERS\nWoman: A stylish Korean woman in her mid-20s with a short black bob haircut, wearing a fitted pink crop top, high-waisted light-blue jeans, fashionable black boots, and a small black shoulder bag. She holds a takeaway iced coffee in one hand while gripping a vertical metal support pole with the other. She has a confident, carefree personality.\nMan: A Korean man in his late 20s with messy dark hair, wearing a black leather jacket, dark trousers, and fashionable black sunglasses. He behaves arrogantly and aggressively.\nACTION SEQUENCE — EXACTLY 30 SECONDS\n\n0–5 seconds: Establishing Scene\n\nEstablish a busy modern Seoul subway train moving through the city. Several passengers are standing and sitting, holding support poles and scrolling through their phones. The woman stands near the subway doors, casually enjoying her iced coffee through a straw while holding a vertical metal pole with her other hand. She looks relaxed and completely unaware of what is about to happen. The camera naturally tracks toward her.\n5–9 seconds: The Incident\nThe man standing beside her deliberately touches and brushes against her hand while she is holding the metal pole. She immediately looks at him with an irritated expression and slightly moves her hand away. He gives her an arrogant smirk, suddenly grabs her iced coffee, and aggressively throws the entire drink toward her. Coffee splashes across her face, hair, and pink crop top. The empty plastic cup drops onto the train floor. Nearby passengers turn around in shock.\n9–13 seconds: Her Reaction\nShe looks down at her coffee-stained outfit, then slowly turns toward the man. Her facial expression changes from disbelief to cold anger. The man laughs mockingly and adjusts his sunglasses, believing she will do nothing. She releases the support pole and takes a determined step toward him. Use a close-up to capture her intense expression.\n\n13–20 seconds: The man aggressively approaches and attempts to shove her. She grabs his leather jacket, sidesteps, uses his forward momentum, and forcefully pushes him toward the open subway doorway. The train is completely stationary at the platform. He stumbles backward and falls onto his hands and knees, catching himself against a pillar. His sunglasses slide across the platform. Show realistic physical resistance, natural body weight, and believable stunt choreography. No flying, spinning, exaggerated flips, or fake comedic falls. Film the entire confrontation in one continuous shot.\n20–24 seconds: Looking down at him, she says confidently: \"Next time, buy your own coffee!\" The subway warning chime sounds.\n24–30 seconds: The doors close. She brushes coffee off her top, adjusts her shoulder bag, grabs the pole, and smiles confidently as the train departs. The embarrassed man remains on the platform.\nSOUND DESIGN\nAuthentic subway ambience, coffee splashing, mocking laughter, realistic physical impacts, passenger gasps, footsteps, warning chime, and synchronized dialogue.\nVISUAL REQUIREMENTS\nUltra-photorealistic Korean action-comedy cinematography. Consistent characters and clothing, realistic body physics, natural facial expressions, detailed skin textures, and smooth camera movement. Exactly 30 seconds. No animation, gore, supernatural powers, cartoon physics, or exaggerated stunts.",
+      "original_en": "Not a good Sunday beginning 😭 \n\nMade using Seedance 2.5 on @frameo_ai \n\n#MadeWithFrameo \n\nPrompt :\n\nCreate an ultra-realistic 30-second live-action Korean revenge-action scene inside a modern, crowded Seoul subway train during daytime. The scene should look like an actual big-budget Korean action movie, with natural handheld camera movement, realistic human interactions, detailed facial expressions, cinematic lighting, authentic subway ambience, and physically believable action choreography.\nThe footage must look like real live-action cinematography, not animation, a video game, or a staged comedy skit.\nMAIN CHARACTERS\nWoman: A stylish Korean woman in her mid-20s with a short black bob haircut, wearing a fitted pink crop top, high-waisted light-blue jeans, fashionable black boots, and a small black shoulder bag. She holds a takeaway iced coffee in one hand while gripping a vertical metal support pole with the other. She has a confident, carefree personality.\nMan: A Korean man in his late 20s with messy dark hair, wearing a black leather jacket, dark trousers, and fashionable black sunglasses. He behaves arrogantly and aggressively.\nACTION SEQUENCE — EXACTLY 30 SECONDS\n\n0–5 seconds: Establishing Scene\n\nEstablish a busy modern Seoul subway train moving through the city. Several passengers are standing and sitting, holding support poles and scrolling through their phones. The woman stands near the subway doors, casually enjoying her iced coffee through a straw while holding a vertical metal pole with her other hand. She looks relaxed and completely unaware of what is about to happen. The camera naturally tracks toward her.\n5–9 seconds: The Incident\nThe man standing beside her deliberately touches and brushes against her hand while she is holding the metal pole. She immediately looks at him with an irritated expression and slightly moves her hand away. He gives her an arrogant smirk, suddenly grabs her iced coffee, and aggressively throws the entire drink toward her. Coffee splashes across her face, hair, and pink crop top. The empty plastic cup drops onto the train floor. Nearby passengers turn around in shock.\n9–13 seconds: Her Reaction\nShe looks down at her coffee-stained outfit, then slowly turns toward the man. Her facial expression changes from disbelief to cold anger. The man laughs mockingly and adjusts his sunglasses, believing she will do nothing. She releases the support pole and takes a determined step toward him. Use a close-up to capture her intense expression.\n\n13–20 seconds: The man aggressively approaches and attempts to shove her. She grabs his leather jacket, sidesteps, uses his forward momentum, and forcefully pushes him toward the open subway doorway. The train is completely stationary at the platform. He stumbles backward and falls onto his hands and knees, catching himself against a pillar. His sunglasses slide across the platform. Show realistic physical resistance, natural body weight, and believable stunt choreography. No flying, spinning, exaggerated flips, or fake comedic falls. Film the entire confrontation in one continuous shot.\n20–24 seconds: Looking down at him, she says confidently: \"Next time, buy your own coffee!\" The subway warning chime sounds.\n24–30 seconds: The doors close. She brushes coffee off her top, adjusts her shoulder bag, grabs the pole, and smiles confidently as the train departs. The embarrassed man remains on the platform.\nSOUND DESIGN\nAuthentic subway ambience, coffee splashing, mocking laughter, realistic physical impacts, passenger gasps, footsteps, warning chime, and synchronized dialogue.\nVISUAL REQUIREMENTS\nUltra-photorealistic Korean action-comedy cinematography. Consistent characters and clothing, realistic body physics, natural facial expressions, detailed skin textures, and smooth camera movement. Exactly 30 seconds. No animation, gore, supernatural powers, cartoon physics, or exaggerated stunts.",
+      "lang": "en",
+      "hook": "30s Seedance 2.5 Korean subway revenge scene with the full timed prompt (0-5s, 5-9s...) and a one-line emotional hook - 11.4K views, 51 replies.",
+      "video_tip": "Post a 30s single-scene Seedance 2.5 clip with the full second-by-second prompt pasted under it.",
+      "media": "video",
+      "followers_count": 15674,
+      "likes": 125,
+      "reposts": 9,
+      "bookmarks": 35,
+      "replies": 51,
+      "quotes": 0,
+      "self_quote": false,
+      "board_rank": 11,
+      "why_hit": {
+        "trend_match": 83,
+        "verdict": "trend",
+        "matched_keywords": [
+          "Seedance 2.5",
+          "animation",
+          "video",
+          "30-second",
+          "Inside"
+        ],
+        "media": "video",
+        "note": "",
+        "topic": "Full-prompt Seedance 2.5 shorts"
+      }
+    },
+    {
+      "id": "2121826097029591312",
+      "name": "𝗦𝗮𝗻𝗶𝗮",
+      "display_name": "𝗦𝗮𝗻𝗶𝗮",
+      "handle": "@saniaspeaks_",
+      "views": 10629,
+      "views_label": "10,629",
+      "url": "https://x.com/saniaspeaks_/status/2121826097029591312",
+      "created_at": "2026-11-15T04:42:17.000Z",
+      "posted_at": "2026-11-15T04:42:17.000Z",
+      "text": "A sunny stroll turns sweet when a surprise bird sends a strawberry cone tumbling and the two can't stop laughing.\n\nMade with seedance 2.5 via @CuddlerAI\n\n#Cuddler #CuddlerPartner \n\nPrompt \nCreate a 30-second beautiful hand-painted 2D animated romantic short film with a soft watercolor storybook aesthetic.\n\n**Character consistency:** A charming young man with messy black hair and round glasses, wearing a black suit, and a beautiful young woman with a short black bob haircut, wearing a flowing red dress. Keep their faces, hairstyles, outfits and body proportions exactly consistent throughout the entire video.\n\n**Scene 1 (0–4s): The Ice Cream Date**\nA beautiful sunny afternoon in a charming European-style street. The couple walks together past colorful little shops and flower-covered windows. They stop at a cute vintage ice cream shop.\n\n**Scene 2 (4–7s): Choosing Flavors**\nInside the shop, the girl excitedly points at strawberry ice cream while the boy chooses chocolate. The shopkeeper hands them two beautiful ice cream cones. They smile happily.\n\n**Scene 3 (7–11s): A Sweet Walk**\nThey walk along a beautiful flower-lined street, enjoying their ice cream. The girl tastes her strawberry ice cream and offers the boy a bite. He leans forward playfully and takes a small taste.\n\n**Scene 4 (11–15s): The Funny Accident**\nSuddenly, a little bird flies past and surprises the girl. Her ice cream slips from her hand and falls onto the pavement. She looks shocked for a moment. The boy looks at the fallen ice cream, then at her.\n\n**Scene 5 (15–19s): Laughter Together**\nThe girl starts laughing at the unexpected accident. The boy laughs with her, gently wiping a tiny ice cream spot from her cheek with a napkin. Their expressions are sweet and natural.\n\n**Scene 6 (19–23s): Sharing Is Caring**\nThe boy offers his chocolate ice cream to the girl. She takes a small bite, smiles warmly and playfully feeds him a bite of her imaginary strawberry flavor, making them both laugh.\n\n**Scene 7 (23–27s): A Little Romantic Moment**\nThey sit together on a wooden park bench beneath a beautiful cherry blossom tree. The boy gently holds her hand while colorful petals float around them. They exchange a loving smile.\n\n**Scene 8 (27–30s): Beautiful Ending**\nWide cinematic shot of the couple walking hand in hand through a charming flower-filled street in golden afternoon sunlight. The boy holds his remaining ice cream in his other hand. Cherry blossom petals drift across the screen as the scene fades out.\n\n**Animation and visual direction:** Exquisite hand-painted 2D animation, delicate watercolor backgrounds, soft pastel colors, beautiful romantic atmosphere, expressive facial animation, natural body movements, detailed environments, warm sunlight, gentle wind, flowing dress fabric, floating flower petals and smooth cinematic transitions.\n\n**Important consistency rules:** One continuous story with logical scene transitions. Same two characters, identical faces, hairstyles and outfits in every scene. Ice cream must remain in their hands until the accidental drop. Only the girl's strawberry ice cream falls; the boy keeps his chocolate cone. No disappearing objects, no extra characters, no random scene changes, no distorted hands, no face changes, no 3D or photorealistic rendering. Professional polished 2D animated short-film quality.",
+      "original_en": "A sunny stroll turns sweet when a surprise bird sends a strawberry cone tumbling and the two can't stop laughing.\n\nMade with seedance 2.5 via @CuddlerAI\n\n#Cuddler #CuddlerPartner \n\nPrompt \nCreate a 30-second beautiful hand-painted 2D animated romantic short film with a soft watercolor storybook aesthetic.\n\n**Character consistency:** A charming young man with messy black hair and round glasses, wearing a black suit, and a beautiful young woman with a short black bob haircut, wearing a flowing red dress. Keep their faces, hairstyles, outfits and body proportions exactly consistent throughout the entire video.\n\n**Scene 1 (0–4s): The Ice Cream Date**\nA beautiful sunny afternoon in a charming European-style street. The couple walks together past colorful little shops and flower-covered windows. They stop at a cute vintage ice cream shop.\n\n**Scene 2 (4–7s): Choosing Flavors**\nInside the shop, the girl excitedly points at strawberry ice cream while the boy chooses chocolate. The shopkeeper hands them two beautiful ice cream cones. They smile happily.\n\n**Scene 3 (7–11s): A Sweet Walk**\nThey walk along a beautiful flower-lined street, enjoying their ice cream. The girl tastes her strawberry ice cream and offers the boy a bite. He leans forward playfully and takes a small taste.\n\n**Scene 4 (11–15s): The Funny Accident**\nSuddenly, a little bird flies past and surprises the girl. Her ice cream slips from her hand and falls onto the pavement. She looks shocked for a moment. The boy looks at the fallen ice cream, then at her.\n\n**Scene 5 (15–19s): Laughter Together**\nThe girl starts laughing at the unexpected accident. The boy laughs with her, gently wiping a tiny ice cream spot from her cheek with a napkin. Their expressions are sweet and natural.\n\n**Scene 6 (19–23s): Sharing Is Caring**\nThe boy offers his chocolate ice cream to the girl. She takes a small bite, smiles warmly and playfully feeds him a bite of her imaginary strawberry flavor, making them both laugh.\n\n**Scene 7 (23–27s): A Little Romantic Moment**\nThey sit together on a wooden park bench beneath a beautiful cherry blossom tree. The boy gently holds her hand while colorful petals float around them. They exchange a loving smile.\n\n**Scene 8 (27–30s): Beautiful Ending**\nWide cinematic shot of the couple walking hand in hand through a charming flower-filled street in golden afternoon sunlight. The boy holds his remaining ice cream in his other hand. Cherry blossom petals drift across the screen as the scene fades out.\n\n**Animation and visual direction:** Exquisite hand-painted 2D animation, delicate watercolor backgrounds, soft pastel colors, beautiful romantic atmosphere, expressive facial animation, natural body movements, detailed environments, warm sunlight, gentle wind, flowing dress fabric, floating flower petals and smooth cinematic transitions.\n\n**Important consistency rules:** One continuous story with logical scene transitions. Same two characters, identical faces, hairstyles and outfits in every scene. Ice cream must remain in their hands until the accidental drop. Only the girl's strawberry ice cream falls; the boy keeps his chocolate cone. No disappearing objects, no extra characters, no random scene changes, no distorted hands, no face changes, no 3D or photorealistic rendering. Professional polished 2D animated short-film quality.",
+      "lang": "en",
+      "hook": "Hand-painted 2D romance short with scene-by-scene Seedance 2.5 prompt (partner post) - 10.6K views, 49 replies.",
+      "video_tip": "Share a watercolor-style 40K vignette with a scene-by-scene prompt and character consistency notes.",
+      "media": "video",
+      "followers_count": 16592,
+      "likes": 172,
+      "reposts": 5,
+      "bookmarks": 8,
+      "replies": 49,
+      "quotes": 0,
+      "self_quote": false,
+      "board_rank": 12,
+      "why_hit": {
+        "trend_match": 97,
+        "verdict": "trend",
+        "matched_keywords": [
+          "Seedance 2.5",
+          "animation",
+          "video",
+          "Scene 1",
+          "Scene 2",
+          "Scene 3",
+          "Scene 4",
+          "Scene 5",
+          "Scene 6",
+          "30-second"
+        ],
+        "media": "video",
+        "note": "",
+        "topic": "Full-prompt Seedance 2.5 shorts"
+      }
+    },
+    {
+      "id": "2122310961692569716",
+      "name": "TechHalla",
+      "display_name": "TechHalla",
+      "handle": "@techhalla",
+      "views": 7700,
+      "views_label": "7,700",
+      "url": "https://x.com/techhalla/status/2122310961692569716",
+      "created_at": "2026-11-16T12:48:58.000Z",
+      "posted_at": "2026-11-16T12:48:58.000Z",
+      "text": "Men in Black but it's 1977 👽 https://t.co/wbnylMQtYn",
+      "original_en": "Men in Black but it's 1977 👽 https://t.co/wbnylMQtYn",
+      "lang": "en",
+      "hook": "Second era-swap from the same creator: 'Men in Black but it's 1977' - 7.7K views within hours.",
+      "video_tip": "Series the format: one era-swap a day for a week builds an expectation loop.",
+      "media": "video",
+      "followers_count": 103889,
+      "likes": 286,
+      "reposts": 33,
+      "bookmarks": 46,
+      "replies": 7,
+      "quotes": 0,
+      "self_quote": false,
+      "board_rank": 13,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "note": "",
+        "topic": null
+      }
+    },
+    {
+      "id": "2121817354279510226",
+      "name": "Sᴀɪʀᴀ",
+      "display_name": "Sᴀɪʀᴀ",
+      "handle": "@itsSaira_1",
+      "views": 6324,
+      "views_label": "6,324",
+      "url": "https://x.com/itsSaira_1/status/2121817354279510226",
+      "created_at": "2026-11-15T04:07:33.000Z",
+      "posted_at": "2026-11-15T04:07:33.000Z",
+      "text": "A moment of unexpected connection between two wild souls. ⚡\n\nMade with Seedance 2.5 \n\nPrompt:\n\nCreate a hyper-realistic cinematic 4K video in 16:9 aspect ratio, 24 FPS, featuring a beautiful female motorcycle rider on a winding coastal mountain highway.\n\nScene 1 (0–2 seconds): Begin with a wide cinematic rear tracking shot of a female rider wearing a red and black striped sweater and black pants, riding a powerful black sport motorcycle along a winding mountain coastal highway. Rocky cliffs, metal guardrails, ocean views and several vehicles are visible in the distance. Her long dark hair flows naturally in the wind.\n\nScene 2 (2–4 seconds): Transition into a dynamic low-angle tracking shot from behind and beside the motorcycle as she accelerates and leans into a sharp road curve. The red LED taillight glows brightly. Other motorcycles and cars travel along the highway. Realistic tire movement, natural road motion and cinematic motion blur.\n\nScene 3 (4–6 seconds): Cut to a roadside cinematic shot revealing a large, beautiful black panther standing beside the metal guardrail on the rocky roadside. The panther calmly watches the approaching motorcycles. Its muscular body, glossy black fur and realistic facial details are clearly visible.\n\nScene 4 (6–8 seconds): The female rider notices the panther, gradually slows down and carefully stops her black motorcycle beside it. She turns toward the animal with a surprised but gentle expression. Use a smooth medium-wide camera shot showing both the woman and the panther.\n\nScene 5 (8–10 seconds): The woman carefully leans toward the panther and slowly extends her right hand. The panther calmly raises one front paw and gently touches her fingers. Capture this emotional interaction with a cinematic close-up, showing realistic hand movement, detailed fur and natural animal behavior.\n\nScene 6 (10–12 seconds): Show an intimate close-up of the panther gently touching the woman's hand. She looks at the animal with amazement and affection. The panther slowly withdraws its paw and turns its head. Soft wind moves her long hair. Beautiful cinematic depth of field.\n\nScene 7 (12–15 seconds): Finish with a wide cinematic shot of the coastal highway. The woman returns to her motorcycle and rides away along the winding road while other motorcycles continue ahead. The black panther remains near the roadside. Camera smoothly follows the glowing red taillight as the motorcycle disappears into the scenic distance.\n\nVisual Style: Ultra-photorealistic, Hollywood-style cinematography, natural cloudy daylight, realistic physics, detailed textures, smooth camera transitions, cinematic color grading, professional action-film quality.\n\nCharacter Consistency: Maintain exactly the same female face, long dark hair, red and black striped sweater, black pants and black sport motorcycle throughout the entire video. Keep the same black panther with consistent body proportions and appearance in every scene.\n\nNegative Prompt: Cartoon, animation, CGI look, unrealistic anatomy, deformed hands, extra fingers, extra limbs, duplicate animals, changing faces, changing clothes, different motorcycles, flickering, unnatural movements, distorted objects, low resolution, excessive motion blur, inconsistent backgrounds.\n\n#AI #AiArt #VisualArt",
+      "original_en": "A moment of unexpected connection between two wild souls. ⚡\n\nMade with Seedance 2.5 \n\nPrompt:\n\nCreate a hyper-realistic cinematic 4K video in 16:9 aspect ratio, 24 FPS, featuring a beautiful female motorcycle rider on a winding coastal mountain highway.\n\nScene 1 (0–2 seconds): Begin with a wide cinematic rear tracking shot of a female rider wearing a red and black striped sweater and black pants, riding a powerful black sport motorcycle along a winding mountain coastal highway. Rocky cliffs, metal guardrails, ocean views and several vehicles are visible in the distance. Her long dark hair flows naturally in the wind.\n\nScene 2 (2–4 seconds): Transition into a dynamic low-angle tracking shot from behind and beside the motorcycle as she accelerates and leans into a sharp road curve. The red LED taillight glows brightly. Other motorcycles and cars travel along the highway. Realistic tire movement, natural road motion and cinematic motion blur.\n\nScene 3 (4–6 seconds): Cut to a roadside cinematic shot revealing a large, beautiful black panther standing beside the metal guardrail on the rocky roadside. The panther calmly watches the approaching motorcycles. Its muscular body, glossy black fur and realistic facial details are clearly visible.\n\nScene 4 (6–8 seconds): The female rider notices the panther, gradually slows down and carefully stops her black motorcycle beside it. She turns toward the animal with a surprised but gentle expression. Use a smooth medium-wide camera shot showing both the woman and the panther.\n\nScene 5 (8–10 seconds): The woman carefully leans toward the panther and slowly extends her right hand. The panther calmly raises one front paw and gently touches her fingers. Capture this emotional interaction with a cinematic close-up, showing realistic hand movement, detailed fur and natural animal behavior.\n\nScene 6 (10–12 seconds): Show an intimate close-up of the panther gently touching the woman's hand. She looks at the animal with amazement and affection. The panther slowly withdraws its paw and turns its head. Soft wind moves her long hair. Beautiful cinematic depth of field.\n\nScene 7 (12–15 seconds): Finish with a wide cinematic shot of the coastal highway. The woman returns to her motorcycle and rides away along the winding road while other motorcycles continue ahead. The black panther remains near the roadside. Camera smoothly follows the glowing red taillight as the motorcycle disappears into the scenic distance.\n\nVisual Style: Ultra-photorealistic, Hollywood-style cinematography, natural cloudy daylight, realistic physics, detailed textures, smooth camera transitions, cinematic color grading, professional action-film quality.\n\nCharacter Consistency: Maintain exactly the same female face, long dark hair, red and black striped sweater, black pants and black sport motorcycle throughout the entire video. Keep the same black panther with consistent body proportions and appearance in every scene.\n\nNegative Prompt: Cartoon, animation, CGI look, unrealistic anatomy, deformed hands, extra fingers, extra limbs, duplicate animals, changing faces, changing clothes, different motorcycles, flickering, unnatural movements, distorted objects, low resolution, excessive motion blur, inconsistent backgrounds.\n\n#AI #AiArt #VisualArt",
+      "lang": "en",
+      "hook": "Hyper-real Seedance 2.5 woman-and-panther motorcycle scene with full prompt and negative prompt - 6.3K views.",
+      "video_tip": "Include a negative prompt block with your clip; viewers bookmark full recipes.",
+      "media": "video",
+      "followers_count": 6763,
+      "likes": 345,
+      "reposts": 27,
+      "bookmarks": 116,
+      "replies": 45,
+      "quotes": 0,
+      "self_quote": false,
+      "board_rank": 14,
+      "why_hit": {
+        "trend_match": 96,
+        "verdict": "trend",
+        "matched_keywords": [
+          "Seedance 2.5",
+          "animation",
+          "video",
+          "Scene 1",
+          "Scene 2",
+          "Scene 3",
+          "Scene 4",
+          "Scene 5",
+          "Scene 6"
+        ],
+        "media": "video",
+        "note": "",
+        "topic": "Full-prompt Seedance 2.5 shorts"
+      }
+    },
+    {
+      "id": "2121793730600722521",
+      "name": "Zarnab Ai",
+      "display_name": "Zarnab Ai",
+      "handle": "@Zarnab_with_Ai",
+      "views": 3221,
+      "views_label": "3,221",
+      "url": "https://x.com/Zarnab_with_Ai/status/2121793730600722521",
+      "created_at": "2026-11-15T02:33:41.000Z",
+      "posted_at": "2026-11-15T02:33:41.000Z",
+      "text": "Made with seedance 2.5\n\nPrompt 👇 \nCreate a high-quality cinematic 3D animated family comedy short film in a beautiful Pixar-inspired style, with expressive characters, detailed facial animations, realistic lighting, smooth camera movements, and consistent character designs.\n\nScene 1 – Inside the Car:\nA beautiful young mother with long, curly brown hair, wearing a blue denim shirt, is driving a red family car. Her adorable little daughter, wearing a purple outfit with a purple bow in her hair, is sitting in the back seat, smiling and enjoying the ride. Show close-up shots of their happy expressions and a cinematic view through the car windows.\n\nScene 2 – Arriving Home:\nThe red car arrives near the family house. Transition smoothly to a warm, beautifully decorated living room with cozy lighting and Christmas decorations.\n\nScene 3 – Family Living Room:\nThe mother enters the living room with her little daughter. The father, a young man with curly dark hair and a beard, wearing a white button-up shirt and dark pants, is relaxing on the sofa watching television. The little girl happily approaches her father.\n\nScene 4 – Unexpected Comedy:\nThe father is enjoying a drink while relaxing on the sofa. Suddenly, a funny accident happens, spilling food and liquid all over his white shirt. His facial expression changes from relaxed happiness to complete shock and confusion.\n\nScene 5 – Funny Reaction:\nShow the father looking down at his messy shirt with wide eyes and an exaggerated shocked expression. The mother and daughter react with surprise. Use expressive cartoon facial animation and perfectly timed comedic reactions.\n\nScene 6 – Final Shot:\nThe father stands up, looking embarrassed and confused, while the mother and daughter watch him. End with a close-up of his funny facial expression.\n\nVisual Style: Premium Pixar-inspired 3D animation, adorable character designs, cinematic storytelling, detailed hair and clothing textures, warm interior lighting, realistic shadows, smooth character movements, expressive eyes, professional animation quality.\n\nImportant: Maintain consistent character faces, hairstyles, outfits, and proportions throughout every scene. Use cinematic camera angles, smooth transitions, natural body movements, and entertaining storytelling. Vertical 9:16 format, high resolution, no subtitles, no text, no watermark.",
+      "original_en": "Made with seedance 2.5\n\nPrompt 👇 \nCreate a high-quality cinematic 3D animated family comedy short film in a beautiful Pixar-inspired style, with expressive characters, detailed facial animations, realistic lighting, smooth camera movements, and consistent character designs.\n\nScene 1 – Inside the Car:\nA beautiful young mother with long, curly brown hair, wearing a blue denim shirt, is driving a red family car. Her adorable little daughter, wearing a purple outfit with a purple bow in her hair, is sitting in the back seat, smiling and enjoying the ride. Show close-up shots of their happy expressions and a cinematic view through the car windows.\n\nScene 2 – Arriving Home:\nThe red car arrives near the family house. Transition smoothly to a warm, beautifully decorated living room with cozy lighting and Christmas decorations.\n\nScene 3 – Family Living Room:\nThe mother enters the living room with her little daughter. The father, a young man with curly dark hair and a beard, wearing a white button-up shirt and dark pants, is relaxing on the sofa watching television. The little girl happily approaches her father.\n\nScene 4 – Unexpected Comedy:\nThe father is enjoying a drink while relaxing on the sofa. Suddenly, a funny accident happens, spilling food and liquid all over his white shirt. His facial expression changes from relaxed happiness to complete shock and confusion.\n\nScene 5 – Funny Reaction:\nShow the father looking down at his messy shirt with wide eyes and an exaggerated shocked expression. The mother and daughter react with surprise. Use expressive cartoon facial animation and perfectly timed comedic reactions.\n\nScene 6 – Final Shot:\nThe father stands up, looking embarrassed and confused, while the mother and daughter watch him. End with a close-up of his funny facial expression.\n\nVisual Style: Premium Pixar-inspired 3D animation, adorable character designs, cinematic storytelling, detailed hair and clothing textures, warm interior lighting, realistic shadows, smooth character movements, expressive eyes, professional animation quality.\n\nImportant: Maintain consistent character faces, hairstyles, outfits, and proportions throughout every scene. Use cinematic camera angles, smooth transitions, natural body movements, and entertaining storytelling. Vertical 9:16 format, high resolution, no subtitles, no text, no watermark.",
+      "lang": "en",
+      "hook": "3D family-comedy short 'Made with seedance 2.5' plus the full prompt - 3.2K views.",
+      "video_tip": "A light comedic 40K beat (a grot stealing a Commissar's hat) widens the audience beyond lore fans.",
+      "media": "video",
+      "followers_count": 5321,
+      "likes": 122,
+      "reposts": 36,
+      "bookmarks": 38,
+      "replies": 39,
+      "quotes": 1,
+      "self_quote": false,
+      "board_rank": 15,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "note": "",
+        "topic": "Full-prompt Seedance 2.5 shorts"
+      }
+    },
+    {
+      "id": "2122343937977581924",
+      "name": "Kling AI",
+      "display_name": "Kling AI",
+      "handle": "@Kling_ai",
+      "views": 2181,
+      "views_label": "2,181",
+      "url": "https://x.com/Kling_ai/status/2122343937977581924",
+      "created_at": "2026-11-16T15:00:00.000Z",
+      "posted_at": "2026-11-16T15:00:00.000Z",
+      "text": "Stunningly realistic.\nSharp. \nPrecise.\n\nKling Image 4.0 is coming soon. Stay tuned.",
+      "original_en": "Stunningly realistic.\nSharp. \nPrecise.\n\nKling Image 4.0 is coming soon. Stay tuned.",
+      "lang": "en",
+      "hook": "Three-word teaser 'Stunningly realistic. Sharp. Precise.' announcing Kling Image 4.0 coming soon - 2.2K views in minutes.",
+      "video_tip": "Be first to test Kling Image 4.0 when it drops with a 40K character-sheet comparison.",
+      "media": "photo",
+      "followers_count": 139057,
+      "likes": 50,
+      "reposts": 9,
+      "bookmarks": 3,
+      "replies": 6,
+      "quotes": 6,
+      "self_quote": false,
+      "board_rank": 16,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "image",
+        "note": "",
+        "topic": "Studio-scale AI film releases"
+      }
+    },
+    {
+      "id": "2122160843324592416",
+      "name": "Ima Studio",
+      "display_name": "Ima Studio",
+      "handle": "@ImaStudio_ai",
+      "views": 2177,
+      "views_label": "2,177",
+      "url": "https://x.com/ImaStudio_ai/status/2122160843324592416",
+      "created_at": "2026-11-16T02:52:27.000Z",
+      "posted_at": "2026-11-16T02:52:27.000Z",
+      "text": "MiniMax H3 Fashion MV | 3 Looks, 9 Cuts, Red Collage 🔴\nCRIMSON INDEX turns a 15-second K-fashion edit into a magazine cover.\nMake your own on Ima Studio 👉https://t.co/BcM2lpd5dX\nFull prompt below 👇\n\nCreate a 15-second live-action Korean fashion editorial. 16:9 landscape, 24 fps, exactly nine full-frame shots. Keep the model’s face and key actions within a centered 9:16 safe crop.\nCharacter\nUse @Image1 as the only identity reference. Feature one adult Korean woman throughout. Preserve her face, skin tone, long dark-brown waves, wispy bangs, and natural proportions. Do not copy the reference outfit, pose, or background.\nVisual style\nA red fashion magazine in motion. Pair realistic skin and directional studio lighting with crisp 2D graphics, cool-white negative space, and a palette of scarlet, burgundy, black, and white. Use one leading graphic per shot: a checkerboard strip, a fine black grid, or a burgundy diagonal panel. Keep graphics away from her eyes.\nWardrobe\nShots 01–03: Fitted black-and-white top and high-waisted burgundy skirt.\nShots 04–06: Scarlet cropped blazer, black high-waisted skirt, and tall boots.\nShots 07–09: Asymmetric burgundy dress and silver earrings.\nChange outfits only on the hard cuts into shots 04 and 07. No wardrobe morphing within shots.\nShot sequence\n0.0–1.6s | Beauty close-up. She lifts her gaze as a red checkerboard strip slides behind her shoulder.\n1.6–3.2s | Full body. She takes half a step and looks back as a burgundy panel slides in.\n3.2–4.8s | Seated medium shot. She lowers her hand from her jaw as a fine black grid rises behind her.\n4.8–6.4s | Half-body. In the scarlet blazer, she brushes her hair back as a checkerboard strip sweeps behind her.\n6.4–8.0s | Low-angle medium shot. She settles one hand on her waist as burgundy diagonals close in from the sides.\n8.0–9.6s | Locked close-up. She lowers her chin, then meets the lens. A fine grid stops behind her shoulder.\n9.6–11.2s | Full body. In the burgundy dress, she turns and rests one hand on a rail. A checkerboard strip follows the rail’s line.\n11.2–12.8s | Shoulder close-up. She adjusts one earring as the graphics pull back into a single red panel.\n12.8–15.0s | Final cover. She turns to face the lens. Frame her right of center with clean title space on the left. Hold completely still for the final 0.5 seconds.\nMusic and finish\nUse a 120 BPM K-pop fashion-pop instrumental with no vocals. Time the graphics to the beat or her gestures. Add CRIMSON INDEX and ISSUE 01 in post for clean, readable type. Keep the movement natural and restrained. No dancing, extra people, identity drift, storyboard grids, or fade to black.\n\n#AIVideo #FashionMarketing #MotionDesign #CreativeProduction #ImaStudio",
+      "original_en": "MiniMax H3 Fashion MV | 3 Looks, 9 Cuts, Red Collage 🔴\nCRIMSON INDEX turns a 15-second K-fashion edit into a magazine cover.\nMake your own on Ima Studio 👉https://t.co/BcM2lpd5dX\nFull prompt below 👇\n\nCreate a 15-second live-action Korean fashion editorial. 16:9 landscape, 24 fps, exactly nine full-frame shots. Keep the model’s face and key actions within a centered 9:16 safe crop.\nCharacter\nUse @Image1 as the only identity reference. Feature one adult Korean woman throughout. Preserve her face, skin tone, long dark-brown waves, wispy bangs, and natural proportions. Do not copy the reference outfit, pose, or background.\nVisual style\nA red fashion magazine in motion. Pair realistic skin and directional studio lighting with crisp 2D graphics, cool-white negative space, and a palette of scarlet, burgundy, black, and white. Use one leading graphic per shot: a checkerboard strip, a fine black grid, or a burgundy diagonal panel. Keep graphics away from her eyes.\nWardrobe\nShots 01–03: Fitted black-and-white top and high-waisted burgundy skirt.\nShots 04–06: Scarlet cropped blazer, black high-waisted skirt, and tall boots.\nShots 07–09: Asymmetric burgundy dress and silver earrings.\nChange outfits only on the hard cuts into shots 04 and 07. No wardrobe morphing within shots.\nShot sequence\n0.0–1.6s | Beauty close-up. She lifts her gaze as a red checkerboard strip slides behind her shoulder.\n1.6–3.2s | Full body. She takes half a step and looks back as a burgundy panel slides in.\n3.2–4.8s | Seated medium shot. She lowers her hand from her jaw as a fine black grid rises behind her.\n4.8–6.4s | Half-body. In the scarlet blazer, she brushes her hair back as a checkerboard strip sweeps behind her.\n6.4–8.0s | Low-angle medium shot. She settles one hand on her waist as burgundy diagonals close in from the sides.\n8.0–9.6s | Locked close-up. She lowers her chin, then meets the lens. A fine grid stops behind her shoulder.\n9.6–11.2s | Full body. In the burgundy dress, she turns and rests one hand on a rail. A checkerboard strip follows the rail’s line.\n11.2–12.8s | Shoulder close-up. She adjusts one earring as the graphics pull back into a single red panel.\n12.8–15.0s | Final cover. She turns to face the lens. Frame her right of center with clean title space on the left. Hold completely still for the final 0.5 seconds.\nMusic and finish\nUse a 120 BPM K-pop fashion-pop instrumental with no vocals. Time the graphics to the beat or her gestures. Add CRIMSON INDEX and ISSUE 01 in post for clean, readable type. Keep the movement natural and restrained. No dancing, extra people, identity drift, storyboard grids, or fade to black.\n\n#AIVideo #FashionMarketing #MotionDesign #CreativeProduction #ImaStudio",
+      "lang": "en",
+      "hook": "MiniMax H3 fashion MV with a nine-shot timed prompt and outfit-change rules - 2.2K views, 41 bookmarks.",
+      "video_tip": "Use a nine-shot timed structure for a 15s 40K character reveal (three looks: armor, robes, battle-damaged).",
+      "media": "video",
+      "followers_count": 2817,
+      "likes": 51,
+      "reposts": 9,
+      "bookmarks": 41,
+      "replies": 12,
+      "quotes": 0,
+      "self_quote": false,
+      "board_rank": 17,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "note": "",
+        "topic": null
+      }
+    },
+    {
+      "id": "2122191678706700615",
+      "name": "SYD",
+      "display_name": "SYD",
+      "handle": "@SYDGamesStudio",
+      "views": 1860,
+      "views_label": "1,860",
+      "url": "https://x.com/SYDGamesStudio/status/2122191678706700615",
+      "created_at": "2026-11-16T04:54:59.000Z",
+      "posted_at": "2026-11-16T04:54:59.000Z",
+      "text": "These last few weeks, A LOT of people assured me that:\n\n1) Gamers would NEVER EVER buy games made with AI because \"soul\", \"warmth\", and \"human touch\".\n2) Gamedevs should NEVER EVER disclose their use of AI because of \"backlash\" and \"review bombing\".\n\nSeems like most people don't https://t.co/lW4yftL8Ps https://t.co/2QxJlyXpUK",
+      "original_en": "These last few weeks, A LOT of people assured me that:\n\n1) Gamers would NEVER EVER buy games made with AI because \"soul\", \"warmth\", and \"human touch\".\n2) Gamedevs should NEVER EVER disclose their use of AI because of \"backlash\" and \"review bombing\".\n\nSeems like most people don't https://t.co/lW4yftL8Ps https://t.co/2QxJlyXpUK",
+      "lang": "en",
+      "hook": "Contrarian data post: gamers said they'd never buy AI-made games, sales say otherwise - 1.9K views.",
+      "video_tip": "Pair a short clip with a 'people said X, the numbers say Y' caption about AI fan films.",
+      "media": "video",
+      "followers_count": 119,
+      "likes": 44,
+      "reposts": 2,
+      "bookmarks": 13,
+      "replies": 4,
+      "quotes": 0,
+      "self_quote": false,
+      "board_rank": 18,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "note": "",
+        "topic": null
+      }
+    },
+    {
+      "id": "2121763805072162934",
+      "name": "Peter Kazanjy",
+      "display_name": "Peter Kazanjy",
+      "handle": "@Kazanjy",
+      "views": 1788,
+      "views_label": "1,788",
+      "url": "https://x.com/Kazanjy/status/2121763805072162934",
+      "created_at": "2026-11-15T00:34:46.000Z",
+      "posted_at": "2026-11-15T00:34:46.000Z",
+      "text": "We are about to see a golden age of AI filmmaking - not even original necessarily, but the filmification of untold novels and non-fiction that historically wouldn't have drawn sufficient crowd (and post 2010, would be pooh pooh'd by purple haired septum pierced gatekeepers). \n\nI'm probably going to commission an AI-film rendition of Heinlein's Have Spacesuit Will Travel - one of his juvenile scifi ouevre that my 9 year old absolutely loves (think Hardy Boys, in space, with interstellar travel) just to see how it might work.",
+      "original_en": "We are about to see a golden age of AI filmmaking - not even original necessarily, but the filmification of untold novels and non-fiction that historically wouldn't have drawn sufficient crowd (and post 2010, would be pooh pooh'd by purple haired septum pierced gatekeepers). \n\nI'm probably going to commission an AI-film rendition of Heinlein's Have Spacesuit Will Travel - one of his juvenile scifi ouevre that my 9 year old absolutely loves (think Hardy Boys, in space, with interstellar travel) just to see how it might work.",
+      "lang": "en",
+      "hook": "Prediction post: a golden age of AI filmmaking adapting untold novels - 1.8K views.",
+      "video_tip": "Pitch an AI adaptation of an old public-domain sci-fi story and show a 15s proof-of-concept.",
+      "media": "text",
+      "followers_count": 29040,
+      "likes": 23,
+      "reposts": 1,
+      "bookmarks": 2,
+      "replies": 5,
+      "quotes": 0,
+      "self_quote": false,
+      "board_rank": 19,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "coincidence/other",
+        "matched_keywords": [],
+        "media": "text",
+        "note": "",
+        "topic": "Studio-scale AI film releases"
+      }
+    },
+    {
+      "id": "2122271852773150846",
+      "name": "Umesh",
+      "display_name": "Umesh",
+      "handle": "@umesh_ai",
+      "views": 1750,
+      "views_label": "1,750",
+      "url": "https://x.com/umesh_ai/status/2122271852773150846",
+      "created_at": "2026-11-16T10:13:34.000Z",
+      "posted_at": "2026-11-16T10:13:34.000Z",
+      "text": "How far would you go when someone's entire world depends on you? \n\nThat thought became the inspiration for my latest cinematic short film.\n\nI challenged myself to go from a simple idea to a finished AI film using Adobe Firefly Boards.\n\nHere's how the film turned out 👇\n\nThis post https://t.co/WXuEbZ6avH",
+      "original_en": "How far would you go when someone's entire world depends on you? \n\nThat thought became the inspiration for my latest cinematic short film.\n\nI challenged myself to go from a simple idea to a finished AI film using Adobe Firefly Boards.\n\nHere's how the film turned out 👇\n\nThis post https://t.co/WXuEbZ6avH",
+      "lang": "en",
+      "hook": "Idea-to-finished-film challenge using Adobe Firefly Boards with an emotional question hook - 1.8K views.",
+      "video_tip": "Open with a question that frames the stakes of your short, then show the film.",
+      "media": "video",
+      "followers_count": 48399,
+      "likes": 36,
+      "reposts": 6,
+      "bookmarks": 7,
+      "replies": 18,
+      "quotes": 0,
+      "self_quote": false,
+      "board_rank": 20,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "note": "",
+        "topic": "Bare-title shorts and trailers"
+      }
+    },
+    {
+      "id": "2122138854690058321",
+      "name": "Victorior",
+      "display_name": "Victorior",
+      "handle": "@VictoriorCG",
+      "views": 1409,
+      "views_label": "1,409",
+      "url": "https://x.com/VictoriorCG/status/2122138854690058321",
+      "created_at": "2026-11-16T01:25:05.000Z",
+      "posted_at": "2026-11-16T01:25:05.000Z",
+      "text": "The Star Keeper 🌟  Seedance2.5 4K\nHow much does a 4K AI short film really cost? \nI tracked every credit 👇\n\n2:40 min animated short, every shot Seedance 2.5 4K in CapCut\n✅ If every take worked: ~$215\n😅 Reality, 29 generations: ~around $625\n⏱ 4K ≈ $1.32/sec\n\n4K is available https://t.co/6QvbWCAq5J",
+      "original_en": "The Star Keeper 🌟  Seedance2.5 4K\nHow much does a 4K AI short film really cost? \nI tracked every credit 👇\n\n2:40 min animated short, every shot Seedance 2.5 4K in CapCut\n✅ If every take worked: ~$215\n😅 Reality, 29 generations: ~around $625\n⏱ 4K ≈ $1.32/sec\n\n4K is available https://t.co/6QvbWCAq5J",
+      "lang": "en",
+      "hook": "Credit-tracked cost breakdown of a 2:40 Seedance 2.5 4K short: ~$215 ideal vs ~$625 real across 29 generations, ~$1.32/sec - 1.4K views, 31 replies.",
+      "video_tip": "Track credits on your next 40K short and post the real-vs-ideal cost next to the clip.",
+      "media": "video",
+      "followers_count": 13760,
+      "likes": 31,
+      "reposts": 6,
+      "bookmarks": 5,
+      "replies": 31,
+      "quotes": 1,
+      "self_quote": false,
+      "board_rank": 21,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "note": "",
+        "topic": "Full-prompt Seedance 2.5 shorts"
+      }
+    },
+    {
+      "id": "2122340891025448974",
+      "name": "Dreamina AI",
+      "display_name": "Dreamina AI",
+      "handle": "@dreamina_ai",
+      "views": 1392,
+      "views_label": "1,392",
+      "url": "https://x.com/dreamina_ai/status/2122340891025448974",
+      "created_at": "2026-11-16T14:47:54.000Z",
+      "posted_at": "2026-11-16T14:47:54.000Z",
+      "text": "Dreamina AI Motion Studio is LIVE!\n\nDescribe your idea in a prompt and turn it into code-rendered motion graphics. Explore a range of style templates to start creating faster.\n\nSmarter structure. Clearer storytelling. \n‣ Organize your ideas, copy, and assets into a coherent narrative, with a clear structure and thoughtfully planned pacing.\n\nCode-driven animation. Precise control. \n‣ Fine-tune layouts, element entrances, and animation timing to guide attention and present each detail exactly as intended.\n\nReady-to-use styles. Faster creation. \n‣ Apply preset styles in one click, then refine your content, look, and pacing through follow-up prompts.\n\nSound and visuals. Designed together. \n‣ Combine text, images, and graphics into distinctive animations, with voiceover and music that complement the visual rhythm.\n\nFrom a written idea to polished motion graphics—create it all in Dreamina AI's Motion Studio.\n\n🕐 Limited-time offers:\n‣ Not a subscriber yet? Try Motion Studio free for 1 month.\n‣ Get credits at 40% off.\n \n🎁 Repost and comment within 12 hours of this post going live. The first 200 people to complete both will receive 1,000 Dreamina credits each. First come, first served.\n\n#DreaminaAI #DreaminaMotionStudio",
+      "original_en": "Dreamina AI Motion Studio is LIVE!\n\nDescribe your idea in a prompt and turn it into code-rendered motion graphics. Explore a range of style templates to start creating faster.\n\nSmarter structure. Clearer storytelling. \n‣ Organize your ideas, copy, and assets into a coherent narrative, with a clear structure and thoughtfully planned pacing.\n\nCode-driven animation. Precise control. \n‣ Fine-tune layouts, element entrances, and animation timing to guide attention and present each detail exactly as intended.\n\nReady-to-use styles. Faster creation. \n‣ Apply preset styles in one click, then refine your content, look, and pacing through follow-up prompts.\n\nSound and visuals. Designed together. \n‣ Combine text, images, and graphics into distinctive animations, with voiceover and music that complement the visual rhythm.\n\nFrom a written idea to polished motion graphics—create it all in Dreamina AI's Motion Studio.\n\n🕐 Limited-time offers:\n‣ Not a subscriber yet? Try Motion Studio free for 1 month.\n‣ Get credits at 40% off.\n \n🎁 Repost and comment within 12 hours of this post going live. The first 200 people to complete both will receive 1,000 Dreamina credits each. First come, first served.\n\n#DreaminaAI #DreaminaMotionStudio",
+      "lang": "en",
+      "hook": "Product launch: Dreamina AI Motion Studio (prompt to code-rendered motion graphics) with a repost-for-credits giveaway - 1.4K views.",
+      "video_tip": "Test Motion Studio for animated title cards on your 40K episodes.",
+      "media": "video",
+      "followers_count": 31177,
+      "likes": 56,
+      "reposts": 25,
+      "bookmarks": 11,
+      "replies": 29,
+      "quotes": 2,
+      "self_quote": false,
+      "board_rank": 22,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "note": "",
+        "topic": "Era-swap animation remixes"
+      }
+    }
+  ],
+  "virals_target": 20,
+  "virals_window": "last ~48h",
+  "virals_narrative": "Outsider lane on 15.11 led by @Kling_ai at 276,734 views (Redline, a Kling AI Original racing film). Also clearing: @tupacabra 134,872, @tupacabra 108,564, @VORTEX_Promos 80,877, @EHuanglu 24,765",
+  "patterns": [
+    "Watchlist on 15.11: 2 hits, both stars - Gossip_Goblin's 'Carnal Pursuits' 104,950 and ChrisGwinnLA's 8.5-minute 'Treasure Of The Himalayas' part one 23,566; everyone else under 2.2K",
+    "Bare titles won again: Gossip_Goblin's two-word caption over a twist-ending short pulled 105K and 21 quotes, echoing tupacabra's bare '4K NUREMBERG TRAILER' re-post (108.6K)",
+    "Long-form AI film is becoming a format: Chris posted a full 8.5-minute vintage Technicolor episode with an investor call, 371 bookmarks and 76 replies (he answered dozens about Seedance credits, 480p + Topaz upscales, character consistency)",
+    "LudovicCreator stayed in prompt-drop mode: Soot and Salt Specter prompt 2,164, 'QT Something Black and White' 1,379, Seedream 5.5 tests 1,157 and a Dreamina library prompt short 1,099 - steady, no breakout",
+    "Sunday silence elsewhere: andresvandal and billywoodward posted nothing in the window, pixelbouncer 7 dark-art originals with a best of 200",
+    "Bogdan's best was 'Space Wolf vs. Champion of Khorne' at 885; Black Templar vs. Ork 704 and the Imperial commandant / Chaos minder clip 509 - rank 4 of 7",
+    "Outsider lane: Kling's 'Redline' AI Original racing film (276.7K, promoted-looking: 510 likes) and tupacabra's NUREMBERG afterglow (4K trailer 108.6K, Hollywood take 134.9K); era-swap remixes (techhalla Futurama 1971 12.2K, MIB 1977 7.7K) and full-prompt Seedance 2.5 shorts filled the mid-tier"
+  ],
+  "no_hits": [
+    {
+      "handle": "@pixelbouncer",
+      "reason": "7 original posts on 2026-11-15; none reached 5,000 views (best 200).",
+      "max_views": 200
+    },
+    {
+      "handle": "@andresvandal",
+      "reason": "0 original posts on 2026-11-15 (timeline empty for the day after excluding replies and reposts).",
+      "max_views": 0
+    },
+    {
+      "handle": "@LudovicCreator",
+      "reason": "5 original posts on 2026-11-15; none reached 5,000 views (best 2,164).",
+      "max_views": 2164
+    },
+    {
+      "handle": "@billywoodward",
+      "reason": "0 original posts on 2026-11-15 (timeline empty for the day after excluding replies and reposts).",
+      "max_views": 0
+    }
+  ],
+  "day_roster": [
+    {
+      "handle": "@Gossip_Goblin",
+      "name": "Gossip Goblin",
+      "views": 104950,
+      "total_views": 104950,
+      "hit": true,
+      "posts": 1,
+      "best_url": "https://x.com/Gossip_Goblin/status/2122005491794722988"
+    },
+    {
+      "handle": "@ChrisGwinnLA",
+      "name": "Christopher Gwinn | Grindhouse Glitch",
+      "views": 23566,
+      "total_views": 23566,
+      "hit": true,
+      "posts": 1,
+      "best_url": "https://x.com/ChrisGwinnLA/status/2121834058267156701"
+    },
+    {
+      "handle": "@LudovicCreator",
+      "name": "LudovicCreator",
+      "views": 2164,
+      "total_views": 6679,
+      "hit": false,
+      "posts": 5,
+      "best_url": "https://x.com/LudovicCreator/status/2121898514695291014"
+    },
+    {
+      "handle": "@pixelbouncer",
+      "name": "Ƥ!ЖΣLƁΘUNCΣR",
+      "views": 200,
+      "total_views": 858,
+      "hit": false,
+      "posts": 7,
+      "best_url": "https://x.com/pixelbouncer/status/2121908626587836922"
+    },
+    {
+      "handle": "@andresvandal",
+      "name": "Andres Vandal",
+      "views": 0,
+      "total_views": 0,
+      "hit": false,
+      "posts": 0,
+      "best_url": null
+    },
+    {
+      "handle": "@billywoodward",
+      "name": "Billy Woodward",
+      "views": 0,
+      "total_views": 0,
+      "hit": false,
+      "posts": 0,
+      "best_url": null
+    }
+  ],
+  "you_rank": {
+    "best_views": 885,
+    "total_views": 2663,
+    "best_url": "https://x.com/SMKP_Films/status/2122053314992820681",
+    "posts": 5,
+    "vs_5k": "pending",
+    "vs_10k": "pending",
+    "rank_among_watchlist": 4,
+    "total_accounts": 7
+  },
+  "narrative_synthesis": "The outsider lane over the last ~48h had three threads. First, studio-scale AI film: Kling's official \"Redline\", a Kling AI Original racing film with a director behind-the-scenes, topped the sample at 276.7K views, but only 510 likes, so most of that reach looks promoted. Second, the NUREMBERG afterglow: tupacabra re-posted the trailer as \"4K NUREMBERG TRAILER\" with a bare caption (108.6K, 712 bookmarks) and turned the attention into a one-line take on Hollywood and history (134.9K, 8.3K likes). Third, short stylised remixes and full-prompt Seedance 2.5 shorts filled the mid-tier: techhalla's era swaps (\"Futurama but it's 1971\" 12.2K, \"Men in Black but it's 1977\" 7.7K), EHuanglu's \"AI is ready to make Ice Age 7\" (24.8K), and creator-partner Seedance 2.5 clips posted with second-by-second prompts (AIwithkhan subway revenge 11.4K, saniaspeaks_ watercolor romance 10.6K). Cost transparency kept coming up too (VictoriorCG tracked ~$215 ideal vs ~$625 real for a 2:40 4K Seedance short), and Kling Image 4.0 and Dreamina Motion Studio were teased or launched. On the watchlist the same two formats won: a bare two-word title over a twist-ending short (Gossip_Goblin, 105K) and a long, era-styled episode with a clear next step (ChrisGwinnLA, 23.6K). Takeaway for Bogdan: post one 40K vignette with a twist and a 2-3 word caption, and try an \"it's 1985\" era-swap, since his 80s-anime look already fits that format.",
+  "trend_input_only": [],
+  "trend_input_only_posts": [],
+  "leaderboards": {
+    "as_of": "2026-11-15",
+    "tracking_start": "2026-11-04",
+    "days_included": [
+      "2026-11-09",
+      "2026-11-10",
+      "2026-11-11",
+      "2026-11-12",
+      "2026-11-13",
+      "2026-11-14",
+      "2026-11-15"
+    ],
+    "month_days_included": [
+      "2026-11-04",
+      "2026-11-05",
+      "2026-11-06",
+      "2026-11-07",
+      "2026-11-08",
+      "2026-11-09",
+      "2026-11-10",
+      "2026-11-11",
+      "2026-11-12",
+      "2026-11-13",
+      "2026-11-14",
+      "2026-11-15"
+    ],
+    "week": {
+      "label": "Rolling week · Nov 9–Nov 15",
+      "range": [
+        "2026-11-09",
+        "2026-11-15"
+      ],
+      "entries": [
+        {
+          "handle": "@LudovicCreator",
+          "name": "LudovicCreator",
+          "hits": 3,
+          "days": 3,
+          "views": 236446,
+          "best": 133926,
+          "best_url": "https://x.com/LudovicCreator/status/2120592485437350268"
+        },
+        {
+          "handle": "@Gossip_Goblin",
+          "name": "Gossip Goblin",
+          "hits": 3,
+          "days": 3,
+          "views": 171620,
+          "best": 104950,
+          "best_url": "https://x.com/Gossip_Goblin/status/2122005491794722988"
+        },
+        {
+          "handle": "@ChrisGwinnLA",
+          "name": "Christopher Gwinn | Grindhouse Glitch",
+          "hits": 4,
+          "days": 4,
+          "views": 55678,
+          "best": 23566,
+          "best_url": "https://x.com/ChrisGwinnLA/status/2121834058267156701"
+        },
+        {
+          "handle": "@andresvandal",
+          "name": "Andres Vandal",
+          "hits": 1,
+          "days": 1,
+          "views": 15859,
+          "best": 15859,
+          "best_url": "https://x.com/andresvandal/status/2120763498250822082"
+        }
+      ]
+    },
+    "month": {
+      "label": "November 2026 · from Nov 4",
+      "range": [
+        "2026-11-04",
+        "2026-11-15"
+      ],
+      "entries": [
+        {
+          "handle": "@Gossip_Goblin",
+          "name": "Gossip Goblin",
+          "hits": 14,
+          "days": 7,
+          "views": 630348,
+          "best": 139184,
+          "best_url": "https://x.com/Gossip_Goblin/status/2118396958289346810"
+        },
+        {
+          "handle": "@LudovicCreator",
+          "name": "LudovicCreator",
+          "hits": 3,
+          "days": 3,
+          "views": 236446,
+          "best": 133926,
+          "best_url": "https://x.com/LudovicCreator/status/2120592485437350268"
+        },
+        {
+          "handle": "@ChrisGwinnLA",
+          "name": "Christopher Gwinn | Grindhouse Glitch",
+          "hits": 5,
+          "days": 5,
+          "views": 60919,
+          "best": 23566,
+          "best_url": "https://x.com/ChrisGwinnLA/status/2121834058267156701"
+        },
+        {
+          "handle": "@andresvandal",
+          "name": "Andres Vandal",
+          "hits": 2,
+          "days": 2,
+          "views": 21164,
+          "best": 15859,
+          "best_url": "https://x.com/andresvandal/status/2120763498250822082"
+        }
+      ]
+    }
+  },
+  "drafts_top10": [
+    {
+      "rank": 1,
+      "id": "2122183574308700468",
+      "handle": "@Kling_ai",
+      "views": 276734,
+      "lane": "outsider"
+    },
+    {
+      "rank": 2,
+      "id": "2122043372047401368",
+      "handle": "@tupacabra",
+      "views": 134872,
+      "lane": "outsider"
+    },
+    {
+      "rank": 3,
+      "id": "2122269057600885152",
+      "handle": "@tupacabra",
+      "views": 108564,
+      "lane": "outsider"
+    },
+    {
+      "rank": 4,
+      "id": "2122005491794722988",
+      "handle": "@Gossip_Goblin",
+      "views": 104950,
+      "lane": "watchlist"
+    },
+    {
+      "rank": 5,
+      "id": "2122067445523575180",
+      "handle": "@VORTEX_Promos",
+      "views": 80877,
+      "lane": "outsider"
+    },
+    {
+      "rank": 6,
+      "id": "2122028933638156470",
+      "handle": "@EHuanglu",
+      "views": 24765,
+      "lane": "outsider"
+    },
+    {
+      "rank": 7,
+      "id": "2121834058267156701",
+      "handle": "@ChrisGwinnLA",
+      "views": 23566,
+      "lane": "watchlist"
+    },
+    {
+      "rank": 8,
+      "id": "2121896807215304968",
+      "handle": "@AIwithNatalia",
+      "views": 16175,
+      "lane": "outsider"
+    },
+    {
+      "rank": 9,
+      "id": "2122017193000878192",
+      "handle": "@minchoi",
+      "views": 15479,
+      "lane": "outsider"
+    },
+    {
+      "rank": 10,
+      "id": "2122041559889957177",
+      "handle": "@techhalla",
+      "views": 12238,
+      "lane": "outsider"
+    }
+  ],
+  "trend_keywords": {
+    "date": "2026-11-15",
+    "window": "day D board posts + last-24h posts >= min_views + outsiders + trend-input accounts + pattern brief",
+    "method": "sum(log10 views) over distinct posts x author spread x phrase length x entity/brief bonus; >=2 authors",
+    "keywords": [
+      {
+        "keyword": "Seedance 2.5",
+        "rank": 1,
+        "score": 94.0,
+        "posts": 5,
+        "authors": 5
+      },
+      {
+        "keyword": "animation",
+        "rank": 2,
+        "score": 44.5,
+        "posts": 5,
+        "authors": 5
+      },
+      {
+        "keyword": "AI film",
+        "rank": 3,
+        "score": 21.7,
+        "posts": 2,
+        "authors": 2
+      },
+      {
+        "keyword": "video",
+        "rank": 4,
+        "score": 20.2,
+        "posts": 3,
+        "authors": 3
+      },
+      {
+        "keyword": "2.5 Prompt Create",
+        "rank": 5,
+        "score": 19.7,
+        "posts": 2,
+        "authors": 2
+      },
+      {
+        "keyword": "AI filmmaking",
+        "rank": 6,
+        "score": 19.1,
+        "posts": 2,
+        "authors": 2
+      },
+      {
+        "keyword": "live-action Korean",
+        "rank": 7,
+        "score": 16.2,
+        "posts": 2,
+        "authors": 2
+      },
+      {
+        "keyword": "Korean woman",
+        "rank": 8,
+        "score": 16.2,
+        "posts": 2,
+        "authors": 2
+      },
+      {
+        "keyword": "Scene 1",
+        "rank": 9,
+        "score": 16.0,
+        "posts": 2,
+        "authors": 2
+      },
+      {
+        "keyword": "Scene 2",
+        "rank": 10,
+        "score": 16.0,
+        "posts": 2,
+        "authors": 2
+      },
+      {
+        "keyword": "Scene 3",
+        "rank": 11,
+        "score": 16.0,
+        "posts": 2,
+        "authors": 2
+      },
+      {
+        "keyword": "Scene 4",
+        "rank": 12,
+        "score": 16.0,
+        "posts": 2,
+        "authors": 2
+      },
+      {
+        "keyword": "Scene 5",
+        "rank": 13,
+        "score": 16.0,
+        "posts": 2,
+        "authors": 2
+      },
+      {
+        "keyword": "Scene 6",
+        "rank": 14,
+        "score": 16.0,
+        "posts": 2,
+        "authors": 2
+      },
+      {
+        "keyword": "Kling",
+        "rank": 15,
+        "score": 14.3,
+        "posts": 2,
+        "authors": 1
+      },
+      {
+        "keyword": "30-second",
+        "rank": 16,
+        "score": 13.6,
+        "posts": 2,
+        "authors": 2
+      },
+      {
+        "keyword": "facial animation",
+        "rank": 17,
+        "score": 13.2,
+        "posts": 2,
+        "authors": 2
+      },
+      {
+        "keyword": "4K Nuremberg Trailer",
+        "rank": 18,
+        "score": 13.1,
+        "posts": 1,
+        "authors": 1
+      },
+      {
+        "keyword": "Reaction",
+        "rank": 19,
+        "score": 12.8,
+        "posts": 2,
+        "authors": 2
+      },
+      {
+        "keyword": "Inside",
+        "rank": 20,
+        "score": 12.7,
+        "posts": 2,
+        "authors": 2
+      },
+      {
+        "keyword": "Funny",
+        "rank": 21,
+        "score": 12.7,
+        "posts": 2,
+        "authors": 2
+      },
+      {
+        "keyword": "Final",
+        "rank": 22,
+        "score": 11.6,
+        "posts": 2,
+        "authors": 2
+      },
+      {
+        "keyword": "AI Original",
+        "rank": 23,
+        "score": 11.5,
+        "posts": 1,
+        "authors": 1
+      },
+      {
+        "keyword": "Studio",
+        "rank": 24,
+        "score": 10.9,
+        "posts": 2,
+        "authors": 2
+      },
+      {
+        "keyword": "Carnal Pursuits",
+        "rank": 25,
+        "score": 10.6,
+        "posts": 1,
+        "authors": 1
+      }
+    ]
+  },
+  "trend_radar": {
+    "date": "2026-11-15",
+    "title": "Trends and post ideas",
+    "window": {
+      "end": "2026-11-16T10:36:18-05:00",
+      "label24": "15.11 10:36 - 16.11 10:36 UTC",
+      "label48": "14.11 10:36 - 16.11 10:36 UTC"
+    },
+    "corpus": {
+      "posts": 14,
+      "min_views": 5000,
+      "lanes": {
+        "watchlist": 2,
+        "outsider": 12,
+        "24h": 0,
+        "trend_input": 0
+      }
+    },
+    "summary": {
+      "top10_line": "TOP-10: 0/10 (0%) matched trends · visual 8, author/audience 2",
+      "headline": "3 of 22 board hits (14%) matched 24-48 h trends. Median views: trend 10.6K vs non-trend 12.2K (mean 9.4K vs 43.2K). Watchlist: 0/2 on trend. 17 hits with video, median 10.6K vs 80.9K without.",
+      "takeaway": "Neither trend nor video decided it alone: keep the top radar topic, bet on a strong hook and usefulness (Bare-title shorts and trailers).",
+      "stats": {
+        "all": {
+          "n": 22,
+          "trend_n": 3,
+          "trend_pct": 14,
+          "avg_trend": 9447,
+          "avg_other": 43247,
+          "median_trend": 10629,
+          "median_other": 12238,
+          "verdicts": {
+            "trend": 3,
+            "visual": 16,
+            "author/audience": 2,
+            "coincidence/other": 1
+          }
+        },
+        "watchlist": {
+          "n": 2,
+          "trend_n": 0,
+          "trend_pct": 0,
+          "avg_trend": null,
+          "avg_other": 64258,
+          "median_trend": null,
+          "median_other": 64258,
+          "verdicts": {
+            "trend": 0,
+            "visual": 2,
+            "author/audience": 0,
+            "coincidence/other": 0
+          }
+        },
+        "outsiders": {
+          "n": 20,
+          "trend_n": 3,
+          "trend_pct": 15,
+          "avg_trend": 9447,
+          "avg_other": 40775,
+          "median_trend": 10629,
+          "median_other": 7700,
+          "verdicts": {
+            "trend": 3,
+            "visual": 14,
+            "author/audience": 2,
+            "coincidence/other": 1
+          }
+        },
+        "top10": {
+          "n": 10,
+          "trend_n": 0,
+          "trend_pct": 0,
+          "avg_trend": null,
+          "avg_other": 79822,
+          "median_trend": null,
+          "median_other": 52821,
+          "verdicts": {
+            "trend": 0,
+            "visual": 8,
+            "author/audience": 2,
+            "coincidence/other": 0
+          }
+        },
+        "media": {
+          "video_n": 17,
+          "median_video": 10629,
+          "other_n": 5,
+          "median_other": 80877
+        }
+      }
+    },
+    "topics": [
+      {
+        "name": "Bare-title shorts and trailers",
+        "keywords": [
+          "AI film",
+          "Carnal Pursuits",
+          "4K Nuremberg Trailer"
+        ],
+        "posts_24h": 2,
+        "posts_48h": 3,
+        "views_24h": 213514,
+        "views_prev24h": 23566,
+        "views_48h": 237080,
+        "momentum": "up x2.30",
+        "heat_raw": 12.24,
+        "evidence": [
+          {
+            "handle": "@tupacabra",
+            "views": 108564,
+            "url": "https://x.com/tupacabra/status/2122269057600885152",
+            "hook": "Bare-title re-release: '4K NUREMBERG TRAILER' - the week's AI-film event upgraded to 4K and re-posted - 108.6K views, 712 bookmarks.",
+            "lane": "outsider"
+          },
+          {
+            "handle": "@Gossip_Goblin",
+            "views": 104950,
+            "url": "https://x.com/Gossip_Goblin/status/2122005491794722988",
+            "hook": "Two-word title card \"Carnal Pursuits\" over a surreal, uncanny AI short with a twist ending - no explanation, no tool list - 105K views, 2.6K likes, 652 bookmark",
+            "lane": "watchlist"
+          },
+          {
+            "handle": "@ChrisGwinnLA",
+            "views": 23566,
+            "url": "https://x.com/ChrisGwinnLA/status/2121834058267156701",
+            "hook": "Full-length release of a passion project: the 8.5-minute part one of \"Treasure Of The Himalayas\", a 1960s Technicolor sci-fi adventure AI film, plus an open cal",
+            "lane": "watchlist"
+          }
+        ],
+        "heat": 100
+      },
+      {
+        "name": "Full-prompt Seedance 2.5 shorts",
+        "keywords": [
+          "Seedance 2.5",
+          "Seedance",
+          "short film"
+        ],
+        "posts_24h": 0,
+        "posts_48h": 4,
+        "views_24h": 0,
+        "views_prev24h": 44517,
+        "views_48h": 44517,
+        "momentum": "down · previous 24 h only",
+        "heat_raw": 8.05,
+        "evidence": [
+          {
+            "handle": "@AIwithNatalia",
+            "views": 16175,
+            "url": "https://x.com/AIwithNatalia/status/2121896807215304968",
+            "hook": "Contest-entry sci-fi short (robot discovering human emotions) with a warm creator note - 16.2K views, 63 replies, 0 bookmarks (contest push).",
+            "lane": "outsider"
+          },
+          {
+            "handle": "@AIwithkhan",
+            "views": 11389,
+            "url": "https://x.com/AIwithkhan/status/2121821003450081560",
+            "hook": "30s Seedance 2.5 Korean subway revenge scene with the full timed prompt (0-5s, 5-9s...) and a one-line emotional hook - 11.4K views, 51 replies.",
+            "lane": "outsider"
+          },
+          {
+            "handle": "@saniaspeaks_",
+            "views": 10629,
+            "url": "https://x.com/saniaspeaks_/status/2121826097029591312",
+            "hook": "Hand-painted 2D romance short with scene-by-scene Seedance 2.5 prompt (partner post) - 10.6K views, 49 replies.",
+            "lane": "outsider"
+          }
+        ],
+        "heat": 66
+      },
+      {
+        "name": "Era-swap animation remixes",
+        "keywords": [
+          "animation"
+        ],
+        "posts_24h": 0,
+        "posts_48h": 3,
+        "views_24h": 0,
+        "views_prev24h": 28342,
+        "views_48h": 28342,
+        "momentum": "down · previous 24 h only",
+        "heat_raw": 5.94,
+        "evidence": [
+          {
+            "handle": "@AIwithkhan",
+            "views": 11389,
+            "url": "https://x.com/AIwithkhan/status/2121821003450081560",
+            "hook": "30s Seedance 2.5 Korean subway revenge scene with the full timed prompt (0-5s, 5-9s...) and a one-line emotional hook - 11.4K views, 51 replies.",
+            "lane": "outsider"
+          },
+          {
+            "handle": "@saniaspeaks_",
+            "views": 10629,
+            "url": "https://x.com/saniaspeaks_/status/2121826097029591312",
+            "hook": "Hand-painted 2D romance short with scene-by-scene Seedance 2.5 prompt (partner post) - 10.6K views, 49 replies.",
+            "lane": "outsider"
+          },
+          {
+            "handle": "@itsSaira_1",
+            "views": 6324,
+            "url": "https://x.com/itsSaira_1/status/2121817354279510226",
+            "hook": "Hyper-real Seedance 2.5 woman-and-panther motorcycle scene with full prompt and negative prompt - 6.3K views.",
+            "lane": "outsider"
+          }
+        ],
+        "heat": 49
+      },
+      {
+        "name": "Studio-scale AI film releases",
+        "keywords": [
+          "AI Original",
+          "AI filmmaking",
+          "Kling"
+        ],
+        "posts_24h": 1,
+        "posts_48h": 1,
+        "views_24h": 276734,
+        "views_prev24h": 0,
+        "views_48h": 276734,
+        "momentum": "new · 24 h only",
+        "heat_raw": 5.44,
+        "evidence": [
+          {
+            "handle": "@Kling_ai",
+            "views": 276734,
+            "url": "https://x.com/Kling_ai/status/2122183574308700468",
+            "hook": "Official studio release: 'Redline', a Kling AI Original racing film, framed as AI filmmaking tested in its hardest genre (car racing) with a director behind-the",
+            "lane": "outsider"
+          }
+        ],
+        "heat": 44
+      }
+    ],
+    "ideas": [
+      {
+        "title": "Hardest genre test: a 40K chase",
+        "topic": "Kling",
+        "keywords": [
+          "Kling",
+          "Seedance"
+        ],
+        "format": "video",
+        "visual_type": "video",
+        "visual": "20-30s bike squadron or Rhino chase through a hive city, same prompt in Kling and Seedance side by side.",
+        "angle": "Kling pitched its Redline film as AI tackling car racing, its toughest genre; run the same high-speed test on a 40K chase in Kling vs Seedance.",
+        "hook_en": "Speed is where AI video falls apart. Same 40K chase prompt, Kling vs Seedance - which one holds together?",
+        "why": "Kling 'Redline' 276,734 views; Kling is #1 in the X keyword sample (281,981 sampled views).",
+        "x_keywords": [
+          "Kling",
+          "Seedance"
+        ],
+        "x_rank": 1,
+        "source": "x-keywords"
+      },
+      {
+        "title": "40K but it's 1985",
+        "topic": "AI animation",
+        "keywords": [
+          "AI animation",
+          "anime"
+        ],
+        "format": "video",
+        "visual_type": "video",
+        "visual": "15-20s fake 80s anime opening for a 40K chapter: title card, cel-shaded hero shots, VHS grain.",
+        "angle": "techhalla's era-swap remixes keep landing; Bogdan already owns the 80s anime look, so an AI animation era-swap is a natural fit.",
+        "hook_en": "Warhammer 40K, but it's a 1985 anime opening. AI animation, start to finish.",
+        "why": "techhalla 'Futurama but it's 1971' 12,238 and 'Men in Black but it's 1977' 7,700; AI animation #3 in the X sample.",
+        "x_keywords": [
+          "AI animation",
+          "anime"
+        ],
+        "x_rank": 3,
+        "source": "x-keywords"
+      },
+      {
+        "title": "Grok Imagine after the team cuts",
+        "topic": "Grok Imagine",
+        "keywords": [
+          "Grok Imagine",
+          "AI video"
+        ],
+        "format": "video",
+        "visual_type": "video",
+        "visual": "15s montage of Bogdan's best Grok Imagine 40K clips with a caption card on what he'd keep using.",
+        "angle": "Grok Imagine team-cut news is still circulating; a creator's honest AI video montage of what the tool did well is a timely, visual take.",
+        "hook_en": "Grok Imagine's future looks uncertain. Here's what it made for my 40K channel - and what I'd miss.",
+        "why": "Grok Imagine #4 in the X sample (24,651 sampled views, flat x1.06); team-cut posts across the outsider lane.",
+        "x_keywords": [
+          "Grok Imagine",
+          "AI video"
+        ],
+        "x_rank": 4,
+        "source": "x-keywords"
+      },
+      {
+        "title": "40K vignette with a twist, two-word title",
+        "topic": "AI filmmaking",
+        "keywords": [
+          "AI filmmaking",
+          "short film"
+        ],
+        "format": "video",
+        "visual_type": "video",
+        "visual": "30-45s 80s-anime 40K vignette that flips in the last 5 seconds; caption is only a 2-3 word title.",
+        "angle": "Copy the bare-title format that carried Gossip_Goblin's twist-ending short film: no tool list, no explanation, let the AI filmmaking speak and let quotes do the explaining.",
+        "hook_en": "Perfect Feast",
+        "why": "Gossip_Goblin 'Carnal Pursuits' 104,950 views and 21 quotes; AI filmmaking is #5 in the X keyword sample.",
+        "x_keywords": [
+          "AI filmmaking",
+          "short film"
+        ],
+        "x_rank": 5,
+        "source": "x-keywords"
+      },
+      {
+        "title": "Full prompt under the clip",
+        "topic": "Seedance",
+        "keywords": [
+          "Seedance",
+          "short film",
+          "30-second"
+        ],
+        "format": "video",
+        "visual_type": "video",
+        "visual": "30-second single-scene 40K clip with the full second-by-second prompt pasted in the post.",
+        "angle": "Full-prompt Seedance 2.5 shorts (subway revenge 11.4K, watercolor romance 10.6K) earn replies and bookmarks; post a 30-second 40K short film with the whole timed prompt.",
+        "hook_en": "30-second Seedance scene, full prompt below. Steal it, swap the faction, show me what you get.",
+        "why": "AIwithkhan 11,389 and saniaspeaks_ 10,629 with full prompts; Seedance 2.5 is #1 in the 24h trend keywords.",
+        "x_keywords": [
+          "Seedance",
+          "short film"
+        ],
+        "x_rank": 7,
+        "source": "x-keywords"
+      },
+      {
+        "title": "My long cut, natively on X",
+        "topic": "AI video",
+        "keywords": [
+          "AI film",
+          "AI video"
+        ],
+        "format": "video",
+        "visual_type": "video",
+        "visual": "Native upload of a 3-8 minute cut of the 80s-anime 40K episode, first frame a title card.",
+        "angle": "ChrisGwinnLA's full 8.5-minute AI film drew 371 bookmarks; upload a longer AI video cut natively instead of a YouTube link and add a clear next step.",
+        "hook_en": "The full episode, no YouTube link this time. A complete 80s-anime Warhammer 40K AI film - part two is next.",
+        "why": "ChrisGwinnLA 23,566 views, 371 bookmarks; AI video up x2.61 in the X keyword sample.",
+        "x_keywords": [
+          "AI video"
+        ],
+        "x_rank": 8,
+        "source": "x-keywords"
+      }
+    ],
+    "articles": [
+      {
+        "title": "From clip to episode: why long AI films are suddenly working",
+        "thesis": "ChrisGwinnLA's 8.5-minute Technicolor episode and Kling's Redline show AI filmmaking moving from 15-second clips to watchable episodes.",
+        "outline": [
+          "What changed in the tools",
+          "Character consistency over minutes",
+          "Credits and upscaling choices",
+          "Where a solo 40K creator fits"
+        ],
+        "keywords": [
+          "AI filmmaking",
+          "Kling",
+          "Seedance"
+        ],
+        "visual": "Cover: frame grid from Bogdan's own episode; inline: runtime comparison chart.",
+        "why": "ChrisGwinnLA 23,566; Kling Redline 276,734; Kling #1 in the X sample.",
+        "x_keywords": [
+          "AI filmmaking",
+          "Kling",
+          "Seedance"
+        ]
+      },
+      {
+        "title": "The bare-title effect",
+        "thesis": "The biggest AI posts this weekend said almost nothing: 'Carnal Pursuits', '4K NUREMBERG TRAILER'. Why a title alone beats a caption.",
+        "outline": [
+          "The examples",
+          "Why quotes do the work",
+          "When a full prompt wins instead",
+          "Testing it on 40K"
+        ],
+        "keywords": [
+          "AI film",
+          "AI animation"
+        ],
+        "visual": "Cover: two-word title card over a 40K still; inline: views vs caption length scatter from the board.",
+        "why": "Gossip_Goblin 104,950; tupacabra 108,564; AI animation #3 in the X sample.",
+        "x_keywords": [
+          "AI animation"
+        ]
+      }
+    ],
+    "why_hit": [
+      {
+        "id": "2122005491794722988",
+        "handle": "@Gossip_Goblin",
+        "lane": "watchlist",
+        "views": 104950,
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "followers": 124817,
+        "topic": "Bare-title shorts and trailers",
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2121834058267156701",
+        "handle": "@ChrisGwinnLA",
+        "lane": "watchlist",
+        "views": 23566,
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "followers": 7041,
+        "topic": "Bare-title shorts and trailers",
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2122183574308700468",
+        "handle": "@Kling_ai",
+        "lane": "outsider",
+        "views": 276734,
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "followers": 139057,
+        "topic": "Studio-scale AI film releases",
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2122043372047401368",
+        "handle": "@tupacabra",
+        "lane": "outsider",
+        "views": 134872,
+        "trend_match": 0,
+        "verdict": "author/audience",
+        "matched_keywords": [],
+        "media": "text",
+        "followers": 160801,
+        "topic": null,
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2122269057600885152",
+        "handle": "@tupacabra",
+        "lane": "outsider",
+        "views": 108564,
+        "trend_match": 0,
+        "verdict": "author/audience",
+        "matched_keywords": [],
+        "media": "text",
+        "followers": 160801,
+        "topic": "Bare-title shorts and trailers",
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2122067445523575180",
+        "handle": "@VORTEX_Promos",
+        "lane": "outsider",
+        "views": 80877,
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "image",
+        "followers": 125240,
+        "topic": null,
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2122028933638156470",
+        "handle": "@EHuanglu",
+        "lane": "outsider",
+        "views": 24765,
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "followers": 151886,
+        "topic": null,
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2121896807215304968",
+        "handle": "@AIwithNatalia",
+        "lane": "outsider",
+        "views": 16175,
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "followers": 12502,
+        "topic": "Full-prompt Seedance 2.5 shorts",
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2122017193000878192",
+        "handle": "@minchoi",
+        "lane": "outsider",
+        "views": 15479,
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "followers": 392600,
+        "topic": null,
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2122041559889957177",
+        "handle": "@techhalla",
+        "lane": "outsider",
+        "views": 12238,
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "followers": 103889,
+        "topic": null,
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2121821003450081560",
+        "handle": "@AIwithkhan",
+        "lane": "outsider",
+        "views": 11389,
+        "trend_match": 83,
+        "verdict": "trend",
+        "matched_keywords": [
+          "Seedance 2.5",
+          "animation",
+          "video",
+          "30-second",
+          "Inside"
+        ],
+        "media": "video",
+        "followers": 15674,
+        "topic": "Full-prompt Seedance 2.5 shorts",
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2121826097029591312",
+        "handle": "@saniaspeaks_",
+        "lane": "outsider",
+        "views": 10629,
+        "trend_match": 97,
+        "verdict": "trend",
+        "matched_keywords": [
+          "Seedance 2.5",
+          "animation",
+          "video",
+          "Scene 1",
+          "Scene 2",
+          "Scene 3",
+          "Scene 4",
+          "Scene 5",
+          "Scene 6",
+          "30-second"
+        ],
+        "media": "video",
+        "followers": 16592,
+        "topic": "Full-prompt Seedance 2.5 shorts",
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2122310961692569716",
+        "handle": "@techhalla",
+        "lane": "outsider",
+        "views": 7700,
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "followers": 103889,
+        "topic": null,
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2121817354279510226",
+        "handle": "@itsSaira_1",
+        "lane": "outsider",
+        "views": 6324,
+        "trend_match": 96,
+        "verdict": "trend",
+        "matched_keywords": [
+          "Seedance 2.5",
+          "animation",
+          "video",
+          "Scene 1",
+          "Scene 2",
+          "Scene 3",
+          "Scene 4",
+          "Scene 5",
+          "Scene 6"
+        ],
+        "media": "video",
+        "followers": 6763,
+        "topic": "Full-prompt Seedance 2.5 shorts",
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2121793730600722521",
+        "handle": "@Zarnab_with_Ai",
+        "lane": "outsider",
+        "views": 3221,
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "followers": 5321,
+        "topic": "Full-prompt Seedance 2.5 shorts",
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2122343937977581924",
+        "handle": "@Kling_ai",
+        "lane": "outsider",
+        "views": 2181,
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "image",
+        "followers": 139057,
+        "topic": "Studio-scale AI film releases",
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2122160843324592416",
+        "handle": "@ImaStudio_ai",
+        "lane": "outsider",
+        "views": 2177,
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "followers": 2817,
+        "topic": null,
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2122191678706700615",
+        "handle": "@SYDGamesStudio",
+        "lane": "outsider",
+        "views": 1860,
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "followers": 119,
+        "topic": null,
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2121763805072162934",
+        "handle": "@Kazanjy",
+        "lane": "outsider",
+        "views": 1788,
+        "trend_match": 0,
+        "verdict": "coincidence/other",
+        "matched_keywords": [],
+        "media": "text",
+        "followers": 29040,
+        "topic": "Studio-scale AI film releases",
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2122271852773150846",
+        "handle": "@umesh_ai",
+        "lane": "outsider",
+        "views": 1750,
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "followers": 48399,
+        "topic": "Bare-title shorts and trailers",
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2122138854690058321",
+        "handle": "@VictoriorCG",
+        "lane": "outsider",
+        "views": 1409,
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "followers": 13760,
+        "topic": "Full-prompt Seedance 2.5 shorts",
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2122340891025448974",
+        "handle": "@dreamina_ai",
+        "lane": "outsider",
+        "views": 1392,
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "followers": 31177,
+        "topic": "Era-swap animation remixes",
+        "self_quote": false,
+        "note": ""
+      }
+    ],
+    "labels": {
+      "trend": "trend",
+      "visual": "visual",
+      "author": "author/audience",
+      "other": "coincidence/other",
+      "nontrend": "non-trend",
+      "self_quote": "self-quote",
+      "no_data": "no data"
+    },
+    "x_keywords": {
+      "fetched_at": "2026-11-16T15:36:00+00:00",
+      "window_start": "2026-11-14T15:36:00Z",
+      "calls": 32,
+      "method": "Read-only x MCP search_posts_all, 2 calls per keyword: last 24 h and previous 24 h (24-48 h ago); lang:en, no retweets/replies, sort=relevancy, up to 25 posts per window. This is a SAMPLE of top-relevance posts, not every post on X. Views = impression_count at fetch time. Rank = sum of sampled 24 h views; 48 h = both windows; trend = 24 h sum / previous 24 h sum (up >=1.3, down <=0.7). Fresh posts are still gaining views, so 'up' is understated. Top-post share > 70% means one viral post carries the keyword.",
+      "missing": [],
+      "sample": true,
+      "sample_size_per_call": 25,
+      "keywords": [
+        {
+          "keyword": "Kling",
+          "query": "\"Kling\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 25,
+            "total": 281981,
+            "median": 31,
+            "top": {
+              "views": 277352,
+              "url": "https://x.com/Kling_ai/status/2122183574308700468",
+              "handle": "@Kling_ai",
+              "text": "With adrenaline-pumping racing sequences and captivating performances, Redline, a Kling AI Original, brings the intensit"
+            }
+          },
+          "prev24": {
+            "n": 23,
+            "total": 257167,
+            "median": 100,
+            "top": {
+              "views": 249276,
+              "url": "https://x.com/Kling_ai/status/2121798653656420668",
+              "handle": "@Kling_ai",
+              "text": "How do you make a Halloween film that isn't meant to be scary? My Favorite Night of the Year, a Kling AI Original, is a "
+            }
+          },
+          "w48": {
+            "n": 48,
+            "total": 539148,
+            "top": {
+              "views": 277352,
+              "url": "https://x.com/Kling_ai/status/2122183574308700468",
+              "handle": "@Kling_ai",
+              "text": "With adrenaline-pumping racing sequences and captivating performances, Redline, a Kling AI Original, brings the intensit"
+            }
+          },
+          "change": 1.1,
+          "trend": "flat",
+          "partial": false,
+          "top_share": 0.98,
+          "rank": 1
+        },
+        {
+          "keyword": "Runway",
+          "query": "\"Runway\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 25,
+            "total": 200564,
+            "median": 45,
+            "top": {
+              "views": 197388,
+              "url": "https://x.com/TripppleSeven7/status/2122032345490522567",
+              "handle": "@TripppleSeven7",
+              "text": "Watch This A340 Struggle to Get Airborne Before the Runway Ends! This aircraft continues accelerating down the runway, b"
+            }
+          },
+          "prev24": {
+            "n": 25,
+            "total": 24187,
+            "median": 52,
+            "top": {
+              "views": 18992,
+              "url": "https://x.com/wingXaviation/status/2121886930686329004",
+              "handle": "@wingXaviation",
+              "text": "🚨 Delhi Airport Runway 29L threshold displacement reduced The displaced threshold is reduced from 1,460 metres to 650 me"
+            }
+          },
+          "w48": {
+            "n": 50,
+            "total": 224751,
+            "top": {
+              "views": 197388,
+              "url": "https://x.com/TripppleSeven7/status/2122032345490522567",
+              "handle": "@TripppleSeven7",
+              "text": "Watch This A340 Struggle to Get Airborne Before the Runway Ends! This aircraft continues accelerating down the runway, b"
+            }
+          },
+          "change": 8.29,
+          "trend": "up",
+          "partial": false,
+          "top_share": 0.98,
+          "rank": 2
+        },
+        {
+          "keyword": "AI animation",
+          "query": "\"AI animation\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 25,
+            "total": 87821,
+            "median": 73,
+            "top": {
+              "views": 52448,
+              "url": "https://x.com/AiwithSaif7/status/2122146394018652649",
+              "handle": "@AiwithSaif7",
+              "text": "This AI Animation is literally a masterpiece 🔥 Seedance 2.5 https://t.co/Sy8QV9uVdR"
+            }
+          },
+          "prev24": {
+            "n": 25,
+            "total": 1272537,
+            "median": 101,
+            "top": {
+              "views": 759939,
+              "url": "https://x.com/Xmbluee/status/2121646260008730913",
+              "handle": "@Xmbluee",
+              "text": "This AI animation is beyond this world 🔥 This arcade machine won’t break Seedance 2.5 https://t.co/mvbztrbCZx"
+            }
+          },
+          "w48": {
+            "n": 50,
+            "total": 1360358,
+            "top": {
+              "views": 759939,
+              "url": "https://x.com/Xmbluee/status/2121646260008730913",
+              "handle": "@Xmbluee",
+              "text": "This AI animation is beyond this world 🔥 This arcade machine won’t break Seedance 2.5 https://t.co/mvbztrbCZx"
+            }
+          },
+          "change": 0.07,
+          "trend": "down",
+          "partial": false,
+          "top_share": 0.6,
+          "rank": 3
+        },
+        {
+          "keyword": "Grok Imagine",
+          "query": "\"Grok Imagine\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 25,
+            "total": 24651,
+            "median": 45,
+            "top": {
+              "views": 13304,
+              "url": "https://x.com/AadityaCodesAI/status/2121996648138334415",
+              "handle": "@AadityaCodesAI",
+              "text": "My time with the Grok Imagine team and @spacexai has come to an end after 21 incredible months. I started as an AI tutor"
+            }
+          },
+          "prev24": {
+            "n": 24,
+            "total": 23165,
+            "median": 89,
+            "top": {
+              "views": 12714,
+              "url": "https://x.com/testerlabor/status/2121989436351082567",
+              "handle": "@testerlabor",
+              "text": "Grok Imagine vs Grok Chat video comparison: same prompt. On the left is the video from Grok Chat and on the right the on"
+            }
+          },
+          "w48": {
+            "n": 49,
+            "total": 47816,
+            "top": {
+              "views": 13304,
+              "url": "https://x.com/AadityaCodesAI/status/2121996648138334415",
+              "handle": "@AadityaCodesAI",
+              "text": "My time with the Grok Imagine team and @spacexai has come to an end after 21 incredible months. I started as an AI tutor"
+            }
+          },
+          "change": 1.06,
+          "trend": "flat",
+          "partial": false,
+          "top_share": 0.54,
+          "rank": 4
+        },
+        {
+          "keyword": "AI filmmaking",
+          "query": "\"AI filmmaking\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 25,
+            "total": 22720,
+            "median": 81,
+            "top": {
+              "views": 11752,
+              "url": "https://x.com/ZaraIrahh/status/2122278456310600007",
+              "handle": "@ZaraIrahh",
+              "text": "Deep beneath the surface, they created something they couldn't control. Now the entire facility is paying the price. ⚡ A"
+            }
+          },
+          "prev24": {
+            "n": 25,
+            "total": 25678,
+            "median": 120,
+            "top": {
+              "views": 14743,
+              "url": "https://x.com/NVVTIONALISM/status/2121681022404403560",
+              "handle": "@NVVTIONALISM",
+              "text": "Hollywood is done for with the rise of AI filmmaking. https://t.co/P3V4RsxfUD"
+            }
+          },
+          "w48": {
+            "n": 50,
+            "total": 48398,
+            "top": {
+              "views": 14743,
+              "url": "https://x.com/NVVTIONALISM/status/2121681022404403560",
+              "handle": "@NVVTIONALISM",
+              "text": "Hollywood is done for with the rise of AI filmmaking. https://t.co/P3V4RsxfUD"
+            }
+          },
+          "change": 0.88,
+          "trend": "flat",
+          "partial": false,
+          "top_share": 0.52,
+          "rank": 5
+        },
+        {
+          "keyword": "Sora",
+          "query": "\"Sora\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 25,
+            "total": 21313,
+            "median": 44,
+            "top": {
+              "views": 10236,
+              "url": "https://x.com/PuppyKiriko/status/2122012935300243764",
+              "handle": "@PuppyKiriko",
+              "text": "Sora (Arknights) Captured Trophy Wall Tickle Torture Demise~ (Animation) #sora #arknights #anime #feet #feetfetish #foot"
+            }
+          },
+          "prev24": {
+            "n": 25,
+            "total": 166706,
+            "median": 329,
+            "top": {
+              "views": 146711,
+              "url": "https://x.com/StellaSoraEN/status/2121906054262816971",
+              "handle": "@StellaSoraEN",
+              "text": "Stella Sora 1st Anniversary Special Dev Talk | Behind the Scenes This is a journey full of twists, turns, and rewards. T"
+            }
+          },
+          "w48": {
+            "n": 50,
+            "total": 188019,
+            "top": {
+              "views": 146711,
+              "url": "https://x.com/StellaSoraEN/status/2121906054262816971",
+              "handle": "@StellaSoraEN",
+              "text": "Stella Sora 1st Anniversary Special Dev Talk | Behind the Scenes This is a journey full of twists, turns, and rewards. T"
+            }
+          },
+          "change": 0.13,
+          "trend": "down",
+          "partial": false,
+          "top_share": 0.48,
+          "rank": 6
+        },
+        {
+          "keyword": "Seedance",
+          "query": "\"Seedance\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 25,
+            "total": 19098,
+            "median": 80,
+            "top": {
+              "views": 12243,
+              "url": "https://x.com/ComfyUI/status/2122157038696648983",
+              "handle": "@ComfyUI",
+              "text": "Seedance 2.5 Flash is now in ComfyUI via Partner Nodes. → Outperforms Seedance 2.0 at a lower cost than Seedance 2.5 → T"
+            }
+          },
+          "prev24": {
+            "n": 25,
+            "total": 186364,
+            "median": 171,
+            "top": {
+              "views": 108869,
+              "url": "https://x.com/tuTransform/status/2121654519943540903",
+              "handle": "@tuTransform",
+              "text": "VIDEO CREATORS, YOUR NEXT PRODUCTION COULD START WITH A SINGLE PROMPT. https://t.co/2UeXrpVenu has expanded its Seedance"
+            }
+          },
+          "w48": {
+            "n": 50,
+            "total": 205462,
+            "top": {
+              "views": 108869,
+              "url": "https://x.com/tuTransform/status/2121654519943540903",
+              "handle": "@tuTransform",
+              "text": "VIDEO CREATORS, YOUR NEXT PRODUCTION COULD START WITH A SINGLE PROMPT. https://t.co/2UeXrpVenu has expanded its Seedance"
+            }
+          },
+          "change": 0.1,
+          "trend": "down",
+          "partial": false,
+          "top_share": 0.64,
+          "rank": 7
+        },
+        {
+          "keyword": "AI video",
+          "query": "\"AI video\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 25,
+            "total": 15935,
+            "median": 52,
+            "top": {
+              "views": 7732,
+              "url": "https://x.com/TheAIColony/status/2122297652628857186",
+              "handle": "@TheAIColony",
+              "text": "AI video now costs less than 10 cents a second. Topview's Black Friday deal gives you 30 months of Ultra for $1,200, and"
+            }
+          },
+          "prev24": {
+            "n": 25,
+            "total": 6114,
+            "median": 48,
+            "top": {
+              "views": 3618,
+              "url": "https://x.com/TheoAGI/status/2121908869291294918",
+              "handle": "@TheoAGI",
+              "text": "AI video editing just works, here's a before/after using a random YouTube video Select the style, ask the agent to edit "
+            }
+          },
+          "w48": {
+            "n": 50,
+            "total": 22049,
+            "top": {
+              "views": 7732,
+              "url": "https://x.com/TheAIColony/status/2122297652628857186",
+              "handle": "@TheAIColony",
+              "text": "AI video now costs less than 10 cents a second. Topview's Black Friday deal gives you 30 months of Ultra for $1,200, and"
+            }
+          },
+          "change": 2.61,
+          "trend": "up",
+          "partial": false,
+          "top_share": 0.49,
+          "rank": 8
+        },
+        {
+          "keyword": "anime",
+          "query": "\"anime\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 25,
+            "total": 11220,
+            "median": 61,
+            "top": {
+              "views": 8144,
+              "url": "https://x.com/nfadyorky/status/2122102544579064260",
+              "handle": "@nfadyorky",
+              "text": "The biggest PFP/Community on the internet is Anime. No matter where you go you see countless of users with an Anime PFP "
+            }
+          },
+          "prev24": {
+            "n": 25,
+            "total": 271680,
+            "median": 201,
+            "top": {
+              "views": 246795,
+              "url": "https://x.com/gutsredux/status/2121875537433911431",
+              "handle": "@gutsredux",
+              "text": "NO I don’t want to see hazbin/helluva booths at an anime con! NO I don’t want to see dnd dice/themed teas at an anime co"
+            }
+          },
+          "w48": {
+            "n": 50,
+            "total": 282900,
+            "top": {
+              "views": 246795,
+              "url": "https://x.com/gutsredux/status/2121875537433911431",
+              "handle": "@gutsredux",
+              "text": "NO I don’t want to see hazbin/helluva booths at an anime con! NO I don’t want to see dnd dice/themed teas at an anime co"
+            }
+          },
+          "change": 0.04,
+          "trend": "down",
+          "partial": false,
+          "top_share": 0.73,
+          "rank": 9
+        },
+        {
+          "keyword": "short film",
+          "query": "\"short film\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 25,
+            "total": 10621,
+            "median": 18,
+            "top": {
+              "views": 7075,
+              "url": "https://x.com/MatthewACherry/status/2122040902919299314",
+              "handle": "@MatthewACherry",
+              "text": "Favorite Michael Jackson short film https://t.co/rfUCuVyyvY"
+            }
+          },
+          "prev24": {
+            "n": 25,
+            "total": 110251,
+            "median": 199,
+            "top": {
+              "views": 78381,
+              "url": "https://x.com/boys2fem/status/2121921158559957410",
+              "handle": "@boys2fem",
+              "text": "Theo comes home early. Sam has a secret. And then there's the remote. 🍕 PIZZA is a male-to-female AI short film. Watch t"
+            }
+          },
+          "w48": {
+            "n": 50,
+            "total": 120872,
+            "top": {
+              "views": 78381,
+              "url": "https://x.com/boys2fem/status/2121921158559957410",
+              "handle": "@boys2fem",
+              "text": "Theo comes home early. Sam has a secret. And then there's the remote. 🍕 PIZZA is a male-to-female AI short film. Watch t"
+            }
+          },
+          "change": 0.1,
+          "trend": "down",
+          "partial": false,
+          "top_share": 0.67,
+          "rank": 10
+        },
+        {
+          "keyword": "Higgsfield",
+          "query": "\"Higgsfield\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 25,
+            "total": 6068,
+            "median": 27,
+            "top": {
+              "views": 2790,
+              "url": "https://x.com/shishirdotai/status/2122321348769071559",
+              "handle": "@shishirdotai",
+              "text": "Malfoid &amp; Pottah 💚 | Sweet little moments Made with Higgsfield @higgsfield #malfoy #harrypotter #malfoid #animation "
+            }
+          },
+          "prev24": {
+            "n": 24,
+            "total": 47091,
+            "median": 235,
+            "top": {
+              "views": 13439,
+              "url": "https://x.com/_JayCT/status/2121638672009216149",
+              "handle": "@_JayCT",
+              "text": "$1M Higgsfield AI film contest 🏆 20 winners 🥇 $200k 🥈 $150k 🥉 $100k 🎖️ $50k each: 2 Audience Choice winners 🏅 $30k each:"
+            }
+          },
+          "w48": {
+            "n": 49,
+            "total": 53159,
+            "top": {
+              "views": 13439,
+              "url": "https://x.com/_JayCT/status/2121638672009216149",
+              "handle": "@_JayCT",
+              "text": "$1M Higgsfield AI film contest 🏆 20 winners 🥇 $200k 🥈 $150k 🥉 $100k 🎖️ $50k each: 2 Audience Choice winners 🏅 $30k each:"
+            }
+          },
+          "change": 0.13,
+          "trend": "down",
+          "partial": false,
+          "top_share": 0.46,
+          "rank": 11
+        },
+        {
+          "keyword": "Veo",
+          "query": "\"Veo\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 25,
+            "total": 3080,
+            "median": 60,
+            "top": {
+              "views": 965,
+              "url": "https://x.com/SouthernLeague1/status/2122253354063548692",
+              "handle": "@SouthernLeague1",
+              "text": "Get a free Veo Cam and save on subscription. We’ve partnered with Veo to give our members an exclusive Black Friday deal"
+            }
+          },
+          "prev24": {
+            "n": 25,
+            "total": 15641,
+            "median": 38,
+            "top": {
+              "views": 13223,
+              "url": "https://x.com/harrisonkyte_10/status/2121699529674150184",
+              "handle": "@harrisonkyte_10",
+              "text": "Belters don’t even have a beer after the game Send veo link on trip back lads 👍 #HitFor6 https://t.co/ALsllKtnJ1"
+            }
+          },
+          "w48": {
+            "n": 50,
+            "total": 18721,
+            "top": {
+              "views": 13223,
+              "url": "https://x.com/harrisonkyte_10/status/2121699529674150184",
+              "handle": "@harrisonkyte_10",
+              "text": "Belters don’t even have a beer after the game Send veo link on trip back lads 👍 #HitFor6 https://t.co/ALsllKtnJ1"
+            }
+          },
+          "change": 0.2,
+          "trend": "down",
+          "partial": false,
+          "top_share": 0.31,
+          "rank": 12
+        },
+        {
+          "keyword": "Midjourney",
+          "query": "\"Midjourney\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 25,
+            "total": 2702,
+            "median": 32,
+            "top": {
+              "views": 417,
+              "url": "https://x.com/gurniaiart/status/2122037164447879189",
+              "handle": "@gurniaiart",
+              "text": "Sorceress #AIArt #AIイラスト #AIgirl #midjourney #aiGallery https://t.co/iIOCNSrHoi"
+            }
+          },
+          "prev24": {
+            "n": 25,
+            "total": 6118,
+            "median": 55,
+            "top": {
+              "views": 1790,
+              "url": "https://x.com/DavidmComfort/status/2121715716889940324",
+              "handle": "@DavidmComfort",
+              "text": "Why, oh why, doesn't @midjourney have an API??"
+            }
+          },
+          "w48": {
+            "n": 50,
+            "total": 8820,
+            "top": {
+              "views": 1790,
+              "url": "https://x.com/DavidmComfort/status/2121715716889940324",
+              "handle": "@DavidmComfort",
+              "text": "Why, oh why, doesn't @midjourney have an API??"
+            }
+          },
+          "change": 0.44,
+          "trend": "down",
+          "partial": false,
+          "top_share": 0.15,
+          "rank": 13
+        },
+        {
+          "keyword": "image to video",
+          "query": "\"image to video\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 25,
+            "total": 2222,
+            "median": 46,
+            "top": {
+              "views": 253,
+              "url": "https://x.com/TheAiGirl0/status/2122330980786774188",
+              "handle": "@TheAiGirl0",
+              "text": "One model won't fit every project. For 720p iteration, though, Flash's $0.152/sec text-to-video and image-to-video rate "
+            }
+          },
+          "prev24": {
+            "n": 25,
+            "total": 466077,
+            "median": 140,
+            "top": {
+              "views": 398274,
+              "url": "https://x.com/kairon_flex/status/2121972565207859421",
+              "handle": "@kairon_flex",
+              "text": "SHE JUST JUMPED OVER THE LAKE. F*CK IT A girl stands on the helicopter skid, looks down at the trampoline floating on th"
+            }
+          },
+          "w48": {
+            "n": 50,
+            "total": 468299,
+            "top": {
+              "views": 398274,
+              "url": "https://x.com/kairon_flex/status/2121972565207859421",
+              "handle": "@kairon_flex",
+              "text": "SHE JUST JUMPED OVER THE LAKE. F*CK IT A girl stands on the helicopter skid, looks down at the trampoline floating on th"
+            }
+          },
+          "change": 0.0,
+          "trend": "down",
+          "partial": false,
+          "top_share": 0.11,
+          "rank": 14
+        },
+        {
+          "keyword": "text to video",
+          "query": "\"text to video\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 25,
+            "total": 2210,
+            "median": 46,
+            "top": {
+              "views": 252,
+              "url": "https://x.com/dylancooper_ai/status/2122327384150208772",
+              "handle": "@dylancooper_ai",
+              "text": "720p text-to-video and image-to-video at $0.152/sec. That's Flash's price on BytePlus, around 34% below Seedance 2.5. A "
+            }
+          },
+          "prev24": {
+            "n": 25,
+            "total": 117474,
+            "median": 65,
+            "top": {
+              "views": 108901,
+              "url": "https://x.com/tuTransform/status/2121648587591266503",
+              "handle": "@tuTransform",
+              "text": "Your next video idea could be just one prompt away from becoming reality. https://t.co/2UeXrpVenu integrates Seedance 2."
+            }
+          },
+          "w48": {
+            "n": 50,
+            "total": 119684,
+            "top": {
+              "views": 108901,
+              "url": "https://x.com/tuTransform/status/2121648587591266503",
+              "handle": "@tuTransform",
+              "text": "Your next video idea could be just one prompt away from becoming reality. https://t.co/2UeXrpVenu integrates Seedance 2."
+            }
+          },
+          "change": 0.02,
+          "trend": "down",
+          "partial": false,
+          "top_share": 0.11,
+          "rank": 15
+        },
+        {
+          "keyword": "ComfyUI",
+          "query": "\"ComfyUI\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 25,
+            "total": 2078,
+            "median": 41,
+            "top": {
+              "views": 989,
+              "url": "https://x.com/niklaslenz_ai/status/2122278273069552043",
+              "handle": "@niklaslenz_ai",
+              "text": "An open world model now runs on one 32 GB graphics card, at 14 minutes for a 10 second clip. RTX 5090, PAN 2 int8: 16.2 "
+            }
+          },
+          "prev24": {
+            "n": 25,
+            "total": 9563,
+            "median": 62,
+            "top": {
+              "views": 3226,
+              "url": "https://x.com/ou_zhen599/status/2121673848852828335",
+              "handle": "@ou_zhen599",
+              "text": "Made with Krea 2 +MiniMax-H3 ComfyUI 🏷️“Don’t move—let me get a better look.” 📷“Checking out an intruder” on a rooftop h"
+            }
+          },
+          "w48": {
+            "n": 50,
+            "total": 11641,
+            "top": {
+              "views": 3226,
+              "url": "https://x.com/ou_zhen599/status/2121673848852828335",
+              "handle": "@ou_zhen599",
+              "text": "Made with Krea 2 +MiniMax-H3 ComfyUI 🏷️“Don’t move—let me get a better look.” 📷“Checking out an intruder” on a rooftop h"
+            }
+          },
+          "change": 0.22,
+          "trend": "down",
+          "partial": false,
+          "top_share": 0.48,
+          "rank": 16
+        }
+      ]
+    },
+    "legend": "Trend match 0-100% = 1 - prod(1 - w) over matched 24 h keywords that another author also used in the 48 h window (w: rank 1-10 0.35, 11-25 0.22, 26-40 0.12, curated 0.20). Verdict: >= 50% -> trend; else video/image in the post data -> visual; else >= 100K followers (outsiders without follower data: >= 500K views, estimate) -> author/audience; else coincidence/other. Missing data shows as 'no data'. Heat = sum log10(views) of topic posts (24 h x1, 24-48 h x0.5), scaled to 100. Momentum = log-views last 24 h / previous 24 h. Trend-input-only accounts feed the corpus but are never shown as hits."
+  }
+}

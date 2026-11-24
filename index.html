@@ -14,6 +14,7 @@
 <style>
 /* xvs-dash-2026 · Grok Bot X Virality Score board */
 /* xvs-mobile-2026 · phone / tablet layout pass */
+/* xvs-day-picker-2026 */
 :root, html[data-theme="night"] {
   --bg:#07090b;
   --bg-elev:#0c1013;
@@ -156,6 +157,39 @@ h1{margin:6px 0 0;font-size:clamp(20px,3vw,30px);line-height:1.05;letter-spacing
 .live-dot::after{content:"";position:absolute;inset:-4px;border-radius:50%;border:1px solid var(--green);opacity:.7;animation:livePulse 1.6s ease-out infinite}
 @keyframes livePulse{0%{transform:scale(.6);opacity:.8}70%{transform:scale(1.9);opacity:0}100%{transform:scale(1.9);opacity:0}}
 #meta{margin-top:2px;color:var(--muted);font:500 11px "IBM Plex Mono",monospace}
+
+/* xvs-day-picker-2026 */
+.day-picker{
+  display:inline-flex;align-items:center;gap:2px;
+  border:1px solid var(--line);background:var(--panel-glass);backdrop-filter:blur(10px);
+  border-radius:999px;padding:3px 8px 3px 3px;
+  transition:border-color .25s, background .25s;
+}
+.day-picker:focus-within{border-color:var(--cyan)}
+.day-nav{
+  width:28px;height:28px;border:0;background:transparent;color:var(--text);
+  border-radius:50%;cursor:pointer;flex:none;
+  font:600 16px/1 "IBM Plex Mono",monospace;
+  display:grid;place-items:center;
+  transition:color .2s, background .2s, transform .2s var(--ease);
+}
+.day-nav:hover:not(:disabled){color:var(--cyan);background:var(--cyan-dim);transform:translateY(-1px)}
+.day-nav:disabled{opacity:.32;cursor:default;color:var(--faint)}
+.day-picker select{
+  appearance:none;-webkit-appearance:none;
+  border:0;background:transparent;color:var(--text);
+  font:600 11px/1.2 "IBM Plex Mono",monospace;letter-spacing:.04em;
+  padding:4px 18px 4px 6px;cursor:pointer;min-width:10.2em;max-width:16em;
+  background-image:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='10' height='6' viewBox='0 0 10 6'><path fill='%238a969d' d='M0 0l5 6 5-6z'/></svg>");
+  background-repeat:no-repeat;background-position:right 2px center;
+}
+.day-picker select:focus{outline:none}
+html[data-theme="day"] .day-picker select{
+  background-image:url("data:image/svg+xml;utf8,<svg xmlns='http://www.w3.org/2000/svg' width='10' height='6' viewBox='0 0 10 6'><path fill='%2355656d' d='M0 0l5 6 5-6z'/></svg>");
+}
+.live.archive{color:var(--amber)}
+.live.archive .live-dot{background:var(--amber);box-shadow:0 0 12px var(--amber)}
+.live.archive .live-dot::after{border-color:var(--amber);animation:none}
 
 /* Panels & reveal */
 .hero{display:grid;grid-template-columns:1.05fr .95fr;gap:14px;margin:22px 0 14px}
@@ -455,6 +489,9 @@ footer{margin-top:52px;padding-top:22px;border-top:1px solid var(--line);color:v
   .brand-lockup{gap:12px}
   .header-meta{align-items:stretch;text-align:left;width:100%}
   .header-actions{flex-wrap:wrap;gap:10px;width:100%}
+  .day-picker{width:100%;justify-content:space-between;padding:3px 8px 3px 3px}
+  .day-nav{width:44px;height:44px;min-width:44px;min-height:44px;font-size:18px;touch-action:manipulation}
+  .day-picker select{font-size:12px;flex:1;min-height:44px;max-width:none}
   .theme-toggle{
     min-height:44px;min-width:44px;padding:12px 16px;font-size:11px;
     touch-action:manipulation;
@@ -554,7 +591,7 @@ footer{margin-top:52px;padding-top:22px;border-top:1px solid var(--line);color:v
   .score-ring{margin:0}
 }
 @media(hover:none){
-  .stat:hover,.card:hover,.panel:hover,.theme-toggle:hover,.x-logo:hover,.tag:hover{transform:none}
+  .stat:hover,.card:hover,.panel:hover,.theme-toggle:hover,.x-logo:hover,.tag:hover,.day-nav:hover{transform:none}
   .card:hover{box-shadow:none}
   .roster-row:hover{background:transparent}
   .roster-row.you:hover{background:var(--lime-dim)}
@@ -589,6 +626,7 @@ footer{margin-top:52px;padding-top:22px;border-top:1px solid var(--line);color:v
   </svg>
 </div>
 <div class="wrap">
+  <!-- xvs-day-picker-2026 -->
   <header class="site-header reveal">
     <div class="brand-lockup">
       <div class="x-logo" aria-label="X"><svg viewBox="0 0 24 24" role="img" aria-hidden="true"><path fill="currentColor" d="M18.244 2.25h3.308l-7.227 8.26 8.502 11.24h-6.657l-5.214-6.817-5.967 6.817H1.68l7.73-8.835L1.254 2.25H8.08l4.713 6.231 5.45-6.231Zm-1.161 17.52h1.833L7.084 4.126H5.117L17.083 19.77Z"/></svg></div>
@@ -600,8 +638,13 @@ footer{margin-top:52px;padding-top:22px;border-top:1px solid var(--line);color:v
     </div>
     <div class="header-meta">
       <div class="header-actions">
+        <div class="day-picker" id="day-picker" hidden>
+          <button type="button" class="day-nav" id="day-prev" aria-label="Previous day">‹</button>
+          <select id="day-select" aria-label="Select board day"></select>
+          <button type="button" class="day-nav" id="day-next" aria-label="Next day">›</button>
+        </div>
         <button type="button" class="theme-toggle" id="theme-toggle" aria-label="Toggle day and night theme"><span class="ico" id="theme-ico">☾</span><span id="theme-label">Night</span></button>
-        <div class="live" title="Live signal"><span class="live-dot" aria-hidden="true"></span>LIVE SIGNAL</div>
+        <div class="live" id="live-badge" title="Live signal"><span class="live-dot" aria-hidden="true"></span><span id="live-label">LIVE SIGNAL</span></div>
       </div>
       <div id="meta">loading data…</div>
     </div>
@@ -721,9 +764,9 @@ function rawIndex(hits,views){return Math.round(100*(.45*(hits/DASHBOARD_TARGETS
 function trendMarkup(delta,label){const dir=delta>0?'up':delta<0?'down':'flat';const arrow=delta>0?'↑':delta<0?'↓':'→';const d=delta===0?'on pace':`${delta>0?'+':''}${delta}`;return{dir,html:`<span class="trend-arrow">${arrow}</span><span>${d} ${label}</span>`}}
 function easeOutCubic(t){return 1-Math.pow(1-t,3)}
 function countUp(el, to, {duration=1100, format=v=>String(Math.round(v)), decimals=0}={}){
-  if(!el) return; const reduce=window.matchMedia('(prefers-reduced-motion: reduce)').matches; const start=performance.now(); const from=0;
+  if(!el) return; const gen=RENDER_GEN; const reduce=window.matchMedia('(prefers-reduced-motion: reduce)').matches; const start=performance.now(); const from=0;
   if(reduce){el.textContent=format(to);return}
-  function frame(now){const t=Math.min(1,(now-start)/duration); const v=from+(to-from)*easeOutCubic(t); el.textContent=format(v); if(t<1) requestAnimationFrame(frame)}
+  function frame(now){if(gen!==RENDER_GEN)return;const t=Math.min(1,(now-start)/duration); const v=from+(to-from)*easeOutCubic(t); el.textContent=format(v); if(t<1) requestAnimationFrame(frame)}
   requestAnimationFrame(frame)
 }
 function applyTheme(theme, {persist=true}={}){
@@ -764,7 +807,8 @@ function vbClass(v){v=String(v||'');return /^(trend|тренд)$/.test(v)?'vb-tr
 function whyLine(w){if(!w)return'';return`<div class="why-hit-line"><span>trend match</span><span class="mbar"><i style="width:${num(w.trend_match)}%"></i></span><b>${num(w.trend_match)}%</b><span class="vbadge ${vbClass(w.verdict)}">${esc(w.verdict)}</span>${(w.matched_keywords||[]).slice(0,5).map(k=>`<span class="kw-chip">${esc(k)}</span>`).join('')}</div>`}
 function kfmt(n){n=num(n);return n>=1e6?(n/1e6).toFixed(2)+'M':n>=1e3?(n/1e3).toFixed(1)+'K':String(n)}
 function bindCopy(root){(root||document).querySelectorAll('.copy-btn').forEach(btn=>{if(btn.dataset.bound)return;btn.dataset.bound='1';btn.addEventListener('click',()=>{const t=document.getElementById(btn.dataset.draftId);copyDraft(btn,t?t.textContent:'')})})}
-function renderTrendKw(d){const tk=((d.trend_keywords||{}).keywords)||[];const el=document.getElementById('trend-kw'),hd=document.getElementById('trend-kw-head');if(!el||!tk.length)return;el.innerHTML=tk.map(k=>`<span class="tag kw-trend"><b>${esc(String(k.rank||''))}</b>${esc(k.keyword)}</span>`).join('');el.hidden=false;hd.hidden=false}
+function hideOptional(id,headId){const el=document.getElementById(id),hd=document.getElementById(headId);if(el){el.hidden=true;el.innerHTML=''}if(hd)hd.hidden=true}
+function renderTrendKw(d){const tk=((d.trend_keywords||{}).keywords)||[];const el=document.getElementById('trend-kw'),hd=document.getElementById('trend-kw-head');if(!el)return;if(!tk.length){hideOptional('trend-kw','trend-kw-head');return}el.innerHTML=tk.map(k=>`<span class="tag kw-trend"><b>${esc(String(k.rank||''))}</b>${esc(k.keyword)}</span>`).join('');el.hidden=false;if(hd)hd.hidden=false}
 function renderRadar(r,narrText){const el=document.getElementById('radar'),hd=document.getElementById('radar-head');if(!r||!el)return;
  const S=r.summary||{};const st=(S.stats||{}).all||{};const vd=st.verdicts||{};
  let h=`<div class="radar-sum">${S.top10_line?`<div style="font-weight:600;margin-bottom:6px"><span class="vbadge vb-trend">TOP-10</span> ${esc(S.top10_line)}</div>`:''}<div>${esc(S.headline||'')}</div><div class="radar-take">→ ${esc(S.takeaway||'')}</div><div class="rmeta" style="margin-top:8px">${Object.entries(vd).map(([k,v])=>`<span class="vbadge ${vbClass(k)}">${esc(k)} ${v}</span>`).join('')}<span>corpus: ${num((r.corpus||{}).posts)} posts ≥${kfmt((r.corpus||{}).min_views)} · 48h window ${esc((r.window||{}).label48||'')}</span></div></div>`;
@@ -900,10 +944,17 @@ function renderDayRoster(list, op, youRank){
     return `<div class="roster-row${you?' you':''}"><div class="rank">${String(i+1).padStart(2,'0')}</div><div><div class="roster-handle">${esc(r.handle||'')}${you?'<span class="you-chip">YOU</span>':''}</div><div class="roster-name">${esc(r.name||'—')}</div></div><div class="roster-views">${cell}</div><div class="roster-badge ${hit?'hit':'miss'}">${hit?'HIT':'BELOW'}</div></div>`;
   }).join('');
 }
+function setFill(id,pctDone){const el=document.getElementById(id);if(!el)return;el.style.width=Math.min(100,num(pctDone))+'%';el.classList.toggle('done',num(pctDone)>=100)}
 function renderYourDay(youRank, handle){
   const meta=document.getElementById('your-day-meta');
   if(!youRank){
     if(meta) meta.textContent=`No personal day data yet — scrape needed for ${handle||'@operator'}.`;
+    const c5=document.getElementById('you-5k-copy');
+    const c10=document.getElementById('you-10k-copy');
+    if(c5) c5.textContent='—';
+    if(c10) c10.textContent='—';
+    setFill('you-5k-progress',0);
+    setFill('you-10k-progress',0);
     return;
   }
   const bv=youRank.best_views;
@@ -924,11 +975,11 @@ function renderYourDay(youRank, handle){
   const c10=document.getElementById('you-10k-copy');
   if(c5) c5.textContent = bv==null ? '—' : `${fmt(v)} / 5K · ${p5}% · ${youRank.vs_5k==='done'?'DONE':'PENDING'}`;
   if(c10) c10.textContent = bv==null ? '—' : `${fmt(v)} / 10K · ${p10}% · ${youRank.vs_10k==='done'?'DONE':'PENDING'}`;
+  const gen=RENDER_GEN;
   requestAnimationFrame(()=>{
-    const a=document.getElementById('you-5k-progress');
-    const b=document.getElementById('you-10k-progress');
-    if(a){a.style.width=(bv==null?0:p5)+'%'; if(p5>=100)a.classList.add('done')}
-    if(b){b.style.width=(bv==null?0:p10)+'%'; if(p10>=100)b.classList.add('done')}
+    if(gen!==RENDER_GEN) return;
+    setFill('you-5k-progress', bv==null?0:p5);
+    setFill('you-10k-progress', bv==null?0:p10);
   });
 }
 function normalizeNoHits(raw){
@@ -961,8 +1012,113 @@ function staggerCards(rootSel){
     el.style.animationDelay=(0.04+i*0.05)+'s';
   });
 }
-async function boot(){
-  const res=await fetch('./data.json?ts='+Date.now());if(!res.ok)throw new Error('data.json '+res.status);const d=await res.json();
+let RENDER_GEN=0;
+let CURRENT_DATA=null;
+let CURRENT_DATES=[];
+let CURRENT_DAY=null;
+let PICKER_BOUND=false;
+let THEME_CHART_BOUND=false;
+
+function dayFromUrl(){
+  try{const d=new URLSearchParams(location.search).get('d');return d&&/^\d{4}-\d{2}-\d{2}$/.test(d)?d:null}catch(e){return null}
+}
+function setDayUrl(date,{replace=false}={}){
+  try{
+    const url=new URL(location.href);
+    if(!date) url.searchParams.delete('d');
+    else url.searchParams.set('d',date);
+    history[replace?'replaceState':'pushState']({d:date||null},'',url);
+  }catch(e){}
+}
+function formatDayLabel(iso){
+  const s=String(iso||'');
+  if(!/^\d{4}-\d{2}-\d{2}$/.test(s)) return s||'—';
+  try{return new Date(s+'T12:00:00').toLocaleDateString('en-GB',{weekday:'short',day:'2-digit',month:'short',year:'numeric'})}catch(e){return s}
+}
+async function fetchJson(url){
+  const res=await fetch(url+(url.includes('?')?'&':'?')+'ts='+Date.now());
+  if(!res.ok) throw new Error(url+' '+res.status);
+  return res.json();
+}
+async function loadArchiveDates(){
+  try{
+    const j=await fetchJson('./data/index.json');
+    return [...new Set((j.dates||[]).filter(d=>/^\d{4}-\d{2}-\d{2}$/.test(d)))];
+  }catch(e){return []}
+}
+async function loadDayPayload(date){
+  const errors=[];
+  if(date){
+    try{return await fetchJson('./data/'+encodeURIComponent(date)+'.json')}catch(e){errors.push(e)}
+  }
+  try{return await fetchJson('./data.json')}catch(e){errors.push(e)}
+  throw errors[errors.length-1]||new Error('failed to load data.json');
+}
+function latestDate(dates){return dates&&dates.length?dates[0]:null}
+function renderPicker(dates, selected){
+  const wrap=document.getElementById('day-picker');
+  const sel=document.getElementById('day-select');
+  const prev=document.getElementById('day-prev');
+  const next=document.getElementById('day-next');
+  if(!wrap||!sel) return;
+  if(!dates||dates.length<2){wrap.hidden=true;return}
+  wrap.hidden=false;
+  sel.innerHTML=dates.map(d=>`<option value="${esc(d)}">${esc(formatDayLabel(d))}</option>`).join('');
+  if(selected&&dates.includes(selected)) sel.value=selected;
+  const i=dates.indexOf(sel.value);
+  // dates are newest-first: next (newer) is i-1, prev (older) is i+1
+  if(prev) prev.disabled=!(i>=0&&i<dates.length-1);
+  if(next) next.disabled=!(i>0);
+  if(!PICKER_BOUND){
+    PICKER_BOUND=true;
+    sel.addEventListener('change',()=>selectDay(sel.value));
+    prev?.addEventListener('click',()=>{
+      const idx=CURRENT_DATES.indexOf(CURRENT_DAY);
+      if(idx>=0&&idx<CURRENT_DATES.length-1) selectDay(CURRENT_DATES[idx+1]);
+    });
+    next?.addEventListener('click',()=>{
+      const idx=CURRENT_DATES.indexOf(CURRENT_DAY);
+      if(idx>0) selectDay(CURRENT_DATES[idx-1]);
+    });
+    window.addEventListener('popstate',()=>{
+      const requested=dayFromUrl();
+      const fallback=latestDate(CURRENT_DATES)||CURRENT_DAY;
+      const nextDay=requested&&CURRENT_DATES.includes(requested)?requested:fallback;
+      if(nextDay&&nextDay!==CURRENT_DAY) loadAndRender(nextDay,{push:false,scroll:false});
+    });
+  }
+}
+function setLiveBadge(isLatest){
+  const badge=document.getElementById('live-badge');
+  const label=document.getElementById('live-label');
+  if(badge){
+    badge.classList.toggle('archive', !isLatest);
+    badge.title=isLatest?'Live signal':'Archived day';
+  }
+  if(label) label.textContent=isLatest?'LIVE SIGNAL':'ARCHIVE';
+}
+async function selectDay(date){
+  if(!date||date===CURRENT_DAY) return;
+  setDayUrl(date,{replace:false});
+  await loadAndRender(date,{push:false,scroll:true});
+}
+async function loadAndRender(date,{push=false,scroll=false}={}){
+  const d=await loadDayPayload(date);
+  const resolved=d.date||date;
+  if(resolved&&!CURRENT_DATES.includes(resolved)){
+    CURRENT_DATES=[resolved,...CURRENT_DATES.filter(x=>x!==resolved)];
+  }
+  CURRENT_DAY=resolved;
+  CURRENT_DATA=d;
+  if(push) setDayUrl(resolved,{replace:false});
+  renderPicker(CURRENT_DATES, CURRENT_DAY);
+  renderBoard(d);
+  if(scroll) try{window.scrollTo({top:0,behavior:window.matchMedia('(prefers-reduced-motion: reduce)').matches?'auto':'smooth'})}catch(e){}
+}
+function renderBoard(d){
+  RENDER_GEN++;
+  const gen=RENDER_GEN;
+  CURRENT_DATA=d;
   resolveThemeFromData(d);
   const brand=applyBrand(d);
   const op={handle:brand.handle, name:brand.name, ...(d.operator||{})};
@@ -974,10 +1130,10 @@ async function boot(){
   const ring=document.getElementById('score-ring');
   const reduce=window.matchMedia('(prefers-reduced-motion: reduce)').matches;
   if(reduce){ring.style.setProperty('--score',score)}
-  else{const t0=performance.now();(function anim(now){const t=Math.min(1,(now-t0)/1200);ring.style.setProperty('--score', (score*easeOutCubic(t)).toFixed(2));if(t<1)requestAnimationFrame(anim)})(t0)}
+  else{const t0=performance.now();(function anim(now){if(gen!==RENDER_GEN)return;const t=Math.min(1,(now-t0)/1200);ring.style.setProperty('--score', (score*easeOutCubic(t)).toFixed(2));if(t<1)requestAnimationFrame(anim)})(t0)}
   const st=trendMarkup(delta,label);const scoreTrend=document.getElementById('score-trend');scoreTrend.className='trend '+st.dir;scoreTrend.innerHTML=st.html;
   const hp=pct(hits.length,DASHBOARD_TARGETS.hits),vp=pct(totalViews,DASHBOARD_TARGETS.views);document.getElementById('hits-target-copy').textContent=`${hits.length} / ${DASHBOARD_TARGETS.hits} · ${hp}%`;document.getElementById('views-target-copy').textContent=`${fmt(totalViews)} / ${fmt(DASHBOARD_TARGETS.views)} · ${vp}%`;
-  requestAnimationFrame(()=>{[['hits-progress',hp],['views-progress',vp]].forEach(([id,p])=>{const el=document.getElementById(id);el.style.width=Math.min(100,p)+'%';if(p>=100)el.classList.add('done')})});
+  requestAnimationFrame(()=>{if(gen!==RENDER_GEN)return;setFill('hits-progress',hp);setFill('views-progress',vp)});
   const targetDone=hp>=100&&vp>=100;const targetState=document.getElementById('target-state');targetState.className='target-state '+(targetDone?'done':'pending');targetState.textContent=targetDone?'✓ DONE':'◷ NOT DONE';
   const metrics=[
     ['Hits',hits.length,null,trendMarkup(hits.length-DASHBOARD_TARGETS.hits,'vs target')],
@@ -1015,10 +1171,18 @@ async function boot(){
   renderDayRoster(d.day_roster||[], op, d.you_rank||null);
   renderDayCompare(d.day_roster||[], op);
   renderWeekStrip(lbs.days_included||[]);
-  // re-paint charts on theme change so SVG fills match tokens
-  document.getElementById('theme-toggle')?.addEventListener('click',()=>{
-    setTimeout(()=>{renderSparkline(hits);renderDayCompare(d.day_roster||[], op)}, 50);
-  });
+  if(!THEME_CHART_BOUND){
+    THEME_CHART_BOUND=true;
+    document.getElementById('theme-toggle')?.addEventListener('click',()=>{
+      setTimeout(()=>{
+        const cur=CURRENT_DATA||d;
+        const b=applyBrand(cur);
+        const curOp={handle:b.handle, name:b.name, ...(cur.operator||{})};
+        renderSparkline(Array.isArray(cur.hits)?cur.hits:[]);
+        renderDayCompare(cur.day_roster||[], curOp);
+      }, 50);
+    });
+  }
   const sorted=[...hits].sort((a,b)=>num(b.views)-num(a.views));document.getElementById('hits').innerHTML=sorted.map((h,i)=>{const threshold=h.highlight===true?DASHBOARD_TARGETS.starViews:DASHBOARD_TARGETS.minHitViews;const done=num(h.views)>=threshold;const draftId='draft-'+i;const draft=h.draft_en||'';return`<article class="card"><div class="card-top"><div class="identity"><div class="rank">${String(i+1).padStart(2,'0')}</div><div><div class="name">${esc(h.name||h.display_name||'Unknown')}</div><div class="handle">${esc(h.handle||'')}${sqHtml(h)}</div></div></div><div class="views-big">${esc(h.views_label||fmt(h.views))}<small>views</small></div></div><div class="hit-target ${done?'done':'not-done'}"><span class="mark">${done?'✓':'×'}</span><span>${done?'DONE':'NOT DONE'} · day target ≥${fmt(threshold)}${threshold===DASHBOARD_TARGETS.starViews?' ★':''}</span></div>${topBadge(h)}<div class="hook">${esc(h.hook||h.text||'')}</div>${whyLine(h.why_hit)}${h.video_tip?`<div class="chip">${esc(h.video_tip)}</div>`:''}${draftBlock(h,draftId)}<a class="post-link" href="${esc(h.url||h.status_url||'#')}" target="_blank" rel="noopener">OPEN POST ↗</a></article>`}).join('')||'<p class="muted">No watchlist hits today.</p>';
   bindCopy(document.getElementById('hits'));
   staggerCards('#hits .card');
@@ -1027,12 +1191,31 @@ async function boot(){
   bindCopy(document.getElementById('virals'));
   staggerCards('#virals .card');
   try{renderTrendKw(d)}catch(e){console.error(e)}
-  if(d.experiment){try{renderExp(d.experiment)}catch(e){console.error(e)}}
-  const narr=document.getElementById('virals-narrative');const narrText=d.virals_narrative||d.narrative_synthesis;if(d.trend_radar){try{renderRadar(d.trend_radar,narrText)}catch(e){console.error(e)}}else if(narrText){narr.hidden=false;narr.textContent=narrText}
+  if(d.experiment){try{renderExp(d.experiment)}catch(e){console.error(e)}} else hideOptional('exp','exp-head');
+  const narr=document.getElementById('virals-narrative');const narrText=d.virals_narrative||d.narrative_synthesis;
+  if(d.trend_radar){if(narr){narr.hidden=true;narr.textContent=''}try{renderRadar(d.trend_radar,narrText)}catch(e){console.error(e)}}
+  else {hideOptional('radar','radar-head');if(narrText){narr.hidden=false;narr.textContent=narrText}else if(narr){narr.hidden=true;narr.textContent=''}}
   renderNoHits(normalizeNoHits(d.no_hits));
+  const latest=latestDate(CURRENT_DATES);
+  setLiveBadge(!latest || CURRENT_DAY===latest);
+}
+
+async function boot(){
+  const dates=await loadArchiveDates();
+  CURRENT_DATES=dates;
+  const requested=dayFromUrl();
+  const latest=latestDate(dates);
+  const want=requested&&dates.includes(requested)?requested:(latest||requested);
+  let d;
+  try{d=await loadDayPayload(want)}
+  catch(e){d=await fetchJson('./data.json')}
+  const resolved=d.date||want||null;
+  if(resolved&&!CURRENT_DATES.includes(resolved)) CURRENT_DATES=[resolved,...CURRENT_DATES];
+  CURRENT_DAY=resolved;
+  CURRENT_DATA=d;
+  renderPicker(CURRENT_DATES, CURRENT_DAY);
+  renderBoard(d);
 }
 initTheme();
 boot().catch(err=>{document.getElementById('meta').textContent='failed to load data.json';console.error(err)});
 </script>
-</body>
-</html>

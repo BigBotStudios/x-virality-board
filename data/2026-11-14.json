@@ -1,0 +1,3338 @@
+{
+  "title": "X Virality Score · 2026-11-14",
+  "brand_title": "Grok Bot X Virality Score",
+  "brand_handle": "@SMKP_Films",
+  "operator": {
+    "handle": "SMKP_Films",
+    "name": "Bogdan Orlic",
+    "profile_url": "https://x.com/SMKP_Films"
+  },
+  "timezone": "America/Toronto",
+  "date": "2026-11-14",
+  "updated": "2026-11-15T10:40:24-05:00",
+  "ui": {
+    "default_theme": "night"
+  },
+  "board_features": {
+    "count_up": true,
+    "live_pulse": true,
+    "theme_toggle": true,
+    "themes": [
+      "night",
+      "day"
+    ],
+    "grok_ambient": true,
+    "week_month_boards": true,
+    "day_roster_best_total": true,
+    "day_compare_chart": true,
+    "week_strip": true,
+    "no_hits_reasons": true,
+    "marker_class": "xvs-dash-2026",
+    "top10_drafts_v4": true,
+    "trend_keywords": true,
+    "trend_radar": true,
+    "x_keyword_table": true,
+    "experiment": true,
+    "self_quote_badge": true
+  },
+  "previous_day": {
+    "date": "2026-11-13",
+    "hits_count": 2,
+    "total_views": 99953,
+    "stars": 1,
+    "x_score": 62,
+    "top_hit": null
+  },
+  "hits": [
+    {
+      "id": "2121751444672115026",
+      "name": "Christopher Gwinn | Grindhouse Glitch",
+      "display_name": "Christopher Gwinn | Grindhouse Glitch",
+      "handle": "@ChrisGwinnLA",
+      "views": 14171,
+      "views_label": "14,171",
+      "url": "https://x.com/ChrisGwinnLA/status/2121751444672115026",
+      "created_at": "2026-11-14T23:45:39.000Z",
+      "posted_at": "2026-11-14T23:45:39.000Z",
+      "highlight": true,
+      "text": "Making a feature length AI film (let's say 90 minutes) with Seedance 2.5 is not cheap. \n\nHere are the numbers from Dreamina for an average of 10 generations (which should be enough to get the shot you need - usually you can get it 5 gens), though you can get a slight discount by buying bulk credit packs during their sales...\n\nSeedance 2.5 Ominreference:\n90 mins x 10 gens, image references attached\n*480p = $7,007.63. \n*720p = $11,954.20. \n*1080p = $37,511.45. \n*4K = $61,011.00\n\n90 mins x 10 gens, video reference attached\n*480p = $9,618.32. \n*720p = $19,923.66. \n*1080p = $62,519.08. \n*4K = $81,009.00. \n\nAdd onto that Topaz Astra Creative upscale:\n90 minutes of 1080p video to 4k = $809.19.",
+      "original_en": "Making a feature length AI film (let's say 90 minutes) with Seedance 2.5 is not cheap. \n\nHere are the numbers from Dreamina for an average of 10 generations (which should be enough to get the shot you need - usually you can get it 5 gens), though you can get a slight discount by buying bulk credit packs during their sales...\n\nSeedance 2.5 Ominreference:\n90 mins x 10 gens, image references attached\n*480p = $7,007.63. \n*720p = $11,954.20. \n*1080p = $37,511.45. \n*4K = $61,011.00\n\n90 mins x 10 gens, video reference attached\n*480p = $9,618.32. \n*720p = $19,923.66. \n*1080p = $62,519.08. \n*4K = $81,009.00. \n\nAdd onto that Topaz Astra Creative upscale:\n90 minutes of 1080p video to 4k = $809.19.",
+      "lang": "en",
+      "media": "text",
+      "likes": 151,
+      "reposts": 10,
+      "bookmarks": 107,
+      "replies": 34,
+      "quotes": 5,
+      "followers_count": 6912,
+      "hook": "Hard-number cost breakdown: what a 90-minute Seedance 2.5 feature costs on Dreamina at 10 gens per shot, from $7,007.63 (480p, image refs) to $81,009.00 (4K, video refs), plus $809.19 Topaz Astra upscale - 14.2K views, 107 bookmarks, 34 replies.",
+      "video_tip": "Overlay the price table on a 20-30s montage of your own Seedance 2.5 shots at each resolution (480p, 720p, 1080p, 4K) so viewers can see what the extra dollars buy; end on the total.",
+      "board_rank": 18,
+      "why_hit": {
+        "trend_match": 82,
+        "verdict": "trend",
+        "matched_keywords": [
+          "video",
+          "Seedance 2.5",
+          "AI film",
+          "Dreamina"
+        ],
+        "media": "text",
+        "note": "",
+        "topic": "NUREMBERG trailer wave"
+      }
+    }
+  ],
+  "hits_count": 1,
+  "outsiders": [
+    {
+      "id": "2121357879341166683",
+      "name": "TUPACABRA",
+      "display_name": "TUPACABRA",
+      "handle": "@tupacabra",
+      "views": 24893509,
+      "views_label": "24,893,509",
+      "url": "https://x.com/tupacabra/status/2121357879341166683",
+      "created_at": "2026-11-13T21:41:46.000Z",
+      "posted_at": "2026-11-13T21:41:46.000Z",
+      "text": "NUREMBERG - Official Trailer https://t.co/M7GjP0wfk9",
+      "original_en": "NUREMBERG - Official Trailer https://t.co/M7GjP0wfk9",
+      "lang": "en",
+      "hook": "Bare 'Official Trailer' title over an 87s cinematic AI trailer (NUREMBERG, based on the 1561 celestial phenomenon) - 24.9M views, 65K bookmarks, quoted 4.5K times; the AI-film event of the week.",
+      "video_tip": "Cut a 60-90s faux-trailer for one 40K battle: no dialogue, 1-2s image-to-video shots, one title card, and post it with a bare 'Official Trailer' caption.",
+      "media": "video",
+      "followers_count": 147092,
+      "likes": 115604,
+      "reposts": 12174,
+      "bookmarks": 65010,
+      "replies": 3983,
+      "quotes": 4533,
+      "self_quote": false,
+      "board_rank": 1,
+      "draft_en": "First look is here: NUREMBERG just got its official trailer.\n\nA full AI film trailer - hit play on the video below.",
+      "draft_keywords": [
+        "AI film",
+        "video"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.0,
+        "word_overlap": 0.333,
+        "max_copied_run": 2
+      },
+      "top10_rank": 1
+    },
+    {
+      "id": "2121249226575511854",
+      "name": "PJ Ace",
+      "display_name": "PJ Ace",
+      "handle": "@PJaccetturo",
+      "views": 3887403,
+      "views_label": "3,887,403",
+      "url": "https://x.com/PJaccetturo/status/2121249226575511854",
+      "created_at": "2026-11-13T14:30:01.000Z",
+      "posted_at": "2026-11-13T14:30:01.000Z",
+      "text": "This episode cost $102,725 and took 45 days to make.\n\n...but I think we've finally solved AI Filmmaking.\n\nWe made MAJOR breakthroughs in audio + cinematography. \n\nAnd Part II (next week) is even more insane.\n\nSteal our brand-new process and Dreamina prompts below👇🏼🧵 https://t.co/39T7urOiuZ",
+      "original_en": "This episode cost $102,725 and took 45 days to make.\n\n...but I think we've finally solved AI Filmmaking.\n\nWe made MAJOR breakthroughs in audio + cinematography. \n\nAnd Part II (next week) is even more insane.\n\nSteal our brand-new process and Dreamina prompts below👇🏼🧵 https://t.co/39T7urOiuZ",
+      "lang": "en",
+      "hook": "Cost-and-time reveal ($102,725, 45 days) plus a bold 'we've finally solved AI filmmaking' claim and a process/prompt thread - 3.89M views, 9K bookmarks.",
+      "video_tip": "Post a short episode with a hard number in line one (hours, generations, credits) and a thread breaking down your Seedance process.",
+      "media": "video",
+      "followers_count": 105089,
+      "likes": 11745,
+      "reposts": 984,
+      "bookmarks": 9047,
+      "replies": 1748,
+      "quotes": 700,
+      "self_quote": false,
+      "board_rank": 2,
+      "draft_en": "$102,725 and 45 days. That is the price tag on one AI episode, and the team behind it says AI filmmaking is finally cracked.\n\nWhere they claim the big leaps: audio and cinematography. Part II drops next week and is pitched as even wilder.\n\nThe whole process plus their Dreamina prompts sit in the thread below.",
+      "draft_keywords": [
+        "AI filmmaking",
+        "Dreamina"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.0,
+        "word_overlap": 0.423,
+        "max_copied_run": 3
+      },
+      "top10_rank": 2
+    },
+    {
+      "id": "2121825191944946159",
+      "name": "TUPACABRA",
+      "display_name": "TUPACABRA",
+      "handle": "@tupacabra",
+      "views": 593494,
+      "views_label": "593,494",
+      "url": "https://x.com/tupacabra/status/2121825191944946159",
+      "created_at": "2026-11-15T04:38:42.000Z",
+      "posted_at": "2026-11-15T04:38:42.000Z",
+      "text": "I'm overwhelmed by the response to the trailer. All I can say for now is thank you for watching it and sharing. \n\nI am the sole creator of this project and no one else represents NUREMBERG. Anyone else saying otherwise is a scammer. \n\nFinally, YES this is really in production and I can't wait for you to see it in all of its glory.",
+      "original_en": "I'm overwhelmed by the response to the trailer. All I can say for now is thank you for watching it and sharing. \n\nI am the sole creator of this project and no one else represents NUREMBERG. Anyone else saying otherwise is a scammer. \n\nFinally, YES this is really in production and I can't wait for you to see it in all of its glory.",
+      "lang": "en",
+      "hook": "Creator gratitude + anti-scam statement after the trailer went viral, confirming the film is really in production - 593K views, 23.9K likes.",
+      "video_tip": "After a breakout clip, follow up within 24h with a short 'it's real, more coming' note plus a 5s teaser frame.",
+      "media": "text",
+      "followers_count": 147084,
+      "likes": 23877,
+      "reposts": 1507,
+      "bookmarks": 2311,
+      "replies": 987,
+      "quotes": 152,
+      "self_quote": false,
+      "board_rank": 3,
+      "draft_en": "The NUREMBERG creator just answered the flood of reactions to the trailer.\n\nThree points: thanks to everyone watching and sharing, a warning that he is the only person behind the AI film and anyone claiming to represent it is running a scam, and confirmation that yes, it really is in production.",
+      "draft_keywords": [
+        "AI film"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.0,
+        "word_overlap": 0.286,
+        "max_copied_run": 3
+      },
+      "top10_rank": 3
+    },
+    {
+      "id": "2121579235085259242",
+      "name": "TechHalla",
+      "display_name": "TechHalla",
+      "handle": "@techhalla",
+      "views": 452034,
+      "views_label": "452,034",
+      "url": "https://x.com/techhalla/status/2121579235085259242",
+      "created_at": "2026-11-14T12:21:21.000Z",
+      "posted_at": "2026-11-14T12:21:21.000Z",
+      "text": "if you ever become a CEO you'd better have an escape plan 💀 https://t.co/CdkAoHYjhe",
+      "original_en": "if you ever become a CEO you'd better have an escape plan 💀 https://t.co/CdkAoHYjhe",
+      "lang": "en",
+      "hook": "One-line dark joke caption ('CEO escape plan') over a short absurd AI clip - 452K views, 1.2K bookmarks.",
+      "video_tip": "Make a 10-15s comedic 40K clip with a one-line caption joke (e.g. a Commissar's escape plan) and no explanation.",
+      "media": "video",
+      "followers_count": 103858,
+      "likes": 8322,
+      "reposts": 871,
+      "bookmarks": 1177,
+      "replies": 227,
+      "quotes": 102,
+      "self_quote": false,
+      "board_rank": 4,
+      "draft_en": "Planning to run a company someday? Sort out your exit route first - this video makes the case.",
+      "draft_keywords": [
+        "video"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.0,
+        "word_overlap": 0.0,
+        "max_copied_run": 1
+      },
+      "top10_rank": 4
+    },
+    {
+      "id": "2121363868425306372",
+      "name": "Google Gemini",
+      "display_name": "Google Gemini",
+      "handle": "@GeminiApp",
+      "views": 215110,
+      "views_label": "215,110",
+      "url": "https://x.com/GeminiApp/status/2121363868425306372",
+      "created_at": "2026-11-13T22:05:33.000Z",
+      "posted_at": "2026-11-13T22:05:33.000Z",
+      "text": "Go from idea to finished video with Gemini 4 Hydrogen.\n\nUsing a custom skill and simple brief, Gemini 4 Hydrogen created a sizzle reel about the element “Hydrogen,\" sourcing public-domain archival footage and cutting it into one continuous edit with clean narration.",
+      "original_en": "Go from idea to finished video with Gemini 4 Hydrogen.\n\nUsing a custom skill and simple brief, Gemini 4 Hydrogen created a sizzle reel about the element “Hydrogen,\" sourcing public-domain archival footage and cutting it into one continuous edit with clean narration.",
+      "lang": "en",
+      "hook": "Official Gemini 4 Hydrogen demo: idea to finished narrated sizzle reel from public-domain footage via a custom skill - 215K views.",
+      "video_tip": "Screen-record an idea-to-edit workflow end to end and show the finished reel first, then the steps.",
+      "media": "text",
+      "followers_count": 617399,
+      "likes": 2709,
+      "reposts": 173,
+      "bookmarks": 1568,
+      "replies": 170,
+      "quotes": 69,
+      "self_quote": false,
+      "board_rank": 5,
+      "draft_en": "From a rough idea to a finished video, without leaving Gemini 4 Hydrogen.\n\nGiven a simple brief and a custom skill, it pulled public-domain archival footage, stitched everything into a single continuous edit and laid clean narration on top. The result: a sizzle reel built around Hydrogen, the element.",
+      "draft_keywords": [
+        "video",
+        "Gemini 4 Hydrogen",
+        "skill"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.0,
+        "word_overlap": 0.613,
+        "max_copied_run": 3
+      },
+      "top10_rank": 5
+    },
+    {
+      "id": "2121657841090232521",
+      "name": "PsyopAnime",
+      "display_name": "PsyopAnime",
+      "handle": "@PsyopAnime",
+      "views": 174914,
+      "views_label": "174,914",
+      "url": "https://x.com/PsyopAnime/status/2121657841090232521",
+      "created_at": "2026-11-14T17:33:42.000Z",
+      "posted_at": "2026-11-14T17:33:42.000Z",
+      "text": "imagine https://t.co/7AW2q7xo1v",
+      "original_en": "imagine https://t.co/7AW2q7xo1v",
+      "lang": "en",
+      "hook": "One-word caption 'imagine' on an anime-style AI clip from PsyopAnime - 175K views, 1.7K bookmarks, 932 reposts.",
+      "video_tip": "Post a 20-30s anime-look 40K clip with a one-word caption and let the visuals carry it.",
+      "media": "video",
+      "followers_count": 218382,
+      "likes": 7299,
+      "reposts": 932,
+      "bookmarks": 1686,
+      "replies": 207,
+      "quotes": 79,
+      "self_quote": false,
+      "board_rank": 6,
+      "draft_en": "Just imagine it. Let the video do the talking.",
+      "draft_keywords": [
+        "video"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.0,
+        "word_overlap": 0.333,
+        "max_copied_run": 1
+      },
+      "top10_rank": 6
+    },
+    {
+      "id": "2121634011676356615",
+      "name": "Min Choi",
+      "display_name": "Min Choi",
+      "handle": "@minchoi",
+      "views": 151803,
+      "views_label": "151,803",
+      "url": "https://x.com/minchoi/status/2121634011676356615",
+      "created_at": "2026-11-14T15:59:01.000Z",
+      "posted_at": "2026-11-14T15:59:01.000Z",
+      "text": "Less than 48 hours ago, Google dropped Gemini 4 Hydrogen.\n\nMinds are blown. And people are already coming up with wild use cases.\n\n10 examples:",
+      "original_en": "Less than 48 hours ago, Google dropped Gemini 4 Hydrogen.\n\nMinds are blown. And people are already coming up with wild use cases.\n\n10 examples:",
+      "lang": "en",
+      "hook": "Listicle thread hook: 'Less than 48 hours ago, Google dropped Gemini 4 Hydrogen... 10 examples' - 152K views.",
+      "video_tip": "Curate 5-10 of the best Seedance 40K-style clips from the week into a thread with a timely hook.",
+      "media": "text",
+      "followers_count": 392570,
+      "likes": 529,
+      "reposts": 39,
+      "bookmarks": 388,
+      "replies": 72,
+      "quotes": 4,
+      "self_quote": false,
+      "board_rank": 7,
+      "draft_en": "Gemini 4 Hydrogen has been out for less than 48 hours and people are already pushing it in wild directions.\n\nHere are 10 use cases worth a look:",
+      "draft_keywords": [
+        "Gemini 4 Hydrogen"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.08,
+        "word_overlap": 0.636,
+        "max_copied_run": 4
+      },
+      "top10_rank": 7
+    },
+    {
+      "id": "2121712768462340131",
+      "name": "TUPACABRA",
+      "display_name": "TUPACABRA",
+      "handle": "@tupacabra",
+      "views": 137876,
+      "views_label": "137,876",
+      "url": "https://x.com/tupacabra/status/2121712768462340131",
+      "created_at": "2026-11-14T21:11:58.000Z",
+      "posted_at": "2026-11-14T21:11:58.000Z",
+      "text": "Fakest news I've ever seen. \n\nI'm the sole creator of NUREMBERG 1561 and this isn't true... or the poster 😂 https://t.co/SNgfG0ekYP",
+      "original_en": "Fakest news I've ever seen. \n\nI'm the sole creator of NUREMBERG 1561 and this isn't true... or the poster 😂 https://t.co/SNgfG0ekYP",
+      "lang": "en",
+      "hook": "Creator myth-busting a fake news poster about his own viral film - 138K views on the back of the trailer wave.",
+      "video_tip": "Use your own viral moment to address rumours with a quote of the fake claim and one clear correction.",
+      "media": "text",
+      "followers_count": 147084,
+      "likes": 3721,
+      "reposts": 141,
+      "bookmarks": 122,
+      "replies": 177,
+      "quotes": 11,
+      "self_quote": false,
+      "board_rank": 8,
+      "draft_en": "A fake story about NUREMBERG 1561 is making the rounds, poster and all. The creator says he alone made the AI film and that the report is simply not true.",
+      "draft_keywords": [
+        "AI film"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.0,
+        "word_overlap": 0.357,
+        "max_copied_run": 2
+      },
+      "top10_rank": 8
+    },
+    {
+      "id": "2121627112981569577",
+      "name": "el.cine",
+      "display_name": "el.cine",
+      "handle": "@EHuanglu",
+      "views": 69131,
+      "views_label": "69,131",
+      "url": "https://x.com/EHuanglu/status/2121627112981569577",
+      "created_at": "2026-11-14T15:31:36.000Z",
+      "posted_at": "2026-11-14T15:31:36.000Z",
+      "text": "fable 5.2 now can turn storyboard into disney level animation.. https://t.co/LiUdBbT2Mt",
+      "original_en": "fable 5.2 now can turn storyboard into disney level animation.. https://t.co/LiUdBbT2Mt",
+      "lang": "en",
+      "hook": "Capability claim 'fable 5.2 can turn storyboard into disney level animation' over a before/after clip - 69K views, 1.1K bookmarks.",
+      "video_tip": "Show storyboard panel then animated shot side by side for one 40K scene.",
+      "media": "video",
+      "followers_count": 151871,
+      "likes": 1071,
+      "reposts": 122,
+      "bookmarks": 1084,
+      "replies": 59,
+      "quotes": 10,
+      "self_quote": false,
+      "board_rank": 9,
+      "draft_en": "Storyboard in, Disney-level animation out. That is where fable 5.2 is now.",
+      "draft_keywords": [
+        "animation"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.0,
+        "word_overlap": 0.8,
+        "max_copied_run": 2
+      },
+      "top10_rank": 9
+    },
+    {
+      "id": "2121399238081052881",
+      "name": "PsyopAnime",
+      "display_name": "PsyopAnime",
+      "handle": "@PsyopAnime",
+      "views": 64057,
+      "views_label": "64,057",
+      "url": "https://x.com/PsyopAnime/status/2121399238081052881",
+      "created_at": "2026-11-14T00:26:06.000Z",
+      "posted_at": "2026-11-14T00:26:06.000Z",
+      "text": "FAA grounds fights nationwide due to \"Extraordinary circumstances\", a day after the Microsoft outage.  Coincidence? https://t.co/VduExL4htS",
+      "original_en": "FAA grounds fights nationwide due to \"Extraordinary circumstances\", a day after the Microsoft outage.  Coincidence? https://t.co/VduExL4htS",
+      "lang": "en",
+      "hook": "Headline-reactive anime parody of the FAA nationwide ground stop - 64K views, 332 reposts (second day in the outsider lane).",
+      "video_tip": "Turn a real headline into a 20s anime-style 40K parody within hours of the news.",
+      "media": "video",
+      "followers_count": 218382,
+      "likes": 1993,
+      "reposts": 332,
+      "bookmarks": 286,
+      "replies": 55,
+      "quotes": 31,
+      "self_quote": false,
+      "board_rank": 10,
+      "draft_en": "Imagine calling this a coincidence: one day after the Microsoft outage, the FAA halts flights across the whole country, citing \"extraordinary circumstances\".",
+      "draft_keywords": [
+        "Imagine"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.105,
+        "word_overlap": 0.429,
+        "max_copied_run": 5
+      },
+      "top10_rank": 10
+    },
+    {
+      "id": "2121723933766627641",
+      "name": "Nelly;",
+      "display_name": "Nelly;",
+      "handle": "@nrqa__",
+      "views": 55094,
+      "views_label": "55,094",
+      "url": "https://x.com/nrqa__/status/2121723933766627641",
+      "created_at": "2026-11-14T21:56:20.000Z",
+      "posted_at": "2026-11-14T21:56:20.000Z",
+      "text": "A great visual doesn’t need to explain everything—sometimes it just needs to spark enough curiosity to make people stop scrolling. 👀\n\nTell stronger stories while our Nov 13–19 event is underway: buy or upgrade to CapCut Web Ultra for 7 days of unlimited image generation on https://t.co/oRwBnOK03A",
+      "original_en": "A great visual doesn’t need to explain everything—sometimes it just needs to spark enough curiosity to make people stop scrolling. 👀\n\nTell stronger stories while our Nov 13–19 event is underway: buy or upgrade to CapCut Web Ultra for 7 days of unlimited image generation on https://t.co/oRwBnOK03A",
+      "lang": "en",
+      "hook": "Brand-partner CapCut Web Ultra promo with a curiosity hook ('a great visual doesn't need to explain everything') - 55K views but 118 likes (paid reach).",
+      "video_tip": "Lead with a striking single visual and a curiosity line, keep the promo copy after the hook.",
+      "media": "video",
+      "followers_count": 76390,
+      "likes": 118,
+      "reposts": 44,
+      "bookmarks": 10,
+      "replies": 36,
+      "quotes": 0,
+      "self_quote": false,
+      "board_rank": 11
+    },
+    {
+      "id": "2121395136026353740",
+      "name": "Min Choi",
+      "display_name": "Min Choi",
+      "handle": "@minchoi",
+      "views": 35682,
+      "views_label": "35,682",
+      "url": "https://x.com/minchoi/status/2121395136026353740",
+      "created_at": "2026-11-14T00:09:48.000Z",
+      "posted_at": "2026-11-14T00:09:48.000Z",
+      "text": "Hollywood is literally bringing AI VFX onto movie sets now.\n\n\"Young Washington\" director Jon Erwin says his AI team gets footage just 30 SECONDS after cameras stop rolling.\n\nHe's using Seedance 2.5 to visualize scenes BEFORE they're even filmed. 🤯\n\nHere's how his workflow is changing filmmaking:\n\n1. Make the movie BEFORE making the movie.\n\nErwin is using Seedance 2.5 to visualize scripts before production begins.\n\nInstead of making creative decisions based entirely on words on paper, directors can actually see how scenes might look and refine them.\n\nHe calls it bringing Pixar's process to live-action filmmaking.\n\n2. AI VFX can happen DURING filming.\n\nTraditionally, major VFX work happens much later in production.\n\nErwin is changing that.\n\nHe wants a generative AI team working like a second camera unit on set.\n\nReal actors are filming while AI artists develop visual effects alongside them.\n\n3. Footage reaches the AI team in just 30 SECONDS.\n\nThis part is pretty incredible.\n\nErwin says his team can access footage 30 seconds after the camera stops recording.\n\nThat means they can start creating and testing effects almost immediately.\n\nImagine seeing different visual possibilities while you're still shooting the scene.\n\n4. They already reworked a movie's VFX in TWO WEEKS.\n\nErwin says his team reopened a nearly finished film and regenerated much of its visual effects using Seedance 2.0.\n\nThey also chose to shoot entirely on location in Ireland rather than use a soundstage.\n\nReal footage + AI-generated effects.\n\n5. AI is learning the actual language of filmmaking.\n\nALEXA 65. Cooke lenses. f/1.2.\n\nThese are the kinds of instructions professional cinematographers use.\n\nErwin says Seedance 2.5 is increasingly able to interpret these technical filmmaking terms directly.\n\n6. And he doesn't want AI replacing real actors.\n\nThis is important.\n\nErwin believes human performances are fundamental to filmmaking.\n\nHe supports protecting intellectual property and says actors should never lose control over their performances through unauthorized digital replicas.\n\nThe bigger picture?\n\nImagine developing your screenplay visually, filming with real actors, and creating VFX alongside production.\n\nSmaller filmmaking teams could potentially create scenes that previously required much bigger budgets and crews.\n\nAnd Hollywood directors are already experimenting with this workflow.\n\nWatch Jon Erwin's interview below. 👇",
+      "original_en": "Hollywood is literally bringing AI VFX onto movie sets now.\n\n\"Young Washington\" director Jon Erwin says his AI team gets footage just 30 SECONDS after cameras stop rolling.\n\nHe's using Seedance 2.5 to visualize scenes BEFORE they're even filmed. 🤯\n\nHere's how his workflow is changing filmmaking:\n\n1. Make the movie BEFORE making the movie.\n\nErwin is using Seedance 2.5 to visualize scripts before production begins.\n\nInstead of making creative decisions based entirely on words on paper, directors can actually see how scenes might look and refine them.\n\nHe calls it bringing Pixar's process to live-action filmmaking.\n\n2. AI VFX can happen DURING filming.\n\nTraditionally, major VFX work happens much later in production.\n\nErwin is changing that.\n\nHe wants a generative AI team working like a second camera unit on set.\n\nReal actors are filming while AI artists develop visual effects alongside them.\n\n3. Footage reaches the AI team in just 30 SECONDS.\n\nThis part is pretty incredible.\n\nErwin says his team can access footage 30 seconds after the camera stops recording.\n\nThat means they can start creating and testing effects almost immediately.\n\nImagine seeing different visual possibilities while you're still shooting the scene.\n\n4. They already reworked a movie's VFX in TWO WEEKS.\n\nErwin says his team reopened a nearly finished film and regenerated much of its visual effects using Seedance 2.0.\n\nThey also chose to shoot entirely on location in Ireland rather than use a soundstage.\n\nReal footage + AI-generated effects.\n\n5. AI is learning the actual language of filmmaking.\n\nALEXA 65. Cooke lenses. f/1.2.\n\nThese are the kinds of instructions professional cinematographers use.\n\nErwin says Seedance 2.5 is increasingly able to interpret these technical filmmaking terms directly.\n\n6. And he doesn't want AI replacing real actors.\n\nThis is important.\n\nErwin believes human performances are fundamental to filmmaking.\n\nHe supports protecting intellectual property and says actors should never lose control over their performances through unauthorized digital replicas.\n\nThe bigger picture?\n\nImagine developing your screenplay visually, filming with real actors, and creating VFX alongside production.\n\nSmaller filmmaking teams could potentially create scenes that previously required much bigger budgets and crews.\n\nAnd Hollywood directors are already experimenting with this workflow.\n\nWatch Jon Erwin's interview below. 👇",
+      "lang": "en",
+      "hook": "Long numbered thread on director Jon Erwin using Seedance 2.5 for on-set previs and AI VFX - 35.7K views.",
+      "video_tip": "Make a short previs-style breakdown: script line, Seedance 2.5 previs shot, final shot.",
+      "media": "video",
+      "followers_count": 392570,
+      "likes": 58,
+      "reposts": 3,
+      "bookmarks": 42,
+      "replies": 39,
+      "quotes": 2,
+      "self_quote": false,
+      "board_rank": 12
+    },
+    {
+      "id": "2121664779135623645",
+      "name": "six",
+      "display_name": "six",
+      "handle": "@internetphysics",
+      "views": 32217,
+      "views_label": "32,217",
+      "url": "https://x.com/internetphysics/status/2121664779135623645",
+      "created_at": "2026-11-14T18:01:16.000Z",
+      "posted_at": "2026-11-14T18:01:16.000Z",
+      "text": "This trailer does a great job of working around the current bottlenecks/failure modes in AI video\n\n- ~every clip here is image-to-video, and imagegen has been fully solved\n- no dialogue\n- short 1-2s clips\n- not really any coherent plot, just worldbuilding\n- no consistent https://t.co/JP2mE1HBFQ",
+      "original_en": "This trailer does a great job of working around the current bottlenecks/failure modes in AI video\n\n- ~every clip here is image-to-video, and imagegen has been fully solved\n- no dialogue\n- short 1-2s clips\n- not really any coherent plot, just worldbuilding\n- no consistent https://t.co/JP2mE1HBFQ",
+      "lang": "en",
+      "hook": "Analytical quote of the NUREMBERG trailer listing how it dodges AI video failure modes (image-to-video, no dialogue, 1-2s clips) - 32K views, 101 bookmarks.",
+      "video_tip": "Post a breakdown of your own clip: what you avoided (dialogue, long shots) and why, over the clip itself.",
+      "media": "text",
+      "followers_count": 6010,
+      "likes": 462,
+      "reposts": 24,
+      "bookmarks": 101,
+      "replies": 55,
+      "quotes": 5,
+      "self_quote": false,
+      "board_rank": 13
+    },
+    {
+      "id": "2121454895387853228",
+      "name": "Dayu Dolma",
+      "display_name": "Dayu Dolma",
+      "handle": "@gektimbul",
+      "views": 24341,
+      "views_label": "24,341",
+      "url": "https://x.com/gektimbul/status/2121454895387853228",
+      "created_at": "2026-11-14T04:07:16.000Z",
+      "posted_at": "2026-11-14T04:07:16.000Z",
+      "text": "hi, AI creators\ni'm hoping this question reaches the AI filmmaking experts and experienced creators out there.\n\nquestion :\nwhat's the best AI tool for creating realistic short films with natural dialogue, consistent characters, and storylines that can continue across multiple episodes?\n\nwanna create my own AI movie series, with unexpected plot twists and a storyline that keeps people hooked, just like the AI series we're seeing everywhere lately.\n\nreally appreciate recommendations based on your actual experience, not just paid promotions or reviews. bcs i don't have the budget to test every AI platform out there, so I want to invest in the right tools from the beginning 🙏🏻\n\nif you've actually created AI films or series, please share what works best for you.\n\nyour advice would mean a lot. thank you! with ❤️\n~Dolma~",
+      "original_en": "hi, AI creators\ni'm hoping this question reaches the AI filmmaking experts and experienced creators out there.\n\nquestion :\nwhat's the best AI tool for creating realistic short films with natural dialogue, consistent characters, and storylines that can continue across multiple episodes?\n\nwanna create my own AI movie series, with unexpected plot twists and a storyline that keeps people hooked, just like the AI series we're seeing everywhere lately.\n\nreally appreciate recommendations based on your actual experience, not just paid promotions or reviews. bcs i don't have the budget to test every AI platform out there, so I want to invest in the right tools from the beginning 🙏🏻\n\nif you've actually created AI films or series, please share what works best for you.\n\nyour advice would mean a lot. thank you! with ❤️\n~Dolma~",
+      "lang": "en",
+      "hook": "Earnest crowd-sourcing question to AI filmmakers about the best tool for consistent characters and dialogue - 24K views.",
+      "video_tip": "Answer this kind of question with a 30s demo of your character-sheet to Seedance workflow.",
+      "media": "text",
+      "followers_count": 13000,
+      "likes": 62,
+      "reposts": 7,
+      "bookmarks": 11,
+      "replies": 6,
+      "quotes": 3,
+      "self_quote": false,
+      "board_rank": 14
+    },
+    {
+      "id": "2121326744242209214",
+      "name": "brinny",
+      "display_name": "brinny",
+      "handle": "@arrtms",
+      "views": 21680,
+      "views_label": "21,680",
+      "url": "https://x.com/arrtms/status/2121326744242209214",
+      "created_at": "2026-11-13T19:38:02.000Z",
+      "posted_at": "2026-11-13T19:38:02.000Z",
+      "text": "an AI song is at number 1 on all of the korean charts while artms didn’t chart with a 14 minute short film made with all practical effects, 2 different choreos, one being contemporary, and a TON of hard work… https://t.co/N1ELCGK60i https://t.co/ldNlucUFPj",
+      "original_en": "an AI song is at number 1 on all of the korean charts while artms didn’t chart with a 14 minute short film made with all practical effects, 2 different choreos, one being contemporary, and a TON of hard work… https://t.co/N1ELCGK60i https://t.co/ldNlucUFPj",
+      "lang": "en",
+      "hook": "K-pop fan contrast: AI song tops Korean charts while a 14-minute practical-effects short film didn't chart - 21.7K views, 2.3K likes (anti-AI sentiment).",
+      "video_tip": "Not a format to copy; be aware of anti-AI sentiment and credit the human craft in your captions.",
+      "media": "video",
+      "followers_count": 1758,
+      "likes": 2279,
+      "reposts": 446,
+      "bookmarks": 85,
+      "replies": 6,
+      "quotes": 14,
+      "self_quote": false,
+      "board_rank": 15
+    },
+    {
+      "id": "2121611611286716750",
+      "name": "PJ Ace",
+      "display_name": "PJ Ace",
+      "handle": "@PJaccetturo",
+      "views": 17752,
+      "views_label": "17,752",
+      "url": "https://x.com/PJaccetturo/status/2121611611286716750",
+      "created_at": "2026-11-14T14:30:00.000Z",
+      "posted_at": "2026-11-14T14:30:00.000Z",
+      "text": "Woke up to millions of views on our latest video, glad everyone liked it!\n\nLots of people asked how our characters sound so consistent, so we created a Claude skill for you.\n\nThis will save you a lot on generations!\n\nLink in comments below 👇 https://t.co/AR7MSmKFMl https://t.co/5jdRjq8vEk",
+      "original_en": "Woke up to millions of views on our latest video, glad everyone liked it!\n\nLots of people asked how our characters sound so consistent, so we created a Claude skill for you.\n\nThis will save you a lot on generations!\n\nLink in comments below 👇 https://t.co/AR7MSmKFMl https://t.co/5jdRjq8vEk",
+      "lang": "en",
+      "hook": "Follow-up to a viral episode: released a Claude skill for consistent character voices - 17.8K views, 312 bookmarks.",
+      "video_tip": "Give away one practical asset (prompt template, character sheet) as a follow-up to your best post.",
+      "media": "video",
+      "followers_count": 105089,
+      "likes": 287,
+      "reposts": 7,
+      "bookmarks": 312,
+      "replies": 42,
+      "quotes": 3,
+      "self_quote": false,
+      "board_rank": 16
+    },
+    {
+      "id": "2121405231246582028",
+      "name": "el.cine",
+      "display_name": "el.cine",
+      "handle": "@EHuanglu",
+      "views": 14514,
+      "views_label": "14,514",
+      "url": "https://x.com/EHuanglu/status/2121405231246582028",
+      "created_at": "2026-11-14T00:49:55.000Z",
+      "posted_at": "2026-11-14T00:49:55.000Z",
+      "text": "best AI trailer so far https://t.co/6QuDp9XjCZ",
+      "original_en": "best AI trailer so far https://t.co/6QuDp9XjCZ",
+      "lang": "en",
+      "hook": "Four-word curation 'best AI trailer so far' quoting NUREMBERG - 14.5K views.",
+      "video_tip": "Quote the week's big AI trailer with a short verdict and your own 40K trailer in reply-free standalone form.",
+      "media": "text",
+      "followers_count": 151871,
+      "likes": 186,
+      "reposts": 5,
+      "bookmarks": 52,
+      "replies": 9,
+      "quotes": 1,
+      "self_quote": false,
+      "board_rank": 17
+    },
+    {
+      "id": "2121372129614860535",
+      "name": "Flash Gorshon",
+      "display_name": "Flash Gorshon",
+      "handle": "@flashgorshon",
+      "views": 13872,
+      "views_label": "13,872",
+      "url": "https://x.com/flashgorshon/status/2121372129614860535",
+      "created_at": "2026-11-13T22:38:23.000Z",
+      "posted_at": "2026-11-13T22:38:23.000Z",
+      "text": "and people still think AI filmmaking is garbage lol\n\njust wait until all the best filmmakers have budgets sponsored by the AI providers. \n\na Hollywood flick needs tens of millions... an AI film needs mere thousands https://t.co/RjIwoa0i9T",
+      "original_en": "and people still think AI filmmaking is garbage lol\n\njust wait until all the best filmmakers have budgets sponsored by the AI providers. \n\na Hollywood flick needs tens of millions... an AI film needs mere thousands https://t.co/RjIwoa0i9T",
+      "lang": "en",
+      "hook": "Contrarian budget take quoting NUREMBERG: AI film needs thousands vs Hollywood's tens of millions - 13.9K views.",
+      "video_tip": "Pair a cost comparison caption with a short cinematic clip as proof.",
+      "media": "text",
+      "followers_count": 6252,
+      "likes": 166,
+      "reposts": 5,
+      "bookmarks": 16,
+      "replies": 8,
+      "quotes": 1,
+      "self_quote": false,
+      "board_rank": 19
+    },
+    {
+      "id": "2121552358270513237",
+      "name": "Testlabor",
+      "display_name": "Testlabor",
+      "handle": "@testerlabor",
+      "views": 12341,
+      "views_label": "12,341",
+      "url": "https://x.com/testerlabor/status/2121552358270513237",
+      "created_at": "2026-11-14T10:34:33.000Z",
+      "posted_at": "2026-11-14T10:34:33.000Z",
+      "text": "Rumors say Grok Imagine will be put into maintenance mode! To SpaceXSI: Please never shut down Grok Imagine like what happened with Sora. So many of us love creating with it. I've been using it since day one and still love creating with it. https://t.co/Ca0YIZv5YK",
+      "original_en": "Rumors say Grok Imagine will be put into maintenance mode! To SpaceXSI: Please never shut down Grok Imagine like what happened with Sora. So many of us love creating with it. I've been using it since day one and still love creating with it. https://t.co/Ca0YIZv5YK",
+      "lang": "en",
+      "hook": "Fan plea against Grok Imagine being put into maintenance mode after team cuts - 12.3K views, 75 replies.",
+      "video_tip": "Tool-news reactions draw replies; a short 'what I'd lose' montage of your Grok Imagine clips fits.",
+      "media": "photo",
+      "followers_count": 14686,
+      "likes": 300,
+      "reposts": 25,
+      "bookmarks": 32,
+      "replies": 75,
+      "quotes": 10,
+      "self_quote": false,
+      "board_rank": 20
+    },
+    {
+      "id": "2121826097029591312",
+      "name": "𝗦𝗮𝗻𝗶𝗮",
+      "display_name": "𝗦𝗮𝗻𝗶𝗮",
+      "handle": "@saniaspeaks_",
+      "views": 8793,
+      "views_label": "8,793",
+      "url": "https://x.com/saniaspeaks_/status/2121826097029591312",
+      "created_at": "2026-11-15T04:42:17.000Z",
+      "posted_at": "2026-11-15T04:42:17.000Z",
+      "text": "A sunny stroll turns sweet when a surprise bird sends a strawberry cone tumbling and the two can't stop laughing.\n\nMade with seedance 2.5 via @CuddlerAI\n\n#Cuddler #CuddlerPartner \n\nPrompt \nCreate a 30-second beautiful hand-painted 2D animated romantic short film with a soft watercolor storybook aesthetic.\n\n**Character consistency:** A charming young man with messy black hair and round glasses, wearing a black suit, and a beautiful young woman with a short black bob haircut, wearing a flowing red dress. Keep their faces, hairstyles, outfits and body proportions exactly consistent throughout the entire video.\n\n**Scene 1 (0–4s): The Ice Cream Date**\nA beautiful sunny afternoon in a charming European-style street. The couple walks together past colorful little shops and flower-covered windows. They stop at a cute vintage ice cream shop.\n\n**Scene 2 (4–7s): Choosing Flavors**\nInside the shop, the girl excitedly points at strawberry ice cream while the boy chooses chocolate. The shopkeeper hands them two beautiful ice cream cones. They smile happily.\n\n**Scene 3 (7–11s): A Sweet Walk**\nThey walk along a beautiful flower-lined street, enjoying their ice cream. The girl tastes her strawberry ice cream and offers the boy a bite. He leans forward playfully and takes a small taste.\n\n**Scene 4 (11–15s): The Funny Accident**\nSuddenly, a little bird flies past and surprises the girl. Her ice cream slips from her hand and falls onto the pavement. She looks shocked for a moment. The boy looks at the fallen ice cream, then at her.\n\n**Scene 5 (15–19s): Laughter Together**\nThe girl starts laughing at the unexpected accident. The boy laughs with her, gently wiping a tiny ice cream spot from her cheek with a napkin. Their expressions are sweet and natural.\n\n**Scene 6 (19–23s): Sharing Is Caring**\nThe boy offers his chocolate ice cream to the girl. She takes a small bite, smiles warmly and playfully feeds him a bite of her imaginary strawberry flavor, making them both laugh.\n\n**Scene 7 (23–27s): A Little Romantic Moment**\nThey sit together on a wooden park bench beneath a beautiful cherry blossom tree. The boy gently holds her hand while colorful petals float around them. They exchange a loving smile.\n\n**Scene 8 (27–30s): Beautiful Ending**\nWide cinematic shot of the couple walking hand in hand through a charming flower-filled street in golden afternoon sunlight. The boy holds his remaining ice cream in his other hand. Cherry blossom petals drift across the screen as the scene fades out.\n\n**Animation and visual direction:** Exquisite hand-painted 2D animation, delicate watercolor backgrounds, soft pastel colors, beautiful romantic atmosphere, expressive facial animation, natural body movements, detailed environments, warm sunlight, gentle wind, flowing dress fabric, floating flower petals and smooth cinematic transitions.\n\n**Important consistency rules:** One continuous story with logical scene transitions. Same two characters, identical faces, hairstyles and outfits in every scene. Ice cream must remain in their hands until the accidental drop. Only the girl's strawberry ice cream falls; the boy keeps his chocolate cone. No disappearing objects, no extra characters, no random scene changes, no distorted hands, no face changes, no 3D or photorealistic rendering. Professional polished 2D animated short-film quality.",
+      "original_en": "A sunny stroll turns sweet when a surprise bird sends a strawberry cone tumbling and the two can't stop laughing.\n\nMade with seedance 2.5 via @CuddlerAI\n\n#Cuddler #CuddlerPartner \n\nPrompt \nCreate a 30-second beautiful hand-painted 2D animated romantic short film with a soft watercolor storybook aesthetic.\n\n**Character consistency:** A charming young man with messy black hair and round glasses, wearing a black suit, and a beautiful young woman with a short black bob haircut, wearing a flowing red dress. Keep their faces, hairstyles, outfits and body proportions exactly consistent throughout the entire video.\n\n**Scene 1 (0–4s): The Ice Cream Date**\nA beautiful sunny afternoon in a charming European-style street. The couple walks together past colorful little shops and flower-covered windows. They stop at a cute vintage ice cream shop.\n\n**Scene 2 (4–7s): Choosing Flavors**\nInside the shop, the girl excitedly points at strawberry ice cream while the boy chooses chocolate. The shopkeeper hands them two beautiful ice cream cones. They smile happily.\n\n**Scene 3 (7–11s): A Sweet Walk**\nThey walk along a beautiful flower-lined street, enjoying their ice cream. The girl tastes her strawberry ice cream and offers the boy a bite. He leans forward playfully and takes a small taste.\n\n**Scene 4 (11–15s): The Funny Accident**\nSuddenly, a little bird flies past and surprises the girl. Her ice cream slips from her hand and falls onto the pavement. She looks shocked for a moment. The boy looks at the fallen ice cream, then at her.\n\n**Scene 5 (15–19s): Laughter Together**\nThe girl starts laughing at the unexpected accident. The boy laughs with her, gently wiping a tiny ice cream spot from her cheek with a napkin. Their expressions are sweet and natural.\n\n**Scene 6 (19–23s): Sharing Is Caring**\nThe boy offers his chocolate ice cream to the girl. She takes a small bite, smiles warmly and playfully feeds him a bite of her imaginary strawberry flavor, making them both laugh.\n\n**Scene 7 (23–27s): A Little Romantic Moment**\nThey sit together on a wooden park bench beneath a beautiful cherry blossom tree. The boy gently holds her hand while colorful petals float around them. They exchange a loving smile.\n\n**Scene 8 (27–30s): Beautiful Ending**\nWide cinematic shot of the couple walking hand in hand through a charming flower-filled street in golden afternoon sunlight. The boy holds his remaining ice cream in his other hand. Cherry blossom petals drift across the screen as the scene fades out.\n\n**Animation and visual direction:** Exquisite hand-painted 2D animation, delicate watercolor backgrounds, soft pastel colors, beautiful romantic atmosphere, expressive facial animation, natural body movements, detailed environments, warm sunlight, gentle wind, flowing dress fabric, floating flower petals and smooth cinematic transitions.\n\n**Important consistency rules:** One continuous story with logical scene transitions. Same two characters, identical faces, hairstyles and outfits in every scene. Ice cream must remain in their hands until the accidental drop. Only the girl's strawberry ice cream falls; the boy keeps his chocolate cone. No disappearing objects, no extra characters, no random scene changes, no distorted hands, no face changes, no 3D or photorealistic rendering. Professional polished 2D animated short-film quality.",
+      "lang": "en",
+      "hook": "Full multi-scene Seedance 2.5 prompt posted with a 30s hand-painted 2D romance short (partner post) - 8.8K views, 46 replies.",
+      "video_tip": "Post a 30s Seedance 2.5 short with the full scene-by-scene prompt in the post; ask which scene worked best.",
+      "media": "video",
+      "followers_count": 16547,
+      "likes": 156,
+      "reposts": 5,
+      "bookmarks": 5,
+      "replies": 46,
+      "quotes": 0,
+      "self_quote": false,
+      "board_rank": 21
+    }
+  ],
+  "outsiders_count": 20,
+  "virals": [
+    {
+      "id": "2121357879341166683",
+      "name": "TUPACABRA",
+      "display_name": "TUPACABRA",
+      "handle": "@tupacabra",
+      "views": 24893509,
+      "views_label": "24,893,509",
+      "url": "https://x.com/tupacabra/status/2121357879341166683",
+      "created_at": "2026-11-13T21:41:46.000Z",
+      "posted_at": "2026-11-13T21:41:46.000Z",
+      "text": "NUREMBERG - Official Trailer https://t.co/M7GjP0wfk9",
+      "original_en": "NUREMBERG - Official Trailer https://t.co/M7GjP0wfk9",
+      "lang": "en",
+      "hook": "Bare 'Official Trailer' title over an 87s cinematic AI trailer (NUREMBERG, based on the 1561 celestial phenomenon) - 24.9M views, 65K bookmarks, quoted 4.5K times; the AI-film event of the week.",
+      "video_tip": "Cut a 60-90s faux-trailer for one 40K battle: no dialogue, 1-2s image-to-video shots, one title card, and post it with a bare 'Official Trailer' caption.",
+      "media": "video",
+      "followers_count": 147092,
+      "likes": 115604,
+      "reposts": 12174,
+      "bookmarks": 65010,
+      "replies": 3983,
+      "quotes": 4533,
+      "self_quote": false,
+      "board_rank": 1,
+      "draft_en": "First look is here: NUREMBERG just got its official trailer.\n\nA full AI film trailer - hit play on the video below.",
+      "draft_keywords": [
+        "AI film",
+        "video"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.0,
+        "word_overlap": 0.333,
+        "max_copied_run": 2
+      },
+      "top10_rank": 1,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "note": "",
+        "topic": null
+      }
+    },
+    {
+      "id": "2121249226575511854",
+      "name": "PJ Ace",
+      "display_name": "PJ Ace",
+      "handle": "@PJaccetturo",
+      "views": 3887403,
+      "views_label": "3,887,403",
+      "url": "https://x.com/PJaccetturo/status/2121249226575511854",
+      "created_at": "2026-11-13T14:30:01.000Z",
+      "posted_at": "2026-11-13T14:30:01.000Z",
+      "text": "This episode cost $102,725 and took 45 days to make.\n\n...but I think we've finally solved AI Filmmaking.\n\nWe made MAJOR breakthroughs in audio + cinematography. \n\nAnd Part II (next week) is even more insane.\n\nSteal our brand-new process and Dreamina prompts below👇🏼🧵 https://t.co/39T7urOiuZ",
+      "original_en": "This episode cost $102,725 and took 45 days to make.\n\n...but I think we've finally solved AI Filmmaking.\n\nWe made MAJOR breakthroughs in audio + cinematography. \n\nAnd Part II (next week) is even more insane.\n\nSteal our brand-new process and Dreamina prompts below👇🏼🧵 https://t.co/39T7urOiuZ",
+      "lang": "en",
+      "hook": "Cost-and-time reveal ($102,725, 45 days) plus a bold 'we've finally solved AI filmmaking' claim and a process/prompt thread - 3.89M views, 9K bookmarks.",
+      "video_tip": "Post a short episode with a hard number in line one (hours, generations, credits) and a thread breaking down your Seedance process.",
+      "media": "video",
+      "followers_count": 105089,
+      "likes": 11745,
+      "reposts": 984,
+      "bookmarks": 9047,
+      "replies": 1748,
+      "quotes": 700,
+      "self_quote": false,
+      "board_rank": 2,
+      "draft_en": "$102,725 and 45 days. That is the price tag on one AI episode, and the team behind it says AI filmmaking is finally cracked.\n\nWhere they claim the big leaps: audio and cinematography. Part II drops next week and is pitched as even wilder.\n\nThe whole process plus their Dreamina prompts sit in the thread below.",
+      "draft_keywords": [
+        "AI filmmaking",
+        "Dreamina"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.0,
+        "word_overlap": 0.423,
+        "max_copied_run": 3
+      },
+      "top10_rank": 2,
+      "why_hit": {
+        "trend_match": 58,
+        "verdict": "trend",
+        "matched_keywords": [
+          "AI filmmaking",
+          "Dreamina"
+        ],
+        "media": "video",
+        "note": "",
+        "topic": "What AI filmmaking really costs"
+      }
+    },
+    {
+      "id": "2121825191944946159",
+      "name": "TUPACABRA",
+      "display_name": "TUPACABRA",
+      "handle": "@tupacabra",
+      "views": 593494,
+      "views_label": "593,494",
+      "url": "https://x.com/tupacabra/status/2121825191944946159",
+      "created_at": "2026-11-15T04:38:42.000Z",
+      "posted_at": "2026-11-15T04:38:42.000Z",
+      "text": "I'm overwhelmed by the response to the trailer. All I can say for now is thank you for watching it and sharing. \n\nI am the sole creator of this project and no one else represents NUREMBERG. Anyone else saying otherwise is a scammer. \n\nFinally, YES this is really in production and I can't wait for you to see it in all of its glory.",
+      "original_en": "I'm overwhelmed by the response to the trailer. All I can say for now is thank you for watching it and sharing. \n\nI am the sole creator of this project and no one else represents NUREMBERG. Anyone else saying otherwise is a scammer. \n\nFinally, YES this is really in production and I can't wait for you to see it in all of its glory.",
+      "lang": "en",
+      "hook": "Creator gratitude + anti-scam statement after the trailer went viral, confirming the film is really in production - 593K views, 23.9K likes.",
+      "video_tip": "After a breakout clip, follow up within 24h with a short 'it's real, more coming' note plus a 5s teaser frame.",
+      "media": "text",
+      "followers_count": 147084,
+      "likes": 23877,
+      "reposts": 1507,
+      "bookmarks": 2311,
+      "replies": 987,
+      "quotes": 152,
+      "self_quote": false,
+      "board_rank": 3,
+      "draft_en": "The NUREMBERG creator just answered the flood of reactions to the trailer.\n\nThree points: thanks to everyone watching and sharing, a warning that he is the only person behind the AI film and anyone claiming to represent it is running a scam, and confirmation that yes, it really is in production.",
+      "draft_keywords": [
+        "AI film"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.0,
+        "word_overlap": 0.286,
+        "max_copied_run": 3
+      },
+      "top10_rank": 3,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "author/audience",
+        "matched_keywords": [],
+        "media": "text",
+        "note": "",
+        "topic": null
+      }
+    },
+    {
+      "id": "2121579235085259242",
+      "name": "TechHalla",
+      "display_name": "TechHalla",
+      "handle": "@techhalla",
+      "views": 452034,
+      "views_label": "452,034",
+      "url": "https://x.com/techhalla/status/2121579235085259242",
+      "created_at": "2026-11-14T12:21:21.000Z",
+      "posted_at": "2026-11-14T12:21:21.000Z",
+      "text": "if you ever become a CEO you'd better have an escape plan 💀 https://t.co/CdkAoHYjhe",
+      "original_en": "if you ever become a CEO you'd better have an escape plan 💀 https://t.co/CdkAoHYjhe",
+      "lang": "en",
+      "hook": "One-line dark joke caption ('CEO escape plan') over a short absurd AI clip - 452K views, 1.2K bookmarks.",
+      "video_tip": "Make a 10-15s comedic 40K clip with a one-line caption joke (e.g. a Commissar's escape plan) and no explanation.",
+      "media": "video",
+      "followers_count": 103858,
+      "likes": 8322,
+      "reposts": 871,
+      "bookmarks": 1177,
+      "replies": 227,
+      "quotes": 102,
+      "self_quote": false,
+      "board_rank": 4,
+      "draft_en": "Planning to run a company someday? Sort out your exit route first - this video makes the case.",
+      "draft_keywords": [
+        "video"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.0,
+        "word_overlap": 0.0,
+        "max_copied_run": 1
+      },
+      "top10_rank": 4,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "note": "",
+        "topic": null
+      }
+    },
+    {
+      "id": "2121363868425306372",
+      "name": "Google Gemini",
+      "display_name": "Google Gemini",
+      "handle": "@GeminiApp",
+      "views": 215110,
+      "views_label": "215,110",
+      "url": "https://x.com/GeminiApp/status/2121363868425306372",
+      "created_at": "2026-11-13T22:05:33.000Z",
+      "posted_at": "2026-11-13T22:05:33.000Z",
+      "text": "Go from idea to finished video with Gemini 4 Hydrogen.\n\nUsing a custom skill and simple brief, Gemini 4 Hydrogen created a sizzle reel about the element “Hydrogen,\" sourcing public-domain archival footage and cutting it into one continuous edit with clean narration.",
+      "original_en": "Go from idea to finished video with Gemini 4 Hydrogen.\n\nUsing a custom skill and simple brief, Gemini 4 Hydrogen created a sizzle reel about the element “Hydrogen,\" sourcing public-domain archival footage and cutting it into one continuous edit with clean narration.",
+      "lang": "en",
+      "hook": "Official Gemini 4 Hydrogen demo: idea to finished narrated sizzle reel from public-domain footage via a custom skill - 215K views.",
+      "video_tip": "Screen-record an idea-to-edit workflow end to end and show the finished reel first, then the steps.",
+      "media": "text",
+      "followers_count": 617399,
+      "likes": 2709,
+      "reposts": 173,
+      "bookmarks": 1568,
+      "replies": 170,
+      "quotes": 69,
+      "self_quote": false,
+      "board_rank": 5,
+      "draft_en": "From a rough idea to a finished video, without leaving Gemini 4 Hydrogen.\n\nGiven a simple brief and a custom skill, it pulled public-domain archival footage, stitched everything into a single continuous edit and laid clean narration on top. The result: a sizzle reel built around Hydrogen, the element.",
+      "draft_keywords": [
+        "video",
+        "Gemini 4 Hydrogen",
+        "skill"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.0,
+        "word_overlap": 0.613,
+        "max_copied_run": 3
+      },
+      "top10_rank": 5,
+      "why_hit": {
+        "trend_match": 73,
+        "verdict": "trend",
+        "matched_keywords": [
+          "video",
+          "Gemini 4 Hydrogen",
+          "skill"
+        ],
+        "media": "text",
+        "note": "",
+        "topic": "NUREMBERG trailer wave"
+      }
+    },
+    {
+      "id": "2121657841090232521",
+      "name": "PsyopAnime",
+      "display_name": "PsyopAnime",
+      "handle": "@PsyopAnime",
+      "views": 174914,
+      "views_label": "174,914",
+      "url": "https://x.com/PsyopAnime/status/2121657841090232521",
+      "created_at": "2026-11-14T17:33:42.000Z",
+      "posted_at": "2026-11-14T17:33:42.000Z",
+      "text": "imagine https://t.co/7AW2q7xo1v",
+      "original_en": "imagine https://t.co/7AW2q7xo1v",
+      "lang": "en",
+      "hook": "One-word caption 'imagine' on an anime-style AI clip from PsyopAnime - 175K views, 1.7K bookmarks, 932 reposts.",
+      "video_tip": "Post a 20-30s anime-look 40K clip with a one-word caption and let the visuals carry it.",
+      "media": "video",
+      "followers_count": 218382,
+      "likes": 7299,
+      "reposts": 932,
+      "bookmarks": 1686,
+      "replies": 207,
+      "quotes": 79,
+      "self_quote": false,
+      "board_rank": 6,
+      "draft_en": "Just imagine it. Let the video do the talking.",
+      "draft_keywords": [
+        "video"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.0,
+        "word_overlap": 0.333,
+        "max_copied_run": 1
+      },
+      "top10_rank": 6,
+      "why_hit": {
+        "trend_match": 35,
+        "verdict": "visual",
+        "matched_keywords": [
+          "Imagine"
+        ],
+        "media": "video",
+        "note": "",
+        "topic": "Grok Imagine uncertainty"
+      }
+    },
+    {
+      "id": "2121634011676356615",
+      "name": "Min Choi",
+      "display_name": "Min Choi",
+      "handle": "@minchoi",
+      "views": 151803,
+      "views_label": "151,803",
+      "url": "https://x.com/minchoi/status/2121634011676356615",
+      "created_at": "2026-11-14T15:59:01.000Z",
+      "posted_at": "2026-11-14T15:59:01.000Z",
+      "text": "Less than 48 hours ago, Google dropped Gemini 4 Hydrogen.\n\nMinds are blown. And people are already coming up with wild use cases.\n\n10 examples:",
+      "original_en": "Less than 48 hours ago, Google dropped Gemini 4 Hydrogen.\n\nMinds are blown. And people are already coming up with wild use cases.\n\n10 examples:",
+      "lang": "en",
+      "hook": "Listicle thread hook: 'Less than 48 hours ago, Google dropped Gemini 4 Hydrogen... 10 examples' - 152K views.",
+      "video_tip": "Curate 5-10 of the best Seedance 40K-style clips from the week into a thread with a timely hook.",
+      "media": "text",
+      "followers_count": 392570,
+      "likes": 529,
+      "reposts": 39,
+      "bookmarks": 388,
+      "replies": 72,
+      "quotes": 4,
+      "self_quote": false,
+      "board_rank": 7,
+      "draft_en": "Gemini 4 Hydrogen has been out for less than 48 hours and people are already pushing it in wild directions.\n\nHere are 10 use cases worth a look:",
+      "draft_keywords": [
+        "Gemini 4 Hydrogen"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.08,
+        "word_overlap": 0.636,
+        "max_copied_run": 4
+      },
+      "top10_rank": 7,
+      "why_hit": {
+        "trend_match": 35,
+        "verdict": "author/audience",
+        "matched_keywords": [
+          "Gemini 4 Hydrogen"
+        ],
+        "media": "text",
+        "note": "",
+        "topic": "Gemini 4 Hydrogen video demos"
+      }
+    },
+    {
+      "id": "2121712768462340131",
+      "name": "TUPACABRA",
+      "display_name": "TUPACABRA",
+      "handle": "@tupacabra",
+      "views": 137876,
+      "views_label": "137,876",
+      "url": "https://x.com/tupacabra/status/2121712768462340131",
+      "created_at": "2026-11-14T21:11:58.000Z",
+      "posted_at": "2026-11-14T21:11:58.000Z",
+      "text": "Fakest news I've ever seen. \n\nI'm the sole creator of NUREMBERG 1561 and this isn't true... or the poster 😂 https://t.co/SNgfG0ekYP",
+      "original_en": "Fakest news I've ever seen. \n\nI'm the sole creator of NUREMBERG 1561 and this isn't true... or the poster 😂 https://t.co/SNgfG0ekYP",
+      "lang": "en",
+      "hook": "Creator myth-busting a fake news poster about his own viral film - 138K views on the back of the trailer wave.",
+      "video_tip": "Use your own viral moment to address rumours with a quote of the fake claim and one clear correction.",
+      "media": "text",
+      "followers_count": 147084,
+      "likes": 3721,
+      "reposts": 141,
+      "bookmarks": 122,
+      "replies": 177,
+      "quotes": 11,
+      "self_quote": false,
+      "board_rank": 8,
+      "draft_en": "A fake story about NUREMBERG 1561 is making the rounds, poster and all. The creator says he alone made the AI film and that the report is simply not true.",
+      "draft_keywords": [
+        "AI film"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.0,
+        "word_overlap": 0.357,
+        "max_copied_run": 2
+      },
+      "top10_rank": 8,
+      "why_hit": {
+        "trend_match": 35,
+        "verdict": "author/audience",
+        "matched_keywords": [
+          "I've"
+        ],
+        "media": "text",
+        "note": "",
+        "topic": null
+      }
+    },
+    {
+      "id": "2121627112981569577",
+      "name": "el.cine",
+      "display_name": "el.cine",
+      "handle": "@EHuanglu",
+      "views": 69131,
+      "views_label": "69,131",
+      "url": "https://x.com/EHuanglu/status/2121627112981569577",
+      "created_at": "2026-11-14T15:31:36.000Z",
+      "posted_at": "2026-11-14T15:31:36.000Z",
+      "text": "fable 5.2 now can turn storyboard into disney level animation.. https://t.co/LiUdBbT2Mt",
+      "original_en": "fable 5.2 now can turn storyboard into disney level animation.. https://t.co/LiUdBbT2Mt",
+      "lang": "en",
+      "hook": "Capability claim 'fable 5.2 can turn storyboard into disney level animation' over a before/after clip - 69K views, 1.1K bookmarks.",
+      "video_tip": "Show storyboard panel then animated shot side by side for one 40K scene.",
+      "media": "video",
+      "followers_count": 151871,
+      "likes": 1071,
+      "reposts": 122,
+      "bookmarks": 1084,
+      "replies": 59,
+      "quotes": 10,
+      "self_quote": false,
+      "board_rank": 9,
+      "draft_en": "Storyboard in, Disney-level animation out. That is where fable 5.2 is now.",
+      "draft_keywords": [
+        "animation"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.0,
+        "word_overlap": 0.8,
+        "max_copied_run": 2
+      },
+      "top10_rank": 9,
+      "why_hit": {
+        "trend_match": 22,
+        "verdict": "visual",
+        "matched_keywords": [
+          "animation"
+        ],
+        "media": "video",
+        "note": "",
+        "topic": null
+      }
+    },
+    {
+      "id": "2121399238081052881",
+      "name": "PsyopAnime",
+      "display_name": "PsyopAnime",
+      "handle": "@PsyopAnime",
+      "views": 64057,
+      "views_label": "64,057",
+      "url": "https://x.com/PsyopAnime/status/2121399238081052881",
+      "created_at": "2026-11-14T00:26:06.000Z",
+      "posted_at": "2026-11-14T00:26:06.000Z",
+      "text": "FAA grounds fights nationwide due to \"Extraordinary circumstances\", a day after the Microsoft outage.  Coincidence? https://t.co/VduExL4htS",
+      "original_en": "FAA grounds fights nationwide due to \"Extraordinary circumstances\", a day after the Microsoft outage.  Coincidence? https://t.co/VduExL4htS",
+      "lang": "en",
+      "hook": "Headline-reactive anime parody of the FAA nationwide ground stop - 64K views, 332 reposts (second day in the outsider lane).",
+      "video_tip": "Turn a real headline into a 20s anime-style 40K parody within hours of the news.",
+      "media": "video",
+      "followers_count": 218382,
+      "likes": 1993,
+      "reposts": 332,
+      "bookmarks": 286,
+      "replies": 55,
+      "quotes": 31,
+      "self_quote": false,
+      "board_rank": 10,
+      "draft_en": "Imagine calling this a coincidence: one day after the Microsoft outage, the FAA halts flights across the whole country, citing \"extraordinary circumstances\".",
+      "draft_keywords": [
+        "Imagine"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.105,
+        "word_overlap": 0.429,
+        "max_copied_run": 5
+      },
+      "top10_rank": 10,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "note": "",
+        "topic": null
+      }
+    },
+    {
+      "id": "2121723933766627641",
+      "name": "Nelly;",
+      "display_name": "Nelly;",
+      "handle": "@nrqa__",
+      "views": 55094,
+      "views_label": "55,094",
+      "url": "https://x.com/nrqa__/status/2121723933766627641",
+      "created_at": "2026-11-14T21:56:20.000Z",
+      "posted_at": "2026-11-14T21:56:20.000Z",
+      "text": "A great visual doesn’t need to explain everything—sometimes it just needs to spark enough curiosity to make people stop scrolling. 👀\n\nTell stronger stories while our Nov 13–19 event is underway: buy or upgrade to CapCut Web Ultra for 7 days of unlimited image generation on https://t.co/oRwBnOK03A",
+      "original_en": "A great visual doesn’t need to explain everything—sometimes it just needs to spark enough curiosity to make people stop scrolling. 👀\n\nTell stronger stories while our Nov 13–19 event is underway: buy or upgrade to CapCut Web Ultra for 7 days of unlimited image generation on https://t.co/oRwBnOK03A",
+      "lang": "en",
+      "hook": "Brand-partner CapCut Web Ultra promo with a curiosity hook ('a great visual doesn't need to explain everything') - 55K views but 118 likes (paid reach).",
+      "video_tip": "Lead with a striking single visual and a curiosity line, keep the promo copy after the hook.",
+      "media": "video",
+      "followers_count": 76390,
+      "likes": 118,
+      "reposts": 44,
+      "bookmarks": 10,
+      "replies": 36,
+      "quotes": 0,
+      "self_quote": false,
+      "board_rank": 11,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "note": "",
+        "topic": null
+      }
+    },
+    {
+      "id": "2121395136026353740",
+      "name": "Min Choi",
+      "display_name": "Min Choi",
+      "handle": "@minchoi",
+      "views": 35682,
+      "views_label": "35,682",
+      "url": "https://x.com/minchoi/status/2121395136026353740",
+      "created_at": "2026-11-14T00:09:48.000Z",
+      "posted_at": "2026-11-14T00:09:48.000Z",
+      "text": "Hollywood is literally bringing AI VFX onto movie sets now.\n\n\"Young Washington\" director Jon Erwin says his AI team gets footage just 30 SECONDS after cameras stop rolling.\n\nHe's using Seedance 2.5 to visualize scenes BEFORE they're even filmed. 🤯\n\nHere's how his workflow is changing filmmaking:\n\n1. Make the movie BEFORE making the movie.\n\nErwin is using Seedance 2.5 to visualize scripts before production begins.\n\nInstead of making creative decisions based entirely on words on paper, directors can actually see how scenes might look and refine them.\n\nHe calls it bringing Pixar's process to live-action filmmaking.\n\n2. AI VFX can happen DURING filming.\n\nTraditionally, major VFX work happens much later in production.\n\nErwin is changing that.\n\nHe wants a generative AI team working like a second camera unit on set.\n\nReal actors are filming while AI artists develop visual effects alongside them.\n\n3. Footage reaches the AI team in just 30 SECONDS.\n\nThis part is pretty incredible.\n\nErwin says his team can access footage 30 seconds after the camera stops recording.\n\nThat means they can start creating and testing effects almost immediately.\n\nImagine seeing different visual possibilities while you're still shooting the scene.\n\n4. They already reworked a movie's VFX in TWO WEEKS.\n\nErwin says his team reopened a nearly finished film and regenerated much of its visual effects using Seedance 2.0.\n\nThey also chose to shoot entirely on location in Ireland rather than use a soundstage.\n\nReal footage + AI-generated effects.\n\n5. AI is learning the actual language of filmmaking.\n\nALEXA 65. Cooke lenses. f/1.2.\n\nThese are the kinds of instructions professional cinematographers use.\n\nErwin says Seedance 2.5 is increasingly able to interpret these technical filmmaking terms directly.\n\n6. And he doesn't want AI replacing real actors.\n\nThis is important.\n\nErwin believes human performances are fundamental to filmmaking.\n\nHe supports protecting intellectual property and says actors should never lose control over their performances through unauthorized digital replicas.\n\nThe bigger picture?\n\nImagine developing your screenplay visually, filming with real actors, and creating VFX alongside production.\n\nSmaller filmmaking teams could potentially create scenes that previously required much bigger budgets and crews.\n\nAnd Hollywood directors are already experimenting with this workflow.\n\nWatch Jon Erwin's interview below. 👇",
+      "original_en": "Hollywood is literally bringing AI VFX onto movie sets now.\n\n\"Young Washington\" director Jon Erwin says his AI team gets footage just 30 SECONDS after cameras stop rolling.\n\nHe's using Seedance 2.5 to visualize scenes BEFORE they're even filmed. 🤯\n\nHere's how his workflow is changing filmmaking:\n\n1. Make the movie BEFORE making the movie.\n\nErwin is using Seedance 2.5 to visualize scripts before production begins.\n\nInstead of making creative decisions based entirely on words on paper, directors can actually see how scenes might look and refine them.\n\nHe calls it bringing Pixar's process to live-action filmmaking.\n\n2. AI VFX can happen DURING filming.\n\nTraditionally, major VFX work happens much later in production.\n\nErwin is changing that.\n\nHe wants a generative AI team working like a second camera unit on set.\n\nReal actors are filming while AI artists develop visual effects alongside them.\n\n3. Footage reaches the AI team in just 30 SECONDS.\n\nThis part is pretty incredible.\n\nErwin says his team can access footage 30 seconds after the camera stops recording.\n\nThat means they can start creating and testing effects almost immediately.\n\nImagine seeing different visual possibilities while you're still shooting the scene.\n\n4. They already reworked a movie's VFX in TWO WEEKS.\n\nErwin says his team reopened a nearly finished film and regenerated much of its visual effects using Seedance 2.0.\n\nThey also chose to shoot entirely on location in Ireland rather than use a soundstage.\n\nReal footage + AI-generated effects.\n\n5. AI is learning the actual language of filmmaking.\n\nALEXA 65. Cooke lenses. f/1.2.\n\nThese are the kinds of instructions professional cinematographers use.\n\nErwin says Seedance 2.5 is increasingly able to interpret these technical filmmaking terms directly.\n\n6. And he doesn't want AI replacing real actors.\n\nThis is important.\n\nErwin believes human performances are fundamental to filmmaking.\n\nHe supports protecting intellectual property and says actors should never lose control over their performances through unauthorized digital replicas.\n\nThe bigger picture?\n\nImagine developing your screenplay visually, filming with real actors, and creating VFX alongside production.\n\nSmaller filmmaking teams could potentially create scenes that previously required much bigger budgets and crews.\n\nAnd Hollywood directors are already experimenting with this workflow.\n\nWatch Jon Erwin's interview below. 👇",
+      "lang": "en",
+      "hook": "Long numbered thread on director Jon Erwin using Seedance 2.5 for on-set previs and AI VFX - 35.7K views.",
+      "video_tip": "Make a short previs-style breakdown: script line, Seedance 2.5 previs shot, final shot.",
+      "media": "video",
+      "followers_count": 392570,
+      "likes": 58,
+      "reposts": 3,
+      "bookmarks": 42,
+      "replies": 39,
+      "quotes": 2,
+      "self_quote": false,
+      "board_rank": 12,
+      "why_hit": {
+        "trend_match": 73,
+        "verdict": "trend",
+        "matched_keywords": [
+          "Seedance 2.5",
+          "Imagine",
+          "Hollywood"
+        ],
+        "media": "video",
+        "note": "",
+        "topic": "NUREMBERG trailer wave"
+      }
+    },
+    {
+      "id": "2121664779135623645",
+      "name": "six",
+      "display_name": "six",
+      "handle": "@internetphysics",
+      "views": 32217,
+      "views_label": "32,217",
+      "url": "https://x.com/internetphysics/status/2121664779135623645",
+      "created_at": "2026-11-14T18:01:16.000Z",
+      "posted_at": "2026-11-14T18:01:16.000Z",
+      "text": "This trailer does a great job of working around the current bottlenecks/failure modes in AI video\n\n- ~every clip here is image-to-video, and imagegen has been fully solved\n- no dialogue\n- short 1-2s clips\n- not really any coherent plot, just worldbuilding\n- no consistent https://t.co/JP2mE1HBFQ",
+      "original_en": "This trailer does a great job of working around the current bottlenecks/failure modes in AI video\n\n- ~every clip here is image-to-video, and imagegen has been fully solved\n- no dialogue\n- short 1-2s clips\n- not really any coherent plot, just worldbuilding\n- no consistent https://t.co/JP2mE1HBFQ",
+      "lang": "en",
+      "hook": "Analytical quote of the NUREMBERG trailer listing how it dodges AI video failure modes (image-to-video, no dialogue, 1-2s clips) - 32K views, 101 bookmarks.",
+      "video_tip": "Post a breakdown of your own clip: what you avoided (dialogue, long shots) and why, over the clip itself.",
+      "media": "text",
+      "followers_count": 6010,
+      "likes": 462,
+      "reposts": 24,
+      "bookmarks": 101,
+      "replies": 55,
+      "quotes": 5,
+      "self_quote": false,
+      "board_rank": 13,
+      "why_hit": {
+        "trend_match": 35,
+        "verdict": "coincidence/other",
+        "matched_keywords": [
+          "video"
+        ],
+        "media": "text",
+        "note": "",
+        "topic": "NUREMBERG trailer wave"
+      }
+    },
+    {
+      "id": "2121454895387853228",
+      "name": "Dayu Dolma",
+      "display_name": "Dayu Dolma",
+      "handle": "@gektimbul",
+      "views": 24341,
+      "views_label": "24,341",
+      "url": "https://x.com/gektimbul/status/2121454895387853228",
+      "created_at": "2026-11-14T04:07:16.000Z",
+      "posted_at": "2026-11-14T04:07:16.000Z",
+      "text": "hi, AI creators\ni'm hoping this question reaches the AI filmmaking experts and experienced creators out there.\n\nquestion :\nwhat's the best AI tool for creating realistic short films with natural dialogue, consistent characters, and storylines that can continue across multiple episodes?\n\nwanna create my own AI movie series, with unexpected plot twists and a storyline that keeps people hooked, just like the AI series we're seeing everywhere lately.\n\nreally appreciate recommendations based on your actual experience, not just paid promotions or reviews. bcs i don't have the budget to test every AI platform out there, so I want to invest in the right tools from the beginning 🙏🏻\n\nif you've actually created AI films or series, please share what works best for you.\n\nyour advice would mean a lot. thank you! with ❤️\n~Dolma~",
+      "original_en": "hi, AI creators\ni'm hoping this question reaches the AI filmmaking experts and experienced creators out there.\n\nquestion :\nwhat's the best AI tool for creating realistic short films with natural dialogue, consistent characters, and storylines that can continue across multiple episodes?\n\nwanna create my own AI movie series, with unexpected plot twists and a storyline that keeps people hooked, just like the AI series we're seeing everywhere lately.\n\nreally appreciate recommendations based on your actual experience, not just paid promotions or reviews. bcs i don't have the budget to test every AI platform out there, so I want to invest in the right tools from the beginning 🙏🏻\n\nif you've actually created AI films or series, please share what works best for you.\n\nyour advice would mean a lot. thank you! with ❤️\n~Dolma~",
+      "lang": "en",
+      "hook": "Earnest crowd-sourcing question to AI filmmakers about the best tool for consistent characters and dialogue - 24K views.",
+      "video_tip": "Answer this kind of question with a 30s demo of your character-sheet to Seedance workflow.",
+      "media": "text",
+      "followers_count": 13000,
+      "likes": 62,
+      "reposts": 7,
+      "bookmarks": 11,
+      "replies": 6,
+      "quotes": 3,
+      "self_quote": false,
+      "board_rank": 14,
+      "why_hit": {
+        "trend_match": 58,
+        "verdict": "trend",
+        "matched_keywords": [
+          "AI filmmaking",
+          "AI film"
+        ],
+        "media": "text",
+        "note": "",
+        "topic": "NUREMBERG trailer wave"
+      }
+    },
+    {
+      "id": "2121326744242209214",
+      "name": "brinny",
+      "display_name": "brinny",
+      "handle": "@arrtms",
+      "views": 21680,
+      "views_label": "21,680",
+      "url": "https://x.com/arrtms/status/2121326744242209214",
+      "created_at": "2026-11-13T19:38:02.000Z",
+      "posted_at": "2026-11-13T19:38:02.000Z",
+      "text": "an AI song is at number 1 on all of the korean charts while artms didn’t chart with a 14 minute short film made with all practical effects, 2 different choreos, one being contemporary, and a TON of hard work… https://t.co/N1ELCGK60i https://t.co/ldNlucUFPj",
+      "original_en": "an AI song is at number 1 on all of the korean charts while artms didn’t chart with a 14 minute short film made with all practical effects, 2 different choreos, one being contemporary, and a TON of hard work… https://t.co/N1ELCGK60i https://t.co/ldNlucUFPj",
+      "lang": "en",
+      "hook": "K-pop fan contrast: AI song tops Korean charts while a 14-minute practical-effects short film didn't chart - 21.7K views, 2.3K likes (anti-AI sentiment).",
+      "video_tip": "Not a format to copy; be aware of anti-AI sentiment and credit the human craft in your captions.",
+      "media": "video",
+      "followers_count": 1758,
+      "likes": 2279,
+      "reposts": 446,
+      "bookmarks": 85,
+      "replies": 6,
+      "quotes": 14,
+      "self_quote": false,
+      "board_rank": 15,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "note": "",
+        "topic": null
+      }
+    },
+    {
+      "id": "2121611611286716750",
+      "name": "PJ Ace",
+      "display_name": "PJ Ace",
+      "handle": "@PJaccetturo",
+      "views": 17752,
+      "views_label": "17,752",
+      "url": "https://x.com/PJaccetturo/status/2121611611286716750",
+      "created_at": "2026-11-14T14:30:00.000Z",
+      "posted_at": "2026-11-14T14:30:00.000Z",
+      "text": "Woke up to millions of views on our latest video, glad everyone liked it!\n\nLots of people asked how our characters sound so consistent, so we created a Claude skill for you.\n\nThis will save you a lot on generations!\n\nLink in comments below 👇 https://t.co/AR7MSmKFMl https://t.co/5jdRjq8vEk",
+      "original_en": "Woke up to millions of views on our latest video, glad everyone liked it!\n\nLots of people asked how our characters sound so consistent, so we created a Claude skill for you.\n\nThis will save you a lot on generations!\n\nLink in comments below 👇 https://t.co/AR7MSmKFMl https://t.co/5jdRjq8vEk",
+      "lang": "en",
+      "hook": "Follow-up to a viral episode: released a Claude skill for consistent character voices - 17.8K views, 312 bookmarks.",
+      "video_tip": "Give away one practical asset (prompt template, character sheet) as a follow-up to your best post.",
+      "media": "video",
+      "followers_count": 105089,
+      "likes": 287,
+      "reposts": 7,
+      "bookmarks": 312,
+      "replies": 42,
+      "quotes": 3,
+      "self_quote": false,
+      "board_rank": 16,
+      "why_hit": {
+        "trend_match": 58,
+        "verdict": "trend",
+        "matched_keywords": [
+          "video",
+          "skill"
+        ],
+        "media": "video",
+        "note": "",
+        "topic": "NUREMBERG trailer wave"
+      }
+    },
+    {
+      "id": "2121405231246582028",
+      "name": "el.cine",
+      "display_name": "el.cine",
+      "handle": "@EHuanglu",
+      "views": 14514,
+      "views_label": "14,514",
+      "url": "https://x.com/EHuanglu/status/2121405231246582028",
+      "created_at": "2026-11-14T00:49:55.000Z",
+      "posted_at": "2026-11-14T00:49:55.000Z",
+      "text": "best AI trailer so far https://t.co/6QuDp9XjCZ",
+      "original_en": "best AI trailer so far https://t.co/6QuDp9XjCZ",
+      "lang": "en",
+      "hook": "Four-word curation 'best AI trailer so far' quoting NUREMBERG - 14.5K views.",
+      "video_tip": "Quote the week's big AI trailer with a short verdict and your own 40K trailer in reply-free standalone form.",
+      "media": "text",
+      "followers_count": 151871,
+      "likes": 186,
+      "reposts": 5,
+      "bookmarks": 52,
+      "replies": 9,
+      "quotes": 1,
+      "self_quote": false,
+      "board_rank": 17,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "author/audience",
+        "matched_keywords": [],
+        "media": "text",
+        "note": "",
+        "topic": null
+      }
+    },
+    {
+      "id": "2121372129614860535",
+      "name": "Flash Gorshon",
+      "display_name": "Flash Gorshon",
+      "handle": "@flashgorshon",
+      "views": 13872,
+      "views_label": "13,872",
+      "url": "https://x.com/flashgorshon/status/2121372129614860535",
+      "created_at": "2026-11-13T22:38:23.000Z",
+      "posted_at": "2026-11-13T22:38:23.000Z",
+      "text": "and people still think AI filmmaking is garbage lol\n\njust wait until all the best filmmakers have budgets sponsored by the AI providers. \n\na Hollywood flick needs tens of millions... an AI film needs mere thousands https://t.co/RjIwoa0i9T",
+      "original_en": "and people still think AI filmmaking is garbage lol\n\njust wait until all the best filmmakers have budgets sponsored by the AI providers. \n\na Hollywood flick needs tens of millions... an AI film needs mere thousands https://t.co/RjIwoa0i9T",
+      "lang": "en",
+      "hook": "Contrarian budget take quoting NUREMBERG: AI film needs thousands vs Hollywood's tens of millions - 13.9K views.",
+      "video_tip": "Pair a cost comparison caption with a short cinematic clip as proof.",
+      "media": "text",
+      "followers_count": 6252,
+      "likes": 166,
+      "reposts": 5,
+      "bookmarks": 16,
+      "replies": 8,
+      "quotes": 1,
+      "self_quote": false,
+      "board_rank": 19,
+      "why_hit": {
+        "trend_match": 73,
+        "verdict": "trend",
+        "matched_keywords": [
+          "AI filmmaking",
+          "AI film",
+          "Hollywood"
+        ],
+        "media": "text",
+        "note": "",
+        "topic": "NUREMBERG trailer wave"
+      }
+    },
+    {
+      "id": "2121552358270513237",
+      "name": "Testlabor",
+      "display_name": "Testlabor",
+      "handle": "@testerlabor",
+      "views": 12341,
+      "views_label": "12,341",
+      "url": "https://x.com/testerlabor/status/2121552358270513237",
+      "created_at": "2026-11-14T10:34:33.000Z",
+      "posted_at": "2026-11-14T10:34:33.000Z",
+      "text": "Rumors say Grok Imagine will be put into maintenance mode! To SpaceXSI: Please never shut down Grok Imagine like what happened with Sora. So many of us love creating with it. I've been using it since day one and still love creating with it. https://t.co/Ca0YIZv5YK",
+      "original_en": "Rumors say Grok Imagine will be put into maintenance mode! To SpaceXSI: Please never shut down Grok Imagine like what happened with Sora. So many of us love creating with it. I've been using it since day one and still love creating with it. https://t.co/Ca0YIZv5YK",
+      "lang": "en",
+      "hook": "Fan plea against Grok Imagine being put into maintenance mode after team cuts - 12.3K views, 75 replies.",
+      "video_tip": "Tool-news reactions draw replies; a short 'what I'd lose' montage of your Grok Imagine clips fits.",
+      "media": "photo",
+      "followers_count": 14686,
+      "likes": 300,
+      "reposts": 25,
+      "bookmarks": 32,
+      "replies": 75,
+      "quotes": 10,
+      "self_quote": false,
+      "board_rank": 20,
+      "why_hit": {
+        "trend_match": 58,
+        "verdict": "trend",
+        "matched_keywords": [
+          "Imagine",
+          "I've"
+        ],
+        "media": "image",
+        "note": "",
+        "topic": "Grok Imagine uncertainty"
+      }
+    },
+    {
+      "id": "2121826097029591312",
+      "name": "𝗦𝗮𝗻𝗶𝗮",
+      "display_name": "𝗦𝗮𝗻𝗶𝗮",
+      "handle": "@saniaspeaks_",
+      "views": 8793,
+      "views_label": "8,793",
+      "url": "https://x.com/saniaspeaks_/status/2121826097029591312",
+      "created_at": "2026-11-15T04:42:17.000Z",
+      "posted_at": "2026-11-15T04:42:17.000Z",
+      "text": "A sunny stroll turns sweet when a surprise bird sends a strawberry cone tumbling and the two can't stop laughing.\n\nMade with seedance 2.5 via @CuddlerAI\n\n#Cuddler #CuddlerPartner \n\nPrompt \nCreate a 30-second beautiful hand-painted 2D animated romantic short film with a soft watercolor storybook aesthetic.\n\n**Character consistency:** A charming young man with messy black hair and round glasses, wearing a black suit, and a beautiful young woman with a short black bob haircut, wearing a flowing red dress. Keep their faces, hairstyles, outfits and body proportions exactly consistent throughout the entire video.\n\n**Scene 1 (0–4s): The Ice Cream Date**\nA beautiful sunny afternoon in a charming European-style street. The couple walks together past colorful little shops and flower-covered windows. They stop at a cute vintage ice cream shop.\n\n**Scene 2 (4–7s): Choosing Flavors**\nInside the shop, the girl excitedly points at strawberry ice cream while the boy chooses chocolate. The shopkeeper hands them two beautiful ice cream cones. They smile happily.\n\n**Scene 3 (7–11s): A Sweet Walk**\nThey walk along a beautiful flower-lined street, enjoying their ice cream. The girl tastes her strawberry ice cream and offers the boy a bite. He leans forward playfully and takes a small taste.\n\n**Scene 4 (11–15s): The Funny Accident**\nSuddenly, a little bird flies past and surprises the girl. Her ice cream slips from her hand and falls onto the pavement. She looks shocked for a moment. The boy looks at the fallen ice cream, then at her.\n\n**Scene 5 (15–19s): Laughter Together**\nThe girl starts laughing at the unexpected accident. The boy laughs with her, gently wiping a tiny ice cream spot from her cheek with a napkin. Their expressions are sweet and natural.\n\n**Scene 6 (19–23s): Sharing Is Caring**\nThe boy offers his chocolate ice cream to the girl. She takes a small bite, smiles warmly and playfully feeds him a bite of her imaginary strawberry flavor, making them both laugh.\n\n**Scene 7 (23–27s): A Little Romantic Moment**\nThey sit together on a wooden park bench beneath a beautiful cherry blossom tree. The boy gently holds her hand while colorful petals float around them. They exchange a loving smile.\n\n**Scene 8 (27–30s): Beautiful Ending**\nWide cinematic shot of the couple walking hand in hand through a charming flower-filled street in golden afternoon sunlight. The boy holds his remaining ice cream in his other hand. Cherry blossom petals drift across the screen as the scene fades out.\n\n**Animation and visual direction:** Exquisite hand-painted 2D animation, delicate watercolor backgrounds, soft pastel colors, beautiful romantic atmosphere, expressive facial animation, natural body movements, detailed environments, warm sunlight, gentle wind, flowing dress fabric, floating flower petals and smooth cinematic transitions.\n\n**Important consistency rules:** One continuous story with logical scene transitions. Same two characters, identical faces, hairstyles and outfits in every scene. Ice cream must remain in their hands until the accidental drop. Only the girl's strawberry ice cream falls; the boy keeps his chocolate cone. No disappearing objects, no extra characters, no random scene changes, no distorted hands, no face changes, no 3D or photorealistic rendering. Professional polished 2D animated short-film quality.",
+      "original_en": "A sunny stroll turns sweet when a surprise bird sends a strawberry cone tumbling and the two can't stop laughing.\n\nMade with seedance 2.5 via @CuddlerAI\n\n#Cuddler #CuddlerPartner \n\nPrompt \nCreate a 30-second beautiful hand-painted 2D animated romantic short film with a soft watercolor storybook aesthetic.\n\n**Character consistency:** A charming young man with messy black hair and round glasses, wearing a black suit, and a beautiful young woman with a short black bob haircut, wearing a flowing red dress. Keep their faces, hairstyles, outfits and body proportions exactly consistent throughout the entire video.\n\n**Scene 1 (0–4s): The Ice Cream Date**\nA beautiful sunny afternoon in a charming European-style street. The couple walks together past colorful little shops and flower-covered windows. They stop at a cute vintage ice cream shop.\n\n**Scene 2 (4–7s): Choosing Flavors**\nInside the shop, the girl excitedly points at strawberry ice cream while the boy chooses chocolate. The shopkeeper hands them two beautiful ice cream cones. They smile happily.\n\n**Scene 3 (7–11s): A Sweet Walk**\nThey walk along a beautiful flower-lined street, enjoying their ice cream. The girl tastes her strawberry ice cream and offers the boy a bite. He leans forward playfully and takes a small taste.\n\n**Scene 4 (11–15s): The Funny Accident**\nSuddenly, a little bird flies past and surprises the girl. Her ice cream slips from her hand and falls onto the pavement. She looks shocked for a moment. The boy looks at the fallen ice cream, then at her.\n\n**Scene 5 (15–19s): Laughter Together**\nThe girl starts laughing at the unexpected accident. The boy laughs with her, gently wiping a tiny ice cream spot from her cheek with a napkin. Their expressions are sweet and natural.\n\n**Scene 6 (19–23s): Sharing Is Caring**\nThe boy offers his chocolate ice cream to the girl. She takes a small bite, smiles warmly and playfully feeds him a bite of her imaginary strawberry flavor, making them both laugh.\n\n**Scene 7 (23–27s): A Little Romantic Moment**\nThey sit together on a wooden park bench beneath a beautiful cherry blossom tree. The boy gently holds her hand while colorful petals float around them. They exchange a loving smile.\n\n**Scene 8 (27–30s): Beautiful Ending**\nWide cinematic shot of the couple walking hand in hand through a charming flower-filled street in golden afternoon sunlight. The boy holds his remaining ice cream in his other hand. Cherry blossom petals drift across the screen as the scene fades out.\n\n**Animation and visual direction:** Exquisite hand-painted 2D animation, delicate watercolor backgrounds, soft pastel colors, beautiful romantic atmosphere, expressive facial animation, natural body movements, detailed environments, warm sunlight, gentle wind, flowing dress fabric, floating flower petals and smooth cinematic transitions.\n\n**Important consistency rules:** One continuous story with logical scene transitions. Same two characters, identical faces, hairstyles and outfits in every scene. Ice cream must remain in their hands until the accidental drop. Only the girl's strawberry ice cream falls; the boy keeps his chocolate cone. No disappearing objects, no extra characters, no random scene changes, no distorted hands, no face changes, no 3D or photorealistic rendering. Professional polished 2D animated short-film quality.",
+      "lang": "en",
+      "hook": "Full multi-scene Seedance 2.5 prompt posted with a 30s hand-painted 2D romance short (partner post) - 8.8K views, 46 replies.",
+      "video_tip": "Post a 30s Seedance 2.5 short with the full scene-by-scene prompt in the post; ask which scene worked best.",
+      "media": "video",
+      "followers_count": 16547,
+      "likes": 156,
+      "reposts": 5,
+      "bookmarks": 5,
+      "replies": 46,
+      "quotes": 0,
+      "self_quote": false,
+      "board_rank": 21,
+      "why_hit": {
+        "trend_match": 67,
+        "verdict": "trend",
+        "matched_keywords": [
+          "video",
+          "Seedance 2.5",
+          "animation"
+        ],
+        "media": "video",
+        "note": "",
+        "topic": "NUREMBERG trailer wave"
+      }
+    }
+  ],
+  "virals_target": 20,
+  "virals_window": "last ~48h",
+  "virals_narrative": "Outsider lane on 14.11 led by @tupacabra at 24,893,509 views (NUREMBERG official AI trailer). Also clearing: @PJaccetturo 3,887,403, @tupacabra 593,494, @techhalla 452,034, @GeminiApp 215,110",
+  "patterns": [
+    "Watchlist on 14.11: 1 hit, 1 star - ChrisGwinnLA's Seedance 2.5 feature-film cost breakdown 14,171 (107 bookmarks, 34 replies); everyone else under 2.3K",
+    "Hard numbers were the hook of the day: Chris's per-resolution price list rode the same wave as PJ Ace's '$102,725 and 45 days' episode (3.89M) - cost transparency is the conversation",
+    "Prompt-and-image drops plateaued: LudovicCreator's Biomechanical Crystalline Fusion prompt 2,228, 'QT Your Mecha' 1,626 and the carnival prompt clip 1,591 - steady but no breakout",
+    "Saturday was quiet: Gossip_Goblin and andresvandal posted nothing at all, billywoodward only quotes (best 1,029 on the NUREMBERG trailer), pixelbouncer 13 dark-art originals, best 202",
+    "Bogdan's best was the YouTube re-post of his 80s-anime Warhammer 40K episode at 2,166 (121 likes, 26 bookmarks); Chaos Space Marine stills 1,388 and the Ultramarines vs Slaanesh test clip 1,383 - rank 3 of 7",
+    "Outsider lane: tupacabra's NUREMBERG trailer (24.9M) dominated and spawned follow-ups, quotes and breakdowns; Gemini 4 Hydrogen video demos and Grok Imagine team-cut anxiety were the tool stories",
+    "Short stylised clips with near-empty captions won organically (techhalla 452K, PsyopAnime 'imagine' 175K); paid CapCut reach stayed hollow (nrqa__ 55K, 118 likes)"
+  ],
+  "no_hits": [
+    {
+      "handle": "@Gossip_Goblin",
+      "reason": "0 original posts on 2026-11-14 (timeline empty for the day after excluding replies and reposts).",
+      "max_views": 0
+    },
+    {
+      "handle": "@pixelbouncer",
+      "reason": "13 original posts on 2026-11-14; none reached 5,000 views (best 202).",
+      "max_views": 202
+    },
+    {
+      "handle": "@andresvandal",
+      "reason": "0 original posts on 2026-11-14 (timeline empty for the day after excluding replies and reposts).",
+      "max_views": 0
+    },
+    {
+      "handle": "@LudovicCreator",
+      "reason": "4 original posts on 2026-11-14; none reached 5,000 views (best 2,228).",
+      "max_views": 2228
+    },
+    {
+      "handle": "@billywoodward",
+      "reason": "3 original posts on 2026-11-14; none reached 5,000 views (best 1,029).",
+      "max_views": 1029
+    }
+  ],
+  "day_roster": [
+    {
+      "handle": "@ChrisGwinnLA",
+      "name": "Christopher Gwinn | Grindhouse Glitch",
+      "views": 14171,
+      "total_views": 14171,
+      "hit": true,
+      "posts": 1,
+      "best_url": "https://x.com/ChrisGwinnLA/status/2121751444672115026"
+    },
+    {
+      "handle": "@LudovicCreator",
+      "name": "LudovicCreator",
+      "views": 2228,
+      "total_views": 6654,
+      "hit": false,
+      "posts": 4,
+      "best_url": "https://x.com/LudovicCreator/status/2121536128503148627"
+    },
+    {
+      "handle": "@billywoodward",
+      "name": "Billy Woodward",
+      "views": 1029,
+      "total_views": 2088,
+      "hit": false,
+      "posts": 3,
+      "best_url": "https://x.com/billywoodward/status/2121616076467523988"
+    },
+    {
+      "handle": "@pixelbouncer",
+      "name": "Ƥ!ЖΣLƁΘUNCΣR",
+      "views": 202,
+      "total_views": 1315,
+      "hit": false,
+      "posts": 13,
+      "best_url": "https://x.com/pixelbouncer/status/2121537367840358465"
+    },
+    {
+      "handle": "@Gossip_Goblin",
+      "name": "Gossip Goblin",
+      "views": 0,
+      "total_views": 0,
+      "hit": false,
+      "posts": 0,
+      "best_url": null
+    },
+    {
+      "handle": "@andresvandal",
+      "name": "Andres Vandal",
+      "views": 0,
+      "total_views": 0,
+      "hit": false,
+      "posts": 0,
+      "best_url": null
+    }
+  ],
+  "you_rank": {
+    "best_views": 2166,
+    "total_views": 5265,
+    "best_url": "https://x.com/SMKP_Films/status/2121730925361078639",
+    "posts": 4,
+    "vs_5k": "pending",
+    "vs_10k": "pending",
+    "rank_among_watchlist": 3,
+    "total_accounts": 7
+  },
+  "narrative_synthesis": "The outsider lane over the last ~48h was one story above all: tupacabra's NUREMBERG official trailer (posted 13.11, 24.9M views, 65K bookmarks, 4.5K quotes), an 87-second AI trailer built on the 1561 Nuremberg celestial phenomenon. It spawned a whole second wave - tupacabra's own follow-ups (thank-you and anti-scam statement 593K, \"fakest news\" correction 138K), curation quotes (EHuanglu \"best AI trailer so far\" 14.5K), an analytical breakdown (internetphysics 32.2K: image-to-video, no dialogue, 1-2s clips, worldbuilding over plot) and budget takes (flashgorshon 13.9K). The second story was cost transparency: PJ Ace's \"$102,725 and 45 days\" episode (3.89M views, ~49h old) plus his Claude skill for consistent voices (17.8K), echoed on the watchlist by ChrisGwinnLA's Seedance 2.5 feature-film price breakdown (14.2K). Third, Google's Gemini 4 Hydrogen video demos (GeminiApp 215K, minchoi's 10-examples thread 152K) and continued Grok Imagine team-cut anxiety (testerlabor 12.3K). Short stylised clips with near-empty captions kept winning organically (techhalla's CEO escape-plan joke 452K, PsyopAnime \"imagine\" 175K and its FAA anime parody 64K), while paid CapCut reach (nrqa__ 55K, 118 likes) stayed hollow. Takeaway for Bogdan: a trailer-style cut with no dialogue and a bare title caption is the format of the week, and hard numbers (cost, time, generations) are the hook of the week.",
+  "trend_input_only": [],
+  "trend_input_only_posts": [],
+  "leaderboards": {
+    "as_of": "2026-11-14",
+    "tracking_start": "2026-11-04",
+    "days_included": [
+      "2026-11-08",
+      "2026-11-09",
+      "2026-11-10",
+      "2026-11-11",
+      "2026-11-12",
+      "2026-11-13",
+      "2026-11-14"
+    ],
+    "month_days_included": [
+      "2026-11-04",
+      "2026-11-05",
+      "2026-11-06",
+      "2026-11-07",
+      "2026-11-08",
+      "2026-11-09",
+      "2026-11-10",
+      "2026-11-11",
+      "2026-11-12",
+      "2026-11-13",
+      "2026-11-14"
+    ],
+    "week": {
+      "label": "Rolling week · Nov 8–Nov 14",
+      "range": [
+        "2026-11-08",
+        "2026-11-14"
+      ],
+      "entries": [
+        {
+          "handle": "@LudovicCreator",
+          "name": "LudovicCreator",
+          "hits": 3,
+          "days": 3,
+          "views": 236446,
+          "best": 133926,
+          "best_url": "https://x.com/LudovicCreator/status/2120592485437350268"
+        },
+        {
+          "handle": "@Gossip_Goblin",
+          "name": "Gossip Goblin",
+          "hits": 4,
+          "days": 3,
+          "views": 146462,
+          "best": 67212,
+          "best_url": "https://x.com/Gossip_Goblin/status/2119469184765825170"
+        },
+        {
+          "handle": "@ChrisGwinnLA",
+          "name": "Christopher Gwinn | Grindhouse Glitch",
+          "hits": 3,
+          "days": 3,
+          "views": 32112,
+          "best": 14171,
+          "best_url": "https://x.com/ChrisGwinnLA/status/2121751444672115026"
+        },
+        {
+          "handle": "@andresvandal",
+          "name": "Andres Vandal",
+          "hits": 1,
+          "days": 1,
+          "views": 15859,
+          "best": 15859,
+          "best_url": "https://x.com/andresvandal/status/2120763498250822082"
+        }
+      ]
+    },
+    "month": {
+      "label": "November 2026 · from Nov 4",
+      "range": [
+        "2026-11-04",
+        "2026-11-14"
+      ],
+      "entries": [
+        {
+          "handle": "@Gossip_Goblin",
+          "name": "Gossip Goblin",
+          "hits": 13,
+          "days": 6,
+          "views": 525398,
+          "best": 139184,
+          "best_url": "https://x.com/Gossip_Goblin/status/2118396958289346810"
+        },
+        {
+          "handle": "@LudovicCreator",
+          "name": "LudovicCreator",
+          "hits": 3,
+          "days": 3,
+          "views": 236446,
+          "best": 133926,
+          "best_url": "https://x.com/LudovicCreator/status/2120592485437350268"
+        },
+        {
+          "handle": "@ChrisGwinnLA",
+          "name": "Christopher Gwinn | Grindhouse Glitch",
+          "hits": 4,
+          "days": 4,
+          "views": 37353,
+          "best": 14171,
+          "best_url": "https://x.com/ChrisGwinnLA/status/2121751444672115026"
+        },
+        {
+          "handle": "@andresvandal",
+          "name": "Andres Vandal",
+          "hits": 2,
+          "days": 2,
+          "views": 21164,
+          "best": 15859,
+          "best_url": "https://x.com/andresvandal/status/2120763498250822082"
+        }
+      ]
+    }
+  },
+  "drafts_top10": [
+    {
+      "rank": 1,
+      "id": "2121357879341166683",
+      "handle": "@tupacabra",
+      "views": 24893509,
+      "lane": "outsider"
+    },
+    {
+      "rank": 2,
+      "id": "2121249226575511854",
+      "handle": "@PJaccetturo",
+      "views": 3887403,
+      "lane": "outsider"
+    },
+    {
+      "rank": 3,
+      "id": "2121825191944946159",
+      "handle": "@tupacabra",
+      "views": 593494,
+      "lane": "outsider"
+    },
+    {
+      "rank": 4,
+      "id": "2121579235085259242",
+      "handle": "@techhalla",
+      "views": 452034,
+      "lane": "outsider"
+    },
+    {
+      "rank": 5,
+      "id": "2121363868425306372",
+      "handle": "@GeminiApp",
+      "views": 215110,
+      "lane": "outsider"
+    },
+    {
+      "rank": 6,
+      "id": "2121657841090232521",
+      "handle": "@PsyopAnime",
+      "views": 174914,
+      "lane": "outsider"
+    },
+    {
+      "rank": 7,
+      "id": "2121634011676356615",
+      "handle": "@minchoi",
+      "views": 151803,
+      "lane": "outsider"
+    },
+    {
+      "rank": 8,
+      "id": "2121712768462340131",
+      "handle": "@tupacabra",
+      "views": 137876,
+      "lane": "outsider"
+    },
+    {
+      "rank": 9,
+      "id": "2121627112981569577",
+      "handle": "@EHuanglu",
+      "views": 69131,
+      "lane": "outsider"
+    },
+    {
+      "rank": 10,
+      "id": "2121399238081052881",
+      "handle": "@PsyopAnime",
+      "views": 64057,
+      "lane": "outsider"
+    }
+  ],
+  "trend_keywords": {
+    "date": "2026-11-14",
+    "window": "day D board posts + last-24h posts >= min_views + outsiders + trend-input accounts + pattern brief",
+    "method": "sum(log10 views) over distinct posts x author spread x phrase length x entity/brief bonus; >=2 authors",
+    "keywords": [
+      {
+        "keyword": "video",
+        "rank": 1,
+        "score": 69.2,
+        "posts": 5,
+        "authors": 5
+      },
+      {
+        "keyword": "Seedance 2.5",
+        "rank": 2,
+        "score": 45.4,
+        "posts": 3,
+        "authors": 3
+      },
+      {
+        "keyword": "AI filmmaking",
+        "rank": 3,
+        "score": 41.8,
+        "posts": 3,
+        "authors": 3
+      },
+      {
+        "keyword": "Gemini 4 Hydrogen",
+        "rank": 4,
+        "score": 36.9,
+        "posts": 2,
+        "authors": 2
+      },
+      {
+        "keyword": "AI film",
+        "rank": 5,
+        "score": 35.0,
+        "posts": 3,
+        "authors": 3
+      },
+      {
+        "keyword": "Imagine",
+        "rank": 6,
+        "score": 19.0,
+        "posts": 2,
+        "authors": 2
+      },
+      {
+        "keyword": "Dreamina",
+        "rank": 7,
+        "score": 18.1,
+        "posts": 2,
+        "authors": 2
+      },
+      {
+        "keyword": "I've",
+        "rank": 8,
+        "score": 15.6,
+        "posts": 2,
+        "authors": 2
+      },
+      {
+        "keyword": "Hollywood",
+        "rank": 9,
+        "score": 14.7,
+        "posts": 2,
+        "authors": 2
+      },
+      {
+        "keyword": "skill",
+        "rank": 10,
+        "score": 12.9,
+        "posts": 2,
+        "authors": 2
+      },
+      {
+        "keyword": "animation",
+        "rank": 11,
+        "score": 11.9,
+        "posts": 2,
+        "authors": 2
+      },
+      {
+        "keyword": "Grok Imagine",
+        "rank": 12,
+        "score": 8.6,
+        "posts": 1,
+        "authors": 1
+      }
+    ]
+  },
+  "trend_radar": {
+    "date": "2026-11-14",
+    "title": "Trends and post ideas",
+    "window": {
+      "end": "2026-11-15T11:00:00-05:00",
+      "label24": "14.11 11:00 - 15.11 11:00 UTC",
+      "label48": "13.11 11:00 - 15.11 11:00 UTC"
+    },
+    "corpus": {
+      "posts": 21,
+      "min_views": 5000,
+      "lanes": {
+        "watchlist": 1,
+        "outsider": 20,
+        "24h": 0,
+        "trend_input": 0
+      }
+    },
+    "summary": {
+      "top10_line": "TOP-10: 2/10 (20%) matched trends · visual 5, author/audience 3, trend 2",
+      "headline": "9 of 21 board hits (43%) matched 24-48 h trends. Median views: trend 17.8K vs non-trend 103.5K (mean 469.9K vs 2.22M). Watchlist: 1/1 on trend. 11 hits with video, median 64.1K vs 28.3K without.",
+      "takeaway": "Video beat no-video (64.1K vs 28.3K median): take the top radar topic and package it as a video or screencast (NUREMBERG trailer wave).",
+      "stats": {
+        "all": {
+          "n": 21,
+          "trend_n": 9,
+          "trend_pct": 43,
+          "avg_trend": 469941,
+          "avg_other": 2221694,
+          "median_trend": 17752,
+          "median_other": 103504,
+          "verdicts": {
+            "trend": 9,
+            "visual": 7,
+            "author/audience": 4,
+            "coincidence/other": 1
+          }
+        },
+        "watchlist": {
+          "n": 1,
+          "trend_n": 1,
+          "trend_pct": 100,
+          "avg_trend": 14171,
+          "avg_other": null,
+          "median_trend": 14171,
+          "median_other": null,
+          "verdicts": {
+            "trend": 1,
+            "visual": 0,
+            "author/audience": 0,
+            "coincidence/other": 0
+          }
+        },
+        "outsiders": {
+          "n": 20,
+          "trend_n": 8,
+          "trend_pct": 40,
+          "avg_trend": 526912,
+          "avg_other": 2221694,
+          "median_trend": 21046,
+          "median_other": 103504,
+          "verdicts": {
+            "trend": 8,
+            "visual": 7,
+            "author/audience": 4,
+            "coincidence/other": 1
+          }
+        },
+        "top10": {
+          "n": 10,
+          "trend_n": 2,
+          "trend_pct": 20,
+          "avg_trend": 2051256,
+          "avg_other": 3317102,
+          "median_trend": 2051256,
+          "median_other": 163358,
+          "verdicts": {
+            "trend": 2,
+            "visual": 5,
+            "author/audience": 3,
+            "coincidence/other": 0
+          }
+        },
+        "media": {
+          "video_n": 11,
+          "median_video": 64057,
+          "other_n": 10,
+          "median_other": 28279
+        }
+      }
+    },
+    "topics": [
+      {
+        "name": "NUREMBERG trailer wave",
+        "keywords": [
+          "video",
+          "AI film",
+          "Hollywood"
+        ],
+        "posts_24h": 3,
+        "posts_48h": 8,
+        "views_24h": 55181,
+        "views_prev24h": 306757,
+        "views_48h": 361938,
+        "momentum": "cooling x0.56",
+        "heat_raw": 23.94,
+        "evidence": [
+          {
+            "handle": "@GeminiApp",
+            "views": 215110,
+            "url": "https://x.com/GeminiApp/status/2121363868425306372",
+            "hook": "Official Gemini 4 Hydrogen demo: idea to finished narrated sizzle reel from public-domain footage via a custom skill - 215K views.",
+            "lane": "outsider"
+          },
+          {
+            "handle": "@minchoi",
+            "views": 35682,
+            "url": "https://x.com/minchoi/status/2121395136026353740",
+            "hook": "Long numbered thread on director Jon Erwin using Seedance 2.5 for on-set previs and AI VFX - 35.7K views.",
+            "lane": "outsider"
+          },
+          {
+            "handle": "@internetphysics",
+            "views": 32217,
+            "url": "https://x.com/internetphysics/status/2121664779135623645",
+            "hook": "Analytical quote of the NUREMBERG trailer listing how it dodges AI video failure modes (image-to-video, no dialogue, 1-2s clips) - 32K views, 101 bookmarks.",
+            "lane": "outsider"
+          }
+        ],
+        "heat": 100
+      },
+      {
+        "name": "Gemini 4 Hydrogen video demos",
+        "keywords": [
+          "video",
+          "skill",
+          "Gemini 4 Hydrogen"
+        ],
+        "posts_24h": 3,
+        "posts_48h": 6,
+        "views_24h": 55181,
+        "views_prev24h": 384665,
+        "views_48h": 439846,
+        "momentum": "steady x0.85",
+        "heat_raw": 19.99,
+        "evidence": [
+          {
+            "handle": "@GeminiApp",
+            "views": 215110,
+            "url": "https://x.com/GeminiApp/status/2121363868425306372",
+            "hook": "Official Gemini 4 Hydrogen demo: idea to finished narrated sizzle reel from public-domain footage via a custom skill - 215K views.",
+            "lane": "outsider"
+          },
+          {
+            "handle": "@minchoi",
+            "views": 151803,
+            "url": "https://x.com/minchoi/status/2121634011676356615",
+            "hook": "Listicle thread hook: 'Less than 48 hours ago, Google dropped Gemini 4 Hydrogen... 10 examples' - 152K views.",
+            "lane": "outsider"
+          },
+          {
+            "handle": "@internetphysics",
+            "views": 32217,
+            "url": "https://x.com/internetphysics/status/2121664779135623645",
+            "hook": "Analytical quote of the NUREMBERG trailer listing how it dodges AI video failure modes (image-to-video, no dialogue, 1-2s clips) - 32K views, 101 bookmarks.",
+            "lane": "outsider"
+          }
+        ],
+        "heat": 84
+      },
+      {
+        "name": "What AI filmmaking really costs",
+        "keywords": [
+          "Seedance 2.5",
+          "AI filmmaking",
+          "Dreamina"
+        ],
+        "posts_24h": 2,
+        "posts_48h": 5,
+        "views_24h": 22964,
+        "views_prev24h": 73895,
+        "views_48h": 96859,
+        "momentum": "cooling x0.62",
+        "heat_raw": 14.64,
+        "evidence": [
+          {
+            "handle": "@minchoi",
+            "views": 35682,
+            "url": "https://x.com/minchoi/status/2121395136026353740",
+            "hook": "Long numbered thread on director Jon Erwin using Seedance 2.5 for on-set previs and AI VFX - 35.7K views.",
+            "lane": "outsider"
+          },
+          {
+            "handle": "@gektimbul",
+            "views": 24341,
+            "url": "https://x.com/gektimbul/status/2121454895387853228",
+            "hook": "Earnest crowd-sourcing question to AI filmmakers about the best tool for consistent characters and dialogue - 24K views.",
+            "lane": "outsider"
+          },
+          {
+            "handle": "@ChrisGwinnLA",
+            "views": 14171,
+            "url": "https://x.com/ChrisGwinnLA/status/2121751444672115026",
+            "hook": "Hard-number cost breakdown: what a 90-minute Seedance 2.5 feature costs on Dreamina at 10 gens per shot, from $7,007.63 (480p, image refs) to $81,009.00 (4K, vi",
+            "lane": "watchlist"
+          }
+        ],
+        "heat": 61
+      },
+      {
+        "name": "Grok Imagine uncertainty",
+        "keywords": [
+          "Imagine",
+          "Grok Imagine"
+        ],
+        "posts_24h": 1,
+        "posts_48h": 3,
+        "views_24h": 174914,
+        "views_prev24h": 48023,
+        "views_48h": 222937,
+        "momentum": "cooling x0.61",
+        "heat_raw": 9.56,
+        "evidence": [
+          {
+            "handle": "@PsyopAnime",
+            "views": 174914,
+            "url": "https://x.com/PsyopAnime/status/2121657841090232521",
+            "hook": "One-word caption 'imagine' on an anime-style AI clip from PsyopAnime - 175K views, 1.7K bookmarks, 932 reposts.",
+            "lane": "outsider"
+          },
+          {
+            "handle": "@minchoi",
+            "views": 35682,
+            "url": "https://x.com/minchoi/status/2121395136026353740",
+            "hook": "Long numbered thread on director Jon Erwin using Seedance 2.5 for on-set previs and AI VFX - 35.7K views.",
+            "lane": "outsider"
+          },
+          {
+            "handle": "@testerlabor",
+            "views": 12341,
+            "url": "https://x.com/testerlabor/status/2121552358270513237",
+            "hook": "Fan plea against Grok Imagine being put into maintenance mode after team cuts - 12.3K views, 75 replies.",
+            "lane": "outsider"
+          }
+        ],
+        "heat": 40
+      }
+    ],
+    "ideas": [
+      {
+        "title": "40K faux trailer, no dialogue",
+        "topic": "AI animation",
+        "keywords": [
+          "AI animation",
+          "image to video",
+          "Seedance"
+        ],
+        "format": "video",
+        "visual_type": "video",
+        "visual": "60-90s trailer cut: 1-2s image to video shots of one 40K battle, no dialogue, music and one title card at the end.",
+        "angle": "Borrow the structure that made the NUREMBERG trailer work (short image to video clips, worldbuilding over plot, no dialogue) for an 80s-anime 40K episode teaser.",
+        "hook_en": "No dialogue. No plot spoilers. Just the world. Official trailer for my 80s anime Warhammer 40K episode - AI animation, Seedance all the way.",
+        "why": "AI animation is #1 in the X keyword sample (391K); internetphysics' breakdown of the NUREMBERG trailer (32,217 views) named exactly these tricks.",
+        "x_keywords": [
+          "AI animation",
+          "image to video",
+          "Seedance"
+        ],
+        "x_rank": 1,
+        "source": "x-keywords"
+      },
+      {
+        "title": "One-line caption comedy clip",
+        "topic": "AI animation",
+        "keywords": [
+          "AI animation",
+          "short film"
+        ],
+        "format": "video",
+        "visual_type": "video",
+        "visual": "10-15s comedic 40K beat: a Commissar quietly checking the exits mid-speech, one-line caption, no explanation.",
+        "angle": "Copy techhalla's format as a tiny AI animation short film: an absurd 40K beat with a single deadpan caption.",
+        "hook_en": "If you ever become a Commissar, you'd better have an exit strategy.",
+        "why": "techhalla's CEO escape-plan clip 452,034 views, 1,177 bookmarks; AI animation #1 in the X sample.",
+        "x_keywords": [
+          "AI animation",
+          "short film"
+        ],
+        "x_rank": 1,
+        "source": "x-keywords"
+      },
+      {
+        "title": "Headline to grimdark anime",
+        "topic": "anime",
+        "keywords": [
+          "anime",
+          "AI animation"
+        ],
+        "format": "video",
+        "visual_type": "video",
+        "visual": "20s 80s-anime-look clip reacting to a real sci-fi or space headline of the day, caption = headline + one question.",
+        "angle": "PsyopAnime's headline parodies keep landing; do a 40K AI animation version in anime style within hours of a real headline.",
+        "hook_en": "The headline wrote itself. I just made it 80s anime grimdark.",
+        "why": "PsyopAnime's FAA parody 64,057 and 'imagine' 174,914 views.",
+        "x_keywords": [
+          "anime",
+          "AI animation"
+        ],
+        "x_rank": 1,
+        "source": "x-keywords"
+      },
+      {
+        "title": "What one 40K episode cost me",
+        "topic": "Seedance",
+        "keywords": [
+          "Seedance",
+          "AI filmmaking"
+        ],
+        "format": "video",
+        "visual_type": "video",
+        "visual": "The finished episode with an on-screen card: generations used, hours, credits spent, then a 10s blooper reel of rejected gens.",
+        "angle": "Join the cost-transparency conversation with Bogdan's own real numbers for his last Seedance episode (only numbers he can verify).",
+        "hook_en": "Everyone is posting what AI filmmaking costs. Here are my real numbers for one Warhammer 40K episode in Seedance - and the shots that didn't make it.",
+        "why": "Seedance up x7.48 in the X sample; ChrisGwinnLA's cost breakdown 14,171 and PJ Ace's cost reveal 3.89M.",
+        "x_keywords": [
+          "Seedance",
+          "AI filmmaking"
+        ],
+        "x_rank": 2,
+        "source": "x-keywords"
+      },
+      {
+        "title": "480p vs 4K: is the upgrade worth it?",
+        "topic": "Seedance",
+        "keywords": [
+          "Seedance",
+          "image to video"
+        ],
+        "format": "video",
+        "visual_type": "video",
+        "visual": "Same 40K image to video shot rendered at 480p, 720p, 1080p and 4K in a 2x2 grid, then the zoomed detail crops.",
+        "angle": "Visual answer to Chris's price table: one image to video shot of a grimdark scene at every resolution tier, so viewers see what the money buys.",
+        "hook_en": "Same Seedance shot, four resolutions. Can you tell where the extra money goes? Answer in the zoom at the end.",
+        "why": "Seedance up x7.48; image to video #4 in the X sample (51.7K); ChrisGwinnLA's per-resolution pricing was the only watchlist hit.",
+        "x_keywords": [
+          "Seedance",
+          "image to video"
+        ],
+        "x_rank": 2,
+        "source": "x-keywords"
+      },
+      {
+        "title": "Sora is gone, here is what I use",
+        "topic": "Sora",
+        "keywords": [
+          "Sora",
+          "Seedance",
+          "text to video"
+        ],
+        "format": "video",
+        "visual_type": "video",
+        "visual": "Split screen of the same 40K prompt: text to video result vs image to video from key art, with the tool names as labels.",
+        "angle": "Tool-news angle with a practical demo: a 40K creator's Seedance stack after Sora, same prompt as text to video vs image to video.",
+        "hook_en": "Sora is gone and Grok Imagine looks shaky. My Warhammer 40K stack right now, same prompt, two workflows.",
+        "why": "Sora up x1.63 and text to video #3 in the X sample; Grok Imagine maintenance-mode fears 12,341 views.",
+        "x_keywords": [
+          "Sora",
+          "Seedance",
+          "text to video"
+        ],
+        "x_rank": 2,
+        "source": "x-keywords"
+      }
+    ],
+    "articles": [
+      {
+        "title": "Why the NUREMBERG trailer worked - and how to steal its structure",
+        "thesis": "The biggest AI trailer of the year hides AI video's weak spots: image to video, no dialogue, very short shots, worldbuilding over plot.",
+        "outline": [
+          "What the trailer shows",
+          "The failure modes it avoids",
+          "Applying it to a 40K teaser",
+          "What still needs a human edit"
+        ],
+        "keywords": [
+          "AI animation",
+          "image to video"
+        ],
+        "visual": "Cover: frame grid from Bogdan's own 40K teaser; inline: shot-length chart.",
+        "why": "NUREMBERG 24.9M views; internetphysics breakdown 32,217; AI animation #1 in the X sample.",
+        "x_keywords": [
+          "AI animation",
+          "image to video"
+        ]
+      },
+      {
+        "title": "The real cost of an AI episode",
+        "thesis": "Compute is only part of it - Chris's Seedance price table and PJ Ace's $102,725 episode show labor and iteration dominate.",
+        "outline": [
+          "Published price points",
+          "Generations per shot",
+          "Labor vs compute",
+          "A solo creator's budget"
+        ],
+        "keywords": [
+          "Seedance",
+          "AI filmmaking"
+        ],
+        "visual": "Cover: price table over a 40K still; inline: resolution comparison grid.",
+        "why": "Seedance up x7.48; ChrisGwinnLA 14,171; PJ Ace 3.89M.",
+        "x_keywords": [
+          "Seedance",
+          "AI filmmaking"
+        ]
+      }
+    ],
+    "why_hit": [
+      {
+        "id": "2121751444672115026",
+        "handle": "@ChrisGwinnLA",
+        "lane": "watchlist",
+        "views": 14171,
+        "trend_match": 82,
+        "verdict": "trend",
+        "matched_keywords": [
+          "video",
+          "Seedance 2.5",
+          "AI film",
+          "Dreamina"
+        ],
+        "media": "text",
+        "followers": 6912,
+        "topic": "NUREMBERG trailer wave",
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2121357879341166683",
+        "handle": "@tupacabra",
+        "lane": "outsider",
+        "views": 24893509,
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "followers": 147092,
+        "topic": null,
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2121249226575511854",
+        "handle": "@PJaccetturo",
+        "lane": "outsider",
+        "views": 3887403,
+        "trend_match": 58,
+        "verdict": "trend",
+        "matched_keywords": [
+          "AI filmmaking",
+          "Dreamina"
+        ],
+        "media": "video",
+        "followers": 105089,
+        "topic": "What AI filmmaking really costs",
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2121825191944946159",
+        "handle": "@tupacabra",
+        "lane": "outsider",
+        "views": 593494,
+        "trend_match": 0,
+        "verdict": "author/audience",
+        "matched_keywords": [],
+        "media": "text",
+        "followers": 147084,
+        "topic": null,
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2121579235085259242",
+        "handle": "@techhalla",
+        "lane": "outsider",
+        "views": 452034,
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "followers": 103858,
+        "topic": null,
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2121363868425306372",
+        "handle": "@GeminiApp",
+        "lane": "outsider",
+        "views": 215110,
+        "trend_match": 73,
+        "verdict": "trend",
+        "matched_keywords": [
+          "video",
+          "Gemini 4 Hydrogen",
+          "skill"
+        ],
+        "media": "text",
+        "followers": 617399,
+        "topic": "NUREMBERG trailer wave",
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2121657841090232521",
+        "handle": "@PsyopAnime",
+        "lane": "outsider",
+        "views": 174914,
+        "trend_match": 35,
+        "verdict": "visual",
+        "matched_keywords": [
+          "Imagine"
+        ],
+        "media": "video",
+        "followers": 218382,
+        "topic": "Grok Imagine uncertainty",
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2121634011676356615",
+        "handle": "@minchoi",
+        "lane": "outsider",
+        "views": 151803,
+        "trend_match": 35,
+        "verdict": "author/audience",
+        "matched_keywords": [
+          "Gemini 4 Hydrogen"
+        ],
+        "media": "text",
+        "followers": 392570,
+        "topic": "Gemini 4 Hydrogen video demos",
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2121712768462340131",
+        "handle": "@tupacabra",
+        "lane": "outsider",
+        "views": 137876,
+        "trend_match": 35,
+        "verdict": "author/audience",
+        "matched_keywords": [
+          "I've"
+        ],
+        "media": "text",
+        "followers": 147084,
+        "topic": null,
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2121627112981569577",
+        "handle": "@EHuanglu",
+        "lane": "outsider",
+        "views": 69131,
+        "trend_match": 22,
+        "verdict": "visual",
+        "matched_keywords": [
+          "animation"
+        ],
+        "media": "video",
+        "followers": 151871,
+        "topic": null,
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2121399238081052881",
+        "handle": "@PsyopAnime",
+        "lane": "outsider",
+        "views": 64057,
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "followers": 218382,
+        "topic": null,
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2121723933766627641",
+        "handle": "@nrqa__",
+        "lane": "outsider",
+        "views": 55094,
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "followers": 76390,
+        "topic": null,
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2121395136026353740",
+        "handle": "@minchoi",
+        "lane": "outsider",
+        "views": 35682,
+        "trend_match": 73,
+        "verdict": "trend",
+        "matched_keywords": [
+          "Seedance 2.5",
+          "Imagine",
+          "Hollywood"
+        ],
+        "media": "video",
+        "followers": 392570,
+        "topic": "NUREMBERG trailer wave",
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2121664779135623645",
+        "handle": "@internetphysics",
+        "lane": "outsider",
+        "views": 32217,
+        "trend_match": 35,
+        "verdict": "coincidence/other",
+        "matched_keywords": [
+          "video"
+        ],
+        "media": "text",
+        "followers": 6010,
+        "topic": "NUREMBERG trailer wave",
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2121454895387853228",
+        "handle": "@gektimbul",
+        "lane": "outsider",
+        "views": 24341,
+        "trend_match": 58,
+        "verdict": "trend",
+        "matched_keywords": [
+          "AI filmmaking",
+          "AI film"
+        ],
+        "media": "text",
+        "followers": 13000,
+        "topic": "NUREMBERG trailer wave",
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2121326744242209214",
+        "handle": "@arrtms",
+        "lane": "outsider",
+        "views": 21680,
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "followers": 1758,
+        "topic": null,
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2121611611286716750",
+        "handle": "@PJaccetturo",
+        "lane": "outsider",
+        "views": 17752,
+        "trend_match": 58,
+        "verdict": "trend",
+        "matched_keywords": [
+          "video",
+          "skill"
+        ],
+        "media": "video",
+        "followers": 105089,
+        "topic": "NUREMBERG trailer wave",
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2121405231246582028",
+        "handle": "@EHuanglu",
+        "lane": "outsider",
+        "views": 14514,
+        "trend_match": 0,
+        "verdict": "author/audience",
+        "matched_keywords": [],
+        "media": "text",
+        "followers": 151871,
+        "topic": null,
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2121372129614860535",
+        "handle": "@flashgorshon",
+        "lane": "outsider",
+        "views": 13872,
+        "trend_match": 73,
+        "verdict": "trend",
+        "matched_keywords": [
+          "AI filmmaking",
+          "AI film",
+          "Hollywood"
+        ],
+        "media": "text",
+        "followers": 6252,
+        "topic": "NUREMBERG trailer wave",
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2121552358270513237",
+        "handle": "@testerlabor",
+        "lane": "outsider",
+        "views": 12341,
+        "trend_match": 58,
+        "verdict": "trend",
+        "matched_keywords": [
+          "Imagine",
+          "I've"
+        ],
+        "media": "image",
+        "followers": 14686,
+        "topic": "Grok Imagine uncertainty",
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2121826097029591312",
+        "handle": "@saniaspeaks_",
+        "lane": "outsider",
+        "views": 8793,
+        "trend_match": 67,
+        "verdict": "trend",
+        "matched_keywords": [
+          "video",
+          "Seedance 2.5",
+          "animation"
+        ],
+        "media": "video",
+        "followers": 16547,
+        "topic": "NUREMBERG trailer wave",
+        "self_quote": false,
+        "note": ""
+      }
+    ],
+    "labels": {
+      "trend": "trend",
+      "visual": "visual",
+      "author": "author/audience",
+      "other": "coincidence/other",
+      "nontrend": "non-trend",
+      "self_quote": "self-quote",
+      "no_data": "no data"
+    },
+    "x_keywords": {
+      "fetched_at": "2026-11-15T15:37:00+00:00",
+      "window_start": "2026-11-13T15:37:00Z",
+      "calls": 32,
+      "method": "Read-only x MCP search_posts_all, 2 calls per keyword: last 24 h and previous 24 h (24-48 h ago); lang:en, no retweets/replies, sort=relevancy, up to 25 posts per window. This is a SAMPLE of top-relevance posts, not every post on X. Views = impression_count at fetch time. Rank = sum of sampled 24 h views; 48 h = both windows; trend = 24 h sum / previous 24 h sum (up >=1.3, down <=0.7). Fresh posts are still gaining views, so 'up' is understated. Top-post share > 70% means one viral post carries the keyword.",
+      "missing": [],
+      "sample": true,
+      "sample_size_per_call": 25,
+      "keywords": [
+        {
+          "keyword": "AI animation",
+          "query": "\"AI animation\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 25,
+            "total": 391077,
+            "median": 76,
+            "top": {
+              "views": 202963,
+              "url": "https://x.com/Xmbluee/status/2121646260008730913",
+              "handle": "@Xmbluee",
+              "text": "This AI animation is beyond this world 🔥 This arcade machine won’t break Seedance 2.5 https://t.co/mvbztrbCZx"
+            }
+          },
+          "prev24": {
+            "n": 24,
+            "total": 333515,
+            "median": 78,
+            "top": {
+              "views": 154605,
+              "url": "https://x.com/Xmbluee/status/2121524730264191087",
+              "handle": "@Xmbluee",
+              "text": "This AI animation is better than Disney A tiger and a little kitty saved the dinosaurs from extinction 🦖 Seedance 2.5 ht"
+            }
+          },
+          "w48": {
+            "n": 49,
+            "total": 724592,
+            "top": {
+              "views": 202963,
+              "url": "https://x.com/Xmbluee/status/2121646260008730913",
+              "handle": "@Xmbluee",
+              "text": "This AI animation is beyond this world 🔥 This arcade machine won’t break Seedance 2.5 https://t.co/mvbztrbCZx"
+            }
+          },
+          "change": 1.17,
+          "trend": "flat",
+          "partial": false,
+          "top_share": 0.52,
+          "rank": 1
+        },
+        {
+          "keyword": "Seedance",
+          "query": "\"Seedance\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 25,
+            "total": 145661,
+            "median": 132,
+            "top": {
+              "views": 108869,
+              "url": "https://x.com/tuTransform/status/2121654519943540903",
+              "handle": "@tuTransform",
+              "text": "VIDEO CREATORS, YOUR NEXT PRODUCTION COULD START WITH A SINGLE PROMPT. https://t.co/2UeXrpVenu has expanded its Seedance"
+            }
+          },
+          "prev24": {
+            "n": 25,
+            "total": 19477,
+            "median": 101,
+            "top": {
+              "views": 5717,
+              "url": "https://x.com/HeyGen/status/2121483264972202298",
+              "handle": "@HeyGen",
+              "text": "seedance 2.5 flash is live in HeyGen up to 2x the speed of seedance 2.5, with quality that stays close to the full model"
+            }
+          },
+          "w48": {
+            "n": 50,
+            "total": 165138,
+            "top": {
+              "views": 108869,
+              "url": "https://x.com/tuTransform/status/2121654519943540903",
+              "handle": "@tuTransform",
+              "text": "VIDEO CREATORS, YOUR NEXT PRODUCTION COULD START WITH A SINGLE PROMPT. https://t.co/2UeXrpVenu has expanded its Seedance"
+            }
+          },
+          "change": 7.48,
+          "trend": "up",
+          "partial": false,
+          "top_share": 0.75,
+          "rank": 2
+        },
+        {
+          "keyword": "text to video",
+          "query": "\"text to video\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 25,
+            "total": 116020,
+            "median": 21,
+            "top": {
+              "views": 108896,
+              "url": "https://x.com/tuTransform/status/2121648587591266503",
+              "handle": "@tuTransform",
+              "text": "Your next video idea could be just one prompt away from becoming reality. https://t.co/2UeXrpVenu integrates Seedance 2."
+            }
+          },
+          "prev24": {
+            "n": 25,
+            "total": 400783,
+            "median": 264,
+            "top": {
+              "views": 285288,
+              "url": "https://x.com/superalesha/status/2121562286078963975",
+              "handle": "@superalesha",
+              "text": "DOWNLOAD THESE 24 OPEN MODELS BEFORE MORE REPOS GET GATED OR TAKEN DOWN. You asked for the exact links, so I put togethe"
+            }
+          },
+          "w48": {
+            "n": 50,
+            "total": 516803,
+            "top": {
+              "views": 285288,
+              "url": "https://x.com/superalesha/status/2121562286078963975",
+              "handle": "@superalesha",
+              "text": "DOWNLOAD THESE 24 OPEN MODELS BEFORE MORE REPOS GET GATED OR TAKEN DOWN. You asked for the exact links, so I put togethe"
+            }
+          },
+          "change": 0.29,
+          "trend": "down",
+          "partial": false,
+          "top_share": 0.94,
+          "rank": 3
+        },
+        {
+          "keyword": "image to video",
+          "query": "\"image to video\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 25,
+            "total": 51662,
+            "median": 77,
+            "top": {
+              "views": 32312,
+              "url": "https://x.com/internetphysics/status/2121664779135623645",
+              "handle": "@internetphysics",
+              "text": "This trailer does a great job of working around the current bottlenecks/failure modes in AI video - ~every clip here is "
+            }
+          },
+          "prev24": {
+            "n": 25,
+            "total": 84499,
+            "median": 92,
+            "top": {
+              "views": 78146,
+              "url": "https://x.com/8clerk8/status/2121276514524086384",
+              "handle": "@8clerk8",
+              "text": "How to write effective prompts for Grok Imagine Video Grok Imagine Video 1.5 generates clips of 1–15 seconds with native"
+            }
+          },
+          "w48": {
+            "n": 50,
+            "total": 136161,
+            "top": {
+              "views": 78146,
+              "url": "https://x.com/8clerk8/status/2121276514524086384",
+              "handle": "@8clerk8",
+              "text": "How to write effective prompts for Grok Imagine Video Grok Imagine Video 1.5 generates clips of 1–15 seconds with native"
+            }
+          },
+          "change": 0.61,
+          "trend": "down",
+          "partial": false,
+          "top_share": 0.63,
+          "rank": 4
+        },
+        {
+          "keyword": "Sora",
+          "query": "\"Sora\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 25,
+            "total": 50074,
+            "median": 162,
+            "top": {
+              "views": 37617,
+              "url": "https://x.com/StellaSoraEN/status/2121906054262816971",
+              "handle": "@StellaSoraEN",
+              "text": "Stella Sora 1st Anniversary Special Dev Talk | Behind the Scenes This is a journey full of twists, turns, and rewards. T"
+            }
+          },
+          "prev24": {
+            "n": 25,
+            "total": 30659,
+            "median": 153,
+            "top": {
+              "views": 10194,
+              "url": "https://x.com/twoanyonez/status/2121306783327375383",
+              "handle": "@twoanyonez",
+              "text": "wait for music core tomorrow, sora is in the dance break. Zet did his part today because Sora was injured. Like can we f"
+            }
+          },
+          "w48": {
+            "n": 50,
+            "total": 80733,
+            "top": {
+              "views": 37617,
+              "url": "https://x.com/StellaSoraEN/status/2121906054262816971",
+              "handle": "@StellaSoraEN",
+              "text": "Stella Sora 1st Anniversary Special Dev Talk | Behind the Scenes This is a journey full of twists, turns, and rewards. T"
+            }
+          },
+          "change": 1.63,
+          "trend": "up",
+          "partial": false,
+          "top_share": 0.75,
+          "rank": 5
+        },
+        {
+          "keyword": "short film",
+          "query": "\"short film\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 25,
+            "total": 32429,
+            "median": 107,
+            "top": {
+              "views": 11724,
+              "url": "https://x.com/boys2fem/status/2121921158559957410",
+              "handle": "@boys2fem",
+              "text": "Theo comes home early. Sam has a secret. And then there's the remote. 🍕 PIZZA is a male-to-female AI short film. Watch t"
+            }
+          },
+          "prev24": {
+            "n": 25,
+            "total": 79987,
+            "median": 192,
+            "top": {
+              "views": 35603,
+              "url": "https://x.com/DrewDisneyDude/status/2121292033704788147",
+              "handle": "@DrewDisneyDude",
+              "text": "NEW: Disney shared a new look at Lilo &amp; Scratch, the all-new short film debuting alongside Hexed on November 25. The"
+            }
+          },
+          "w48": {
+            "n": 50,
+            "total": 112416,
+            "top": {
+              "views": 35603,
+              "url": "https://x.com/DrewDisneyDude/status/2121292033704788147",
+              "handle": "@DrewDisneyDude",
+              "text": "NEW: Disney shared a new look at Lilo &amp; Scratch, the all-new short film debuting alongside Hexed on November 25. The"
+            }
+          },
+          "change": 0.41,
+          "trend": "down",
+          "partial": false,
+          "top_share": 0.36,
+          "rank": 6
+        },
+        {
+          "keyword": "Higgsfield",
+          "query": "\"Higgsfield\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 25,
+            "total": 21582,
+            "median": 58,
+            "top": {
+              "views": 6958,
+              "url": "https://x.com/Rahll/status/2121700900351950922",
+              "handle": "@Rahll",
+              "text": "So @CorridorDigital's new video heavily criticizes a Higgsfield made AI short film, but at the same time they're taking "
+            }
+          },
+          "prev24": {
+            "n": 25,
+            "total": 31211,
+            "median": 75,
+            "top": {
+              "views": 13001,
+              "url": "https://x.com/shishirdotai/status/2121575053137707282",
+              "handle": "@shishirdotai",
+              "text": "Malfoid &amp; Harry 💚 | The Philosopher's Stone Part 3 Made with Higgsfield @higgsfield #malfoy #harrypotter #malfoid #a"
+            }
+          },
+          "w48": {
+            "n": 50,
+            "total": 52793,
+            "top": {
+              "views": 13001,
+              "url": "https://x.com/shishirdotai/status/2121575053137707282",
+              "handle": "@shishirdotai",
+              "text": "Malfoid &amp; Harry 💚 | The Philosopher's Stone Part 3 Made with Higgsfield @higgsfield #malfoy #harrypotter #malfoid #a"
+            }
+          },
+          "change": 0.69,
+          "trend": "down",
+          "partial": false,
+          "top_share": 0.32,
+          "rank": 7
+        },
+        {
+          "keyword": "AI filmmaking",
+          "query": "\"AI filmmaking\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 25,
+            "total": 17453,
+            "median": 60,
+            "top": {
+              "views": 11002,
+              "url": "https://x.com/NVVTIONALISM/status/2121681022404403560",
+              "handle": "@NVVTIONALISM",
+              "text": "Hollywood is done for with the rise of AI filmmaking. https://t.co/P3V4RsxfUD"
+            }
+          },
+          "prev24": {
+            "n": 25,
+            "total": 19434,
+            "median": 277,
+            "top": {
+              "views": 7124,
+              "url": "https://x.com/Zorvh87/status/2121463130496876580",
+              "handle": "@Zorvh87",
+              "text": "Banger Web3 Jobs! Video Editor(remote): $20-$60/Hourly Week: $600 - $2,100 Month: $2,640 - $9,240 Social media Intern(re"
+            }
+          },
+          "w48": {
+            "n": 50,
+            "total": 36887,
+            "top": {
+              "views": 11002,
+              "url": "https://x.com/NVVTIONALISM/status/2121681022404403560",
+              "handle": "@NVVTIONALISM",
+              "text": "Hollywood is done for with the rise of AI filmmaking. https://t.co/P3V4RsxfUD"
+            }
+          },
+          "change": 0.9,
+          "trend": "flat",
+          "partial": false,
+          "top_share": 0.63,
+          "rank": 8
+        },
+        {
+          "keyword": "Runway",
+          "query": "\"Runway\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 25,
+            "total": 13909,
+            "median": 33,
+            "top": {
+              "views": 10297,
+              "url": "https://x.com/wingXaviation/status/2121886930686329004",
+              "handle": "@wingXaviation",
+              "text": "🚨 Delhi Airport Runway 29L threshold displacement reduced The displaced threshold is reduced from 1,460 metres to 650 me"
+            }
+          },
+          "prev24": {
+            "n": 25,
+            "total": 13647,
+            "median": 91,
+            "top": {
+              "views": 8783,
+              "url": "https://x.com/AirMobilityRAF/status/2121562488663605516",
+              "handle": "@AirMobilityRAF",
+              "text": "RAF Brize Norton has marked a significant milestone with the reopening of its runway and return of the first aircraft to"
+            }
+          },
+          "w48": {
+            "n": 50,
+            "total": 27556,
+            "top": {
+              "views": 10297,
+              "url": "https://x.com/wingXaviation/status/2121886930686329004",
+              "handle": "@wingXaviation",
+              "text": "🚨 Delhi Airport Runway 29L threshold displacement reduced The displaced threshold is reduced from 1,460 metres to 650 me"
+            }
+          },
+          "change": 1.02,
+          "trend": "flat",
+          "partial": false,
+          "top_share": 0.74,
+          "rank": 9
+        },
+        {
+          "keyword": "Kling",
+          "query": "\"Kling\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 23,
+            "total": 11805,
+            "median": 68,
+            "top": {
+              "views": 5447,
+              "url": "https://x.com/Kling_ai/status/2121798653656420668",
+              "handle": "@Kling_ai",
+              "text": "How do you make a Halloween film that isn't meant to be scary? My Favorite Night of the Year, a Kling AI Original, is a "
+            }
+          },
+          "prev24": {
+            "n": 25,
+            "total": 6019,
+            "median": 102,
+            "top": {
+              "views": 2770,
+              "url": "https://x.com/ojiji2025/status/2121457778565030095",
+              "handle": "@ojiji2025",
+              "text": "Full speed ahead with Kling 4.0 🏙️ @Kling_ai https://t.co/KgCNwWLvWo"
+            }
+          },
+          "w48": {
+            "n": 48,
+            "total": 17824,
+            "top": {
+              "views": 5447,
+              "url": "https://x.com/Kling_ai/status/2121798653656420668",
+              "handle": "@Kling_ai",
+              "text": "How do you make a Halloween film that isn't meant to be scary? My Favorite Night of the Year, a Kling AI Original, is a "
+            }
+          },
+          "change": 1.96,
+          "trend": "up",
+          "partial": false,
+          "top_share": 0.46,
+          "rank": 10
+        },
+        {
+          "keyword": "ComfyUI",
+          "query": "\"ComfyUI\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 25,
+            "total": 7767,
+            "median": 31,
+            "top": {
+              "views": 3133,
+              "url": "https://x.com/ou_zhen599/status/2121673848852828335",
+              "handle": "@ou_zhen599",
+              "text": "Made with Krea 2 +MiniMax-H3 ComfyUI 🏷️“Don’t move—let me get a better look.” 📷“Checking out an intruder” on a rooftop h"
+            }
+          },
+          "prev24": {
+            "n": 25,
+            "total": 224409,
+            "median": 107,
+            "top": {
+              "views": 171747,
+              "url": "https://x.com/jiojio2026/status/2121319242536771800",
+              "handle": "@jiojio2026",
+              "text": "Taboo Series 🔥 Halloween Ghost Mom~~ 📷Sample Test 01📷 Tools Used 👇 https://t.co/1OWavwf2XC Image Generation: 👇 ChatGPT ·"
+            }
+          },
+          "w48": {
+            "n": 50,
+            "total": 232176,
+            "top": {
+              "views": 171747,
+              "url": "https://x.com/jiojio2026/status/2121319242536771800",
+              "handle": "@jiojio2026",
+              "text": "Taboo Series 🔥 Halloween Ghost Mom~~ 📷Sample Test 01📷 Tools Used 👇 https://t.co/1OWavwf2XC Image Generation: 👇 ChatGPT ·"
+            }
+          },
+          "change": 0.03,
+          "trend": "down",
+          "partial": false,
+          "top_share": 0.4,
+          "rank": 11
+        },
+        {
+          "keyword": "Grok Imagine",
+          "query": "\"Grok Imagine\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 24,
+            "total": 6632,
+            "median": 47,
+            "top": {
+              "views": 2659,
+              "url": "https://x.com/TekonBurns/status/2121682794263068682",
+              "handle": "@TekonBurns",
+              "text": "SpaceXSI just folded Grok Imagine directly into the main Grok app - one day after ~60 Grok Imagine layoffs. → Native ima"
+            }
+          },
+          "prev24": {
+            "n": 25,
+            "total": 50756,
+            "median": 244,
+            "top": {
+              "views": 13066,
+              "url": "https://x.com/OpenBot_/status/2121279425173999996",
+              "handle": "@OpenBot_",
+              "text": "OpenBot v0.70.0 🚀 Image and video workflows - Generate images with GPT Image or Grok Imagine, and create videos with Gro"
+            }
+          },
+          "w48": {
+            "n": 49,
+            "total": 57388,
+            "top": {
+              "views": 13066,
+              "url": "https://x.com/OpenBot_/status/2121279425173999996",
+              "handle": "@OpenBot_",
+              "text": "OpenBot v0.70.0 🚀 Image and video workflows - Generate images with GPT Image or Grok Imagine, and create videos with Gro"
+            }
+          },
+          "change": 0.13,
+          "trend": "down",
+          "partial": false,
+          "top_share": 0.4,
+          "rank": 12
+        },
+        {
+          "keyword": "Midjourney",
+          "query": "\"Midjourney\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 25,
+            "total": 5198,
+            "median": 75,
+            "top": {
+              "views": 1581,
+              "url": "https://x.com/DavidmComfort/status/2121715716889940324",
+              "handle": "@DavidmComfort",
+              "text": "Why, oh why, doesn't @midjourney have an API??"
+            }
+          },
+          "prev24": {
+            "n": 25,
+            "total": 6384,
+            "median": 118,
+            "top": {
+              "views": 1159,
+              "url": "https://x.com/RektCaprisun/status/2121296891593777265",
+              "handle": "@RektCaprisun",
+              "text": "I love generating textures on Midjourney https://t.co/wa6oWLqMtE"
+            }
+          },
+          "w48": {
+            "n": 50,
+            "total": 11582,
+            "top": {
+              "views": 1581,
+              "url": "https://x.com/DavidmComfort/status/2121715716889940324",
+              "handle": "@DavidmComfort",
+              "text": "Why, oh why, doesn't @midjourney have an API??"
+            }
+          },
+          "change": 0.81,
+          "trend": "flat",
+          "partial": false,
+          "top_share": 0.3,
+          "rank": 13
+        },
+        {
+          "keyword": "anime",
+          "query": "\"anime\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 25,
+            "total": 5073,
+            "median": 83,
+            "top": {
+              "views": 1467,
+              "url": "https://x.com/SamKikio/status/2121680067885711755",
+              "handle": "@SamKikio",
+              "text": "A playful anime beach look with a cute, curvy silhouette, a stylish blue bikini, and irresistible summer vibes! 💙☀️ #Ani"
+            }
+          },
+          "prev24": {
+            "n": 25,
+            "total": 16194,
+            "median": 43,
+            "top": {
+              "views": 11288,
+              "url": "https://x.com/infinityonkae/status/2121334095674478892",
+              "handle": "@infinityonkae",
+              "text": "i think if ur selling at an anime con, 75-80% of ur offerings should be anime/video game related (including ocs drawn in"
+            }
+          },
+          "w48": {
+            "n": 50,
+            "total": 21267,
+            "top": {
+              "views": 11288,
+              "url": "https://x.com/infinityonkae/status/2121334095674478892",
+              "handle": "@infinityonkae",
+              "text": "i think if ur selling at an anime con, 75-80% of ur offerings should be anime/video game related (including ocs drawn in"
+            }
+          },
+          "change": 0.31,
+          "trend": "down",
+          "partial": false,
+          "top_share": 0.29,
+          "rank": 14
+        },
+        {
+          "keyword": "AI video",
+          "query": "\"AI video\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 25,
+            "total": 5000,
+            "median": 20,
+            "top": {
+              "views": 1666,
+              "url": "https://x.com/TheoAGI/status/2121908869291294918",
+              "handle": "@TheoAGI",
+              "text": "AI video editing just works, here's a before/after using a random YouTube video Select the style, ask the agent to edit "
+            }
+          },
+          "prev24": {
+            "n": 25,
+            "total": 128808,
+            "median": 114,
+            "top": {
+              "views": 74533,
+              "url": "https://x.com/CestMommy/status/2121392981097787736",
+              "handle": "@CestMommy",
+              "text": "Son Cums Inside Mom In Front Of Dad 💦 (custom ai video) #caption #momson #cestmommy GET CUSTOM AI VIDEO ON: https://t.co"
+            }
+          },
+          "w48": {
+            "n": 50,
+            "total": 133808,
+            "top": {
+              "views": 74533,
+              "url": "https://x.com/CestMommy/status/2121392981097787736",
+              "handle": "@CestMommy",
+              "text": "Son Cums Inside Mom In Front Of Dad 💦 (custom ai video) #caption #momson #cestmommy GET CUSTOM AI VIDEO ON: https://t.co"
+            }
+          },
+          "change": 0.04,
+          "trend": "down",
+          "partial": false,
+          "top_share": 0.33,
+          "rank": 15
+        },
+        {
+          "keyword": "Veo",
+          "query": "\"Veo\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 25,
+            "total": 2578,
+            "median": 26,
+            "top": {
+              "views": 998,
+              "url": "https://x.com/abs_crea8or/status/2121856314804457710",
+              "handle": "@abs_crea8or",
+              "text": "Just unboxed the CRISPO Air Fryer Pro and honestly... The crunch on these wings is actually ridiculous. Created with Goo"
+            }
+          },
+          "prev24": {
+            "n": 25,
+            "total": 7807,
+            "median": 31,
+            "top": {
+              "views": 5795,
+              "url": "https://x.com/lolamata___/status/2121615951065944294",
+              "handle": "@lolamata___",
+              "text": "me veo sterling point o me vuelvo a ver the body https://t.co/A1Yp1lJPoe"
+            }
+          },
+          "w48": {
+            "n": 50,
+            "total": 10385,
+            "top": {
+              "views": 5795,
+              "url": "https://x.com/lolamata___/status/2121615951065944294",
+              "handle": "@lolamata___",
+              "text": "me veo sterling point o me vuelvo a ver the body https://t.co/A1Yp1lJPoe"
+            }
+          },
+          "change": 0.33,
+          "trend": "down",
+          "partial": false,
+          "top_share": 0.39,
+          "rank": 16
+        }
+      ]
+    },
+    "legend": "Trend match 0-100% = 1 - prod(1 - w) over matched 24 h keywords that another author also used in the 48 h window (w: rank 1-10 0.35, 11-25 0.22, 26-40 0.12, curated 0.20). Verdict: >= 50% -> trend; else video/image in the post data -> visual; else >= 100K followers (outsiders without follower data: >= 500K views, estimate) -> author/audience; else coincidence/other. Missing data shows as 'no data'. Heat = sum log10(views) of topic posts (24 h x1, 24-48 h x0.5), scaled to 100. Momentum = log-views last 24 h / previous 24 h. Trend-input-only accounts feed the corpus but are never shown as hits."
+  }
+}

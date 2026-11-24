@@ -1,0 +1,3485 @@
+{
+  "title": "X Virality Score · 2026-11-22",
+  "brand_title": "Grok Bot X Virality Score",
+  "brand_handle": "@SMKP_Films",
+  "operator": {
+    "handle": "SMKP_Films",
+    "name": "Bogdan Orlic",
+    "profile_url": "https://x.com/SMKP_Films"
+  },
+  "timezone": "America/Toronto",
+  "date": "2026-11-22",
+  "updated": "2026-11-23T10:43:56-05:00",
+  "ui": {
+    "default_theme": "night"
+  },
+  "board_features": {
+    "count_up": true,
+    "live_pulse": true,
+    "theme_toggle": true,
+    "themes": [
+      "night",
+      "day"
+    ],
+    "grok_ambient": true,
+    "week_month_boards": true,
+    "day_roster_best_total": true,
+    "day_compare_chart": true,
+    "week_strip": true,
+    "no_hits_reasons": true,
+    "marker_class": "xvs-dash-2026",
+    "top10_drafts_v4": true,
+    "trend_keywords": true,
+    "trend_radar": true,
+    "x_keyword_table": true,
+    "experiment": true,
+    "self_quote_badge": true
+  },
+  "previous_day": {
+    "date": "2026-11-21",
+    "hits_count": 1,
+    "total_views": 33645,
+    "stars": 1,
+    "x_score": 22,
+    "top_hit": null
+  },
+  "hits": [
+    {
+      "id": "2124541100480180361",
+      "name": "Gossip Goblin",
+      "display_name": "Gossip Goblin",
+      "handle": "@Gossip_Goblin",
+      "views": 294346,
+      "views_label": "294,346",
+      "url": "https://x.com/Gossip_Goblin/status/2124541100480180361",
+      "created_at": "2026-11-22T16:30:45.000Z",
+      "posted_at": "2026-11-22T16:30:45.000Z",
+      "highlight": true,
+      "text": "Fishbowl Spartacus https://t.co/JcgdaiJLLt",
+      "original_en": "Fishbowl Spartacus https://t.co/JcgdaiJLLt",
+      "lang": "en",
+      "media": "video",
+      "likes": 4353,
+      "reposts": 293,
+      "bookmarks": 1735,
+      "replies": 86,
+      "quotes": 28,
+      "followers_count": 126281,
+      "self_quote": false,
+      "hook": "A 2:32 finished film posted on a two-word title and nothing else - 294K views, 4,353 likes, 1,735 bookmarks (0.6% save rate). No explainer, no tool credits: the title is the whole caption, and the film carries the post. His best board post this month.",
+      "video_tip": "Post your next finished Warhammer short as a native 2-3 minute upload with only its title as the caption (no hashtags, no tool list); put credits in a reply if at all.",
+      "board_rank": 1,
+      "draft_en": "Fishbowl Spartacus.\n\nA full AI video, no caption needed - just press play.",
+      "draft_keywords": [
+        "Fishbowl Spartacus",
+        "AI video"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.0,
+        "word_overlap": 0.25,
+        "max_copied_run": 2
+      },
+      "top10_rank": 1,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "note": "",
+        "topic": "Title-only finished films"
+      }
+    },
+    {
+      "id": "2124578704550695184",
+      "name": "LudovicCreator",
+      "display_name": "LudovicCreator",
+      "handle": "@LudovicCreator",
+      "views": 59046,
+      "views_label": "59,046",
+      "url": "https://x.com/LudovicCreator/status/2124578704550695184",
+      "created_at": "2026-11-22T19:00:10.000Z",
+      "posted_at": "2026-11-22T19:00:10.000Z",
+      "highlight": true,
+      "text": "I built a complete ski resort campaign in Adobe Firefly: three vintage travel posters that read as one collection, two pieces of merch, and the posters brought to life.\n\nSnowline Peaks is fictional. The challenge was real: making AI images look like a series, not three random generations.\n\n→ 3 illustration styles compared\n→ 1 visual system locked in Firefly Boards\n→ 3 posters, 2 merch items, 3 animated clips\n\nTry Adobe Firefly for your next creative project:\nhttps://t.co/dKspzwXMNY\n\nCreated in paid collaboration with @AdobeFirefly as an Adobe Firefly Ambassador.\n\n#AdobeFireflyAmbassadors #Ad #HowToAdobeFirefly\n\nHere's the whole process, including the trick I used on purpose and the one I avoided 🧵",
+      "original_en": "I built a complete ski resort campaign in Adobe Firefly: three vintage travel posters that read as one collection, two pieces of merch, and the posters brought to life.\n\nSnowline Peaks is fictional. The challenge was real: making AI images look like a series, not three random generations.\n\n→ 3 illustration styles compared\n→ 1 visual system locked in Firefly Boards\n→ 3 posters, 2 merch items, 3 animated clips\n\nTry Adobe Firefly for your next creative project:\nhttps://t.co/dKspzwXMNY\n\nCreated in paid collaboration with @AdobeFirefly as an Adobe Firefly Ambassador.\n\n#AdobeFireflyAmbassadors #Ad #HowToAdobeFirefly\n\nHere's the whole process, including the trick I used on purpose and the one I avoided 🧵",
+      "lang": "en",
+      "media": "photo",
+      "likes": 33,
+      "reposts": 11,
+      "bookmarks": 4,
+      "replies": 15,
+      "quotes": 1,
+      "followers_count": 38194,
+      "self_quote": false,
+      "hook": "Paid Adobe Firefly ambassador thread (#Ad): a fictional ski resort campaign - 3 vintage posters, 2 merch items, 3 animated clips (Seedance 2.5 image to video inside Firefly) - with arrow-list structure and a 🧵 promise. 59K views but 33 likes and 4 bookmarks, so the reach is very likely paid.",
+      "video_tip": "Borrow the structure, not the reach: show one locked visual system across three posters, then bring each to life as a 5-second image-to-video clip in a single 15s reel.",
+      "board_rank": 4,
+      "draft_en": "Snowline Peaks doesn't exist. The ski resort campaign built around it in Adobe Firefly does.\n\nThe hard part was never one good image - it was getting AI images to feel like a single series instead of three random generations.\n\nWhat went into it:\n→ 3 illustration styles tested side by side\n→ 1 visual system locked inside Firefly Boards\n→ 3 vintage travel posters, 2 merch pieces, 3 animated clips\n\nFull breakdown in the thread - including one trick used on purpose and one deliberately avoided 🧵",
+      "draft_keywords": [
+        "Adobe Firefly"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.025,
+        "word_overlap": 0.6,
+        "max_copied_run": 4
+      },
+      "top10_rank": 4,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "image",
+        "note": "",
+        "topic": null
+      }
+    },
+    {
+      "id": "2124584929338196179",
+      "name": "Gossip Goblin",
+      "display_name": "Gossip Goblin",
+      "handle": "@Gossip_Goblin",
+      "views": 7009,
+      "views_label": "7,009",
+      "url": "https://x.com/Gossip_Goblin/status/2124584929338196179",
+      "created_at": "2026-11-22T19:24:54.000Z",
+      "posted_at": "2026-11-22T19:24:54.000Z",
+      "highlight": false,
+      "text": "Raise your hand if you’re in Los Angeles https://t.co/S6gSPSb9wi",
+      "original_en": "Raise your hand if you’re in Los Angeles https://t.co/S6gSPSb9wi",
+      "lang": "en",
+      "media": "photo",
+      "likes": 143,
+      "reposts": 7,
+      "bookmarks": 6,
+      "replies": 15,
+      "quotes": 2,
+      "followers_count": 126281,
+      "self_quote": false,
+      "hook": "Community call-out with one photo (\"Raise your hand if you're in Los Angeles\") posted three hours after his big film - 7.0K views, 15 replies; rides the momentum of the main post.",
+      "video_tip": "After a strong post, follow with a short community question plus one still from the film to collect replies; it is not a video post, so keep it to one image.",
+      "board_rank": 12,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "image",
+        "note": "",
+        "topic": null
+      }
+    },
+    {
+      "id": "2124503261243687169",
+      "name": "LudovicCreator",
+      "display_name": "LudovicCreator",
+      "handle": "@LudovicCreator",
+      "views": 5988,
+      "views_label": "5,988",
+      "url": "https://x.com/LudovicCreator/status/2124503261243687169",
+      "created_at": "2026-11-22T14:00:23.000Z",
+      "posted_at": "2026-11-22T14:00:23.000Z",
+      "highlight": false,
+      "text": "🎨 INK WASH ZEN SERENITY 🎨\n\nPrompt  :\n\nAn Ink Wash Zen Serenity illustration of [SUBJECT], using traditional ink wash techniques to convey tranquility and balance. Employ a range of black and white tones to highlight the fluidity and simplicity of the composition\n\nCheck ALTS https://t.co/buvb9nj4al",
+      "original_en": "🎨 INK WASH ZEN SERENITY 🎨\n\nPrompt  :\n\nAn Ink Wash Zen Serenity illustration of [SUBJECT], using traditional ink wash techniques to convey tranquility and balance. Employ a range of black and white tones to highlight the fluidity and simplicity of the composition\n\nCheck ALTS https://t.co/buvb9nj4al",
+      "lang": "en",
+      "media": "4 photos",
+      "likes": 205,
+      "reposts": 26,
+      "bookmarks": 121,
+      "replies": 14,
+      "quotes": 6,
+      "followers_count": 38194,
+      "self_quote": false,
+      "hook": "Fill-in-the-blank prompt share (\"Ink Wash Zen Serenity\" with [SUBJECT]) plus \"Check ALTS\" - 6.0K views, 205 likes, 121 bookmarks (2.0% save rate). The prompt is the value people save.",
+      "video_tip": "Animate one of your ink-wash style stills with slow brush-stroke motion (5-8s), and put the full prompt with a [SUBJECT] slot in the caption.",
+      "board_rank": 15,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "image",
+        "note": "",
+        "topic": "Prompt shares and control workflows"
+      }
+    }
+  ],
+  "hits_count": 4,
+  "outsiders": [
+    {
+      "id": "2124846759679607044",
+      "name": "Kling AI",
+      "display_name": "Kling AI",
+      "handle": "@Kling_ai",
+      "views": 127029,
+      "views_label": "127,029",
+      "url": "https://x.com/Kling_ai/status/2124846759679607044",
+      "created_at": "2026-11-23T12:45:19.000Z",
+      "posted_at": "2026-11-23T12:45:19.000Z",
+      "text": "A complete image set, all from a single prompt.\n\nWith Kling Image 4.0, generate up to 10 images featuring consistent subjects and visual styles, all shaped around your creative vision. https://t.co/A5qPkSQ1tQ",
+      "original_en": "A complete image set, all from a single prompt.\n\nWith Kling Image 4.0, generate up to 10 images featuring consistent subjects and visual styles, all shaped around your creative vision. https://t.co/A5qPkSQ1tQ",
+      "lang": "en",
+      "hook": "Kling's own Kling Image 4.0 launch-style clip: one prompt, up to 10 consistent images - 127K views but 265 likes, a brand reach number that looks promoted.",
+      "video_tip": "Show a one-prompt 10-frame character set as a fast grid-to-fullscreen cut; consistency is the selling point, so hold the same face across every frame.",
+      "media": "video",
+      "followers_count": 139647,
+      "likes": 265,
+      "reposts": 12,
+      "bookmarks": 31,
+      "replies": 28,
+      "quotes": 3,
+      "self_quote": false,
+      "board_rank": 2,
+      "draft_en": "One prompt in, a whole matching image set out.\n\nKling Image 4.0 can now give you up to 10 frames that hold the same subject and the same look - all bent around whatever you had in mind.",
+      "draft_keywords": [
+        "Kling Image 4.0"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.0,
+        "word_overlap": 0.375,
+        "max_copied_run": 3
+      },
+      "top10_rank": 2
+    },
+    {
+      "id": "2124457346894016998",
+      "name": "TechHalla",
+      "display_name": "TechHalla",
+      "handle": "@techhalla",
+      "views": 69986,
+      "views_label": "69,986",
+      "url": "https://x.com/techhalla/status/2124457346894016998",
+      "created_at": "2026-11-22T10:57:56.000Z",
+      "posted_at": "2026-11-22T10:57:56.000Z",
+      "text": "Back to the Future but it's 1973 🥼 https://t.co/NW1q2sJv4M",
+      "original_en": "Back to the Future but it's 1973 🥼 https://t.co/NW1q2sJv4M",
+      "lang": "en",
+      "hook": "Era-swap trailer on a seven-word caption; still climbing (28.4K yesterday, now 70K, 1,330 likes, 278 bookmarks) - the strongest organic creator post of the window.",
+      "video_tip": "Pick a famous franchise, restyle it as a 1973 film trailer (grain, zooms, period wardrobe), keep it under 60s and caption it in one line.",
+      "media": "video",
+      "followers_count": 104010,
+      "likes": 1330,
+      "reposts": 173,
+      "bookmarks": 278,
+      "replies": 38,
+      "quotes": 12,
+      "self_quote": false,
+      "board_rank": 3,
+      "draft_en": "What if Back to the Future had come out in 1973? 🥼\n\nAn era swap, made as an AI video.",
+      "draft_keywords": [
+        "era swap",
+        "AI video"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.062,
+        "word_overlap": 0.333,
+        "max_copied_run": 4
+      },
+      "top10_rank": 3
+    },
+    {
+      "id": "2124518666939334736",
+      "name": "Fakhr",
+      "display_name": "Fakhr",
+      "handle": "@iamfakhrealam",
+      "views": 52032,
+      "views_label": "52,032",
+      "url": "https://x.com/iamfakhrealam/status/2124518666939334736",
+      "created_at": "2026-11-22T15:01:36.000Z",
+      "posted_at": "2026-11-22T15:01:36.000Z",
+      "text": "More people, more details, more room for AI to get things wrong.\n\nI put Kling Image 4.0 and ChatGPT Images 2.6 to the test with the same group portrait prompt.\nBoth captured the scene, but Kling gets a slight edge from me. The overall image feels cleaner and more natural, especially in the finer details. ChatGPT has a more textured finish this time.\nA small difference, but it makes the group shot feel more polished.\n\nWhich one would you pick?\n1️⃣ Kling Image 4.0\n2️⃣ ChatGPT Images 2.6\n\nIf realistic image generation is on your list, Kling's Black Friday offer is worth checking out: 2K images from $0.022/image and native 8K from $0.033/image.",
+      "original_en": "More people, more details, more room for AI to get things wrong.\n\nI put Kling Image 4.0 and ChatGPT Images 2.6 to the test with the same group portrait prompt.\nBoth captured the scene, but Kling gets a slight edge from me. The overall image feels cleaner and more natural, especially in the finer details. ChatGPT has a more textured finish this time.\nA small difference, but it makes the group shot feel more polished.\n\nWhich one would you pick?\n1️⃣ Kling Image 4.0\n2️⃣ ChatGPT Images 2.6\n\nIf realistic image generation is on your list, Kling's Black Friday offer is worth checking out: 2K images from $0.022/image and native 8K from $0.033/image.",
+      "lang": "en",
+      "hook": "Part of a coordinated Kling Image 4.0 vs ChatGPT Images 2.6 Black Friday campaign (same template across ~6 accounts); group-portrait A/B with a vote CTA.",
+      "video_tip": "Side-by-side A/B stills with a 1/2 vote in the caption; for video, split-screen the same prompt across two models.",
+      "media": "2 photos",
+      "followers_count": 32425,
+      "likes": 171,
+      "reposts": 6,
+      "bookmarks": 29,
+      "replies": 12,
+      "quotes": 0,
+      "self_quote": false,
+      "board_rank": 5,
+      "draft_en": "Group shots are where AI image models slip - more faces, more detail, more chances to break.\n\nSame group portrait prompt, two models: Kling Image 4.0 vs ChatGPT Images 2.6.\n\nBoth nail the scene. Kling edges it for me: cleaner overall and more natural in the fine details, while ChatGPT goes for a more textured finish this round. A small gap, but the group shot looks more polished.\n\nYour pick - 1 or 2?\n\nKling's Black Friday offer, if realistic images are on your list: $0.022 per 2K image, $0.033 per native 8K image.",
+      "draft_keywords": [
+        "Kling Image 4.0",
+        "ChatGPT Images 2.6",
+        "Kling's Black Friday",
+        "Black Friday offer"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.045,
+        "word_overlap": 0.628,
+        "max_copied_run": 5
+      },
+      "top10_rank": 5
+    },
+    {
+      "id": "2124514480575172824",
+      "name": "Mushfiq Sajib",
+      "display_name": "Mushfiq Sajib",
+      "handle": "@heysajib",
+      "views": 36312,
+      "views_label": "36,312",
+      "url": "https://x.com/heysajib/status/2124514480575172824",
+      "created_at": "2026-11-22T14:44:58.000Z",
+      "posted_at": "2026-11-22T14:44:58.000Z",
+      "text": "Not every glitch is a mistake. Sometimes, it's the whole aesthetic.\n\nI put Kling Image 4.0 and ChatGPT Images 2.6 to the test with the same Datamosh prompt.\n\nBoth turned the original image into a bold mix of shifted colors, pixel trails, and digital distortion, while keeping the subject recognizable.\n\nWhat's interesting is how each model gives the glitch effect a different visual rhythm. Same prompt, two very different creative takes!\n\nWant to play with your own glitch-inspired visuals? Kling's Black Friday offer is still on: 2K images from $0.022/image and native 8K from $0.033/image.\n\nWhich one would you pick?\n\n1️⃣ Kling Image 4.0\n2️⃣ ChatGPT Images 2.6",
+      "original_en": "Not every glitch is a mistake. Sometimes, it's the whole aesthetic.\n\nI put Kling Image 4.0 and ChatGPT Images 2.6 to the test with the same Datamosh prompt.\n\nBoth turned the original image into a bold mix of shifted colors, pixel trails, and digital distortion, while keeping the subject recognizable.\n\nWhat's interesting is how each model gives the glitch effect a different visual rhythm. Same prompt, two very different creative takes!\n\nWant to play with your own glitch-inspired visuals? Kling's Black Friday offer is still on: 2K images from $0.022/image and native 8K from $0.033/image.\n\nWhich one would you pick?\n\n1️⃣ Kling Image 4.0\n2️⃣ ChatGPT Images 2.6",
+      "lang": "en",
+      "hook": "Same Kling vs ChatGPT campaign, datamosh/glitch prompt; 100 bookmarks is the best save rate of the campaign.",
+      "video_tip": "Glitch/datamosh look works as a 5s loop: one subject, shifting pixel trails, end on a clean frame.",
+      "media": "2 photos",
+      "followers_count": 35284,
+      "likes": 152,
+      "reposts": 15,
+      "bookmarks": 100,
+      "replies": 22,
+      "quotes": 0,
+      "self_quote": false,
+      "board_rank": 6,
+      "draft_en": "Sometimes the glitch is the whole look, not the error.\n\nOne Datamosh prompt, two models - Kling Image 4.0 vs ChatGPT Images 2.6. Each one smears the frame into colour shifts, pixel trails and distortion while the subject stays readable.\n\nWhat's fun: every model gives that glitch its own rhythm. Same words in, two very different takes out.\n\nYour vote - 1 or 2?\n\nFor glitch experiments of your own, Kling's Black Friday offer still runs: $0.022 per 2K image, $0.033 per native 8K image.",
+      "draft_keywords": [
+        "Kling Image 4.0",
+        "ChatGPT Images 2.6",
+        "Kling's Black Friday",
+        "Black Friday offer"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.013,
+        "word_overlap": 0.619,
+        "max_copied_run": 4
+      },
+      "top10_rank": 6
+    },
+    {
+      "id": "2124563674811474170",
+      "name": "Fathela Esq",
+      "display_name": "Fathela Esq",
+      "handle": "@AmControo",
+      "views": 34028,
+      "views_label": "34,028",
+      "url": "https://x.com/AmControo/status/2124563674811474170",
+      "created_at": "2026-11-22T18:00:27.000Z",
+      "posted_at": "2026-11-22T18:00:27.000Z",
+      "text": "Can AI recreate the timeless charm of a vintage fashion film?\n\nI tested Kling Image 4.0 and ChatGPT Images 2.6 using the same prompt, and both delivered stunning retro editorial visuals.\n\nFrom natural poses and cinematic lighting to classic film tones, each model brought its own interpretation of vintage fashion.\n\nA close match this time!\n\nWhich one would you choose for a magazine cover?\n\nImage 1: Kling Image 4.0\nImage 2: ChatGPT Images 2.6\n\nAnd here's Kling's Black Friday deal: 2K images for as low as $0.022/image and native 8K for just $0.033/image!",
+      "original_en": "Can AI recreate the timeless charm of a vintage fashion film?\n\nI tested Kling Image 4.0 and ChatGPT Images 2.6 using the same prompt, and both delivered stunning retro editorial visuals.\n\nFrom natural poses and cinematic lighting to classic film tones, each model brought its own interpretation of vintage fashion.\n\nA close match this time!\n\nWhich one would you choose for a magazine cover?\n\nImage 1: Kling Image 4.0\nImage 2: ChatGPT Images 2.6\n\nAnd here's Kling's Black Friday deal: 2K images for as low as $0.022/image and native 8K for just $0.033/image!",
+      "lang": "en",
+      "hook": "Same campaign, vintage fashion-film stills with a magazine-cover question; 122 bookmarks.",
+      "video_tip": "Vintage fashion film look: 16mm grain, soft halation, slow push-ins on a model, period typography card at the end.",
+      "media": "2 photos",
+      "followers_count": 56423,
+      "likes": 214,
+      "reposts": 91,
+      "bookmarks": 122,
+      "replies": 39,
+      "quotes": 0,
+      "self_quote": false,
+      "board_rank": 7,
+      "draft_en": "Can AI bring back the charm of an old fashion film?\n\nOne prompt, two models - Kling Image 4.0 vs ChatGPT Images 2.6 - and both return gorgeous retro editorial frames. Easy poses, cinematic light, classic film colour, each with its own read on the era.\n\nToo close to call this time.\n\nMagazine cover: image 1 (Kling) or image 2 (ChatGPT)?\n\nKling's Black Friday deal: native 8K from just $0.033/image, 2K from $0.022/image.",
+      "draft_keywords": [
+        "Kling Image 4.0",
+        "ChatGPT Images 2.6",
+        "Kling's Black Friday",
+        "Black Friday deal"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.059,
+        "word_overlap": 0.676,
+        "max_copied_run": 5
+      },
+      "top10_rank": 7
+    },
+    {
+      "id": "2124517992545603884",
+      "name": "Marry Evan",
+      "display_name": "Marry Evan",
+      "handle": "@marryevan999",
+      "views": 30991,
+      "views_label": "30,991",
+      "url": "https://x.com/marryevan999/status/2124517992545603884",
+      "created_at": "2026-11-22T14:58:55.000Z",
+      "posted_at": "2026-11-22T14:58:55.000Z",
+      "text": "A realistic portrait is about more than just a convincing face. \n\nI tested Kling Image 4.0 and ChatGPT Images 2.6 with the same prompt, and Kling came out slightly ahead.\n\nThe portrait feels more balanced overall, with more natural body proportions and anatomy. \n\nChatGPT captured the overall look too, but some details around the shoulders and arms felt a little less natural.\n\nIt's those subtle details that make an AI portrait feel believable.\n\nStill time to explore Kling with its Black Friday offer: 2K images from $0.022/image and native 8K from $0.033/image!\nSwipe to compare!\n\nImage 1: Kling Image 4.0\nImage 2: ChatGPT Images 2.6",
+      "original_en": "A realistic portrait is about more than just a convincing face. \n\nI tested Kling Image 4.0 and ChatGPT Images 2.6 with the same prompt, and Kling came out slightly ahead.\n\nThe portrait feels more balanced overall, with more natural body proportions and anatomy. \n\nChatGPT captured the overall look too, but some details around the shoulders and arms felt a little less natural.\n\nIt's those subtle details that make an AI portrait feel believable.\n\nStill time to explore Kling with its Black Friday offer: 2K images from $0.022/image and native 8K from $0.033/image!\nSwipe to compare!\n\nImage 1: Kling Image 4.0\nImage 2: ChatGPT Images 2.6",
+      "lang": "en",
+      "hook": "Same campaign, realistic portrait anatomy comparison.",
+      "video_tip": "Lead with the detail that breaks realism (hands, shoulders) and zoom into it - the comparison is the hook.",
+      "media": "2 photos",
+      "followers_count": 44295,
+      "likes": 81,
+      "reposts": 69,
+      "bookmarks": 63,
+      "replies": 56,
+      "quotes": 1,
+      "self_quote": false,
+      "board_rank": 8,
+      "draft_en": "A believable AI portrait isn't only about the face.\n\nSame prompt, Kling Image 4.0 vs ChatGPT Images 2.6. Kling comes out a little ahead - better balance, more natural proportions and anatomy. ChatGPT gets the overall look, but the shoulders and arms feel slightly off.\n\nThose small details are what make it read as real.\n\nSwipe: image 1 is Kling, image 2 is ChatGPT.\n\nKling's Black Friday offer is still on - $0.022 per 2K image, $0.033 per native 8K image.",
+      "draft_keywords": [
+        "Kling Image 4.0",
+        "ChatGPT Images 2.6",
+        "Kling's Black Friday",
+        "Black Friday offer"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.026,
+        "word_overlap": 0.73,
+        "max_copied_run": 4
+      },
+      "top10_rank": 8
+    },
+    {
+      "id": "2124647766307537098",
+      "name": "TechHalla",
+      "display_name": "TechHalla",
+      "handle": "@techhalla",
+      "views": 11862,
+      "views_label": "11,862",
+      "url": "https://x.com/techhalla/status/2124647766307537098",
+      "created_at": "2026-11-22T23:34:36.000Z",
+      "posted_at": "2026-11-22T23:34:36.000Z",
+      "text": "anyone can throw prompts at it with an unlimited budget\n\nthe hard part is finding a pipeline that gives you TOTAL CONTROL without wasting credits.\n\nspatial/character consistency and zero artifacts.\n\nMagnific prompts 👇 https://t.co/3KGy4fhlT1",
+      "original_en": "anyone can throw prompts at it with an unlimited budget\n\nthe hard part is finding a pipeline that gives you TOTAL CONTROL without wasting credits.\n\nspatial/character consistency and zero artifacts.\n\nMagnific prompts 👇 https://t.co/3KGy4fhlT1",
+      "lang": "en",
+      "hook": "Workflow/control angle: 'anyone can prompt with unlimited budget, the hard part is control' plus a Magnific prompt thread; 129 bookmarks on 11.9K.",
+      "video_tip": "Show the pipeline as a 3-step on-screen breakdown (reference - consistency pass - final), then the finished shot.",
+      "media": "video",
+      "followers_count": 104010,
+      "likes": 98,
+      "reposts": 9,
+      "bookmarks": 129,
+      "replies": 9,
+      "quotes": 2,
+      "self_quote": false,
+      "board_rank": 9,
+      "draft_en": "With an unlimited budget, anybody can spam prompts.\n\nThe real skill is a workflow where you stay in TOTAL CONTROL and don't burn credits: characters and space that stay consistent, zero artifacts.\n\nThe Magnific prompts are below 👇",
+      "draft_keywords": [
+        "Magnific"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.029,
+        "word_overlap": 0.474,
+        "max_copied_run": 4
+      },
+      "top10_rank": 9
+    },
+    {
+      "id": "2124555928968245320",
+      "name": "Sulfur",
+      "display_name": "Sulfur",
+      "handle": "@sulfurscales",
+      "views": 10865,
+      "views_label": "10,865",
+      "url": "https://x.com/sulfurscales/status/2124555928968245320",
+      "created_at": "2026-11-22T17:29:40.000Z",
+      "posted_at": "2026-11-22T17:29:40.000Z",
+      "text": "made this simple ai ad with vidlab as a test...\n\ni've spent alot of time making ai ads and running creator campaigns for ai platforms for a while now, and generation costs are mostly a huge hassle for me.\n\nhere's why vidlab grabbed my attention:\n\n> it's cheaper than the model makers' own APIs. seedance 2.5 at 720p is $0.15/s on vidlab vs $0.249/s direct from bytedance.\n> images cost almost nothing now. GPT Image 2.5 is 2 cents, nano banana 2 at 2K is 3 cents, nano banana Pro and seedream 5.0 pro are 4 cents.\n> every model is behind one API, so you aren't juggling 5 dashboards and 5 credit systems\n> they've built creative pipelines your agent can call directly, so it plugs in via api.\n\nif you run ugc, ad creatives or any agent that puts out visuals, switching now saves you more every month you stay on it...\n\non top of that, they've given away 100 free generations.",
+      "original_en": "made this simple ai ad with vidlab as a test...\n\ni've spent alot of time making ai ads and running creator campaigns for ai platforms for a while now, and generation costs are mostly a huge hassle for me.\n\nhere's why vidlab grabbed my attention:\n\n> it's cheaper than the model makers' own APIs. seedance 2.5 at 720p is $0.15/s on vidlab vs $0.249/s direct from bytedance.\n> images cost almost nothing now. GPT Image 2.5 is 2 cents, nano banana 2 at 2K is 3 cents, nano banana Pro and seedream 5.0 pro are 4 cents.\n> every model is behind one API, so you aren't juggling 5 dashboards and 5 credit systems\n> they've built creative pipelines your agent can call directly, so it plugs in via api.\n\nif you run ugc, ad creatives or any agent that puts out visuals, switching now saves you more every month you stay on it...\n\non top of that, they've given away 100 free generations.",
+      "lang": "en",
+      "hook": "Price-per-second breakdown for an AI ad (Seedance 2.5 at $0.15/s vs $0.249/s direct); cost lists drive bookmarks (140 on 10.9K).",
+      "video_tip": "Overlay the cost per shot on screen while the ad plays; numbers in the caption, the ad in the video.",
+      "media": "video",
+      "followers_count": 17192,
+      "likes": 133,
+      "reposts": 18,
+      "bookmarks": 140,
+      "replies": 7,
+      "quotes": 0,
+      "self_quote": false,
+      "board_rank": 10,
+      "draft_en": "Tried vidlab on a simple AI ad - and the pricing is the real story.\n\nAnyone making AI ads or running creator campaigns knows generation cost is the constant headache. Why this one stands out:\n\n> Seedance 2.5 at 720p: $0.15/s on vidlab vs $0.249/s straight from ByteDance\n> images cost almost nothing - 2 cents for GPT Image 2.5, 3 cents for nano banana 2 at 2K, 4 cents for nano banana Pro or seedream 5.0 pro\n> a single API covers every model, instead of 5 dashboards with 5 credit systems\n> creative pipelines your agent can call on its own",
+      "draft_keywords": [
+        "AI ad",
+        "Seedance 2.5",
+        "GPT Image"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.118,
+        "word_overlap": 0.739,
+        "max_copied_run": 6
+      },
+      "top10_rank": 10
+    },
+    {
+      "id": "2124271040251764823",
+      "name": "TechHalla",
+      "display_name": "TechHalla",
+      "handle": "@techhalla",
+      "views": 10573,
+      "views_label": "10,573",
+      "url": "https://x.com/techhalla/status/2124271040251764823",
+      "created_at": "2026-11-21T22:37:37.000Z",
+      "posted_at": "2026-11-21T22:37:37.000Z",
+      "text": "each image includes the Midjourney prompt I used to create it\n\n16 in total, but 13 is definitely the best one 🚃 https://t.co/3TucLCEvkJ",
+      "original_en": "each image includes the Midjourney prompt I used to create it\n\n16 in total, but 13 is definitely the best one 🚃 https://t.co/3TucLCEvkJ",
+      "lang": "en",
+      "hook": "16-image Midjourney set with every prompt in the ALT text and 'number 13 is the best' bait; 189 bookmarks.",
+      "video_tip": "Turn a still set into a 16-cut slideshow with a number on each frame and ask which number wins.",
+      "media": "16 photos",
+      "followers_count": 104010,
+      "likes": 173,
+      "reposts": 11,
+      "bookmarks": 189,
+      "replies": 15,
+      "quotes": 0,
+      "self_quote": false,
+      "board_rank": 11
+    },
+    {
+      "id": "2124812480358895741",
+      "name": "TechHalla",
+      "display_name": "TechHalla",
+      "handle": "@techhalla",
+      "views": 6497,
+      "views_label": "6,497",
+      "url": "https://x.com/techhalla/status/2124812480358895741",
+      "created_at": "2026-11-23T10:29:07.000Z",
+      "posted_at": "2026-11-23T10:29:07.000Z",
+      "text": "wish I'd known about this AI filmmaking hack sooner...\n\nwould have saved me somuch time and money! https://t.co/vgMpKr5woU https://t.co/gEfhxF8Roo",
+      "original_en": "wish I'd known about this AI filmmaking hack sooner...\n\nwould have saved me somuch time and money! https://t.co/vgMpKr5woU https://t.co/gEfhxF8Roo",
+      "lang": "en",
+      "hook": "'AI filmmaking hack' quote-post with a tutorial video; 138 bookmarks on 6.5K, a save-for-later format.",
+      "video_tip": "Show the before/after of one fix in under 20s, then the setup steps.",
+      "media": "video",
+      "followers_count": 104010,
+      "likes": 89,
+      "reposts": 4,
+      "bookmarks": 138,
+      "replies": 5,
+      "quotes": 0,
+      "self_quote": false,
+      "board_rank": 13
+    },
+    {
+      "id": "2124469484044054702",
+      "name": "ImagineArt",
+      "display_name": "ImagineArt",
+      "handle": "@ImagineArt_X",
+      "views": 6142,
+      "views_label": "6,142",
+      "url": "https://x.com/ImagineArt_X/status/2124469484044054702",
+      "created_at": "2026-11-22T11:46:10.000Z",
+      "posted_at": "2026-11-22T11:46:10.000Z",
+      "text": "60% off every model.\n\nSeedance, Kling, Sora and that one too.\n\nBlack Friday, ends Nov 30. https://t.co/LBDaagceu1",
+      "original_en": "60% off every model.\n\nSeedance, Kling, Sora and that one too.\n\nBlack Friday, ends Nov 30. https://t.co/LBDaagceu1",
+      "lang": "en",
+      "hook": "Aggregator Black Friday push (60% off Seedance, Kling, Sora); pure promo.",
+      "video_tip": "Skip - price promos do not transfer to a creator account.",
+      "media": "video",
+      "followers_count": 23418,
+      "likes": 64,
+      "reposts": 2,
+      "bookmarks": 30,
+      "replies": 13,
+      "quotes": 2,
+      "self_quote": false,
+      "board_rank": 14
+    },
+    {
+      "id": "2124381685835813268",
+      "name": "Kling AI",
+      "display_name": "Kling AI",
+      "handle": "@Kling_ai",
+      "views": 5851,
+      "views_label": "5,851",
+      "url": "https://x.com/Kling_ai/status/2124381685835813268",
+      "created_at": "2026-11-22T05:57:17.000Z",
+      "posted_at": "2026-11-22T05:57:17.000Z",
+      "text": "A fantastical journey through Eight Nights. ✨\n\nMade with #Kling4 in 4K 10-bit HDR. #KlingAI https://t.co/hTFw9I4aVO",
+      "original_en": "A fantastical journey through Eight Nights. ✨\n\nMade with #Kling4 in 4K 10-bit HDR. #KlingAI https://t.co/hTFw9I4aVO",
+      "lang": "en",
+      "hook": "Kling 4.0 4K 10-bit HDR showcase quote-post; low reach.",
+      "video_tip": "If you post HDR/4K, show it on dark high-contrast scenes (fire, neon) where the range is visible.",
+      "media": "text",
+      "followers_count": 139647,
+      "likes": 58,
+      "reposts": 3,
+      "bookmarks": 7,
+      "replies": 18,
+      "quotes": 1,
+      "self_quote": false,
+      "board_rank": 16
+    },
+    {
+      "id": "2124528490792009856",
+      "name": "Ciri",
+      "display_name": "Ciri",
+      "handle": "@Ciri_ai",
+      "views": 5755,
+      "views_label": "5,755",
+      "url": "https://x.com/Ciri_ai/status/2124528490792009856",
+      "created_at": "2026-11-22T15:40:38.000Z",
+      "posted_at": "2026-11-22T15:40:38.000Z",
+      "text": "Could you tell this was AI-generated at first glance? \n\nI tested Kling Image 4.0 and ChatGPT Images 2.6 with the same prompt, aiming for a still from a nostalgic 1980s British film.\n\nKling slightly edged ahead with warmer cinematic lighting and a more natural, lived-in atmosphere. ChatGPT took a darker, moodier approach.\n\nBoth have their charm, but Kling's result feels a little more like a real movie still.\n\nSwipe to compare:\n1️⃣ Kling Image 4.0\n2️⃣ ChatGPT Images 2.6 \n\nKling's Black Friday deal: 2K images for as low as $0.022/image, and native 8K for as low as $0.033/image!",
+      "original_en": "Could you tell this was AI-generated at first glance? \n\nI tested Kling Image 4.0 and ChatGPT Images 2.6 with the same prompt, aiming for a still from a nostalgic 1980s British film.\n\nKling slightly edged ahead with warmer cinematic lighting and a more natural, lived-in atmosphere. ChatGPT took a darker, moodier approach.\n\nBoth have their charm, but Kling's result feels a little more like a real movie still.\n\nSwipe to compare:\n1️⃣ Kling Image 4.0\n2️⃣ ChatGPT Images 2.6 \n\nKling's Black Friday deal: 2K images for as low as $0.022/image, and native 8K for as low as $0.033/image!",
+      "lang": "en",
+      "hook": "Same Kling vs ChatGPT campaign, 1980s British film still.",
+      "video_tip": "1980s film still look: warm tungsten light, soft focus, period wardrobe; caption with 'could you tell?'",
+      "media": "2 photos",
+      "followers_count": 11968,
+      "likes": 53,
+      "reposts": 13,
+      "bookmarks": 27,
+      "replies": 7,
+      "quotes": 0,
+      "self_quote": false,
+      "board_rank": 17
+    },
+    {
+      "id": "2124216273223528464",
+      "name": "Dreamina AI",
+      "display_name": "Dreamina AI",
+      "handle": "@dreamina_ai",
+      "views": 5730,
+      "views_label": "5,730",
+      "url": "https://x.com/dreamina_ai/status/2124216273223528464",
+      "created_at": "2026-11-21T19:00:00.000Z",
+      "posted_at": "2026-11-21T19:00:00.000Z",
+      "text": "Dreamina Launches 30+ AI Tools — Your All-in-One Creative &amp; Marketing Toolkit! 🚀\n\nSmarter, More Efficient Marketing. More Creative Image Editing. Easier Video Creation. Everything you need to create, all in one place.\n\n#DreaminaAI #DreaminaAITools #DreaminaSeedance2_5 https://t.co/qtiTfgvGP7",
+      "original_en": "Dreamina Launches 30+ AI Tools — Your All-in-One Creative &amp; Marketing Toolkit! 🚀\n\nSmarter, More Efficient Marketing. More Creative Image Editing. Easier Video Creation. Everything you need to create, all in one place.\n\n#DreaminaAI #DreaminaAITools #DreaminaSeedance2_5 https://t.co/qtiTfgvGP7",
+      "lang": "en",
+      "hook": "Dreamina '30+ AI tools' toolkit launch (Seedance 2.5 tagged); brand reach.",
+      "video_tip": "Skip - toolkit promos; borrow only the tool name in your own caption if you use it.",
+      "media": "video",
+      "followers_count": 31768,
+      "likes": 144,
+      "reposts": 22,
+      "bookmarks": 27,
+      "replies": 31,
+      "quotes": 4,
+      "self_quote": false,
+      "board_rank": 18
+    },
+    {
+      "id": "2124378897252773984",
+      "name": "Kling AI",
+      "display_name": "Kling AI",
+      "handle": "@Kling_ai",
+      "views": 5574,
+      "views_label": "5,574",
+      "url": "https://x.com/Kling_ai/status/2124378897252773984",
+      "created_at": "2026-11-22T05:46:12.000Z",
+      "posted_at": "2026-11-22T05:46:12.000Z",
+      "text": "A little alien makeover, a whole lot of realism. 👽\n\nKling Image 4.0, now on @sunra_ai 🐙 #KlingImage4 #KlingAI https://t.co/kSXZSaML9S",
+      "original_en": "A little alien makeover, a whole lot of realism. 👽\n\nKling Image 4.0, now on @sunra_ai 🐙 #KlingImage4 #KlingAI https://t.co/kSXZSaML9S",
+      "lang": "en",
+      "hook": "Kling Image 4.0 'alien makeover' realism clip on a partner platform; low engagement.",
+      "video_tip": "Human-to-alien makeover as a 3-step morph works for sci-fi character reveals.",
+      "media": "text",
+      "followers_count": 139647,
+      "likes": 46,
+      "reposts": 2,
+      "bookmarks": 3,
+      "replies": 4,
+      "quotes": 1,
+      "self_quote": false,
+      "board_rank": 19
+    },
+    {
+      "id": "2124495235267113190",
+      "name": "David Michael Comfort",
+      "display_name": "David Michael Comfort",
+      "handle": "@DavidmComfort",
+      "views": 3831,
+      "views_label": "3,831",
+      "url": "https://x.com/DavidmComfort/status/2124495235267113190",
+      "created_at": "2026-11-22T13:28:29.000Z",
+      "posted_at": "2026-11-22T13:28:29.000Z",
+      "text": "AI filmmaking has a long way to go. I’ve identified some challenges in making AI video look “filmic.” I’m going to spend some time in the next week or so trying to overcome these challenges https://t.co/rd2RjYyI6e",
+      "original_en": "AI filmmaking has a long way to go. I’ve identified some challenges in making AI video look “filmic.” I’m going to spend some time in the next week or so trying to overcome these challenges https://t.co/rd2RjYyI6e",
+      "lang": "en",
+      "hook": "Small account (3.6K followers) at 3.8K views with 84 bookmarks: a list of why AI video still doesn't look 'filmic' - the honest-craft angle.",
+      "video_tip": "Pair one 'not filmic' AI shot with your corrected version and name the fix on screen.",
+      "media": "photo",
+      "followers_count": 3613,
+      "likes": 75,
+      "reposts": 5,
+      "bookmarks": 84,
+      "replies": 21,
+      "quotes": 1,
+      "self_quote": false,
+      "board_rank": 20
+    },
+    {
+      "id": "2124830523138707948",
+      "name": "TechHalla",
+      "display_name": "TechHalla",
+      "handle": "@techhalla",
+      "views": 3742,
+      "views_label": "3,742",
+      "url": "https://x.com/techhalla/status/2124830523138707948",
+      "created_at": "2026-11-23T11:40:48.000Z",
+      "posted_at": "2026-11-23T11:40:48.000Z",
+      "text": "what's the part of AI video that still feels broken for you?\n\nif I have a workflow for it I'll drop it. if not I'll build one",
+      "original_en": "what's the part of AI video that still feels broken for you?\n\nif I have a workflow for it I'll drop it. if not I'll build one",
+      "lang": "en",
+      "hook": "Engagement question 'what part of AI video still feels broken?' - 25 replies, crowdsourcing next tutorials.",
+      "video_tip": "Ask the question over a short clip showing a typical failure (hands, flicker) to give people something to react to.",
+      "media": "text",
+      "followers_count": 104010,
+      "likes": 39,
+      "reposts": 1,
+      "bookmarks": 11,
+      "replies": 25,
+      "quotes": 0,
+      "self_quote": false,
+      "board_rank": 21
+    },
+    {
+      "id": "2124820022094917711",
+      "name": "Amira Zairi",
+      "display_name": "Amira Zairi",
+      "handle": "@azed_ai",
+      "views": 2814,
+      "views_label": "2,814",
+      "url": "https://x.com/azed_ai/status/2124820022094917711",
+      "created_at": "2026-11-23T10:59:05.000Z",
+      "posted_at": "2026-11-23T10:59:05.000Z",
+      "text": "Prompt Share: Minimalist Black Ink Illustration\n\nPrompt:\nA minimalist black ink illustration of [subject] [performing action], wearing [outfit], clean expressive brushstrokes, varied line thickness, relaxed natural posture, simplified facial features, selective solid black shapes, minimal activity-related props, elegant hand-drawn aesthetic, contemporary editorial illustration, generous negative space, no shading, monochrome ink on a clean white background\n\nTry it and share yours ✨",
+      "original_en": "Prompt Share: Minimalist Black Ink Illustration\n\nPrompt:\nA minimalist black ink illustration of [subject] [performing action], wearing [outfit], clean expressive brushstrokes, varied line thickness, relaxed natural posture, simplified facial features, selective solid black shapes, minimal activity-related props, elegant hand-drawn aesthetic, contemporary editorial illustration, generous negative space, no shading, monochrome ink on a clean white background\n\nTry it and share yours ✨",
+      "lang": "en",
+      "hook": "Prompt Share with a fill-in-the-blank minimalist ink prompt plus 4 examples; prompt shares reliably earn bookmarks.",
+      "video_tip": "Animate 4 ink illustrations with subtle brush-stroke motion, prompt in the caption.",
+      "media": "4 photos",
+      "followers_count": 61423,
+      "likes": 94,
+      "reposts": 10,
+      "bookmarks": 58,
+      "replies": 16,
+      "quotes": 1,
+      "self_quote": false,
+      "board_rank": 22
+    },
+    {
+      "id": "2124874108743610647",
+      "name": "TechHalla",
+      "display_name": "TechHalla",
+      "handle": "@techhalla",
+      "views": 2467,
+      "views_label": "2,467",
+      "url": "https://x.com/techhalla/status/2124874108743610647",
+      "created_at": "2026-11-23T14:34:00.000Z",
+      "posted_at": "2026-11-23T14:34:00.000Z",
+      "text": "Game of Thrones but it's 1973 🗡️ https://t.co/GZkdoV9QRX",
+      "original_en": "Game of Thrones but it's 1973 🗡️ https://t.co/GZkdoV9QRX",
+      "lang": "en",
+      "hook": "Same era-swap format as Back to the Future (Game of Thrones but it's 1973), 2.5K in its first hour - TechHalla is serialising the format.",
+      "video_tip": "Serialise one format across several franchises; same caption shape, same look.",
+      "media": "video",
+      "followers_count": 104010,
+      "likes": 69,
+      "reposts": 8,
+      "bookmarks": 13,
+      "replies": 4,
+      "quotes": 0,
+      "self_quote": false,
+      "board_rank": 23
+    },
+    {
+      "id": "2124871880167579674",
+      "name": "Kling AI",
+      "display_name": "Kling AI",
+      "handle": "@Kling_ai",
+      "views": 1884,
+      "views_label": "1,884",
+      "url": "https://x.com/Kling_ai/status/2124871880167579674",
+      "created_at": "2026-11-23T14:25:09.000Z",
+      "posted_at": "2026-11-23T14:25:09.000Z",
+      "text": "A Gold Clio for Aljoša on the Brain Train, an AI hybrid documentary animated entirely with Kling AI.\n\nA proud milestone for AI-powered storytelling. Congratulations to the entire team! 🏆 🙌@davincisdigital #KlingAI https://t.co/kqAmWddgHt",
+      "original_en": "A Gold Clio for Aljoša on the Brain Train, an AI hybrid documentary animated entirely with Kling AI.\n\nA proud milestone for AI-powered storytelling. Congratulations to the entire team! 🏆 🙌@davincisdigital #KlingAI https://t.co/kqAmWddgHt",
+      "lang": "en",
+      "hook": "Kling celebrating a Gold Clio for an AI hybrid documentary animated with Kling - award proof for AI storytelling.",
+      "video_tip": "Awards and festival laurels belong on the end card of a short; mention them in one line.",
+      "media": "text",
+      "followers_count": 139647,
+      "likes": 10,
+      "reposts": 2,
+      "bookmarks": 0,
+      "replies": 0,
+      "quotes": 1,
+      "self_quote": false,
+      "board_rank": 24
+    }
+  ],
+  "outsiders_count": 20,
+  "virals": [
+    {
+      "id": "2124846759679607044",
+      "name": "Kling AI",
+      "display_name": "Kling AI",
+      "handle": "@Kling_ai",
+      "views": 127029,
+      "views_label": "127,029",
+      "url": "https://x.com/Kling_ai/status/2124846759679607044",
+      "created_at": "2026-11-23T12:45:19.000Z",
+      "posted_at": "2026-11-23T12:45:19.000Z",
+      "text": "A complete image set, all from a single prompt.\n\nWith Kling Image 4.0, generate up to 10 images featuring consistent subjects and visual styles, all shaped around your creative vision. https://t.co/A5qPkSQ1tQ",
+      "original_en": "A complete image set, all from a single prompt.\n\nWith Kling Image 4.0, generate up to 10 images featuring consistent subjects and visual styles, all shaped around your creative vision. https://t.co/A5qPkSQ1tQ",
+      "lang": "en",
+      "hook": "Kling's own Kling Image 4.0 launch-style clip: one prompt, up to 10 consistent images - 127K views but 265 likes, a brand reach number that looks promoted.",
+      "video_tip": "Show a one-prompt 10-frame character set as a fast grid-to-fullscreen cut; consistency is the selling point, so hold the same face across every frame.",
+      "media": "video",
+      "followers_count": 139647,
+      "likes": 265,
+      "reposts": 12,
+      "bookmarks": 31,
+      "replies": 28,
+      "quotes": 3,
+      "self_quote": false,
+      "board_rank": 2,
+      "draft_en": "One prompt in, a whole matching image set out.\n\nKling Image 4.0 can now give you up to 10 frames that hold the same subject and the same look - all bent around whatever you had in mind.",
+      "draft_keywords": [
+        "Kling Image 4.0"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.0,
+        "word_overlap": 0.375,
+        "max_copied_run": 3
+      },
+      "top10_rank": 2,
+      "why_hit": {
+        "trend_match": 35,
+        "verdict": "visual",
+        "matched_keywords": [
+          "Kling Image 4.0"
+        ],
+        "media": "video",
+        "note": "",
+        "topic": "Kling Image 4.0 vs ChatGPT Images 2.6 A/B campaign"
+      }
+    },
+    {
+      "id": "2124457346894016998",
+      "name": "TechHalla",
+      "display_name": "TechHalla",
+      "handle": "@techhalla",
+      "views": 69986,
+      "views_label": "69,986",
+      "url": "https://x.com/techhalla/status/2124457346894016998",
+      "created_at": "2026-11-22T10:57:56.000Z",
+      "posted_at": "2026-11-22T10:57:56.000Z",
+      "text": "Back to the Future but it's 1973 🥼 https://t.co/NW1q2sJv4M",
+      "original_en": "Back to the Future but it's 1973 🥼 https://t.co/NW1q2sJv4M",
+      "lang": "en",
+      "hook": "Era-swap trailer on a seven-word caption; still climbing (28.4K yesterday, now 70K, 1,330 likes, 278 bookmarks) - the strongest organic creator post of the window.",
+      "video_tip": "Pick a famous franchise, restyle it as a 1973 film trailer (grain, zooms, period wardrobe), keep it under 60s and caption it in one line.",
+      "media": "video",
+      "followers_count": 104010,
+      "likes": 1330,
+      "reposts": 173,
+      "bookmarks": 278,
+      "replies": 38,
+      "quotes": 12,
+      "self_quote": false,
+      "board_rank": 3,
+      "draft_en": "What if Back to the Future had come out in 1973? 🥼\n\nAn era swap, made as an AI video.",
+      "draft_keywords": [
+        "era swap",
+        "AI video"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.062,
+        "word_overlap": 0.333,
+        "max_copied_run": 4
+      },
+      "top10_rank": 3,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "note": "",
+        "topic": null
+      }
+    },
+    {
+      "id": "2124518666939334736",
+      "name": "Fakhr",
+      "display_name": "Fakhr",
+      "handle": "@iamfakhrealam",
+      "views": 52032,
+      "views_label": "52,032",
+      "url": "https://x.com/iamfakhrealam/status/2124518666939334736",
+      "created_at": "2026-11-22T15:01:36.000Z",
+      "posted_at": "2026-11-22T15:01:36.000Z",
+      "text": "More people, more details, more room for AI to get things wrong.\n\nI put Kling Image 4.0 and ChatGPT Images 2.6 to the test with the same group portrait prompt.\nBoth captured the scene, but Kling gets a slight edge from me. The overall image feels cleaner and more natural, especially in the finer details. ChatGPT has a more textured finish this time.\nA small difference, but it makes the group shot feel more polished.\n\nWhich one would you pick?\n1️⃣ Kling Image 4.0\n2️⃣ ChatGPT Images 2.6\n\nIf realistic image generation is on your list, Kling's Black Friday offer is worth checking out: 2K images from $0.022/image and native 8K from $0.033/image.",
+      "original_en": "More people, more details, more room for AI to get things wrong.\n\nI put Kling Image 4.0 and ChatGPT Images 2.6 to the test with the same group portrait prompt.\nBoth captured the scene, but Kling gets a slight edge from me. The overall image feels cleaner and more natural, especially in the finer details. ChatGPT has a more textured finish this time.\nA small difference, but it makes the group shot feel more polished.\n\nWhich one would you pick?\n1️⃣ Kling Image 4.0\n2️⃣ ChatGPT Images 2.6\n\nIf realistic image generation is on your list, Kling's Black Friday offer is worth checking out: 2K images from $0.022/image and native 8K from $0.033/image.",
+      "lang": "en",
+      "hook": "Part of a coordinated Kling Image 4.0 vs ChatGPT Images 2.6 Black Friday campaign (same template across ~6 accounts); group-portrait A/B with a vote CTA.",
+      "video_tip": "Side-by-side A/B stills with a 1/2 vote in the caption; for video, split-screen the same prompt across two models.",
+      "media": "2 photos",
+      "followers_count": 32425,
+      "likes": 171,
+      "reposts": 6,
+      "bookmarks": 29,
+      "replies": 12,
+      "quotes": 0,
+      "self_quote": false,
+      "board_rank": 5,
+      "draft_en": "Group shots are where AI image models slip - more faces, more detail, more chances to break.\n\nSame group portrait prompt, two models: Kling Image 4.0 vs ChatGPT Images 2.6.\n\nBoth nail the scene. Kling edges it for me: cleaner overall and more natural in the fine details, while ChatGPT goes for a more textured finish this round. A small gap, but the group shot looks more polished.\n\nYour pick - 1 or 2?\n\nKling's Black Friday offer, if realistic images are on your list: $0.022 per 2K image, $0.033 per native 8K image.",
+      "draft_keywords": [
+        "Kling Image 4.0",
+        "ChatGPT Images 2.6",
+        "Kling's Black Friday",
+        "Black Friday offer"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.045,
+        "word_overlap": 0.628,
+        "max_copied_run": 5
+      },
+      "top10_rank": 5,
+      "why_hit": {
+        "trend_match": 86,
+        "verdict": "trend",
+        "matched_keywords": [
+          "Kling Image 4.0",
+          "ChatGPT Images 2.6",
+          "Kling's Black Friday",
+          "Black Friday offer",
+          "Black Friday"
+        ],
+        "media": "image",
+        "note": "",
+        "topic": "Kling Image 4.0 vs ChatGPT Images 2.6 A/B campaign"
+      }
+    },
+    {
+      "id": "2124514480575172824",
+      "name": "Mushfiq Sajib",
+      "display_name": "Mushfiq Sajib",
+      "handle": "@heysajib",
+      "views": 36312,
+      "views_label": "36,312",
+      "url": "https://x.com/heysajib/status/2124514480575172824",
+      "created_at": "2026-11-22T14:44:58.000Z",
+      "posted_at": "2026-11-22T14:44:58.000Z",
+      "text": "Not every glitch is a mistake. Sometimes, it's the whole aesthetic.\n\nI put Kling Image 4.0 and ChatGPT Images 2.6 to the test with the same Datamosh prompt.\n\nBoth turned the original image into a bold mix of shifted colors, pixel trails, and digital distortion, while keeping the subject recognizable.\n\nWhat's interesting is how each model gives the glitch effect a different visual rhythm. Same prompt, two very different creative takes!\n\nWant to play with your own glitch-inspired visuals? Kling's Black Friday offer is still on: 2K images from $0.022/image and native 8K from $0.033/image.\n\nWhich one would you pick?\n\n1️⃣ Kling Image 4.0\n2️⃣ ChatGPT Images 2.6",
+      "original_en": "Not every glitch is a mistake. Sometimes, it's the whole aesthetic.\n\nI put Kling Image 4.0 and ChatGPT Images 2.6 to the test with the same Datamosh prompt.\n\nBoth turned the original image into a bold mix of shifted colors, pixel trails, and digital distortion, while keeping the subject recognizable.\n\nWhat's interesting is how each model gives the glitch effect a different visual rhythm. Same prompt, two very different creative takes!\n\nWant to play with your own glitch-inspired visuals? Kling's Black Friday offer is still on: 2K images from $0.022/image and native 8K from $0.033/image.\n\nWhich one would you pick?\n\n1️⃣ Kling Image 4.0\n2️⃣ ChatGPT Images 2.6",
+      "lang": "en",
+      "hook": "Same Kling vs ChatGPT campaign, datamosh/glitch prompt; 100 bookmarks is the best save rate of the campaign.",
+      "video_tip": "Glitch/datamosh look works as a 5s loop: one subject, shifting pixel trails, end on a clean frame.",
+      "media": "2 photos",
+      "followers_count": 35284,
+      "likes": 152,
+      "reposts": 15,
+      "bookmarks": 100,
+      "replies": 22,
+      "quotes": 0,
+      "self_quote": false,
+      "board_rank": 6,
+      "draft_en": "Sometimes the glitch is the whole look, not the error.\n\nOne Datamosh prompt, two models - Kling Image 4.0 vs ChatGPT Images 2.6. Each one smears the frame into colour shifts, pixel trails and distortion while the subject stays readable.\n\nWhat's fun: every model gives that glitch its own rhythm. Same words in, two very different takes out.\n\nYour vote - 1 or 2?\n\nFor glitch experiments of your own, Kling's Black Friday offer still runs: $0.022 per 2K image, $0.033 per native 8K image.",
+      "draft_keywords": [
+        "Kling Image 4.0",
+        "ChatGPT Images 2.6",
+        "Kling's Black Friday",
+        "Black Friday offer"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.013,
+        "word_overlap": 0.619,
+        "max_copied_run": 4
+      },
+      "top10_rank": 6,
+      "why_hit": {
+        "trend_match": 86,
+        "verdict": "trend",
+        "matched_keywords": [
+          "Kling Image 4.0",
+          "ChatGPT Images 2.6",
+          "Kling's Black Friday",
+          "Black Friday offer",
+          "Black Friday"
+        ],
+        "media": "image",
+        "note": "",
+        "topic": "Kling Image 4.0 vs ChatGPT Images 2.6 A/B campaign"
+      }
+    },
+    {
+      "id": "2124563674811474170",
+      "name": "Fathela Esq",
+      "display_name": "Fathela Esq",
+      "handle": "@AmControo",
+      "views": 34028,
+      "views_label": "34,028",
+      "url": "https://x.com/AmControo/status/2124563674811474170",
+      "created_at": "2026-11-22T18:00:27.000Z",
+      "posted_at": "2026-11-22T18:00:27.000Z",
+      "text": "Can AI recreate the timeless charm of a vintage fashion film?\n\nI tested Kling Image 4.0 and ChatGPT Images 2.6 using the same prompt, and both delivered stunning retro editorial visuals.\n\nFrom natural poses and cinematic lighting to classic film tones, each model brought its own interpretation of vintage fashion.\n\nA close match this time!\n\nWhich one would you choose for a magazine cover?\n\nImage 1: Kling Image 4.0\nImage 2: ChatGPT Images 2.6\n\nAnd here's Kling's Black Friday deal: 2K images for as low as $0.022/image and native 8K for just $0.033/image!",
+      "original_en": "Can AI recreate the timeless charm of a vintage fashion film?\n\nI tested Kling Image 4.0 and ChatGPT Images 2.6 using the same prompt, and both delivered stunning retro editorial visuals.\n\nFrom natural poses and cinematic lighting to classic film tones, each model brought its own interpretation of vintage fashion.\n\nA close match this time!\n\nWhich one would you choose for a magazine cover?\n\nImage 1: Kling Image 4.0\nImage 2: ChatGPT Images 2.6\n\nAnd here's Kling's Black Friday deal: 2K images for as low as $0.022/image and native 8K for just $0.033/image!",
+      "lang": "en",
+      "hook": "Same campaign, vintage fashion-film stills with a magazine-cover question; 122 bookmarks.",
+      "video_tip": "Vintage fashion film look: 16mm grain, soft halation, slow push-ins on a model, period typography card at the end.",
+      "media": "2 photos",
+      "followers_count": 56423,
+      "likes": 214,
+      "reposts": 91,
+      "bookmarks": 122,
+      "replies": 39,
+      "quotes": 0,
+      "self_quote": false,
+      "board_rank": 7,
+      "draft_en": "Can AI bring back the charm of an old fashion film?\n\nOne prompt, two models - Kling Image 4.0 vs ChatGPT Images 2.6 - and both return gorgeous retro editorial frames. Easy poses, cinematic light, classic film colour, each with its own read on the era.\n\nToo close to call this time.\n\nMagazine cover: image 1 (Kling) or image 2 (ChatGPT)?\n\nKling's Black Friday deal: native 8K from just $0.033/image, 2K from $0.022/image.",
+      "draft_keywords": [
+        "Kling Image 4.0",
+        "ChatGPT Images 2.6",
+        "Kling's Black Friday",
+        "Black Friday deal"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.059,
+        "word_overlap": 0.676,
+        "max_copied_run": 5
+      },
+      "top10_rank": 7,
+      "why_hit": {
+        "trend_match": 86,
+        "verdict": "trend",
+        "matched_keywords": [
+          "Kling Image 4.0",
+          "ChatGPT Images 2.6",
+          "Kling's Black Friday",
+          "Black Friday deal",
+          "Black Friday"
+        ],
+        "media": "image",
+        "note": "",
+        "topic": "Kling Image 4.0 vs ChatGPT Images 2.6 A/B campaign"
+      }
+    },
+    {
+      "id": "2124517992545603884",
+      "name": "Marry Evan",
+      "display_name": "Marry Evan",
+      "handle": "@marryevan999",
+      "views": 30991,
+      "views_label": "30,991",
+      "url": "https://x.com/marryevan999/status/2124517992545603884",
+      "created_at": "2026-11-22T14:58:55.000Z",
+      "posted_at": "2026-11-22T14:58:55.000Z",
+      "text": "A realistic portrait is about more than just a convincing face. \n\nI tested Kling Image 4.0 and ChatGPT Images 2.6 with the same prompt, and Kling came out slightly ahead.\n\nThe portrait feels more balanced overall, with more natural body proportions and anatomy. \n\nChatGPT captured the overall look too, but some details around the shoulders and arms felt a little less natural.\n\nIt's those subtle details that make an AI portrait feel believable.\n\nStill time to explore Kling with its Black Friday offer: 2K images from $0.022/image and native 8K from $0.033/image!\nSwipe to compare!\n\nImage 1: Kling Image 4.0\nImage 2: ChatGPT Images 2.6",
+      "original_en": "A realistic portrait is about more than just a convincing face. \n\nI tested Kling Image 4.0 and ChatGPT Images 2.6 with the same prompt, and Kling came out slightly ahead.\n\nThe portrait feels more balanced overall, with more natural body proportions and anatomy. \n\nChatGPT captured the overall look too, but some details around the shoulders and arms felt a little less natural.\n\nIt's those subtle details that make an AI portrait feel believable.\n\nStill time to explore Kling with its Black Friday offer: 2K images from $0.022/image and native 8K from $0.033/image!\nSwipe to compare!\n\nImage 1: Kling Image 4.0\nImage 2: ChatGPT Images 2.6",
+      "lang": "en",
+      "hook": "Same campaign, realistic portrait anatomy comparison.",
+      "video_tip": "Lead with the detail that breaks realism (hands, shoulders) and zoom into it - the comparison is the hook.",
+      "media": "2 photos",
+      "followers_count": 44295,
+      "likes": 81,
+      "reposts": 69,
+      "bookmarks": 63,
+      "replies": 56,
+      "quotes": 1,
+      "self_quote": false,
+      "board_rank": 8,
+      "draft_en": "A believable AI portrait isn't only about the face.\n\nSame prompt, Kling Image 4.0 vs ChatGPT Images 2.6. Kling comes out a little ahead - better balance, more natural proportions and anatomy. ChatGPT gets the overall look, but the shoulders and arms feel slightly off.\n\nThose small details are what make it read as real.\n\nSwipe: image 1 is Kling, image 2 is ChatGPT.\n\nKling's Black Friday offer is still on - $0.022 per 2K image, $0.033 per native 8K image.",
+      "draft_keywords": [
+        "Kling Image 4.0",
+        "ChatGPT Images 2.6",
+        "Kling's Black Friday",
+        "Black Friday offer"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.026,
+        "word_overlap": 0.73,
+        "max_copied_run": 4
+      },
+      "top10_rank": 8,
+      "why_hit": {
+        "trend_match": 78,
+        "verdict": "trend",
+        "matched_keywords": [
+          "Kling Image 4.0",
+          "ChatGPT Images 2.6",
+          "Black Friday offer",
+          "Black Friday"
+        ],
+        "media": "image",
+        "note": "",
+        "topic": "Kling Image 4.0 vs ChatGPT Images 2.6 A/B campaign"
+      }
+    },
+    {
+      "id": "2124647766307537098",
+      "name": "TechHalla",
+      "display_name": "TechHalla",
+      "handle": "@techhalla",
+      "views": 11862,
+      "views_label": "11,862",
+      "url": "https://x.com/techhalla/status/2124647766307537098",
+      "created_at": "2026-11-22T23:34:36.000Z",
+      "posted_at": "2026-11-22T23:34:36.000Z",
+      "text": "anyone can throw prompts at it with an unlimited budget\n\nthe hard part is finding a pipeline that gives you TOTAL CONTROL without wasting credits.\n\nspatial/character consistency and zero artifacts.\n\nMagnific prompts 👇 https://t.co/3KGy4fhlT1",
+      "original_en": "anyone can throw prompts at it with an unlimited budget\n\nthe hard part is finding a pipeline that gives you TOTAL CONTROL without wasting credits.\n\nspatial/character consistency and zero artifacts.\n\nMagnific prompts 👇 https://t.co/3KGy4fhlT1",
+      "lang": "en",
+      "hook": "Workflow/control angle: 'anyone can prompt with unlimited budget, the hard part is control' plus a Magnific prompt thread; 129 bookmarks on 11.9K.",
+      "video_tip": "Show the pipeline as a 3-step on-screen breakdown (reference - consistency pass - final), then the finished shot.",
+      "media": "video",
+      "followers_count": 104010,
+      "likes": 98,
+      "reposts": 9,
+      "bookmarks": 129,
+      "replies": 9,
+      "quotes": 2,
+      "self_quote": false,
+      "board_rank": 9,
+      "draft_en": "With an unlimited budget, anybody can spam prompts.\n\nThe real skill is a workflow where you stay in TOTAL CONTROL and don't burn credits: characters and space that stay consistent, zero artifacts.\n\nThe Magnific prompts are below 👇",
+      "draft_keywords": [
+        "Magnific"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.029,
+        "word_overlap": 0.474,
+        "max_copied_run": 4
+      },
+      "top10_rank": 9,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "note": "",
+        "topic": "Prompt shares and control workflows"
+      }
+    },
+    {
+      "id": "2124555928968245320",
+      "name": "Sulfur",
+      "display_name": "Sulfur",
+      "handle": "@sulfurscales",
+      "views": 10865,
+      "views_label": "10,865",
+      "url": "https://x.com/sulfurscales/status/2124555928968245320",
+      "created_at": "2026-11-22T17:29:40.000Z",
+      "posted_at": "2026-11-22T17:29:40.000Z",
+      "text": "made this simple ai ad with vidlab as a test...\n\ni've spent alot of time making ai ads and running creator campaigns for ai platforms for a while now, and generation costs are mostly a huge hassle for me.\n\nhere's why vidlab grabbed my attention:\n\n> it's cheaper than the model makers' own APIs. seedance 2.5 at 720p is $0.15/s on vidlab vs $0.249/s direct from bytedance.\n> images cost almost nothing now. GPT Image 2.5 is 2 cents, nano banana 2 at 2K is 3 cents, nano banana Pro and seedream 5.0 pro are 4 cents.\n> every model is behind one API, so you aren't juggling 5 dashboards and 5 credit systems\n> they've built creative pipelines your agent can call directly, so it plugs in via api.\n\nif you run ugc, ad creatives or any agent that puts out visuals, switching now saves you more every month you stay on it...\n\non top of that, they've given away 100 free generations.",
+      "original_en": "made this simple ai ad with vidlab as a test...\n\ni've spent alot of time making ai ads and running creator campaigns for ai platforms for a while now, and generation costs are mostly a huge hassle for me.\n\nhere's why vidlab grabbed my attention:\n\n> it's cheaper than the model makers' own APIs. seedance 2.5 at 720p is $0.15/s on vidlab vs $0.249/s direct from bytedance.\n> images cost almost nothing now. GPT Image 2.5 is 2 cents, nano banana 2 at 2K is 3 cents, nano banana Pro and seedream 5.0 pro are 4 cents.\n> every model is behind one API, so you aren't juggling 5 dashboards and 5 credit systems\n> they've built creative pipelines your agent can call directly, so it plugs in via api.\n\nif you run ugc, ad creatives or any agent that puts out visuals, switching now saves you more every month you stay on it...\n\non top of that, they've given away 100 free generations.",
+      "lang": "en",
+      "hook": "Price-per-second breakdown for an AI ad (Seedance 2.5 at $0.15/s vs $0.249/s direct); cost lists drive bookmarks (140 on 10.9K).",
+      "video_tip": "Overlay the cost per shot on screen while the ad plays; numbers in the caption, the ad in the video.",
+      "media": "video",
+      "followers_count": 17192,
+      "likes": 133,
+      "reposts": 18,
+      "bookmarks": 140,
+      "replies": 7,
+      "quotes": 0,
+      "self_quote": false,
+      "board_rank": 10,
+      "draft_en": "Tried vidlab on a simple AI ad - and the pricing is the real story.\n\nAnyone making AI ads or running creator campaigns knows generation cost is the constant headache. Why this one stands out:\n\n> Seedance 2.5 at 720p: $0.15/s on vidlab vs $0.249/s straight from ByteDance\n> images cost almost nothing - 2 cents for GPT Image 2.5, 3 cents for nano banana 2 at 2K, 4 cents for nano banana Pro or seedream 5.0 pro\n> a single API covers every model, instead of 5 dashboards with 5 credit systems\n> creative pipelines your agent can call on its own",
+      "draft_keywords": [
+        "AI ad",
+        "Seedance 2.5",
+        "GPT Image"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.118,
+        "word_overlap": 0.739,
+        "max_copied_run": 6
+      },
+      "top10_rank": 10,
+      "why_hit": {
+        "trend_match": 20,
+        "verdict": "visual",
+        "matched_keywords": [
+          "Seedance"
+        ],
+        "media": "video",
+        "note": "",
+        "topic": "Black Friday tool pricing"
+      }
+    },
+    {
+      "id": "2124271040251764823",
+      "name": "TechHalla",
+      "display_name": "TechHalla",
+      "handle": "@techhalla",
+      "views": 10573,
+      "views_label": "10,573",
+      "url": "https://x.com/techhalla/status/2124271040251764823",
+      "created_at": "2026-11-21T22:37:37.000Z",
+      "posted_at": "2026-11-21T22:37:37.000Z",
+      "text": "each image includes the Midjourney prompt I used to create it\n\n16 in total, but 13 is definitely the best one 🚃 https://t.co/3TucLCEvkJ",
+      "original_en": "each image includes the Midjourney prompt I used to create it\n\n16 in total, but 13 is definitely the best one 🚃 https://t.co/3TucLCEvkJ",
+      "lang": "en",
+      "hook": "16-image Midjourney set with every prompt in the ALT text and 'number 13 is the best' bait; 189 bookmarks.",
+      "video_tip": "Turn a still set into a 16-cut slideshow with a number on each frame and ask which number wins.",
+      "media": "16 photos",
+      "followers_count": 104010,
+      "likes": 173,
+      "reposts": 11,
+      "bookmarks": 189,
+      "replies": 15,
+      "quotes": 0,
+      "self_quote": false,
+      "board_rank": 11,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "image",
+        "note": "",
+        "topic": null
+      }
+    },
+    {
+      "id": "2124812480358895741",
+      "name": "TechHalla",
+      "display_name": "TechHalla",
+      "handle": "@techhalla",
+      "views": 6497,
+      "views_label": "6,497",
+      "url": "https://x.com/techhalla/status/2124812480358895741",
+      "created_at": "2026-11-23T10:29:07.000Z",
+      "posted_at": "2026-11-23T10:29:07.000Z",
+      "text": "wish I'd known about this AI filmmaking hack sooner...\n\nwould have saved me somuch time and money! https://t.co/vgMpKr5woU https://t.co/gEfhxF8Roo",
+      "original_en": "wish I'd known about this AI filmmaking hack sooner...\n\nwould have saved me somuch time and money! https://t.co/vgMpKr5woU https://t.co/gEfhxF8Roo",
+      "lang": "en",
+      "hook": "'AI filmmaking hack' quote-post with a tutorial video; 138 bookmarks on 6.5K, a save-for-later format.",
+      "video_tip": "Show the before/after of one fix in under 20s, then the setup steps.",
+      "media": "video",
+      "followers_count": 104010,
+      "likes": 89,
+      "reposts": 4,
+      "bookmarks": 138,
+      "replies": 5,
+      "quotes": 0,
+      "self_quote": false,
+      "board_rank": 13,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "note": "",
+        "topic": "Prompt shares and control workflows"
+      }
+    },
+    {
+      "id": "2124469484044054702",
+      "name": "ImagineArt",
+      "display_name": "ImagineArt",
+      "handle": "@ImagineArt_X",
+      "views": 6142,
+      "views_label": "6,142",
+      "url": "https://x.com/ImagineArt_X/status/2124469484044054702",
+      "created_at": "2026-11-22T11:46:10.000Z",
+      "posted_at": "2026-11-22T11:46:10.000Z",
+      "text": "60% off every model.\n\nSeedance, Kling, Sora and that one too.\n\nBlack Friday, ends Nov 30. https://t.co/LBDaagceu1",
+      "original_en": "60% off every model.\n\nSeedance, Kling, Sora and that one too.\n\nBlack Friday, ends Nov 30. https://t.co/LBDaagceu1",
+      "lang": "en",
+      "hook": "Aggregator Black Friday push (60% off Seedance, Kling, Sora); pure promo.",
+      "video_tip": "Skip - price promos do not transfer to a creator account.",
+      "media": "video",
+      "followers_count": 23418,
+      "likes": 64,
+      "reposts": 2,
+      "bookmarks": 30,
+      "replies": 13,
+      "quotes": 2,
+      "self_quote": false,
+      "board_rank": 14,
+      "why_hit": {
+        "trend_match": 36,
+        "verdict": "visual",
+        "matched_keywords": [
+          "Seedance",
+          "Black Friday"
+        ],
+        "media": "video",
+        "note": "",
+        "topic": null
+      }
+    },
+    {
+      "id": "2124381685835813268",
+      "name": "Kling AI",
+      "display_name": "Kling AI",
+      "handle": "@Kling_ai",
+      "views": 5851,
+      "views_label": "5,851",
+      "url": "https://x.com/Kling_ai/status/2124381685835813268",
+      "created_at": "2026-11-22T05:57:17.000Z",
+      "posted_at": "2026-11-22T05:57:17.000Z",
+      "text": "A fantastical journey through Eight Nights. ✨\n\nMade with #Kling4 in 4K 10-bit HDR. #KlingAI https://t.co/hTFw9I4aVO",
+      "original_en": "A fantastical journey through Eight Nights. ✨\n\nMade with #Kling4 in 4K 10-bit HDR. #KlingAI https://t.co/hTFw9I4aVO",
+      "lang": "en",
+      "hook": "Kling 4.0 4K 10-bit HDR showcase quote-post; low reach.",
+      "video_tip": "If you post HDR/4K, show it on dark high-contrast scenes (fire, neon) where the range is visible.",
+      "media": "text",
+      "followers_count": 139647,
+      "likes": 58,
+      "reposts": 3,
+      "bookmarks": 7,
+      "replies": 18,
+      "quotes": 1,
+      "self_quote": false,
+      "board_rank": 16,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "author/audience",
+        "matched_keywords": [],
+        "media": "text",
+        "note": "",
+        "topic": null
+      }
+    },
+    {
+      "id": "2124528490792009856",
+      "name": "Ciri",
+      "display_name": "Ciri",
+      "handle": "@Ciri_ai",
+      "views": 5755,
+      "views_label": "5,755",
+      "url": "https://x.com/Ciri_ai/status/2124528490792009856",
+      "created_at": "2026-11-22T15:40:38.000Z",
+      "posted_at": "2026-11-22T15:40:38.000Z",
+      "text": "Could you tell this was AI-generated at first glance? \n\nI tested Kling Image 4.0 and ChatGPT Images 2.6 with the same prompt, aiming for a still from a nostalgic 1980s British film.\n\nKling slightly edged ahead with warmer cinematic lighting and a more natural, lived-in atmosphere. ChatGPT took a darker, moodier approach.\n\nBoth have their charm, but Kling's result feels a little more like a real movie still.\n\nSwipe to compare:\n1️⃣ Kling Image 4.0\n2️⃣ ChatGPT Images 2.6 \n\nKling's Black Friday deal: 2K images for as low as $0.022/image, and native 8K for as low as $0.033/image!",
+      "original_en": "Could you tell this was AI-generated at first glance? \n\nI tested Kling Image 4.0 and ChatGPT Images 2.6 with the same prompt, aiming for a still from a nostalgic 1980s British film.\n\nKling slightly edged ahead with warmer cinematic lighting and a more natural, lived-in atmosphere. ChatGPT took a darker, moodier approach.\n\nBoth have their charm, but Kling's result feels a little more like a real movie still.\n\nSwipe to compare:\n1️⃣ Kling Image 4.0\n2️⃣ ChatGPT Images 2.6 \n\nKling's Black Friday deal: 2K images for as low as $0.022/image, and native 8K for as low as $0.033/image!",
+      "lang": "en",
+      "hook": "Same Kling vs ChatGPT campaign, 1980s British film still.",
+      "video_tip": "1980s film still look: warm tungsten light, soft focus, period wardrobe; caption with 'could you tell?'",
+      "media": "2 photos",
+      "followers_count": 11968,
+      "likes": 53,
+      "reposts": 13,
+      "bookmarks": 27,
+      "replies": 7,
+      "quotes": 0,
+      "self_quote": false,
+      "board_rank": 17,
+      "why_hit": {
+        "trend_match": 86,
+        "verdict": "trend",
+        "matched_keywords": [
+          "Kling Image 4.0",
+          "ChatGPT Images 2.6",
+          "Kling's Black Friday",
+          "Black Friday deal",
+          "Black Friday"
+        ],
+        "media": "image",
+        "note": "",
+        "topic": "Kling Image 4.0 vs ChatGPT Images 2.6 A/B campaign"
+      }
+    },
+    {
+      "id": "2124216273223528464",
+      "name": "Dreamina AI",
+      "display_name": "Dreamina AI",
+      "handle": "@dreamina_ai",
+      "views": 5730,
+      "views_label": "5,730",
+      "url": "https://x.com/dreamina_ai/status/2124216273223528464",
+      "created_at": "2026-11-21T19:00:00.000Z",
+      "posted_at": "2026-11-21T19:00:00.000Z",
+      "text": "Dreamina Launches 30+ AI Tools — Your All-in-One Creative &amp; Marketing Toolkit! 🚀\n\nSmarter, More Efficient Marketing. More Creative Image Editing. Easier Video Creation. Everything you need to create, all in one place.\n\n#DreaminaAI #DreaminaAITools #DreaminaSeedance2_5 https://t.co/qtiTfgvGP7",
+      "original_en": "Dreamina Launches 30+ AI Tools — Your All-in-One Creative &amp; Marketing Toolkit! 🚀\n\nSmarter, More Efficient Marketing. More Creative Image Editing. Easier Video Creation. Everything you need to create, all in one place.\n\n#DreaminaAI #DreaminaAITools #DreaminaSeedance2_5 https://t.co/qtiTfgvGP7",
+      "lang": "en",
+      "hook": "Dreamina '30+ AI tools' toolkit launch (Seedance 2.5 tagged); brand reach.",
+      "video_tip": "Skip - toolkit promos; borrow only the tool name in your own caption if you use it.",
+      "media": "video",
+      "followers_count": 31768,
+      "likes": 144,
+      "reposts": 22,
+      "bookmarks": 27,
+      "replies": 31,
+      "quotes": 4,
+      "self_quote": false,
+      "board_rank": 18,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "note": "",
+        "topic": null
+      }
+    },
+    {
+      "id": "2124378897252773984",
+      "name": "Kling AI",
+      "display_name": "Kling AI",
+      "handle": "@Kling_ai",
+      "views": 5574,
+      "views_label": "5,574",
+      "url": "https://x.com/Kling_ai/status/2124378897252773984",
+      "created_at": "2026-11-22T05:46:12.000Z",
+      "posted_at": "2026-11-22T05:46:12.000Z",
+      "text": "A little alien makeover, a whole lot of realism. 👽\n\nKling Image 4.0, now on @sunra_ai 🐙 #KlingImage4 #KlingAI https://t.co/kSXZSaML9S",
+      "original_en": "A little alien makeover, a whole lot of realism. 👽\n\nKling Image 4.0, now on @sunra_ai 🐙 #KlingImage4 #KlingAI https://t.co/kSXZSaML9S",
+      "lang": "en",
+      "hook": "Kling Image 4.0 'alien makeover' realism clip on a partner platform; low engagement.",
+      "video_tip": "Human-to-alien makeover as a 3-step morph works for sci-fi character reveals.",
+      "media": "text",
+      "followers_count": 139647,
+      "likes": 46,
+      "reposts": 2,
+      "bookmarks": 3,
+      "replies": 4,
+      "quotes": 1,
+      "self_quote": false,
+      "board_rank": 19,
+      "why_hit": {
+        "trend_match": 35,
+        "verdict": "author/audience",
+        "matched_keywords": [
+          "Kling Image 4.0"
+        ],
+        "media": "text",
+        "note": "",
+        "topic": "Kling Image 4.0 vs ChatGPT Images 2.6 A/B campaign"
+      }
+    },
+    {
+      "id": "2124495235267113190",
+      "name": "David Michael Comfort",
+      "display_name": "David Michael Comfort",
+      "handle": "@DavidmComfort",
+      "views": 3831,
+      "views_label": "3,831",
+      "url": "https://x.com/DavidmComfort/status/2124495235267113190",
+      "created_at": "2026-11-22T13:28:29.000Z",
+      "posted_at": "2026-11-22T13:28:29.000Z",
+      "text": "AI filmmaking has a long way to go. I’ve identified some challenges in making AI video look “filmic.” I’m going to spend some time in the next week or so trying to overcome these challenges https://t.co/rd2RjYyI6e",
+      "original_en": "AI filmmaking has a long way to go. I’ve identified some challenges in making AI video look “filmic.” I’m going to spend some time in the next week or so trying to overcome these challenges https://t.co/rd2RjYyI6e",
+      "lang": "en",
+      "hook": "Small account (3.6K followers) at 3.8K views with 84 bookmarks: a list of why AI video still doesn't look 'filmic' - the honest-craft angle.",
+      "video_tip": "Pair one 'not filmic' AI shot with your corrected version and name the fix on screen.",
+      "media": "photo",
+      "followers_count": 3613,
+      "likes": 75,
+      "reposts": 5,
+      "bookmarks": 84,
+      "replies": 21,
+      "quotes": 1,
+      "self_quote": false,
+      "board_rank": 20,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "image",
+        "note": "",
+        "topic": "Prompt shares and control workflows"
+      }
+    },
+    {
+      "id": "2124830523138707948",
+      "name": "TechHalla",
+      "display_name": "TechHalla",
+      "handle": "@techhalla",
+      "views": 3742,
+      "views_label": "3,742",
+      "url": "https://x.com/techhalla/status/2124830523138707948",
+      "created_at": "2026-11-23T11:40:48.000Z",
+      "posted_at": "2026-11-23T11:40:48.000Z",
+      "text": "what's the part of AI video that still feels broken for you?\n\nif I have a workflow for it I'll drop it. if not I'll build one",
+      "original_en": "what's the part of AI video that still feels broken for you?\n\nif I have a workflow for it I'll drop it. if not I'll build one",
+      "lang": "en",
+      "hook": "Engagement question 'what part of AI video still feels broken?' - 25 replies, crowdsourcing next tutorials.",
+      "video_tip": "Ask the question over a short clip showing a typical failure (hands, flicker) to give people something to react to.",
+      "media": "text",
+      "followers_count": 104010,
+      "likes": 39,
+      "reposts": 1,
+      "bookmarks": 11,
+      "replies": 25,
+      "quotes": 0,
+      "self_quote": false,
+      "board_rank": 21,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "author/audience",
+        "matched_keywords": [],
+        "media": "text",
+        "note": "",
+        "topic": null
+      }
+    },
+    {
+      "id": "2124820022094917711",
+      "name": "Amira Zairi",
+      "display_name": "Amira Zairi",
+      "handle": "@azed_ai",
+      "views": 2814,
+      "views_label": "2,814",
+      "url": "https://x.com/azed_ai/status/2124820022094917711",
+      "created_at": "2026-11-23T10:59:05.000Z",
+      "posted_at": "2026-11-23T10:59:05.000Z",
+      "text": "Prompt Share: Minimalist Black Ink Illustration\n\nPrompt:\nA minimalist black ink illustration of [subject] [performing action], wearing [outfit], clean expressive brushstrokes, varied line thickness, relaxed natural posture, simplified facial features, selective solid black shapes, minimal activity-related props, elegant hand-drawn aesthetic, contemporary editorial illustration, generous negative space, no shading, monochrome ink on a clean white background\n\nTry it and share yours ✨",
+      "original_en": "Prompt Share: Minimalist Black Ink Illustration\n\nPrompt:\nA minimalist black ink illustration of [subject] [performing action], wearing [outfit], clean expressive brushstrokes, varied line thickness, relaxed natural posture, simplified facial features, selective solid black shapes, minimal activity-related props, elegant hand-drawn aesthetic, contemporary editorial illustration, generous negative space, no shading, monochrome ink on a clean white background\n\nTry it and share yours ✨",
+      "lang": "en",
+      "hook": "Prompt Share with a fill-in-the-blank minimalist ink prompt plus 4 examples; prompt shares reliably earn bookmarks.",
+      "video_tip": "Animate 4 ink illustrations with subtle brush-stroke motion, prompt in the caption.",
+      "media": "4 photos",
+      "followers_count": 61423,
+      "likes": 94,
+      "reposts": 10,
+      "bookmarks": 58,
+      "replies": 16,
+      "quotes": 1,
+      "self_quote": false,
+      "board_rank": 22,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "image",
+        "note": "",
+        "topic": null
+      }
+    },
+    {
+      "id": "2124874108743610647",
+      "name": "TechHalla",
+      "display_name": "TechHalla",
+      "handle": "@techhalla",
+      "views": 2467,
+      "views_label": "2,467",
+      "url": "https://x.com/techhalla/status/2124874108743610647",
+      "created_at": "2026-11-23T14:34:00.000Z",
+      "posted_at": "2026-11-23T14:34:00.000Z",
+      "text": "Game of Thrones but it's 1973 🗡️ https://t.co/GZkdoV9QRX",
+      "original_en": "Game of Thrones but it's 1973 🗡️ https://t.co/GZkdoV9QRX",
+      "lang": "en",
+      "hook": "Same era-swap format as Back to the Future (Game of Thrones but it's 1973), 2.5K in its first hour - TechHalla is serialising the format.",
+      "video_tip": "Serialise one format across several franchises; same caption shape, same look.",
+      "media": "video",
+      "followers_count": 104010,
+      "likes": 69,
+      "reposts": 8,
+      "bookmarks": 13,
+      "replies": 4,
+      "quotes": 0,
+      "self_quote": false,
+      "board_rank": 23,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "note": "",
+        "topic": null
+      }
+    },
+    {
+      "id": "2124871880167579674",
+      "name": "Kling AI",
+      "display_name": "Kling AI",
+      "handle": "@Kling_ai",
+      "views": 1884,
+      "views_label": "1,884",
+      "url": "https://x.com/Kling_ai/status/2124871880167579674",
+      "created_at": "2026-11-23T14:25:09.000Z",
+      "posted_at": "2026-11-23T14:25:09.000Z",
+      "text": "A Gold Clio for Aljoša on the Brain Train, an AI hybrid documentary animated entirely with Kling AI.\n\nA proud milestone for AI-powered storytelling. Congratulations to the entire team! 🏆 🙌@davincisdigital #KlingAI https://t.co/kqAmWddgHt",
+      "original_en": "A Gold Clio for Aljoša on the Brain Train, an AI hybrid documentary animated entirely with Kling AI.\n\nA proud milestone for AI-powered storytelling. Congratulations to the entire team! 🏆 🙌@davincisdigital #KlingAI https://t.co/kqAmWddgHt",
+      "lang": "en",
+      "hook": "Kling celebrating a Gold Clio for an AI hybrid documentary animated with Kling - award proof for AI storytelling.",
+      "video_tip": "Awards and festival laurels belong on the end card of a short; mention them in one line.",
+      "media": "text",
+      "followers_count": 139647,
+      "likes": 10,
+      "reposts": 2,
+      "bookmarks": 0,
+      "replies": 0,
+      "quotes": 1,
+      "self_quote": false,
+      "board_rank": 24,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "author/audience",
+        "matched_keywords": [],
+        "media": "text",
+        "note": "",
+        "topic": null
+      }
+    }
+  ],
+  "virals_target": 20,
+  "virals_window": "last ~48h",
+  "virals_narrative": "Outsider lane on 22.11 led by @Kling_ai at 127,029 views (Kling Image 4.0 clip, promoted-looking). Also clearing: @techhalla 69,986, @iamfakhrealam 52,032, @heysajib 36,312, @AmControo 34,028",
+  "patterns": [
+    "Watchlist on 22.11: 4 hits, 2 stars - Gossip_Goblin 'Fishbowl Spartacus' 2:32 film 294,346 views and 1,735 bookmarks; LudovicCreator paid Adobe Firefly ambassador thread 59,046 (33 likes, promoted-looking)",
+    "Title-only finished film beats everything: Gossip_Goblin's two-word caption + 2.5-minute film is the day's top post on the whole board, ahead of every brand push",
+    "Prompt shares keep earning saves: LudovicCreator 'Ink Wash Zen Serenity' 5,988 with 121 bookmarks; outsider azed_ai minimalist ink prompt 2,814 / 58 bookmarks",
+    "Near misses: ChrisGwinnLA ancient-Greece Minotauroi video 1,723; pixelbouncer best 578 (10 originals); andresvandal replies only (best reply 1,635); billywoodward posted nothing",
+    "Bogdan's best was 'Good Morning this #StarWars Sunday!' at 1,588 (photo), rank 4 of 7; 7 originals totaling 2,587, up from 903 on 21.11",
+    "Outsider lane: Kling Image 4.0 everywhere - Kling's own clip 127K (promoted-looking) plus a coordinated 'Kling Image 4.0 vs ChatGPT Images 2.6' Black Friday creator campaign (52.0K, 36.3K, 34.0K, 31.0K); organic: TechHalla era-swap 'Back to the Future but it's 1973' now 70.0K, serialised with Game of Thrones"
+  ],
+  "no_hits": [
+    {
+      "handle": "@pixelbouncer",
+      "reason": "10 original posts on 2026-11-22; none reached 5,000 views (best 578).",
+      "max_views": 578
+    },
+    {
+      "handle": "@andresvandal",
+      "reason": "0 original posts on 2026-11-22 (only replies/reposts that day).",
+      "max_views": 0
+    },
+    {
+      "handle": "@ChrisGwinnLA",
+      "reason": "1 original posts on 2026-11-22; none reached 5,000 views (best 1,723).",
+      "max_views": 1723
+    },
+    {
+      "handle": "@billywoodward",
+      "reason": "0 original posts on 2026-11-22 (only replies/reposts that day).",
+      "max_views": 0
+    }
+  ],
+  "day_roster": [
+    {
+      "handle": "@Gossip_Goblin",
+      "name": "Gossip Goblin",
+      "views": 294346,
+      "total_views": 301355,
+      "hit": true,
+      "posts": 2,
+      "best_url": "https://x.com/Gossip_Goblin/status/2124541100480180361"
+    },
+    {
+      "handle": "@LudovicCreator",
+      "name": "LudovicCreator",
+      "views": 59046,
+      "total_views": 67814,
+      "hit": true,
+      "posts": 4,
+      "best_url": "https://x.com/LudovicCreator/status/2124578704550695184"
+    },
+    {
+      "handle": "@ChrisGwinnLA",
+      "name": "Christopher Gwinn | Grindhouse Glitch",
+      "views": 1723,
+      "total_views": 1723,
+      "hit": false,
+      "posts": 1,
+      "best_url": "https://x.com/ChrisGwinnLA/status/2124681088106897795"
+    },
+    {
+      "handle": "@pixelbouncer",
+      "name": "Ƥ!ЖΣLƁΘUNCΣR",
+      "views": 578,
+      "total_views": 2803,
+      "hit": false,
+      "posts": 10,
+      "best_url": "https://x.com/pixelbouncer/status/2124437748396257453"
+    },
+    {
+      "handle": "@andresvandal",
+      "name": "Andres Vandal",
+      "views": 0,
+      "total_views": 0,
+      "hit": false,
+      "posts": 0,
+      "best_url": null
+    },
+    {
+      "handle": "@billywoodward",
+      "name": "Billy Woodward",
+      "views": 0,
+      "total_views": 0,
+      "hit": false,
+      "posts": 0,
+      "best_url": null
+    }
+  ],
+  "you_rank": {
+    "best_views": 1588,
+    "total_views": 2587,
+    "best_url": "https://x.com/SMKP_Films/status/2124465869153820800",
+    "posts": 7,
+    "vs_5k": "pending",
+    "vs_10k": "pending",
+    "rank_among_watchlist": 4,
+    "total_accounts": 7
+  },
+  "narrative_synthesis": "A brand-heavy Sunday. The biggest outsider number was Kling's own Kling Image 4.0 clip (\"a complete image set, all from a single prompt\", 127K views but only 265 likes, promoted-looking), and Kling also ran a coordinated Black Friday campaign through creator accounts: at least six near-identical \"I put Kling Image 4.0 and ChatGPT Images 2.6 to the test\" A/B posts (group portrait 52.0K, datamosh 36.3K, vintage fashion film 34.0K, portrait 31.0K, 1980s film still 5.8K), each ending on the same $0.022/image price line. ImagineArt (60% off Seedance, Kling, Sora) and Dreamina (30+ tools) added more Black Friday promo. The real organic signal was again TechHalla: \"Back to the Future but it's 1973\" kept climbing from 28.4K to 70.0K with 1,330 likes and 278 bookmarks, and he is now serialising the era-swap format (\"Game of Thrones but it's 1973\", 2.5K in its first hour). Bookmark-heavy craft posts did well relative to reach: TechHalla's \"the hard part is control\" pipeline thread (129 bookmarks), sulfurscales' price-per-second breakdown of an AI ad (Seedance 2.5 at $0.15/s, 140 bookmarks), a 16-image Midjourney prompt set (189 bookmarks), and a small account's honest \"AI video still doesn't look filmic\" list (84 bookmarks on 3.8K). Kling closed the window with a Gold Clio for an AI hybrid documentary animated with Kling. On the watchlist, Gossip_Goblin was back with \"Fishbowl Spartacus\", a 2:32 film at 294K views and 1,735 bookmarks, his biggest post on the board this month; LudovicCreator cleared twice, with a paid Adobe Firefly ambassador thread (59K views but 33 likes, promoted-looking) and an organic prompt share (6.0K, 121 bookmarks).",
+  "trend_input_only": [],
+  "trend_input_only_posts": [],
+  "leaderboards": {
+    "as_of": "2026-11-22",
+    "tracking_start": "2026-11-04",
+    "days_included": [
+      "2026-11-16",
+      "2026-11-17",
+      "2026-11-18",
+      "2026-11-19",
+      "2026-11-20",
+      "2026-11-21",
+      "2026-11-22"
+    ],
+    "month_days_included": [
+      "2026-11-04",
+      "2026-11-05",
+      "2026-11-06",
+      "2026-11-07",
+      "2026-11-08",
+      "2026-11-09",
+      "2026-11-10",
+      "2026-11-11",
+      "2026-11-12",
+      "2026-11-13",
+      "2026-11-14",
+      "2026-11-15",
+      "2026-11-16",
+      "2026-11-17",
+      "2026-11-18",
+      "2026-11-19",
+      "2026-11-20",
+      "2026-11-21",
+      "2026-11-22"
+    ],
+    "week": {
+      "label": "Rolling week · Nov 16–Nov 22",
+      "range": [
+        "2026-11-16",
+        "2026-11-22"
+      ],
+      "entries": [
+        {
+          "handle": "@Gossip_Goblin",
+          "name": "Gossip Goblin",
+          "hits": 9,
+          "days": 6,
+          "views": 747028,
+          "best": 294346,
+          "best_url": "https://x.com/Gossip_Goblin/status/2124541100480180361"
+        },
+        {
+          "handle": "@LudovicCreator",
+          "name": "LudovicCreator",
+          "hits": 2,
+          "days": 1,
+          "views": 65034,
+          "best": 59046,
+          "best_url": "https://x.com/LudovicCreator/status/2124578704550695184"
+        },
+        {
+          "handle": "@andresvandal",
+          "name": "Andres Vandal",
+          "hits": 1,
+          "days": 1,
+          "views": 33645,
+          "best": 33645,
+          "best_url": "https://x.com/andresvandal/status/2124333545921691925"
+        }
+      ]
+    },
+    "month": {
+      "label": "November 2026 · from Nov 4",
+      "range": [
+        "2026-11-04",
+        "2026-11-22"
+      ],
+      "entries": [
+        {
+          "handle": "@Gossip_Goblin",
+          "name": "Gossip Goblin",
+          "hits": 23,
+          "days": 13,
+          "views": 1377376,
+          "best": 294346,
+          "best_url": "https://x.com/Gossip_Goblin/status/2124541100480180361"
+        },
+        {
+          "handle": "@LudovicCreator",
+          "name": "LudovicCreator",
+          "hits": 5,
+          "days": 4,
+          "views": 301480,
+          "best": 133926,
+          "best_url": "https://x.com/LudovicCreator/status/2120592485437350268"
+        },
+        {
+          "handle": "@ChrisGwinnLA",
+          "name": "Christopher Gwinn | Grindhouse Glitch",
+          "hits": 5,
+          "days": 5,
+          "views": 60919,
+          "best": 23566,
+          "best_url": "https://x.com/ChrisGwinnLA/status/2121834058267156701"
+        },
+        {
+          "handle": "@andresvandal",
+          "name": "Andres Vandal",
+          "hits": 3,
+          "days": 3,
+          "views": 54809,
+          "best": 33645,
+          "best_url": "https://x.com/andresvandal/status/2124333545921691925"
+        }
+      ]
+    }
+  },
+  "drafts_top10": [
+    {
+      "rank": 1,
+      "id": "2124541100480180361",
+      "handle": "@Gossip_Goblin",
+      "views": 294346,
+      "lane": "watchlist"
+    },
+    {
+      "rank": 2,
+      "id": "2124846759679607044",
+      "handle": "@Kling_ai",
+      "views": 127029,
+      "lane": "outsider"
+    },
+    {
+      "rank": 3,
+      "id": "2124457346894016998",
+      "handle": "@techhalla",
+      "views": 69986,
+      "lane": "outsider"
+    },
+    {
+      "rank": 4,
+      "id": "2124578704550695184",
+      "handle": "@LudovicCreator",
+      "views": 59046,
+      "lane": "watchlist"
+    },
+    {
+      "rank": 5,
+      "id": "2124518666939334736",
+      "handle": "@iamfakhrealam",
+      "views": 52032,
+      "lane": "outsider"
+    },
+    {
+      "rank": 6,
+      "id": "2124514480575172824",
+      "handle": "@heysajib",
+      "views": 36312,
+      "lane": "outsider"
+    },
+    {
+      "rank": 7,
+      "id": "2124563674811474170",
+      "handle": "@AmControo",
+      "views": 34028,
+      "lane": "outsider"
+    },
+    {
+      "rank": 8,
+      "id": "2124517992545603884",
+      "handle": "@marryevan999",
+      "views": 30991,
+      "lane": "outsider"
+    },
+    {
+      "rank": 9,
+      "id": "2124647766307537098",
+      "handle": "@techhalla",
+      "views": 11862,
+      "lane": "outsider"
+    },
+    {
+      "rank": 10,
+      "id": "2124555928968245320",
+      "handle": "@sulfurscales",
+      "views": 10865,
+      "lane": "outsider"
+    }
+  ],
+  "trend_keywords": {
+    "date": "2026-11-22",
+    "window": "day D board posts + last-24h posts >= min_views + outsiders + trend-input accounts + pattern brief",
+    "method": "sum(log10 views) over distinct posts x author spread x phrase length x entity/brief bonus; >=2 authors",
+    "keywords": [
+      {
+        "keyword": "Kling Image 4.0",
+        "rank": 1,
+        "score": 221.0,
+        "posts": 7,
+        "authors": 6
+      },
+      {
+        "keyword": "ChatGPT Images 2.6",
+        "rank": 2,
+        "score": 105.9,
+        "posts": 5,
+        "authors": 5
+      },
+      {
+        "keyword": "Kling's Black Friday",
+        "rank": 3,
+        "score": 72.0,
+        "posts": 4,
+        "authors": 4
+      },
+      {
+        "keyword": "Black Friday offer",
+        "rank": 4,
+        "score": 46.8,
+        "posts": 3,
+        "authors": 3
+      },
+      {
+        "keyword": "Black Friday deal",
+        "rank": 5,
+        "score": 22.4,
+        "posts": 2,
+        "authors": 2
+      },
+      {
+        "keyword": "AI filmmaking",
+        "rank": 6,
+        "score": 16.2,
+        "posts": 2,
+        "authors": 2
+      },
+      {
+        "keyword": "AI video",
+        "rank": 7,
+        "score": 15.7,
+        "posts": 2,
+        "authors": 2
+      },
+      {
+        "keyword": "KlingAI",
+        "rank": 8,
+        "score": 13.5,
+        "posts": 3,
+        "authors": 1
+      },
+      {
+        "keyword": "Adobe Firefly Ambassador",
+        "rank": 9,
+        "score": 12.4,
+        "posts": 1,
+        "authors": 1
+      },
+      {
+        "keyword": "Fishbowl Spartacus",
+        "rank": 10,
+        "score": 11.6,
+        "posts": 1,
+        "authors": 1
+      },
+      {
+        "keyword": "Ink Wash Zen",
+        "rank": 11,
+        "score": 9.8,
+        "posts": 1,
+        "authors": 1
+      },
+      {
+        "keyword": "GPT Image",
+        "rank": 12,
+        "score": 8.5,
+        "posts": 1,
+        "authors": 1
+      },
+      {
+        "keyword": "Seedance 2.5",
+        "rank": 13,
+        "curated": true
+      },
+      {
+        "keyword": "era swap",
+        "rank": 14,
+        "curated": true
+      },
+      {
+        "keyword": "Adobe Firefly",
+        "rank": 15,
+        "curated": true
+      },
+      {
+        "keyword": "image to video",
+        "rank": 16,
+        "curated": true
+      },
+      {
+        "keyword": "Midjourney",
+        "rank": 17,
+        "curated": true
+      },
+      {
+        "keyword": "Magnific",
+        "rank": 18,
+        "curated": true
+      },
+      {
+        "keyword": "AI ad",
+        "rank": 19,
+        "curated": true
+      },
+      {
+        "keyword": "Seedance",
+        "rank": 20,
+        "curated": true
+      },
+      {
+        "keyword": "Black Friday",
+        "rank": 21,
+        "curated": true
+      }
+    ]
+  },
+  "trend_radar": {
+    "date": "2026-11-22",
+    "title": "Trends and post ideas",
+    "window": {
+      "end": "2026-11-23T10:40:44-05:00",
+      "label24": "22.11 10:40 - 23.11 10:40 UTC",
+      "label48": "21.11 10:40 - 23.11 10:40 UTC"
+    },
+    "corpus": {
+      "posts": 19,
+      "min_views": 5000,
+      "lanes": {
+        "watchlist": 4,
+        "outsider": 15,
+        "24h": 0,
+        "trend_input": 0
+      }
+    },
+    "summary": {
+      "top10_line": "TOP-10: 4/10 (40%) matched trends · visual 6, trend 4",
+      "headline": "5 of 24 board hits (21%) matched 24-48 h trends. Median views: trend 34.0K vs non-trend 6.1K (mean 31.8K vs 33.7K). Watchlist: 0/4 on trend. 9 hits with video, median 10.9K vs 6.0K without.",
+      "takeaway": "A title-only finished film (Gossip_Goblin 294K) beat every paid push; Kling Image 4.0 owned outsider reach through a coordinated A/B campaign; era swaps and prompt shares keep earning saves.",
+      "stats": {
+        "all": {
+          "n": 24,
+          "trend_n": 5,
+          "trend_pct": 21,
+          "avg_trend": 31824,
+          "avg_other": 33749,
+          "median_trend": 34028,
+          "median_other": 6142,
+          "verdicts": {
+            "trend": 5,
+            "visual": 15,
+            "author/audience": 4,
+            "coincidence/other": 0
+          }
+        },
+        "watchlist": {
+          "n": 4,
+          "trend_n": 0,
+          "trend_pct": 0,
+          "avg_trend": null,
+          "avg_other": 91597,
+          "median_trend": null,
+          "median_other": 33028,
+          "verdicts": {
+            "trend": 0,
+            "visual": 4,
+            "author/audience": 0,
+            "coincidence/other": 0
+          }
+        },
+        "outsiders": {
+          "n": 20,
+          "trend_n": 5,
+          "trend_pct": 25,
+          "avg_trend": 31824,
+          "avg_other": 18323,
+          "median_trend": 34028,
+          "median_other": 5851,
+          "verdicts": {
+            "trend": 5,
+            "visual": 11,
+            "author/audience": 4,
+            "coincidence/other": 0
+          }
+        },
+        "top10": {
+          "n": 10,
+          "trend_n": 4,
+          "trend_pct": 40,
+          "avg_trend": 38341,
+          "avg_other": 95522,
+          "median_trend": 35170,
+          "median_other": 64516,
+          "verdicts": {
+            "trend": 4,
+            "visual": 6,
+            "author/audience": 0,
+            "coincidence/other": 0
+          }
+        },
+        "media": {
+          "video_n": 9,
+          "median_video": 10865,
+          "other_n": 15,
+          "median_other": 5988
+        }
+      }
+    },
+    "topics": [
+      {
+        "name": "Kling Image 4.0 vs ChatGPT Images 2.6 A/B campaign",
+        "keywords": [
+          "Kling Image 4.0",
+          "ChatGPT Images 2.6",
+          "Kling's Black Friday"
+        ],
+        "posts_24h": 2,
+        "posts_48h": 7,
+        "views_24h": 161057,
+        "views_prev24h": 130664,
+        "views_48h": 291721,
+        "momentum": "cooling x0.45",
+        "heat_raw": 20.27,
+        "evidence": [
+          {
+            "handle": "@Kling_ai",
+            "views": 127029,
+            "url": "https://x.com/Kling_ai/status/2124846759679607044",
+            "hook": "Kling's own Kling Image 4.0 launch-style clip: one prompt, up to 10 consistent images - 127K views but 265 likes, a brand reach number that looks promoted.",
+            "lane": "outsider"
+          },
+          {
+            "handle": "@iamfakhrealam",
+            "views": 52032,
+            "url": "https://x.com/iamfakhrealam/status/2124518666939334736",
+            "hook": "Part of a coordinated Kling Image 4.0 vs ChatGPT Images 2.6 Black Friday campaign (same template across ~6 accounts); group-portrait A/B with a vote CTA.",
+            "lane": "outsider"
+          },
+          {
+            "handle": "@heysajib",
+            "views": 36312,
+            "url": "https://x.com/heysajib/status/2124514480575172824",
+            "hook": "Same Kling vs ChatGPT campaign, datamosh/glitch prompt; 100 bookmarks is the best save rate of the campaign.",
+            "lane": "outsider"
+          }
+        ],
+        "heat": 100
+      },
+      {
+        "name": "Black Friday tool pricing",
+        "keywords": [
+          "Black Friday offer",
+          "Black Friday deal",
+          "Seedance 2.5"
+        ],
+        "posts_24h": 2,
+        "posts_48h": 6,
+        "views_24h": 44893,
+        "views_prev24h": 125090,
+        "views_48h": 169983,
+        "momentum": "cooling x0.49",
+        "heat_raw": 17.33,
+        "evidence": [
+          {
+            "handle": "@iamfakhrealam",
+            "views": 52032,
+            "url": "https://x.com/iamfakhrealam/status/2124518666939334736",
+            "hook": "Part of a coordinated Kling Image 4.0 vs ChatGPT Images 2.6 Black Friday campaign (same template across ~6 accounts); group-portrait A/B with a vote CTA.",
+            "lane": "outsider"
+          },
+          {
+            "handle": "@heysajib",
+            "views": 36312,
+            "url": "https://x.com/heysajib/status/2124514480575172824",
+            "hook": "Same Kling vs ChatGPT campaign, datamosh/glitch prompt; 100 bookmarks is the best save rate of the campaign.",
+            "lane": "outsider"
+          },
+          {
+            "handle": "@AmControo",
+            "views": 34028,
+            "url": "https://x.com/AmControo/status/2124563674811474170",
+            "hook": "Same campaign, vintage fashion-film stills with a magazine-cover question; 122 bookmarks.",
+            "lane": "outsider"
+          }
+        ],
+        "heat": 85
+      },
+      {
+        "name": "Prompt shares and control workflows",
+        "keywords": [
+          "Magnific",
+          "Ink Wash Zen",
+          "AI filmmaking"
+        ],
+        "posts_24h": 2,
+        "posts_48h": 3,
+        "views_24h": 18359,
+        "views_prev24h": 5988,
+        "views_48h": 24347,
+        "momentum": "up x2.09",
+        "heat_raw": 9.78,
+        "evidence": [
+          {
+            "handle": "@techhalla",
+            "views": 11862,
+            "url": "https://x.com/techhalla/status/2124647766307537098",
+            "hook": "Workflow/control angle: 'anyone can prompt with unlimited budget, the hard part is control' plus a Magnific prompt thread; 129 bookmarks on 11.9K.",
+            "lane": "outsider"
+          },
+          {
+            "handle": "@techhalla",
+            "views": 6497,
+            "url": "https://x.com/techhalla/status/2124812480358895741",
+            "hook": "'AI filmmaking hack' quote-post with a tutorial video; 138 bookmarks on 6.5K, a save-for-later format.",
+            "lane": "outsider"
+          },
+          {
+            "handle": "@LudovicCreator",
+            "views": 5988,
+            "url": "https://x.com/LudovicCreator/status/2124503261243687169",
+            "hook": "Fill-in-the-blank prompt share (\"Ink Wash Zen Serenity\" with [SUBJECT]) plus \"Check ALTS\" - 6.0K views, 205 likes, 121 bookmarks (2.0% save rate). The prompt is",
+            "lane": "watchlist"
+          }
+        ],
+        "heat": 48
+      },
+      {
+        "name": "Title-only finished films",
+        "keywords": [
+          "Fishbowl Spartacus"
+        ],
+        "posts_24h": 1,
+        "posts_48h": 1,
+        "views_24h": 294346,
+        "views_prev24h": 0,
+        "views_48h": 294346,
+        "momentum": "new · 24 h only",
+        "heat_raw": 5.47,
+        "evidence": [
+          {
+            "handle": "@Gossip_Goblin",
+            "views": 294346,
+            "url": "https://x.com/Gossip_Goblin/status/2124541100480180361",
+            "hook": "A 2:32 finished film posted on a two-word title and nothing else - 294K views, 4,353 likes, 1,735 bookmarks (0.6% save rate). No explainer, no tool credits: the",
+            "lane": "watchlist"
+          }
+        ],
+        "heat": 27
+      }
+    ],
+    "ideas": [
+      {
+        "title": "Kling Image 4.0 vs Seedream on a Space Marine",
+        "topic": "Kling",
+        "keywords": [
+          "Kling",
+          "Kling Image 4.0"
+        ],
+        "format": "carousel",
+        "visual_type": "carousel",
+        "visual": "2-image A/B: same Chaos Space Marine prompt in Kling Image 4.0 and your usual model, numbered 1 and 2.",
+        "angle": "Six creator A/B posts of Kling Image 4.0 vs ChatGPT Images 2.6 did 5.8K-52.0K each; your Seedream 5.5 vs Midjourney carousel was your best day since 14.11 (3,080).",
+        "hook_en": "Same Chaos Space Marine prompt, two models. Which one would the Warmaster pick - 1 or 2?",
+        "why": "Kling is #1 in the X keyword sample (46.8K); A/B vote posts drove 100+ bookmarks on 22.11.",
+        "x_keywords": [
+          "Kling"
+        ],
+        "x_rank": 1,
+        "source": "x-keywords"
+      },
+      {
+        "title": "Title-only 40K short",
+        "topic": "AI video",
+        "keywords": [
+          "AI video",
+          "AI filmmaking"
+        ],
+        "format": "video",
+        "visual_type": "video",
+        "visual": "Your next finished 2-3 minute Warhammer 40K short uploaded natively, no hashtags, title as the whole caption; credits in a reply.",
+        "angle": "Gossip_Goblin's 'Fishbowl Spartacus' - two-word caption, 2:32 film - did 294,346 views and 1,735 bookmarks on 22.11: AI filmmaking where the film carries the post.",
+        "hook_en": "The Last Litany of Cadia - a finished AI video short, no explanation.",
+        "why": "Gossip_Goblin 294,346 views on a title-only post; AI video is #2 in the X keyword sample (32.3K, down x0.2).",
+        "x_keywords": [
+          "AI video",
+          "AI filmmaking"
+        ],
+        "x_rank": 2,
+        "source": "x-keywords"
+      },
+      {
+        "title": "What still breaks in AI filmmaking",
+        "topic": "AI filmmaking",
+        "keywords": [
+          "AI filmmaking",
+          "AI video"
+        ],
+        "format": "video",
+        "visual_type": "video",
+        "visual": "15s split: a broken Seedance shot (hands, flicker) next to your fixed version, with the fix named on screen.",
+        "angle": "techhalla's 'what part of AI video still feels broken?' got 25 replies; DavidmComfort's 'not filmic' list 84 bookmarks on 3,831 views.",
+        "hook_en": "The one AI filmmaking problem I fix in every 40K short - before and after.",
+        "why": "AI filmmaking is #4 in the X keyword sample (16.5K); craft posts earned high save rates on 22.11.",
+        "x_keywords": [
+          "AI filmmaking",
+          "AI video"
+        ],
+        "x_rank": 2,
+        "source": "x-keywords"
+      },
+      {
+        "title": "Star Wars Sunday but it's 1977 grindhouse",
+        "topic": "AI animation",
+        "keywords": [
+          "AI animation",
+          "era swap"
+        ],
+        "format": "video",
+        "visual_type": "video",
+        "visual": "20-30s trailer of a Bandellion or Star Wars-style scene restyled as a 1970s film: grain, zooms, title card.",
+        "angle": "TechHalla's era swap 'Back to the Future but it's 1973' grew to 69,986 views; he is now serialising it with Game of Thrones.",
+        "hook_en": "Bandellion, but it's a lost 1970s space opera trailer. Tiny AI animation, film grain included.",
+        "why": "techhalla 69,986 views and 278 bookmarks; your Star Wars Sunday photo was your best post on 22.11 (1,588).",
+        "x_keywords": [
+          "AI animation"
+        ],
+        "x_rank": 3,
+        "source": "x-keywords"
+      },
+      {
+        "title": "Cost per second of a 40K short",
+        "topic": "Seedance",
+        "keywords": [
+          "Seedance",
+          "Black Friday"
+        ],
+        "format": "screencast",
+        "visual_type": "screencast",
+        "visual": "Screen recording of your shot list with the generation cost of each shot overlaid, ending on the finished clip.",
+        "angle": "sulfurscales' price-per-second post (Seedance 2.5 at $0.15/s) drew 140 bookmarks on 10,865 views; Black Friday pricing is everywhere.",
+        "hook_en": "What a Seedance Warhammer short actually costs, shot by shot - and what Black Friday changes.",
+        "why": "sulfurscales 10,865 views / 140 bookmarks; Seedance down x0.04 in the sample, so this is a craft angle, not a trend ride.",
+        "x_keywords": [
+          "Seedance"
+        ],
+        "x_rank": 12,
+        "source": "x-keywords"
+      },
+      {
+        "title": "Ink-wash Adepta Sororitas",
+        "topic": "anime",
+        "keywords": [
+          "Ink Wash Zen"
+        ],
+        "format": "image",
+        "visual_type": "image",
+        "visual": "4 ink-wash style stills of a Battle Sister, with the prompt and a [SUBJECT] slot in the caption.",
+        "angle": "LudovicCreator's 'Ink Wash Zen Serenity' prompt share hit 5,988 with 121 bookmarks; azed_ai's ink prompt share 58 bookmarks.",
+        "hook_en": "Ink Wash Zen, but make it a Battle Sister. Prompt below - swap in your own [SUBJECT].",
+        "why": "Prompt shares drove the best save rates on 22.11 (2.0% for LudovicCreator).",
+        "x_keywords": [],
+        "x_rank": null,
+        "source": "watchlist-virals"
+      }
+    ],
+    "articles": [
+      {
+        "title": "The title is the caption: why finished films win on X",
+        "thesis": "Gossip_Goblin's two-word 'Fishbowl Spartacus' (294,346 views, 1,735 bookmarks) beat every brand push on 22.11 - the film did the work, not the copy.",
+        "outline": [
+          "The 22.11 post: length, caption, bookmarks",
+          "His run this month: Fur Virus, Carnal Pursuits, Fishbowl Spartacus",
+          "Native upload vs link-out",
+          "How to package a 40K short the same way"
+        ],
+        "keywords": [
+          "AI video",
+          "AI filmmaking"
+        ],
+        "visual": "Cover: a still from your own short with only its title; inline: views of title-only vs explained posts.",
+        "why": "294,346 views on 22.11.",
+        "x_keywords": [
+          "AI video",
+          "AI filmmaking"
+        ]
+      },
+      {
+        "title": "Inside a Black Friday A/B campaign",
+        "thesis": "At least six creators posted the same Kling Image 4.0 vs ChatGPT Images 2.6 template on 22.11; the reach was real (5.8K-52.0K) but likes stayed low - what that teaches about A/B vote posts.",
+        "outline": [
+          "The template: hook, same prompt, vote, price line",
+          "Reach vs likes vs bookmarks per post",
+          "Which prompts got saved (datamosh, vintage fashion)",
+          "Running an honest A/B on your own 40K art"
+        ],
+        "keywords": [
+          "Kling",
+          "Kling Image 4.0"
+        ],
+        "visual": "Carousel of the six A/B covers with views and bookmarks under each.",
+        "why": "52,032 / 36,312 / 34,028 / 30,991 / 5,755 views on 22.11.",
+        "x_keywords": [
+          "Kling"
+        ]
+      }
+    ],
+    "why_hit": [
+      {
+        "id": "2124541100480180361",
+        "handle": "@Gossip_Goblin",
+        "lane": "watchlist",
+        "views": 294346,
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "followers": 126281,
+        "topic": "Title-only finished films",
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2124578704550695184",
+        "handle": "@LudovicCreator",
+        "lane": "watchlist",
+        "views": 59046,
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "image",
+        "followers": 38194,
+        "topic": null,
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2124584929338196179",
+        "handle": "@Gossip_Goblin",
+        "lane": "watchlist",
+        "views": 7009,
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "image",
+        "followers": 126281,
+        "topic": null,
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2124503261243687169",
+        "handle": "@LudovicCreator",
+        "lane": "watchlist",
+        "views": 5988,
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "image",
+        "followers": 38194,
+        "topic": "Prompt shares and control workflows",
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2124846759679607044",
+        "handle": "@Kling_ai",
+        "lane": "outsider",
+        "views": 127029,
+        "trend_match": 35,
+        "verdict": "visual",
+        "matched_keywords": [
+          "Kling Image 4.0"
+        ],
+        "media": "video",
+        "followers": 139647,
+        "topic": "Kling Image 4.0 vs ChatGPT Images 2.6 A/B campaign",
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2124457346894016998",
+        "handle": "@techhalla",
+        "lane": "outsider",
+        "views": 69986,
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "followers": 104010,
+        "topic": null,
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2124518666939334736",
+        "handle": "@iamfakhrealam",
+        "lane": "outsider",
+        "views": 52032,
+        "trend_match": 86,
+        "verdict": "trend",
+        "matched_keywords": [
+          "Kling Image 4.0",
+          "ChatGPT Images 2.6",
+          "Kling's Black Friday",
+          "Black Friday offer",
+          "Black Friday"
+        ],
+        "media": "image",
+        "followers": 32425,
+        "topic": "Kling Image 4.0 vs ChatGPT Images 2.6 A/B campaign",
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2124514480575172824",
+        "handle": "@heysajib",
+        "lane": "outsider",
+        "views": 36312,
+        "trend_match": 86,
+        "verdict": "trend",
+        "matched_keywords": [
+          "Kling Image 4.0",
+          "ChatGPT Images 2.6",
+          "Kling's Black Friday",
+          "Black Friday offer",
+          "Black Friday"
+        ],
+        "media": "image",
+        "followers": 35284,
+        "topic": "Kling Image 4.0 vs ChatGPT Images 2.6 A/B campaign",
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2124563674811474170",
+        "handle": "@AmControo",
+        "lane": "outsider",
+        "views": 34028,
+        "trend_match": 86,
+        "verdict": "trend",
+        "matched_keywords": [
+          "Kling Image 4.0",
+          "ChatGPT Images 2.6",
+          "Kling's Black Friday",
+          "Black Friday deal",
+          "Black Friday"
+        ],
+        "media": "image",
+        "followers": 56423,
+        "topic": "Kling Image 4.0 vs ChatGPT Images 2.6 A/B campaign",
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2124517992545603884",
+        "handle": "@marryevan999",
+        "lane": "outsider",
+        "views": 30991,
+        "trend_match": 78,
+        "verdict": "trend",
+        "matched_keywords": [
+          "Kling Image 4.0",
+          "ChatGPT Images 2.6",
+          "Black Friday offer",
+          "Black Friday"
+        ],
+        "media": "image",
+        "followers": 44295,
+        "topic": "Kling Image 4.0 vs ChatGPT Images 2.6 A/B campaign",
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2124647766307537098",
+        "handle": "@techhalla",
+        "lane": "outsider",
+        "views": 11862,
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "followers": 104010,
+        "topic": "Prompt shares and control workflows",
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2124555928968245320",
+        "handle": "@sulfurscales",
+        "lane": "outsider",
+        "views": 10865,
+        "trend_match": 20,
+        "verdict": "visual",
+        "matched_keywords": [
+          "Seedance"
+        ],
+        "media": "video",
+        "followers": 17192,
+        "topic": "Black Friday tool pricing",
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2124271040251764823",
+        "handle": "@techhalla",
+        "lane": "outsider",
+        "views": 10573,
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "image",
+        "followers": 104010,
+        "topic": null,
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2124812480358895741",
+        "handle": "@techhalla",
+        "lane": "outsider",
+        "views": 6497,
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "followers": 104010,
+        "topic": "Prompt shares and control workflows",
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2124469484044054702",
+        "handle": "@ImagineArt_X",
+        "lane": "outsider",
+        "views": 6142,
+        "trend_match": 36,
+        "verdict": "visual",
+        "matched_keywords": [
+          "Seedance",
+          "Black Friday"
+        ],
+        "media": "video",
+        "followers": 23418,
+        "topic": null,
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2124381685835813268",
+        "handle": "@Kling_ai",
+        "lane": "outsider",
+        "views": 5851,
+        "trend_match": 0,
+        "verdict": "author/audience",
+        "matched_keywords": [],
+        "media": "text",
+        "followers": 139647,
+        "topic": null,
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2124528490792009856",
+        "handle": "@Ciri_ai",
+        "lane": "outsider",
+        "views": 5755,
+        "trend_match": 86,
+        "verdict": "trend",
+        "matched_keywords": [
+          "Kling Image 4.0",
+          "ChatGPT Images 2.6",
+          "Kling's Black Friday",
+          "Black Friday deal",
+          "Black Friday"
+        ],
+        "media": "image",
+        "followers": 11968,
+        "topic": "Kling Image 4.0 vs ChatGPT Images 2.6 A/B campaign",
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2124216273223528464",
+        "handle": "@dreamina_ai",
+        "lane": "outsider",
+        "views": 5730,
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "followers": 31768,
+        "topic": null,
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2124378897252773984",
+        "handle": "@Kling_ai",
+        "lane": "outsider",
+        "views": 5574,
+        "trend_match": 35,
+        "verdict": "author/audience",
+        "matched_keywords": [
+          "Kling Image 4.0"
+        ],
+        "media": "text",
+        "followers": 139647,
+        "topic": "Kling Image 4.0 vs ChatGPT Images 2.6 A/B campaign",
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2124495235267113190",
+        "handle": "@DavidmComfort",
+        "lane": "outsider",
+        "views": 3831,
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "image",
+        "followers": 3613,
+        "topic": "Prompt shares and control workflows",
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2124830523138707948",
+        "handle": "@techhalla",
+        "lane": "outsider",
+        "views": 3742,
+        "trend_match": 0,
+        "verdict": "author/audience",
+        "matched_keywords": [],
+        "media": "text",
+        "followers": 104010,
+        "topic": null,
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2124820022094917711",
+        "handle": "@azed_ai",
+        "lane": "outsider",
+        "views": 2814,
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "image",
+        "followers": 61423,
+        "topic": null,
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2124874108743610647",
+        "handle": "@techhalla",
+        "lane": "outsider",
+        "views": 2467,
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "followers": 104010,
+        "topic": null,
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2124871880167579674",
+        "handle": "@Kling_ai",
+        "lane": "outsider",
+        "views": 1884,
+        "trend_match": 0,
+        "verdict": "author/audience",
+        "matched_keywords": [],
+        "media": "text",
+        "followers": 139647,
+        "topic": null,
+        "self_quote": false,
+        "note": ""
+      }
+    ],
+    "labels": {
+      "trend": "trend",
+      "visual": "visual",
+      "author": "author/audience",
+      "other": "coincidence/other",
+      "nontrend": "non-trend",
+      "self_quote": "self-quote",
+      "no_data": "no data"
+    },
+    "x_keywords": {
+      "fetched_at": "2026-11-23T15:40:00+00:00",
+      "window_start": "2026-11-21T15:40:00Z",
+      "calls": 32,
+      "method": "Read-only x MCP search_posts_all, 2 calls per keyword: last 24 h and previous 24 h (24-48 h ago); lang:en, no retweets/replies, sort=relevancy, up to 25 posts per window. This is a SAMPLE of top-relevance posts, not every post on X. Views = impression_count at fetch time. Rank = sum of sampled 24 h views; 48 h = both windows; trend = 24 h sum / previous 24 h sum (up >=1.3, down <=0.7). Fresh posts are still gaining views, so 'up' is understated. Top-post share > 70% means one viral post carries the keyword.",
+      "missing": [],
+      "sample": true,
+      "sample_size_per_call": 25,
+      "keywords": [
+        {
+          "keyword": "Kling",
+          "query": "\"Kling\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 25,
+            "total": 46786,
+            "median": 18,
+            "top": {
+              "views": 34030,
+              "url": "https://x.com/AmControo/status/2124563674811474170",
+              "handle": "@AmControo",
+              "text": "Can AI recreate the timeless charm of a vintage fashion film? I tested Kling Image 4.0 and ChatGPT Images 2.6 using the "
+            }
+          },
+          "prev24": {
+            "n": 25,
+            "total": 199326,
+            "median": 23,
+            "top": {
+              "views": 53668,
+              "url": "https://x.com/AnishJaitwar/status/2124519551769682170",
+              "handle": "@AnishJaitwar",
+              "text": "AI can make the impossible look real. But can it keep the fun in it? I tested Kling Image 4.0 and ChatGPT Images 2.6 wit"
+            }
+          },
+          "w48": {
+            "n": 50,
+            "total": 246112,
+            "top": {
+              "views": 53668,
+              "url": "https://x.com/AnishJaitwar/status/2124519551769682170",
+              "handle": "@AnishJaitwar",
+              "text": "AI can make the impossible look real. But can it keep the fun in it? I tested Kling Image 4.0 and ChatGPT Images 2.6 wit"
+            }
+          },
+          "change": 0.23,
+          "trend": "down",
+          "partial": false,
+          "top_share": 0.73,
+          "rank": 1
+        },
+        {
+          "keyword": "AI video",
+          "query": "\"AI video\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 25,
+            "total": 32324,
+            "median": 45,
+            "top": {
+              "views": 12164,
+              "url": "https://x.com/Anusiya___/status/2124734108828082635",
+              "handle": "@Anusiya___",
+              "text": "Yesterday Full day Mamitha baiju &amp; pradeep Ranganathan AI video Released Today New Trending Mamitha baiju &amp; Sury"
+            }
+          },
+          "prev24": {
+            "n": 25,
+            "total": 162922,
+            "median": 34,
+            "top": {
+              "views": 142885,
+              "url": "https://x.com/Unifycore/status/2124284096033775995",
+              "handle": "@Unifycore",
+              "text": "THIS IS THE END OF AI VIDEO AS WE KNOW IT. Introducing OMIO. ⚡ The next breakthrough in AI-powered video editing. For to"
+            }
+          },
+          "w48": {
+            "n": 50,
+            "total": 195246,
+            "top": {
+              "views": 142885,
+              "url": "https://x.com/Unifycore/status/2124284096033775995",
+              "handle": "@Unifycore",
+              "text": "THIS IS THE END OF AI VIDEO AS WE KNOW IT. Introducing OMIO. ⚡ The next breakthrough in AI-powered video editing. For to"
+            }
+          },
+          "change": 0.2,
+          "trend": "down",
+          "partial": false,
+          "top_share": 0.38,
+          "rank": 2
+        },
+        {
+          "keyword": "AI animation",
+          "query": "\"AI animation\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 25,
+            "total": 20540,
+            "median": 87,
+            "top": {
+              "views": 8264,
+              "url": "https://x.com/schmi57/status/2124695471109337277",
+              "handle": "@schmi57",
+              "text": "This AI animation is better than Disney 🔥 Seedance 2.5 https://t.co/Q12uN0f38Y https://t.co/2EPs9oSTM0"
+            }
+          },
+          "prev24": {
+            "n": 25,
+            "total": 278666,
+            "median": 185,
+            "top": {
+              "views": 171177,
+              "url": "https://x.com/MatrixRamenist/status/2124321977393467583",
+              "handle": "@MatrixRamenist",
+              "text": "GTA 6 Mandy Sex Scene AI Animation 4 mins 34 sec is out on Patreon now https://t.co/xzXoHP6ovo"
+            }
+          },
+          "w48": {
+            "n": 50,
+            "total": 299206,
+            "top": {
+              "views": 171177,
+              "url": "https://x.com/MatrixRamenist/status/2124321977393467583",
+              "handle": "@MatrixRamenist",
+              "text": "GTA 6 Mandy Sex Scene AI Animation 4 mins 34 sec is out on Patreon now https://t.co/xzXoHP6ovo"
+            }
+          },
+          "change": 0.07,
+          "trend": "down",
+          "partial": false,
+          "top_share": 0.4,
+          "rank": 3
+        },
+        {
+          "keyword": "AI filmmaking",
+          "query": "\"AI filmmaking\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 22,
+            "total": 16539,
+            "median": 73,
+            "top": {
+              "views": 6533,
+              "url": "https://x.com/techhalla/status/2124812480358895741",
+              "handle": "@techhalla",
+              "text": "wish I'd known about this AI filmmaking hack sooner... would have saved me somuch time and money! https://t.co/vgMpKr5wo"
+            }
+          },
+          "prev24": {
+            "n": 22,
+            "total": 31201,
+            "median": 141,
+            "top": {
+              "views": 22962,
+              "url": "https://x.com/john_my07/status/2124523761160569129",
+              "handle": "@john_my07",
+              "text": "#ElevenLabsAmbassador A chaotic zombie outbreak brought to life with Seedance 2.5 on @ElevenCreative, combining cinemati"
+            }
+          },
+          "w48": {
+            "n": 44,
+            "total": 47740,
+            "top": {
+              "views": 22962,
+              "url": "https://x.com/john_my07/status/2124523761160569129",
+              "handle": "@john_my07",
+              "text": "#ElevenLabsAmbassador A chaotic zombie outbreak brought to life with Seedance 2.5 on @ElevenCreative, combining cinemati"
+            }
+          },
+          "change": 0.53,
+          "trend": "down",
+          "partial": false,
+          "top_share": 0.4,
+          "rank": 4
+        },
+        {
+          "keyword": "ComfyUI",
+          "query": "\"ComfyUI\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 25,
+            "total": 10255,
+            "median": 47,
+            "top": {
+              "views": 2903,
+              "url": "https://x.com/RolfJTS/status/2124663483727794656",
+              "handle": "@RolfJTS",
+              "text": "Filterless #smoking #smokingfetish #ai #aiart #grok #minimax #gemini #chatgpt #comfyui https://t.co/pfX46tJXBD"
+            }
+          },
+          "prev24": {
+            "n": 25,
+            "total": 33721,
+            "median": 100,
+            "top": {
+              "views": 19664,
+              "url": "https://x.com/AIfutureBenji/status/2124468246489477576",
+              "handle": "@AIfutureBenji",
+              "text": "Shot-by-shot video reverse engineering Now In ComfyUI! https://t.co/2j0iOCnfO9"
+            }
+          },
+          "w48": {
+            "n": 50,
+            "total": 43976,
+            "top": {
+              "views": 19664,
+              "url": "https://x.com/AIfutureBenji/status/2124468246489477576",
+              "handle": "@AIfutureBenji",
+              "text": "Shot-by-shot video reverse engineering Now In ComfyUI! https://t.co/2j0iOCnfO9"
+            }
+          },
+          "change": 0.3,
+          "trend": "down",
+          "partial": false,
+          "top_share": 0.28,
+          "rank": 5
+        },
+        {
+          "keyword": "Runway",
+          "query": "\"Runway\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 25,
+            "total": 9838,
+            "median": 70,
+            "top": {
+              "views": 2633,
+              "url": "https://x.com/OnDisasters/status/2124549514832773305",
+              "handle": "@OnDisasters",
+              "text": "While the inquiry pins most of the blame at the Cessna pilot, it also reveals some issues with ATC, writing that (…) “On"
+            }
+          },
+          "prev24": {
+            "n": 25,
+            "total": 11102,
+            "median": 56,
+            "top": {
+              "views": 3205,
+              "url": "https://x.com/RDTMutiroes/status/2124209459732050024",
+              "handle": "@RDTMutiroes",
+              "text": "Ajude Lady Gaga a ser indicada ao \"Gold Derby Music Awards 2027\" nas categorias: 🔸️ Album of the Year MAYHEM Requiem 🔸️ "
+            }
+          },
+          "w48": {
+            "n": 50,
+            "total": 20940,
+            "top": {
+              "views": 3205,
+              "url": "https://x.com/RDTMutiroes/status/2124209459732050024",
+              "handle": "@RDTMutiroes",
+              "text": "Ajude Lady Gaga a ser indicada ao \"Gold Derby Music Awards 2027\" nas categorias: 🔸️ Album of the Year MAYHEM Requiem 🔸️ "
+            }
+          },
+          "change": 0.89,
+          "trend": "flat",
+          "partial": false,
+          "top_share": 0.27,
+          "rank": 6
+        },
+        {
+          "keyword": "Higgsfield",
+          "query": "\"Higgsfield\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 25,
+            "total": 8775,
+            "median": 39,
+            "top": {
+              "views": 4672,
+              "url": "https://x.com/OpenBot_/status/2124835357363515760",
+              "handle": "@OpenBot_",
+              "text": "Use @higgsfield directly in OpenBot Workflows. Add your character references to the canvas once. Generate a still with N"
+            }
+          },
+          "prev24": {
+            "n": 25,
+            "total": 12996,
+            "median": 33,
+            "top": {
+              "views": 7939,
+              "url": "https://x.com/janm_uiux/status/2124440587327697257",
+              "handle": "@janm_uiux",
+              "text": "How to design scroll-driven sites with Claude and Higgsfield AI https://t.co/3hJUnEATkv"
+            }
+          },
+          "w48": {
+            "n": 50,
+            "total": 21771,
+            "top": {
+              "views": 7939,
+              "url": "https://x.com/janm_uiux/status/2124440587327697257",
+              "handle": "@janm_uiux",
+              "text": "How to design scroll-driven sites with Claude and Higgsfield AI https://t.co/3hJUnEATkv"
+            }
+          },
+          "change": 0.68,
+          "trend": "down",
+          "partial": false,
+          "top_share": 0.53,
+          "rank": 7
+        },
+        {
+          "keyword": "anime",
+          "query": "\"anime\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 25,
+            "total": 8702,
+            "median": 25,
+            "top": {
+              "views": 6381,
+              "url": "https://x.com/chromat1cfire/status/2124786286091497760",
+              "handle": "@chromat1cfire",
+              "text": "🧵 While flashiness or idiosyncratic style is nothing new to the anime industry, the new standard set by the modern anime"
+            }
+          },
+          "prev24": {
+            "n": 24,
+            "total": 12064,
+            "median": 40,
+            "top": {
+              "views": 7699,
+              "url": "https://x.com/KyoutarosDad/status/2124437381436649495",
+              "handle": "@KyoutarosDad",
+              "text": "Kyoichiro's Blooming Anime vs. Manga Absolute Perfection. You can even argue the anime is better than the manga. It's ho"
+            }
+          },
+          "w48": {
+            "n": 49,
+            "total": 20766,
+            "top": {
+              "views": 7699,
+              "url": "https://x.com/KyoutarosDad/status/2124437381436649495",
+              "handle": "@KyoutarosDad",
+              "text": "Kyoichiro's Blooming Anime vs. Manga Absolute Perfection. You can even argue the anime is better than the manga. It's ho"
+            }
+          },
+          "change": 0.72,
+          "trend": "flat",
+          "partial": false,
+          "top_share": 0.73,
+          "rank": 8
+        },
+        {
+          "keyword": "Sora",
+          "query": "\"Sora\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 25,
+            "total": 7406,
+            "median": 106,
+            "top": {
+              "views": 4573,
+              "url": "https://x.com/soraphoria_/status/2124535809290416275",
+              "handle": "@soraphoria_",
+              "text": "sora is blue coded #SORA #소라 #西口空良 https://t.co/hdC4FObC7x"
+            }
+          },
+          "prev24": {
+            "n": 25,
+            "total": 10466,
+            "median": 155,
+            "top": {
+              "views": 2829,
+              "url": "https://x.com/Haru_Superfan/status/2124433123501080917",
+              "handle": "@Haru_Superfan",
+              "text": "Xigbar: “I’m already half Xehanort” Sora : “What the fuck??” I can confirm that’s exactly what Sora said https://t.co/xD"
+            }
+          },
+          "w48": {
+            "n": 50,
+            "total": 17872,
+            "top": {
+              "views": 4573,
+              "url": "https://x.com/soraphoria_/status/2124535809290416275",
+              "handle": "@soraphoria_",
+              "text": "sora is blue coded #SORA #소라 #西口空良 https://t.co/hdC4FObC7x"
+            }
+          },
+          "change": 0.71,
+          "trend": "flat",
+          "partial": false,
+          "top_share": 0.62,
+          "rank": 9
+        },
+        {
+          "keyword": "text to video",
+          "query": "\"text to video\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 25,
+            "total": 5806,
+            "median": 44,
+            "top": {
+              "views": 2237,
+              "url": "https://x.com/HuggingModels/status/2124594773348819354",
+              "handle": "@HuggingModels",
+              "text": "Meet pi-H3 by Lakonik: an image-text-to-video model that also generates audio. Built on MiniMax-H3 with flow-matching an"
+            }
+          },
+          "prev24": {
+            "n": 25,
+            "total": 18816,
+            "median": 82,
+            "top": {
+              "views": 6487,
+              "url": "https://x.com/27_bishal/status/2124326290048327691",
+              "handle": "@27_bishal",
+              "text": "MINIMAX H3 HAS A 74 MB DETAIL FIX 😳 If H3 keeps losing anatomical details in generated videos, this tiny LoRA might help"
+            }
+          },
+          "w48": {
+            "n": 50,
+            "total": 24622,
+            "top": {
+              "views": 6487,
+              "url": "https://x.com/27_bishal/status/2124326290048327691",
+              "handle": "@27_bishal",
+              "text": "MINIMAX H3 HAS A 74 MB DETAIL FIX 😳 If H3 keeps losing anatomical details in generated videos, this tiny LoRA might help"
+            }
+          },
+          "change": 0.31,
+          "trend": "down",
+          "partial": false,
+          "top_share": 0.39,
+          "rank": 10
+        },
+        {
+          "keyword": "Midjourney",
+          "query": "\"Midjourney\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 25,
+            "total": 3431,
+            "median": 61,
+            "top": {
+              "views": 458,
+              "url": "https://x.com/tirtaVEX/status/2124710989144977438",
+              "handle": "@tirtaVEX",
+              "text": "Is there a cheaper way to generate Midjourney images besides @renoiseai?"
+            }
+          },
+          "prev24": {
+            "n": 25,
+            "total": 7265,
+            "median": 56,
+            "top": {
+              "views": 2289,
+              "url": "https://x.com/jonathan_aufray/status/2124506448994373700",
+              "handle": "@jonathan_aufray",
+              "text": "From a little girl to an old lady. Amazing generative AI animation created by MidJourney and RunWay. Via Christian Ortne"
+            }
+          },
+          "w48": {
+            "n": 50,
+            "total": 10696,
+            "top": {
+              "views": 2289,
+              "url": "https://x.com/jonathan_aufray/status/2124506448994373700",
+              "handle": "@jonathan_aufray",
+              "text": "From a little girl to an old lady. Amazing generative AI animation created by MidJourney and RunWay. Via Christian Ortne"
+            }
+          },
+          "change": 0.47,
+          "trend": "down",
+          "partial": false,
+          "top_share": 0.13,
+          "rank": 11
+        },
+        {
+          "keyword": "Seedance",
+          "query": "\"Seedance\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 25,
+            "total": 3300,
+            "median": 60,
+            "top": {
+              "views": 854,
+              "url": "https://x.com/nicravesh/status/2124592207294239202",
+              "handle": "@nicravesh",
+              "text": "Wan 3.0 vs Seedance 2.5 Which one is worth your credits? Both videos: 6s, 1080p Wan 3.0 → 18 credits Seedance 2.5 → 96 c"
+            }
+          },
+          "prev24": {
+            "n": 25,
+            "total": 93220,
+            "median": 84,
+            "top": {
+              "views": 63276,
+              "url": "https://x.com/TextoCriativo/status/2124372192788131857",
+              "handle": "@TextoCriativo",
+              "text": "What if your next video project looked this cinematic? Dreamina makes it possible to explore visuals like these with Rea"
+            }
+          },
+          "w48": {
+            "n": 50,
+            "total": 96520,
+            "top": {
+              "views": 63276,
+              "url": "https://x.com/TextoCriativo/status/2124372192788131857",
+              "handle": "@TextoCriativo",
+              "text": "What if your next video project looked this cinematic? Dreamina makes it possible to explore visuals like these with Rea"
+            }
+          },
+          "change": 0.04,
+          "trend": "down",
+          "partial": false,
+          "top_share": 0.26,
+          "rank": 12
+        },
+        {
+          "keyword": "short film",
+          "query": "\"short film\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 25,
+            "total": 2478,
+            "median": 59,
+            "top": {
+              "views": 345,
+              "url": "https://x.com/faroesenews/status/2124563980668854768",
+              "handle": "@faroesenews",
+              "text": "Faroese short film ‘A Good Boy’ wins Audience Award at Danish film gala Faroese-language short film ‘A Good Boy’ has won"
+            }
+          },
+          "prev24": {
+            "n": 25,
+            "total": 136153,
+            "median": 97,
+            "top": {
+              "views": 102133,
+              "url": "https://x.com/Old_But_Gold50s/status/2124312391097970711",
+              "handle": "@Old_But_Gold50s",
+              "text": "I had almost forgotten what it felt like to watch a heartfelt, traditionally hand-drawn animated film. Absolutely wonder"
+            }
+          },
+          "w48": {
+            "n": 50,
+            "total": 138631,
+            "top": {
+              "views": 102133,
+              "url": "https://x.com/Old_But_Gold50s/status/2124312391097970711",
+              "handle": "@Old_But_Gold50s",
+              "text": "I had almost forgotten what it felt like to watch a heartfelt, traditionally hand-drawn animated film. Absolutely wonder"
+            }
+          },
+          "change": 0.02,
+          "trend": "down",
+          "partial": false,
+          "top_share": 0.14,
+          "rank": 13
+        },
+        {
+          "keyword": "Grok Imagine",
+          "query": "\"Grok Imagine\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 25,
+            "total": 1844,
+            "median": 31,
+            "top": {
+              "views": 477,
+              "url": "https://x.com/AmX_ZaxTr/status/2124658737298244068",
+              "handle": "@AmX_ZaxTr",
+              "text": "Grok imagine https://t.co/AL5ZRjiHzD"
+            }
+          },
+          "prev24": {
+            "n": 25,
+            "total": 3761,
+            "median": 48,
+            "top": {
+              "views": 1693,
+              "url": "https://x.com/Hand0fd00mz/status/2124196621244338255",
+              "handle": "@Hand0fd00mz",
+              "text": "Grok Imagine prompt: Make real https://t.co/ENNAyHzo1C"
+            }
+          },
+          "w48": {
+            "n": 50,
+            "total": 5605,
+            "top": {
+              "views": 1693,
+              "url": "https://x.com/Hand0fd00mz/status/2124196621244338255",
+              "handle": "@Hand0fd00mz",
+              "text": "Grok Imagine prompt: Make real https://t.co/ENNAyHzo1C"
+            }
+          },
+          "change": 0.49,
+          "trend": "down",
+          "partial": false,
+          "top_share": 0.26,
+          "rank": 14
+        },
+        {
+          "keyword": "Veo",
+          "query": "\"Veo\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 25,
+            "total": 1516,
+            "median": 36,
+            "top": {
+              "views": 316,
+              "url": "https://x.com/EssexCountyFA/status/2124834252206338328",
+              "handle": "@EssexCountyFA",
+              "text": "#BlackFriday benefits can be accessed by #GrassrootsFootball clubs through our @veotechnologies partnership, with free V"
+            }
+          },
+          "prev24": {
+            "n": 25,
+            "total": 2145,
+            "median": 39,
+            "top": {
+              "views": 742,
+              "url": "https://x.com/RenfrewFC/status/2124432331008094231",
+              "handle": "@RenfrewFC",
+              "text": "VEO highlights from yesterdays match against Musselburgh Athletic are now available on our YouTube channel https://t.co/"
+            }
+          },
+          "w48": {
+            "n": 50,
+            "total": 3661,
+            "top": {
+              "views": 742,
+              "url": "https://x.com/RenfrewFC/status/2124432331008094231",
+              "handle": "@RenfrewFC",
+              "text": "VEO highlights from yesterdays match against Musselburgh Athletic are now available on our YouTube channel https://t.co/"
+            }
+          },
+          "change": 0.71,
+          "trend": "flat",
+          "partial": false,
+          "top_share": 0.21,
+          "rank": 15
+        },
+        {
+          "keyword": "image to video",
+          "query": "\"image to video\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 15,
+            "total": 1328,
+            "median": 15,
+            "top": {
+              "views": 470,
+              "url": "https://x.com/Sonnynsfm67/status/2124779356891578612",
+              "handle": "@Sonnynsfm67",
+              "text": "Image to video: Sabrina Carpenter Generate more 🔞 pics or vids on Picmuse AI. Check out my bio for the link 😈 #nsfw #nud"
+            }
+          },
+          "prev24": {
+            "n": 23,
+            "total": 1128315,
+            "median": 107,
+            "top": {
+              "views": 1116293,
+              "url": "https://x.com/kairon_flex/status/2124522297088217295",
+              "handle": "@kairon_flex",
+              "text": "SHE REACHED INTO THE HOLE. F*CK IT Dirty bathroom wall, grey tape star, graffiti everywhere, she looks at the camera lik"
+            }
+          },
+          "w48": {
+            "n": 38,
+            "total": 1129643,
+            "top": {
+              "views": 1116293,
+              "url": "https://x.com/kairon_flex/status/2124522297088217295",
+              "handle": "@kairon_flex",
+              "text": "SHE REACHED INTO THE HOLE. F*CK IT Dirty bathroom wall, grey tape star, graffiti everywhere, she looks at the camera lik"
+            }
+          },
+          "change": 0.0,
+          "trend": "down",
+          "partial": false,
+          "top_share": 0.35,
+          "rank": 16
+        }
+      ]
+    },
+    "legend": "Trend match 0-100% = 1 - prod(1 - w) over matched 24 h keywords that another author also used in the 48 h window (w: rank 1-10 0.35, 11-25 0.22, 26-40 0.12, curated 0.20). Verdict: >= 50% -> trend; else video/image in the post data -> visual; else >= 100K followers (outsiders without follower data: >= 500K views, estimate) -> author/audience; else coincidence/other. Missing data shows as 'no data'. Heat = sum log10(views) of topic posts (24 h x1, 24-48 h x0.5), scaled to 100. Momentum = log-views last 24 h / previous 24 h. Trend-input-only accounts feed the corpus but are never shown as hits."
+  }
+}

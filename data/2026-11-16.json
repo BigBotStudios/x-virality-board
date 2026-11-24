@@ -1,0 +1,3381 @@
+{
+  "title": "X Virality Score · 2026-11-16",
+  "brand_title": "Grok Bot X Virality Score",
+  "brand_handle": "@SMKP_Films",
+  "operator": {
+    "handle": "SMKP_Films",
+    "name": "Bogdan Orlic",
+    "profile_url": "https://x.com/SMKP_Films"
+  },
+  "timezone": "America/Toronto",
+  "date": "2026-11-16",
+  "updated": "2026-11-17T10:44:39-05:00",
+  "ui": {
+    "default_theme": "night"
+  },
+  "board_features": {
+    "count_up": true,
+    "live_pulse": true,
+    "theme_toggle": true,
+    "themes": [
+      "night",
+      "day"
+    ],
+    "grok_ambient": true,
+    "week_month_boards": true,
+    "day_roster_best_total": true,
+    "day_compare_chart": true,
+    "week_strip": true,
+    "no_hits_reasons": true,
+    "marker_class": "xvs-dash-2026",
+    "top10_drafts_v4": true,
+    "trend_keywords": true,
+    "trend_radar": true,
+    "x_keyword_table": true,
+    "experiment": true,
+    "self_quote_badge": true
+  },
+  "previous_day": {
+    "date": "2026-11-15",
+    "hits_count": 2,
+    "total_views": 128516,
+    "stars": 2,
+    "x_score": 63,
+    "top_hit": null
+  },
+  "hits": [
+    {
+      "id": "2122378466838618504",
+      "name": "Gossip Goblin",
+      "display_name": "Gossip Goblin",
+      "handle": "@Gossip_Goblin",
+      "views": 46499,
+      "views_label": "46,499",
+      "url": "https://x.com/Gossip_Goblin/status/2122378466838618504",
+      "created_at": "2026-11-16T17:17:13.000Z",
+      "posted_at": "2026-11-16T17:17:13.000Z",
+      "highlight": true,
+      "text": "Something to watch. \nhttps://t.co/29tIXCYcIi https://t.co/VOh2PaxxCO",
+      "original_en": "Something to watch. \nhttps://t.co/29tIXCYcIi https://t.co/VOh2PaxxCO",
+      "lang": "en",
+      "media": "video",
+      "likes": 1358,
+      "reposts": 96,
+      "bookmarks": 237,
+      "replies": 43,
+      "quotes": 7,
+      "followers_count": 124995,
+      "hook": "Two-word caption \"Something to watch.\" over an 84-second vertical teaser, plus one link to his film site \"Gods Don't Give Gifts: A Film By Gossip Goblin - Tales From The Second Cycle of Humanity\" - no tool list, no thread - 46.5K views, 1.4K likes, 237 bookmarks, 43 replies.",
+      "video_tip": "Cut a 60-90s vertical teaser of your strongest 40K episode, caption it with 2-3 words, and add one link to a single home for the full film (YouTube or a page) - one clip, one link, nothing else.",
+      "board_rank": 6,
+      "draft_en": "Got a few minutes? This video is worth watching.",
+      "draft_keywords": [
+        "video"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.0,
+        "word_overlap": 0.0,
+        "max_copied_run": 0
+      },
+      "top10_rank": 6,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "note": "",
+        "topic": null
+      }
+    }
+  ],
+  "hits_count": 1,
+  "outsiders": [
+    {
+      "id": "2122426594497384807",
+      "name": "𝑸𝑼𝑬𝑬𝑵 𝑴𝑶𝑻𝑯𝑬𝑹 👑🌬️",
+      "display_name": "𝑸𝑼𝑬𝑬𝑵 𝑴𝑶𝑻𝑯𝑬𝑹 👑🌬️",
+      "handle": "@chinazaa14",
+      "views": 1001090,
+      "views_label": "1,001,090",
+      "url": "https://x.com/chinazaa14/status/2122426594497384807",
+      "created_at": "2026-11-16T20:28:27.000Z",
+      "posted_at": "2026-11-16T20:28:27.000Z",
+      "text": "AI filmmaking is getting wild 😳😳 https://t.co/a3cWVN1RjU",
+      "original_en": "AI filmmaking is getting wild 😳😳 https://t.co/a3cWVN1RjU",
+      "lang": "en",
+      "hook": "Aggregator repost of an uncredited AI clip with a five-word caption 'AI filmmaking is getting wild' - 1.0M views, 1,230 bookmarks, 92 replies.",
+      "video_tip": "The broadest reach went to a short, surprising clip with a reaction caption; cut your most jaw-dropping 40K shot to 10-20s and caption it like a viewer, not a creator.",
+      "media": "video",
+      "followers_count": 31332,
+      "likes": 3078,
+      "reposts": 224,
+      "bookmarks": 1230,
+      "replies": 92,
+      "quotes": 8,
+      "self_quote": false,
+      "board_rank": 1,
+      "draft_en": "Wild times for AI filmmaking. Just watch this video.",
+      "draft_keywords": [
+        "AI filmmaking",
+        "video"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.0,
+        "word_overlap": 0.4,
+        "max_copied_run": 2
+      },
+      "top10_rank": 1
+    },
+    {
+      "id": "2122377853215936697",
+      "name": "Higgsfield AI 🧩",
+      "display_name": "Higgsfield AI 🧩",
+      "handle": "@higgsfield_ai",
+      "views": 503556,
+      "views_label": "503,556",
+      "url": "https://x.com/higgsfield_ai/status/2122377853215936697",
+      "created_at": "2026-11-16T17:14:46.000Z",
+      "posted_at": "2026-11-16T17:14:46.000Z",
+      "text": "Introducing Short Drama Studio.\n\nDrop a script → get a full season of short drama.\n\n> Any style, from dark fantasy to 90s high school\n> Same cast in every episode\n> 9:16, 16:9 or 4:3\n\nUp to 65% OFF on Higgsfield for Black Friday.\n\nAvailable now on Higgsfield and in Claude and ChatGPT via Higgsfield MCP.",
+      "original_en": "Introducing Short Drama Studio.\n\nDrop a script → get a full season of short drama.\n\n> Any style, from dark fantasy to 90s high school\n> Same cast in every episode\n> 9:16, 16:9 or 4:3\n\nUp to 65% OFF on Higgsfield for Black Friday.\n\nAvailable now on Higgsfield and in Claude and ChatGPT via Higgsfield MCP.",
+      "lang": "en",
+      "hook": "Higgsfield launches Short Drama Studio: drop a script, get a full season of short drama - any style, same cast in every episode, 9:16/16:9/4:3, Black Friday discount - 503.6K views, 733 bookmarks.",
+      "video_tip": "Test a season-in-one-go tool on a 3-episode 40K mini-drama with one fixed cast (Commissar, Sister, Space Marine) and post episode 1.",
+      "media": "video",
+      "followers_count": 256473,
+      "likes": 1554,
+      "reposts": 332,
+      "bookmarks": 733,
+      "replies": 137,
+      "quotes": 57,
+      "self_quote": false,
+      "board_rank": 2,
+      "draft_en": "Short Drama Studio is live on Higgsfield: hand it a script and it returns a whole season of short drama.\n\nThe cast stays put across episodes, the style is your call - dark fantasy, 90s high school, anything - and you can export vertical 9:16, 4:3 or 16:9.\n\nUse it on Higgsfield directly, or inside Claude and ChatGPT through the Higgsfield MCP. Black Friday pricing takes up to 65% off.",
+      "draft_keywords": [
+        "Short Drama Studio",
+        "Short Drama",
+        "Higgsfield",
+        "Claude",
+        "ChatGPT",
+        "Black Friday"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.029,
+        "word_overlap": 0.529,
+        "max_copied_run": 4
+      },
+      "top10_rank": 2
+    },
+    {
+      "id": "2122144086220222792",
+      "name": "Kent Dhani",
+      "display_name": "Kent Dhani",
+      "handle": "@kentdhani",
+      "views": 98105,
+      "views_label": "98,105",
+      "url": "https://x.com/kentdhani/status/2122144086220222792",
+      "created_at": "2026-11-16T01:45:52.000Z",
+      "posted_at": "2026-11-16T01:45:52.000Z",
+      "text": "It is insane..\n\nMiniMax H3 achieved a similar result compared to Seedance 2.5 with cheaper price. Which do you think is better?\n\nMiniMax H3 ran locally using RTX5090 https://t.co/lsSCORYRm6 https://t.co/a8tMPv8SSS",
+      "original_en": "It is insane..\n\nMiniMax H3 achieved a similar result compared to Seedance 2.5 with cheaper price. Which do you think is better?\n\nMiniMax H3 ran locally using RTX5090 https://t.co/lsSCORYRm6 https://t.co/a8tMPv8SSS",
+      "lang": "en",
+      "hook": "Model shoot-out quote: 'MiniMax H3 achieved a similar result compared to Seedance 2.5 with cheaper price' plus 'ran locally using RTX5090' and a 'which is better?' question - 98.1K views, 436 bookmarks.",
+      "video_tip": "Run the same 40K shot through two models (Seedance 2.5 vs MiniMax H3), post them side by side and end with 'which one?' - comparisons pull bookmarks.",
+      "media": "video",
+      "followers_count": 1881,
+      "likes": 425,
+      "reposts": 30,
+      "bookmarks": 436,
+      "replies": 14,
+      "quotes": 2,
+      "self_quote": false,
+      "board_rank": 3,
+      "draft_en": "Which is better: MiniMax H3 or Seedance 2.5?\n\nThe MiniMax H3 video lands close to the Seedance 2.5 result at a lower price - and this one ran locally on an RTX5090. Honestly insane.",
+      "draft_keywords": [
+        "MiniMax H3",
+        "Seedance 2.5",
+        "video"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.033,
+        "word_overlap": 0.667,
+        "max_copied_run": 4
+      },
+      "top10_rank": 3
+    },
+    {
+      "id": "2122620646975005175",
+      "name": "BytePlus",
+      "display_name": "BytePlus",
+      "handle": "@BytePlusGlobal",
+      "views": 63756,
+      "views_label": "63,756",
+      "url": "https://x.com/BytePlusGlobal/status/2122620646975005175",
+      "created_at": "2026-11-17T09:19:33.000Z",
+      "posted_at": "2026-11-17T09:19:33.000Z",
+      "text": "More possibilities. Made for the big screen. 🎬\nSee Seedance 2.5 in action below, with 4K video generation now available via API.\nGo ahead, zoom in! https://t.co/yxeGssvMUK",
+      "original_en": "More possibilities. Made for the big screen. 🎬\nSee Seedance 2.5 in action below, with 4K video generation now available via API.\nGo ahead, zoom in! https://t.co/yxeGssvMUK",
+      "lang": "en",
+      "hook": "Official model news: Seedance 2.5 4K generation now available via API, framed as 'Made for the big screen... Go ahead, zoom in!' - 63.8K views but only 126 likes (promoted-looking reach).",
+      "video_tip": "Render one key 40K frame in 4K and post a zoom-in crop next to the full shot - 'zoom in' invites rewatching.",
+      "media": "video",
+      "followers_count": 22267,
+      "likes": 126,
+      "reposts": 55,
+      "bookmarks": 52,
+      "replies": 11,
+      "quotes": 82,
+      "self_quote": false,
+      "board_rank": 4,
+      "draft_en": "Seedance 2.5 can now generate 4K video through the API - built for the big screen, with a lot more room to play. Zoom in on the clip below.",
+      "draft_keywords": [
+        "Seedance 2.5",
+        "video"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.04,
+        "word_overlap": 0.5,
+        "max_copied_run": 4
+      },
+      "top10_rank": 4
+    },
+    {
+      "id": "2122441171771265172",
+      "name": "Higgsfield AI 🧩",
+      "display_name": "Higgsfield AI 🧩",
+      "handle": "@higgsfield",
+      "views": 58275,
+      "views_label": "58,275",
+      "url": "https://x.com/higgsfield/status/2122441171771265172",
+      "created_at": "2026-11-16T21:26:23.000Z",
+      "posted_at": "2026-11-16T21:26:23.000Z",
+      "text": "10 days left to enter the $1,000,000 Higgsfield Talent Contest.\n\nHow to enter:\n\n&gt; Make a 3-7 min film, any genre or style\n&gt; Submit by Nov 26\n\nBuild it in public on Higgsfield → standout projects earn up to 100K credits.\n\nNow with up to 65% off for Black Friday. https://t.co/q2fTfFO5Oh",
+      "original_en": "10 days left to enter the $1,000,000 Higgsfield Talent Contest.\n\nHow to enter:\n\n&gt; Make a 3-7 min film, any genre or style\n&gt; Submit by Nov 26\n\nBuild it in public on Higgsfield → standout projects earn up to 100K credits.\n\nNow with up to 65% off for Black Friday. https://t.co/q2fTfFO5Oh",
+      "lang": "en",
+      "hook": "Higgsfield's $1,000,000 Talent Contest reminder: make a 3-7 min film, any genre, submit by Nov 26, build it in public - 58.3K views.",
+      "video_tip": "A 3-7 min 40K film fits this brief; build it in public with daily progress posts until Nov 26.",
+      "media": "video",
+      "followers_count": 158949,
+      "likes": 579,
+      "reposts": 245,
+      "bookmarks": 198,
+      "replies": 41,
+      "quotes": 5,
+      "self_quote": false,
+      "board_rank": 5,
+      "draft_en": "Higgsfield's Talent Contest, $1,000,000 on the line, closes in 10 days.\n\nThe brief: a film of 3-7 min, whatever genre or style you like, submitted by Nov 26. Make it publicly on Higgsfield as you go, and the strongest projects can win up to 100K credits.\n\nBlack Friday pricing is up to 65% off too.",
+      "draft_keywords": [
+        "Higgsfield",
+        "Black Friday"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.037,
+        "word_overlap": 0.6,
+        "max_copied_run": 4
+      },
+      "top10_rank": 5
+    },
+    {
+      "id": "2122619317942718838",
+      "name": "Nelly;",
+      "display_name": "Nelly;",
+      "handle": "@nrqa__",
+      "views": 38857,
+      "views_label": "38,857",
+      "url": "https://x.com/nrqa__/status/2122619317942718838",
+      "created_at": "2026-11-17T09:14:16.000Z",
+      "posted_at": "2026-11-17T09:14:16.000Z",
+      "text": "be a new creator with $5 and an empty feed\n\n> open Vivix W1 | @VivixLabs_HQ\n> drop in a trending video as your reference\n> it follows the motion and pacing, output comes back polished\n> put your own spin on it and generate quickly\n> post, check what lands, run it again\n\n$5 gets you 100 ten-second videos. That's 100 chances to experiment with a trend for the price of a coffee.\n\nhow fast could you grow an account (and start earning from it) when you can test so many creative ideas without a big production budget?\n\npick a trend, make it your own, and post your first video with https://t.co/ITduHyocQI",
+      "original_en": "be a new creator with $5 and an empty feed\n\n> open Vivix W1 | @VivixLabs_HQ\n> drop in a trending video as your reference\n> it follows the motion and pacing, output comes back polished\n> put your own spin on it and generate quickly\n> post, check what lands, run it again\n\n$5 gets you 100 ten-second videos. That's 100 chances to experiment with a trend for the price of a coffee.\n\nhow fast could you grow an account (and start earning from it) when you can test so many creative ideas without a big production budget?\n\npick a trend, make it your own, and post your first video with https://t.co/ITduHyocQI",
+      "lang": "en",
+      "hook": "Sponsored-style creator pitch for Vivix W1: drop a trending video as reference, it follows motion and pacing, '$5 gets you 100 ten-second videos' - 38.9K views, 2 bookmarks.",
+      "video_tip": "Use a reference-motion tool to match the pacing of a trending clip, then reskin it in 40K - keep the motion, change the world.",
+      "media": "video",
+      "followers_count": 76380,
+      "likes": 118,
+      "reposts": 17,
+      "bookmarks": 2,
+      "replies": 20,
+      "quotes": 0,
+      "self_quote": false,
+      "board_rank": 7,
+      "draft_en": "An empty feed and $5 - enough to start testing trends.\n\nOpen Vivix W1 (@VivixLabs_HQ), feed it a trending video as the reference, and it copies the motion and pacing and hands back a polished clip. Add your own twist, generate fast, post, see what works, repeat.\n\n$5 buys 100 ten-second videos - 100 shots at a trend for coffee money. With that many cheap tests and no big production budget, how quickly could an account grow and start earning?\n\nPick a trend, make it yours, and post your first one with Vivix W1.",
+      "draft_keywords": [
+        "video"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.078,
+        "word_overlap": 0.628,
+        "max_copied_run": 5
+      },
+      "top10_rank": 7
+    },
+    {
+      "id": "2122258920915820919",
+      "name": "AmirMušić",
+      "display_name": "AmirMušić",
+      "handle": "@AmirMushich",
+      "views": 37386,
+      "views_label": "37,386",
+      "url": "https://x.com/AmirMushich/status/2122258920915820919",
+      "created_at": "2026-11-16T09:22:11.000Z",
+      "posted_at": "2026-11-16T09:22:11.000Z",
+      "text": "30 minutes from a text prompt to a full asset kit for my game level\n\n@tripoai Tripo Agentic Canvas ran the whole chain:\nscene concept → asset breakdown → 12 textured 3D models\nI laid them out in Blender & shipped as a new level in my browser shooter\n\nPlay: https://t.co/iVWiZUkA4G\n\nSign up through my link within 24 hours of signing up for 500 free credits and 60% off your first month\nhttps://t.co/Mii2LbcdWU",
+      "original_en": "30 minutes from a text prompt to a full asset kit for my game level\n\n@tripoai Tripo Agentic Canvas ran the whole chain:\nscene concept → asset breakdown → 12 textured 3D models\nI laid them out in Blender & shipped as a new level in my browser shooter\n\nPlay: https://t.co/iVWiZUkA4G\n\nSign up through my link within 24 hours of signing up for 500 free credits and 60% off your first month\nhttps://t.co/Mii2LbcdWU",
+      "lang": "en",
+      "hook": "Tripo Agentic Canvas walkthrough: '30 minutes from a text prompt to a full asset kit for my game level' - 12 textured 3D models shipped into a browser shooter, with an affiliate link - 37.4K views.",
+      "video_tip": "Turn one 40K character sheet into a 3D model and show the 30-minute pipeline from prompt to turnaround.",
+      "media": "video",
+      "followers_count": 93500,
+      "likes": 173,
+      "reposts": 10,
+      "bookmarks": 70,
+      "replies": 14,
+      "quotes": 1,
+      "self_quote": false,
+      "board_rank": 8,
+      "draft_en": "From a single text prompt to a playable game level in 30 minutes.\n\nTripo Agentic Canvas by @tripoai took care of every step: it sketched the scene concept, split it into an asset breakdown and produced 12 textured 3D models. Drop those into Blender, arrange the layout, and a browser shooter gets a fresh level.\n\nIf you make games, this pipeline deserves a closer look.",
+      "draft_keywords": [
+        "models"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.032,
+        "word_overlap": 0.5,
+        "max_copied_run": 4
+      },
+      "top10_rank": 8
+    },
+    {
+      "id": "2122335176286187925",
+      "name": "𝐍𝐚𝐯𝐞𝐞 𝐀𝐢",
+      "display_name": "𝐍𝐚𝐯𝐞𝐞 𝐀𝐢",
+      "handle": "@navi_Ai2",
+      "views": 31687,
+      "views_label": "31,687",
+      "url": "https://x.com/navi_Ai2/status/2122335176286187925",
+      "created_at": "2026-11-16T14:25:11.000Z",
+      "posted_at": "2026-11-16T14:25:11.000Z",
+      "text": "Sometimes love means standing up for the person who matters most. ❤️\n\nCreated this using seedance 2.5 on @frameo_ai \n\n#MadeWithFrameo\n\nPrompt \n\nCreate a 30-second ultra-realistic Korean romantic action short film.\n\nScene 1 (0–10 seconds):\nA young Korean couple walks together on a https://t.co/Wt4q9RJf4w",
+      "original_en": "Sometimes love means standing up for the person who matters most. ❤️\n\nCreated this using seedance 2.5 on @frameo_ai \n\n#MadeWithFrameo\n\nPrompt \n\nCreate a 30-second ultra-realistic Korean romantic action short film.\n\nScene 1 (0–10 seconds):\nA young Korean couple walks together on a https://t.co/Wt4q9RJf4w",
+      "lang": "en",
+      "hook": "30s Seedance 2.5 Korean romantic-action short ('Sometimes love means standing up for the person who matters most') with the full scene prompt - 31.7K views, 59 replies.",
+      "video_tip": "Open a 30s 40K short with an emotional one-liner (loyalty, sacrifice) instead of the lore, and paste the scene-by-scene prompt below.",
+      "media": "video",
+      "followers_count": 51824,
+      "likes": 218,
+      "reposts": 27,
+      "bookmarks": 66,
+      "replies": 59,
+      "quotes": 0,
+      "self_quote": false,
+      "board_rank": 9,
+      "draft_en": "Love sometimes means stepping in front of the person you care about most.\n\nWatch this 30-second Korean romantic action short, generated in Seedance 2.5 on @frameo_ai. The prompt kicks off with a young Korean couple strolling side by side. #MadeWithFrameo",
+      "draft_keywords": [
+        "30-second",
+        "Seedance 2.5",
+        "Korean couple"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.105,
+        "word_overlap": 0.667,
+        "max_copied_run": 5
+      },
+      "top10_rank": 9
+    },
+    {
+      "id": "2122005567455834138",
+      "name": "NΞXUS",
+      "display_name": "NΞXUS",
+      "handle": "@NEXUS_TO_NOVA",
+      "views": 24171,
+      "views_label": "24,171",
+      "url": "https://x.com/NEXUS_TO_NOVA/status/2122005567455834138",
+      "created_at": "2026-11-15T16:35:26.000Z",
+      "posted_at": "2026-11-15T16:35:26.000Z",
+      "text": "Tell me if I'm wrong. \n\nThe reason your AI films still have that \"AI look\" is because you're relying on Nano Banana and ChatGPT images.\n\nThese models aren't good enough to give you this cinematic aesthetic on their own.\n\nImage created with: @midjourney and @krea_ai 2 https://t.co/9oVrpE38W2",
+      "original_en": "Tell me if I'm wrong. \n\nThe reason your AI films still have that \"AI look\" is because you're relying on Nano Banana and ChatGPT images.\n\nThese models aren't good enough to give you this cinematic aesthetic on their own.\n\nImage created with: @midjourney and @krea_ai 2 https://t.co/9oVrpE38W2",
+      "lang": "en",
+      "hook": "Contrarian craft take: your AI films have the 'AI look' because you rely on Nano Banana and ChatGPT images; cinematic stills came from Midjourney and Krea - 24.2K views, 170 bookmarks, 60 replies.",
+      "video_tip": "Post a 'tell me if I'm wrong' take on why your 40K stills look cinematic (Midjourney references, lighting) with the clip as proof.",
+      "media": "video",
+      "followers_count": 31442,
+      "likes": 252,
+      "reposts": 10,
+      "bookmarks": 170,
+      "replies": 60,
+      "quotes": 6,
+      "self_quote": false,
+      "board_rank": 10,
+      "draft_en": "Still getting that \"AI look\" in your AI films? Blame the stills: Nano Banana and ChatGPT images can't reach a cinematic aesthetic by themselves.\n\nFor this one the stack was Midjourney plus Krea 2 (@midjourney, @krea_ai). Disagree? Tell me.",
+      "draft_keywords": [
+        "AI films",
+        "Nano Banana",
+        "ChatGPT",
+        "Midjourney"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.054,
+        "word_overlap": 0.579,
+        "max_copied_run": 5
+      },
+      "top10_rank": 10
+    },
+    {
+      "id": "2122474715012853987",
+      "name": "AmirMušić",
+      "display_name": "AmirMušić",
+      "handle": "@AmirMushich",
+      "views": 18057,
+      "views_label": "18,057",
+      "url": "https://x.com/AmirMushich/status/2122474715012853987",
+      "created_at": "2026-11-16T23:39:40.000Z",
+      "posted_at": "2026-11-16T23:39:40.000Z",
+      "text": "Bond. James Bond. Timeless https://t.co/Rs1YenBKnM https://t.co/t6qnPnVZMu",
+      "original_en": "Bond. James Bond. Timeless https://t.co/Rs1YenBKnM https://t.co/t6qnPnVZMu",
+      "lang": "en",
+      "hook": "Five-word caption 'Bond. James Bond. Timeless' quote-posting a Bond-style clip on the day a new Bond casting dominated feeds - 18.1K views.",
+      "video_tip": "Ride a big pop-culture news day with a 40K riff on it and a 3-5 word caption.",
+      "media": "video",
+      "followers_count": 93500,
+      "likes": 131,
+      "reposts": 10,
+      "bookmarks": 47,
+      "replies": 10,
+      "quotes": 3,
+      "self_quote": false,
+      "board_rank": 11
+    },
+    {
+      "id": "2122557799167377548",
+      "name": "Smiling Khan",
+      "display_name": "Smiling Khan",
+      "handle": "@AIwithkhan",
+      "views": 14409,
+      "views_label": "14,409",
+      "url": "https://x.com/AIwithkhan/status/2122557799167377548",
+      "created_at": "2026-11-17T05:09:49.000Z",
+      "posted_at": "2026-11-17T05:09:49.000Z",
+      "text": "I went on a date today 😉 \n\nMade using Seedance 2.5 on @openart_ai \n\nPrompt :\n\nCreate a 30-second, 1080p ultra-realistic early-2000s consumer DV camcorder home video capturing a romantic day between a young adult Korean couple in Seoul during the summer of 2004.\n\n**CHARACTERS:**\nA beautiful Korean woman in her early 20s with long, slightly wavy dark hair, wearing a fitted pastel-pink baby tee, a short white denim skirt, white sneakers and a small shoulder bag. Her boyfriend is a handsome Korean man in his early 20s wearing a loose white T-shirt, relaxed blue jeans, white sneakers and black sunglasses.\n\nMaintain perfectly consistent faces, hairstyles, body proportions and outfits throughout the entire video.\n\n**STORY:**\n\n**Scene 1 – The Arrival:**\nThe video opens with the girl standing outside a small Korean apartment building, looking at her wristwatch and smiling impatiently. Her boyfriend suddenly arrives on an old silver scooter. She laughs, playfully hits his shoulder and climbs onto the back, wrapping her arms around his waist.\n\n**Scene 2 – Summer Ride:**\nThey ride through a beautiful old Seoul neighborhood, passing small shops, street vendors and busy intersections. The camera follows them from a friend's handheld camcorder. They occasionally look back at each other, exchange playful smiles and laugh together.\n\n**Scene 3 – Street Food Date:**\nThey stop at a small Korean street-food stall. He buys her a cup of tteokbokki. She playfully feeds him a piece while laughing. A little sauce accidentally lands near his lips, and she gently wipes it away with her finger. They exchange affectionate looks.\n\n**Scene 4 – Romantic Park Moment:**\nLater, they walk through a quiet park filled with warm summer sunlight. He holds her hand, spins her playfully and pulls her into a warm embrace. She laughs, wraps her arms around his neck and looks into his eyes.\n\nHe gently holds her face with both hands and leans closer. They share a beautiful, passionate yet tender kiss directly on the lips. Their lips remain together for a few seconds as she wraps her arms around his neck. They slowly pull apart, smile shyly and laugh together. Capture the moment naturally with realistic lip contact, facial expressions and believable romantic body language.\n\n**Scene 5 – Final Memories:**\nIn the final scene, they sit together on a park bench during golden hour. She rests her head on his shoulder while he gently kisses her forehead. Suddenly, she notices their friend filming them, reaches toward the camera and laughs playfully. Her boyfriend grins at the camera before the footage abruptly cuts off.\n\n**CAMERA:**\nRaw early-2000s consumer DV camcorder footage, 4:3 aspect ratio, handheld amateur filming, imperfect framing, autofocus hunting, faded summer colors, slightly overexposed highlights, mild digital noise, interlacing artifacts, natural motion blur and occasional accidental zooms. Authentic nostalgic home-video feeling.\n\n**AUDIO:**\nNatural Seoul street ambience, scooter engine, traffic, footsteps, street-food sizzling, vendor conversations, distant children playing, spontaneous laughter and natural Korean conversations. No background music, narration or subtitles.\n\n**REALISM:**\nNatural romantic chemistry, genuine expressions, realistic skin texture, believable kissing movements with actual lip contact, natural hand interactions, consistent facial identity, accurate anatomy and authentic early-2000s Korean street atmosphere.\n\n**NEGATIVE:**\nNudity, explicit sexual content, cartoon, anime, CGI, beauty filters, dramatic cinematic lighting, modern luxury cars, futuristic buildings, changing faces, outfit changes, duplicated characters, distorted hands, unnatural kissing, missed lip contact, morphing objects, teleportation, subtitles, text overlays, watermark or background music.",
+      "original_en": "I went on a date today 😉 \n\nMade using Seedance 2.5 on @openart_ai \n\nPrompt :\n\nCreate a 30-second, 1080p ultra-realistic early-2000s consumer DV camcorder home video capturing a romantic day between a young adult Korean couple in Seoul during the summer of 2004.\n\n**CHARACTERS:**\nA beautiful Korean woman in her early 20s with long, slightly wavy dark hair, wearing a fitted pastel-pink baby tee, a short white denim skirt, white sneakers and a small shoulder bag. Her boyfriend is a handsome Korean man in his early 20s wearing a loose white T-shirt, relaxed blue jeans, white sneakers and black sunglasses.\n\nMaintain perfectly consistent faces, hairstyles, body proportions and outfits throughout the entire video.\n\n**STORY:**\n\n**Scene 1 – The Arrival:**\nThe video opens with the girl standing outside a small Korean apartment building, looking at her wristwatch and smiling impatiently. Her boyfriend suddenly arrives on an old silver scooter. She laughs, playfully hits his shoulder and climbs onto the back, wrapping her arms around his waist.\n\n**Scene 2 – Summer Ride:**\nThey ride through a beautiful old Seoul neighborhood, passing small shops, street vendors and busy intersections. The camera follows them from a friend's handheld camcorder. They occasionally look back at each other, exchange playful smiles and laugh together.\n\n**Scene 3 – Street Food Date:**\nThey stop at a small Korean street-food stall. He buys her a cup of tteokbokki. She playfully feeds him a piece while laughing. A little sauce accidentally lands near his lips, and she gently wipes it away with her finger. They exchange affectionate looks.\n\n**Scene 4 – Romantic Park Moment:**\nLater, they walk through a quiet park filled with warm summer sunlight. He holds her hand, spins her playfully and pulls her into a warm embrace. She laughs, wraps her arms around his neck and looks into his eyes.\n\nHe gently holds her face with both hands and leans closer. They share a beautiful, passionate yet tender kiss directly on the lips. Their lips remain together for a few seconds as she wraps her arms around his neck. They slowly pull apart, smile shyly and laugh together. Capture the moment naturally with realistic lip contact, facial expressions and believable romantic body language.\n\n**Scene 5 – Final Memories:**\nIn the final scene, they sit together on a park bench during golden hour. She rests her head on his shoulder while he gently kisses her forehead. Suddenly, she notices their friend filming them, reaches toward the camera and laughs playfully. Her boyfriend grins at the camera before the footage abruptly cuts off.\n\n**CAMERA:**\nRaw early-2000s consumer DV camcorder footage, 4:3 aspect ratio, handheld amateur filming, imperfect framing, autofocus hunting, faded summer colors, slightly overexposed highlights, mild digital noise, interlacing artifacts, natural motion blur and occasional accidental zooms. Authentic nostalgic home-video feeling.\n\n**AUDIO:**\nNatural Seoul street ambience, scooter engine, traffic, footsteps, street-food sizzling, vendor conversations, distant children playing, spontaneous laughter and natural Korean conversations. No background music, narration or subtitles.\n\n**REALISM:**\nNatural romantic chemistry, genuine expressions, realistic skin texture, believable kissing movements with actual lip contact, natural hand interactions, consistent facial identity, accurate anatomy and authentic early-2000s Korean street atmosphere.\n\n**NEGATIVE:**\nNudity, explicit sexual content, cartoon, anime, CGI, beauty filters, dramatic cinematic lighting, modern luxury cars, futuristic buildings, changing faces, outfit changes, duplicated characters, distorted hands, unnatural kissing, missed lip contact, morphing objects, teleportation, subtitles, text overlays, watermark or background music.",
+      "lang": "en",
+      "hook": "'I went on a date today' - a 30s Seedance 2.5 clip styled as a 2004 consumer DV camcorder home video, full prompt attached - 14.4K views, 52 replies.",
+      "video_tip": "Shoot a 40K scene as found footage: a 2000s camcorder look from a Guardsman's barracks or a hive city market.",
+      "media": "video",
+      "followers_count": 15704,
+      "likes": 103,
+      "reposts": 6,
+      "bookmarks": 44,
+      "replies": 52,
+      "quotes": 1,
+      "self_quote": false,
+      "board_rank": 12
+    },
+    {
+      "id": "2122304736754049295",
+      "name": "Zayan",
+      "display_name": "Zayan",
+      "handle": "@AiWithZayan",
+      "views": 13522,
+      "views_label": "13,522",
+      "url": "https://x.com/AiWithZayan/status/2122304736754049295",
+      "created_at": "2026-11-16T12:24:14.000Z",
+      "posted_at": "2026-11-16T12:24:14.000Z",
+      "text": "A Craftsman's Heart: An Unlikely Friendship with a Tiny Bird.\n\nMade with seedance 2.5.\n\nPrompt:\n\nCreate a heartwarming cinematic 3D animated short film about an elderly craftsman with wooden mechanical hands who discovers a tiny green bird in his cozy workshop. He gently cares https://t.co/bTCECPd9Vw",
+      "original_en": "A Craftsman's Heart: An Unlikely Friendship with a Tiny Bird.\n\nMade with seedance 2.5.\n\nPrompt:\n\nCreate a heartwarming cinematic 3D animated short film about an elderly craftsman with wooden mechanical hands who discovers a tiny green bird in his cozy workshop. He gently cares https://t.co/bTCECPd9Vw",
+      "lang": "en",
+      "hook": "Heartwarming 3D animated short ('A Craftsman's Heart') about an old craftsman with mechanical hands and a tiny bird, Seedance 2.5 plus prompt - 13.5K views.",
+      "video_tip": "Do a gentle 40K vignette: a Tech-Priest repairing a servo-skull that adopts a bird - warmth stands out in a grimdark feed.",
+      "media": "video",
+      "followers_count": 8549,
+      "likes": 141,
+      "reposts": 3,
+      "bookmarks": 3,
+      "replies": 11,
+      "quotes": 0,
+      "self_quote": false,
+      "board_rank": 13
+    },
+    {
+      "id": "2122569119509950524",
+      "name": "el.cine",
+      "display_name": "el.cine",
+      "handle": "@EHuanglu",
+      "views": 12112,
+      "views_label": "12,112",
+      "url": "https://x.com/EHuanglu/status/2122569119509950524",
+      "created_at": "2026-11-17T05:54:48.000Z",
+      "posted_at": "2026-11-17T05:54:48.000Z",
+      "text": "traditional studios are gonna have a hard time explaining their quotes when a 3mins 3D AI animation like this costs $350 now https://t.co/LO6PmQa6hj",
+      "original_en": "traditional studios are gonna have a hard time explaining their quotes when a 3mins 3D AI animation like this costs $350 now https://t.co/LO6PmQa6hj",
+      "lang": "en",
+      "hook": "Cost claim: 'a 3mins 3D AI animation like this costs $350 now' aimed at traditional studio quotes - 12.1K views, 26 replies.",
+      "video_tip": "State the real cost and runtime of your last 40K episode in line one - cost posts start debates.",
+      "media": "video",
+      "followers_count": 152211,
+      "likes": 100,
+      "reposts": 7,
+      "bookmarks": 47,
+      "replies": 26,
+      "quotes": 2,
+      "self_quote": false,
+      "board_rank": 14
+    },
+    {
+      "id": "2122638828204937451",
+      "name": "Ima Studio",
+      "display_name": "Ima Studio",
+      "handle": "@ImaStudio_ai",
+      "views": 11784,
+      "views_label": "11,784",
+      "url": "https://x.com/ImaStudio_ai/status/2122638828204937451",
+      "created_at": "2026-11-17T10:31:48.000Z",
+      "posted_at": "2026-11-17T10:31:48.000Z",
+      "text": "AI-generated lifestyle videos are getting harder to tell apart from real footage. 🌊\n\nA summer day on a yacht, natural movements, candid expressions, and that effortless handheld camera feel.\nBut realism takes more than a good-looking character.\nIt's about getting the movements, lighting, camera angles and small details right.\nI've broken down the workflow and prompts behind this video.\nFull breakdown + prompts 👇",
+      "original_en": "AI-generated lifestyle videos are getting harder to tell apart from real footage. 🌊\n\nA summer day on a yacht, natural movements, candid expressions, and that effortless handheld camera feel.\nBut realism takes more than a good-looking character.\nIt's about getting the movements, lighting, camera angles and small details right.\nI've broken down the workflow and prompts behind this video.\nFull breakdown + prompts 👇",
+      "lang": "en",
+      "hook": "Lifestyle realism showcase (a yacht day, handheld feel) with a full workflow-and-prompts breakdown thread - 11.8K views, 13 likes (promoted-looking).",
+      "video_tip": "Add a short 'how I got the handheld feel' breakdown under a realistic 40K clip.",
+      "media": "video",
+      "followers_count": 2838,
+      "likes": 13,
+      "reposts": 4,
+      "bookmarks": 10,
+      "replies": 5,
+      "quotes": 0,
+      "self_quote": false,
+      "board_rank": 15
+    },
+    {
+      "id": "2122052900763607294",
+      "name": "AmirMušić",
+      "display_name": "AmirMušić",
+      "handle": "@AmirMushich",
+      "views": 10972,
+      "views_label": "10,972",
+      "url": "https://x.com/AmirMushich/status/2122052900763607294",
+      "created_at": "2026-11-15T19:43:32.000Z",
+      "posted_at": "2026-11-15T19:43:32.000Z",
+      "text": "Yes, you can create such videos just with 1 prompt:\n\n1/ Paste the prompt to Claude\n2/ Change [OBJECT] variable\n3/ Done\n\nPrompt (v2): https://t.co/24v7kHC0WI https://t.co/Yusof6W5gI https://t.co/oc6Buc9OH6",
+      "original_en": "Yes, you can create such videos just with 1 prompt:\n\n1/ Paste the prompt to Claude\n2/ Change [OBJECT] variable\n3/ Done\n\nPrompt (v2): https://t.co/24v7kHC0WI https://t.co/Yusof6W5gI https://t.co/oc6Buc9OH6",
+      "lang": "en",
+      "hook": "One-prompt recipe: paste the prompt into Claude, change the [OBJECT] variable, done - 11.0K views, 276 bookmarks.",
+      "video_tip": "Share a reusable 40K prompt template with one swappable variable ([CHAPTER] or [FACTION]) - templates get saved.",
+      "media": "video",
+      "followers_count": 93500,
+      "likes": 290,
+      "reposts": 18,
+      "bookmarks": 276,
+      "replies": 18,
+      "quotes": 1,
+      "self_quote": false,
+      "board_rank": 16
+    },
+    {
+      "id": "2122585037862510614",
+      "name": "Kling AI",
+      "display_name": "Kling AI",
+      "handle": "@Kling_ai",
+      "views": 5698,
+      "views_label": "5,698",
+      "url": "https://x.com/Kling_ai/status/2122585037862510614",
+      "created_at": "2026-11-17T06:58:03.000Z",
+      "posted_at": "2026-11-17T06:58:03.000Z",
+      "text": "Time to rewrite the script. ✍️\n\nJoin the Short Drama Festival 2 for a chance to win the $20,000 Grand Prize! #Kling4 #KlingAI https://t.co/MCJQMmF0CX",
+      "original_en": "Time to rewrite the script. ✍️\n\nJoin the Short Drama Festival 2 for a chance to win the $20,000 Grand Prize! #Kling4 #KlingAI https://t.co/MCJQMmF0CX",
+      "lang": "en",
+      "hook": "Kling announces Short Drama Festival 2 with a $20,000 grand prize - 5.7K views.",
+      "video_tip": "Enter one 40K short drama in the Kling festival and post it as an entry.",
+      "media": "text",
+      "followers_count": 139236,
+      "likes": 61,
+      "reposts": 5,
+      "bookmarks": 27,
+      "replies": 8,
+      "quotes": 0,
+      "self_quote": false,
+      "board_rank": 17
+    },
+    {
+      "id": "2122713651471897044",
+      "name": "Higgsfield AI 🧩",
+      "display_name": "Higgsfield AI 🧩",
+      "handle": "@higgsfield_ai",
+      "views": 3862,
+      "views_label": "3,862",
+      "url": "https://x.com/higgsfield_ai/status/2122713651471897044",
+      "created_at": "2026-11-17T15:29:07.000Z",
+      "posted_at": "2026-11-17T15:29:07.000Z",
+      "text": "The hardest part of an AI film is making it not look like AI.\n\nOur new film, \"You Think You're Too Late?\"\n\n🧵 Here's how we pulled it off: https://t.co/PRxKwJ6c6R",
+      "original_en": "The hardest part of an AI film is making it not look like AI.\n\nOur new film, \"You Think You're Too Late?\"\n\n🧵 Here's how we pulled it off: https://t.co/PRxKwJ6c6R",
+      "lang": "en",
+      "hook": "Higgsfield's own film 'You Think You're Too Late?' opened with 'The hardest part of an AI film is making it not look like AI' and a how-we-did-it thread - 3.9K views.",
+      "video_tip": "Lead with the craft problem you solved (consistent armor, real lighting) and thread the fixes.",
+      "media": "video",
+      "followers_count": 256474,
+      "likes": 28,
+      "reposts": 3,
+      "bookmarks": 8,
+      "replies": 9,
+      "quotes": 0,
+      "self_quote": false,
+      "board_rank": 18
+    },
+    {
+      "id": "2122373182887977149",
+      "name": "Heather Cooper",
+      "display_name": "Heather Cooper",
+      "handle": "@HBCoop_",
+      "views": 3249,
+      "views_label": "3,249",
+      "url": "https://x.com/HBCoop_/status/2122373182887977149",
+      "created_at": "2026-11-16T16:56:13.000Z",
+      "posted_at": "2026-11-16T16:56:13.000Z",
+      "text": "A sneak peek at episode 1 of Blackwater, a sci-fi series I've been developing.\n\nI made the reference images in Midjourney and Nano Banana Pro, then the shots in Seedance 2.5 in Dreamina.\n\nHere are three problems I hit along the way and how I fixed them in the post below👇 https://t.co/GSdll0Cg1L",
+      "original_en": "A sneak peek at episode 1 of Blackwater, a sci-fi series I've been developing.\n\nI made the reference images in Midjourney and Nano Banana Pro, then the shots in Seedance 2.5 in Dreamina.\n\nHere are three problems I hit along the way and how I fixed them in the post below👇 https://t.co/GSdll0Cg1L",
+      "lang": "en",
+      "hook": "Episode 1 sneak peek of 'Blackwater', a sci-fi series: Midjourney and Nano Banana Pro references, shots in Seedance 2.5 in Dreamina, three problems and fixes - 3.2K views.",
+      "video_tip": "Frame your 40K shorts as a numbered series with an episode 1 teaser and 'three problems I hit' notes.",
+      "media": "video",
+      "followers_count": 54698,
+      "likes": 77,
+      "reposts": 3,
+      "bookmarks": 28,
+      "replies": 15,
+      "quotes": 1,
+      "self_quote": false,
+      "board_rank": 19
+    },
+    {
+      "id": "2122707362603794601",
+      "name": "Kling AI",
+      "display_name": "Kling AI",
+      "handle": "@Kling_ai",
+      "views": 2772,
+      "views_label": "2,772",
+      "url": "https://x.com/Kling_ai/status/2122707362603794601",
+      "created_at": "2026-11-17T15:04:07.000Z",
+      "posted_at": "2026-11-17T15:04:07.000Z",
+      "text": "What lives within a moment? What worlds exist beyond a frame?\n\nMeet Kling Image 4.0. https://t.co/X8XNMn5mkU",
+      "original_en": "What lives within a moment? What worlds exist beyond a frame?\n\nMeet Kling Image 4.0. https://t.co/X8XNMn5mkU",
+      "lang": "en",
+      "hook": "Kling Image 4.0 launch: 'What lives within a moment? What worlds exist beyond a frame?' - 2.8K views shortly after posting.",
+      "video_tip": "Test Kling Image 4.0 on a 40K character sheet on day one and post a comparison.",
+      "media": "video",
+      "followers_count": 139236,
+      "likes": 51,
+      "reposts": 15,
+      "bookmarks": 4,
+      "replies": 6,
+      "quotes": 10,
+      "self_quote": false,
+      "board_rank": 20
+    },
+    {
+      "id": "2122638915236769972",
+      "name": "OscarAI",
+      "display_name": "OscarAI",
+      "handle": "@Artedeingenio",
+      "views": 1905,
+      "views_label": "1,905",
+      "url": "https://x.com/Artedeingenio/status/2122638915236769972",
+      "created_at": "2026-11-17T10:32:08.000Z",
+      "posted_at": "2026-11-17T10:32:08.000Z",
+      "text": "🎨 Style Reference: --sref 1012767024\n\nA stunning Midjourney style with echoes of Moebius, Enki Bilal, and classic Franco-Belgian comics.\n\nDelicate ink work, earthy color palettes, expressive faces, and a subtle cinematic atmosphere. https://t.co/yLytldiUCa",
+      "original_en": "🎨 Style Reference: --sref 1012767024\n\nA stunning Midjourney style with echoes of Moebius, Enki Bilal, and classic Franco-Belgian comics.\n\nDelicate ink work, earthy color palettes, expressive faces, and a subtle cinematic atmosphere. https://t.co/yLytldiUCa",
+      "lang": "en",
+      "hook": "Midjourney style reference --sref 1012767024 with Moebius, Enki Bilal and Franco-Belgian comic echoes - 1.9K views, 42 bookmarks.",
+      "video_tip": "Try a Moebius-style 40K set - a Franco-Belgian comic look on Imperial pilgrims would be distinctive.",
+      "media": "4 photos",
+      "followers_count": 66100,
+      "likes": 50,
+      "reposts": 2,
+      "bookmarks": 42,
+      "replies": 6,
+      "quotes": 0,
+      "self_quote": false,
+      "board_rank": 21
+    }
+  ],
+  "outsiders_count": 20,
+  "virals": [
+    {
+      "id": "2122426594497384807",
+      "name": "𝑸𝑼𝑬𝑬𝑵 𝑴𝑶𝑻𝑯𝑬𝑹 👑🌬️",
+      "display_name": "𝑸𝑼𝑬𝑬𝑵 𝑴𝑶𝑻𝑯𝑬𝑹 👑🌬️",
+      "handle": "@chinazaa14",
+      "views": 1001090,
+      "views_label": "1,001,090",
+      "url": "https://x.com/chinazaa14/status/2122426594497384807",
+      "created_at": "2026-11-16T20:28:27.000Z",
+      "posted_at": "2026-11-16T20:28:27.000Z",
+      "text": "AI filmmaking is getting wild 😳😳 https://t.co/a3cWVN1RjU",
+      "original_en": "AI filmmaking is getting wild 😳😳 https://t.co/a3cWVN1RjU",
+      "lang": "en",
+      "hook": "Aggregator repost of an uncredited AI clip with a five-word caption 'AI filmmaking is getting wild' - 1.0M views, 1,230 bookmarks, 92 replies.",
+      "video_tip": "The broadest reach went to a short, surprising clip with a reaction caption; cut your most jaw-dropping 40K shot to 10-20s and caption it like a viewer, not a creator.",
+      "media": "video",
+      "followers_count": 31332,
+      "likes": 3078,
+      "reposts": 224,
+      "bookmarks": 1230,
+      "replies": 92,
+      "quotes": 8,
+      "self_quote": false,
+      "board_rank": 1,
+      "draft_en": "Wild times for AI filmmaking. Just watch this video.",
+      "draft_keywords": [
+        "AI filmmaking",
+        "video"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.0,
+        "word_overlap": 0.4,
+        "max_copied_run": 2
+      },
+      "top10_rank": 1,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "note": "",
+        "topic": "Reaction-caption clips"
+      }
+    },
+    {
+      "id": "2122377853215936697",
+      "name": "Higgsfield AI 🧩",
+      "display_name": "Higgsfield AI 🧩",
+      "handle": "@higgsfield_ai",
+      "views": 503556,
+      "views_label": "503,556",
+      "url": "https://x.com/higgsfield_ai/status/2122377853215936697",
+      "created_at": "2026-11-16T17:14:46.000Z",
+      "posted_at": "2026-11-16T17:14:46.000Z",
+      "text": "Introducing Short Drama Studio.\n\nDrop a script → get a full season of short drama.\n\n> Any style, from dark fantasy to 90s high school\n> Same cast in every episode\n> 9:16, 16:9 or 4:3\n\nUp to 65% OFF on Higgsfield for Black Friday.\n\nAvailable now on Higgsfield and in Claude and ChatGPT via Higgsfield MCP.",
+      "original_en": "Introducing Short Drama Studio.\n\nDrop a script → get a full season of short drama.\n\n> Any style, from dark fantasy to 90s high school\n> Same cast in every episode\n> 9:16, 16:9 or 4:3\n\nUp to 65% OFF on Higgsfield for Black Friday.\n\nAvailable now on Higgsfield and in Claude and ChatGPT via Higgsfield MCP.",
+      "lang": "en",
+      "hook": "Higgsfield launches Short Drama Studio: drop a script, get a full season of short drama - any style, same cast in every episode, 9:16/16:9/4:3, Black Friday discount - 503.6K views, 733 bookmarks.",
+      "video_tip": "Test a season-in-one-go tool on a 3-episode 40K mini-drama with one fixed cast (Commissar, Sister, Space Marine) and post episode 1.",
+      "media": "video",
+      "followers_count": 256473,
+      "likes": 1554,
+      "reposts": 332,
+      "bookmarks": 733,
+      "replies": 137,
+      "quotes": 57,
+      "self_quote": false,
+      "board_rank": 2,
+      "draft_en": "Short Drama Studio is live on Higgsfield: hand it a script and it returns a whole season of short drama.\n\nThe cast stays put across episodes, the style is your call - dark fantasy, 90s high school, anything - and you can export vertical 9:16, 4:3 or 16:9.\n\nUse it on Higgsfield directly, or inside Claude and ChatGPT through the Higgsfield MCP. Black Friday pricing takes up to 65% off.",
+      "draft_keywords": [
+        "Short Drama Studio",
+        "Short Drama",
+        "Higgsfield",
+        "Claude",
+        "ChatGPT",
+        "Black Friday"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.029,
+        "word_overlap": 0.529,
+        "max_copied_run": 4
+      },
+      "top10_rank": 2,
+      "why_hit": {
+        "trend_match": 88,
+        "verdict": "trend",
+        "matched_keywords": [
+          "Short Drama",
+          "Higgsfield",
+          "Black Friday",
+          "ChatGPT",
+          "Claude"
+        ],
+        "media": "video",
+        "note": "",
+        "topic": "Short drama as the pushed format"
+      }
+    },
+    {
+      "id": "2122144086220222792",
+      "name": "Kent Dhani",
+      "display_name": "Kent Dhani",
+      "handle": "@kentdhani",
+      "views": 98105,
+      "views_label": "98,105",
+      "url": "https://x.com/kentdhani/status/2122144086220222792",
+      "created_at": "2026-11-16T01:45:52.000Z",
+      "posted_at": "2026-11-16T01:45:52.000Z",
+      "text": "It is insane..\n\nMiniMax H3 achieved a similar result compared to Seedance 2.5 with cheaper price. Which do you think is better?\n\nMiniMax H3 ran locally using RTX5090 https://t.co/lsSCORYRm6 https://t.co/a8tMPv8SSS",
+      "original_en": "It is insane..\n\nMiniMax H3 achieved a similar result compared to Seedance 2.5 with cheaper price. Which do you think is better?\n\nMiniMax H3 ran locally using RTX5090 https://t.co/lsSCORYRm6 https://t.co/a8tMPv8SSS",
+      "lang": "en",
+      "hook": "Model shoot-out quote: 'MiniMax H3 achieved a similar result compared to Seedance 2.5 with cheaper price' plus 'ran locally using RTX5090' and a 'which is better?' question - 98.1K views, 436 bookmarks.",
+      "video_tip": "Run the same 40K shot through two models (Seedance 2.5 vs MiniMax H3), post them side by side and end with 'which one?' - comparisons pull bookmarks.",
+      "media": "video",
+      "followers_count": 1881,
+      "likes": 425,
+      "reposts": 30,
+      "bookmarks": 436,
+      "replies": 14,
+      "quotes": 2,
+      "self_quote": false,
+      "board_rank": 3,
+      "draft_en": "Which is better: MiniMax H3 or Seedance 2.5?\n\nThe MiniMax H3 video lands close to the Seedance 2.5 result at a lower price - and this one ran locally on an RTX5090. Honestly insane.",
+      "draft_keywords": [
+        "MiniMax H3",
+        "Seedance 2.5",
+        "video"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.033,
+        "word_overlap": 0.667,
+        "max_copied_run": 4
+      },
+      "top10_rank": 3,
+      "why_hit": {
+        "trend_match": 35,
+        "verdict": "visual",
+        "matched_keywords": [
+          "Seedance 2.5"
+        ],
+        "media": "video",
+        "note": "",
+        "topic": "Model shoot-outs and 4K"
+      }
+    },
+    {
+      "id": "2122620646975005175",
+      "name": "BytePlus",
+      "display_name": "BytePlus",
+      "handle": "@BytePlusGlobal",
+      "views": 63756,
+      "views_label": "63,756",
+      "url": "https://x.com/BytePlusGlobal/status/2122620646975005175",
+      "created_at": "2026-11-17T09:19:33.000Z",
+      "posted_at": "2026-11-17T09:19:33.000Z",
+      "text": "More possibilities. Made for the big screen. 🎬\nSee Seedance 2.5 in action below, with 4K video generation now available via API.\nGo ahead, zoom in! https://t.co/yxeGssvMUK",
+      "original_en": "More possibilities. Made for the big screen. 🎬\nSee Seedance 2.5 in action below, with 4K video generation now available via API.\nGo ahead, zoom in! https://t.co/yxeGssvMUK",
+      "lang": "en",
+      "hook": "Official model news: Seedance 2.5 4K generation now available via API, framed as 'Made for the big screen... Go ahead, zoom in!' - 63.8K views but only 126 likes (promoted-looking reach).",
+      "video_tip": "Render one key 40K frame in 4K and post a zoom-in crop next to the full shot - 'zoom in' invites rewatching.",
+      "media": "video",
+      "followers_count": 22267,
+      "likes": 126,
+      "reposts": 55,
+      "bookmarks": 52,
+      "replies": 11,
+      "quotes": 82,
+      "self_quote": false,
+      "board_rank": 4,
+      "draft_en": "Seedance 2.5 can now generate 4K video through the API - built for the big screen, with a lot more room to play. Zoom in on the clip below.",
+      "draft_keywords": [
+        "Seedance 2.5",
+        "video"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.04,
+        "word_overlap": 0.5,
+        "max_copied_run": 4
+      },
+      "top10_rank": 4,
+      "why_hit": {
+        "trend_match": 58,
+        "verdict": "trend",
+        "matched_keywords": [
+          "Seedance 2.5",
+          "video"
+        ],
+        "media": "video",
+        "note": "",
+        "topic": "Reaction-caption clips"
+      }
+    },
+    {
+      "id": "2122441171771265172",
+      "name": "Higgsfield AI 🧩",
+      "display_name": "Higgsfield AI 🧩",
+      "handle": "@higgsfield",
+      "views": 58275,
+      "views_label": "58,275",
+      "url": "https://x.com/higgsfield/status/2122441171771265172",
+      "created_at": "2026-11-16T21:26:23.000Z",
+      "posted_at": "2026-11-16T21:26:23.000Z",
+      "text": "10 days left to enter the $1,000,000 Higgsfield Talent Contest.\n\nHow to enter:\n\n&gt; Make a 3-7 min film, any genre or style\n&gt; Submit by Nov 26\n\nBuild it in public on Higgsfield → standout projects earn up to 100K credits.\n\nNow with up to 65% off for Black Friday. https://t.co/q2fTfFO5Oh",
+      "original_en": "10 days left to enter the $1,000,000 Higgsfield Talent Contest.\n\nHow to enter:\n\n&gt; Make a 3-7 min film, any genre or style\n&gt; Submit by Nov 26\n\nBuild it in public on Higgsfield → standout projects earn up to 100K credits.\n\nNow with up to 65% off for Black Friday. https://t.co/q2fTfFO5Oh",
+      "lang": "en",
+      "hook": "Higgsfield's $1,000,000 Talent Contest reminder: make a 3-7 min film, any genre, submit by Nov 26, build it in public - 58.3K views.",
+      "video_tip": "A 3-7 min 40K film fits this brief; build it in public with daily progress posts until Nov 26.",
+      "media": "video",
+      "followers_count": 158949,
+      "likes": 579,
+      "reposts": 245,
+      "bookmarks": 198,
+      "replies": 41,
+      "quotes": 5,
+      "self_quote": false,
+      "board_rank": 5,
+      "draft_en": "Higgsfield's Talent Contest, $1,000,000 on the line, closes in 10 days.\n\nThe brief: a film of 3-7 min, whatever genre or style you like, submitted by Nov 26. Make it publicly on Higgsfield as you go, and the strongest projects can win up to 100K credits.\n\nBlack Friday pricing is up to 65% off too.",
+      "draft_keywords": [
+        "Higgsfield",
+        "Black Friday"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.037,
+        "word_overlap": 0.6,
+        "max_copied_run": 4
+      },
+      "top10_rank": 5,
+      "why_hit": {
+        "trend_match": 58,
+        "verdict": "trend",
+        "matched_keywords": [
+          "Higgsfield",
+          "Black Friday"
+        ],
+        "media": "video",
+        "note": "",
+        "topic": "Short drama as the pushed format"
+      }
+    },
+    {
+      "id": "2122619317942718838",
+      "name": "Nelly;",
+      "display_name": "Nelly;",
+      "handle": "@nrqa__",
+      "views": 38857,
+      "views_label": "38,857",
+      "url": "https://x.com/nrqa__/status/2122619317942718838",
+      "created_at": "2026-11-17T09:14:16.000Z",
+      "posted_at": "2026-11-17T09:14:16.000Z",
+      "text": "be a new creator with $5 and an empty feed\n\n> open Vivix W1 | @VivixLabs_HQ\n> drop in a trending video as your reference\n> it follows the motion and pacing, output comes back polished\n> put your own spin on it and generate quickly\n> post, check what lands, run it again\n\n$5 gets you 100 ten-second videos. That's 100 chances to experiment with a trend for the price of a coffee.\n\nhow fast could you grow an account (and start earning from it) when you can test so many creative ideas without a big production budget?\n\npick a trend, make it your own, and post your first video with https://t.co/ITduHyocQI",
+      "original_en": "be a new creator with $5 and an empty feed\n\n> open Vivix W1 | @VivixLabs_HQ\n> drop in a trending video as your reference\n> it follows the motion and pacing, output comes back polished\n> put your own spin on it and generate quickly\n> post, check what lands, run it again\n\n$5 gets you 100 ten-second videos. That's 100 chances to experiment with a trend for the price of a coffee.\n\nhow fast could you grow an account (and start earning from it) when you can test so many creative ideas without a big production budget?\n\npick a trend, make it your own, and post your first video with https://t.co/ITduHyocQI",
+      "lang": "en",
+      "hook": "Sponsored-style creator pitch for Vivix W1: drop a trending video as reference, it follows motion and pacing, '$5 gets you 100 ten-second videos' - 38.9K views, 2 bookmarks.",
+      "video_tip": "Use a reference-motion tool to match the pacing of a trending clip, then reskin it in 40K - keep the motion, change the world.",
+      "media": "video",
+      "followers_count": 76380,
+      "likes": 118,
+      "reposts": 17,
+      "bookmarks": 2,
+      "replies": 20,
+      "quotes": 0,
+      "self_quote": false,
+      "board_rank": 7,
+      "draft_en": "An empty feed and $5 - enough to start testing trends.\n\nOpen Vivix W1 (@VivixLabs_HQ), feed it a trending video as the reference, and it copies the motion and pacing and hands back a polished clip. Add your own twist, generate fast, post, see what works, repeat.\n\n$5 buys 100 ten-second videos - 100 shots at a trend for coffee money. With that many cheap tests and no big production budget, how quickly could an account grow and start earning?\n\nPick a trend, make it yours, and post your first one with Vivix W1.",
+      "draft_keywords": [
+        "video"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.078,
+        "word_overlap": 0.628,
+        "max_copied_run": 5
+      },
+      "top10_rank": 7,
+      "why_hit": {
+        "trend_match": 35,
+        "verdict": "visual",
+        "matched_keywords": [
+          "video"
+        ],
+        "media": "video",
+        "note": "",
+        "topic": "Reaction-caption clips"
+      }
+    },
+    {
+      "id": "2122258920915820919",
+      "name": "AmirMušić",
+      "display_name": "AmirMušić",
+      "handle": "@AmirMushich",
+      "views": 37386,
+      "views_label": "37,386",
+      "url": "https://x.com/AmirMushich/status/2122258920915820919",
+      "created_at": "2026-11-16T09:22:11.000Z",
+      "posted_at": "2026-11-16T09:22:11.000Z",
+      "text": "30 minutes from a text prompt to a full asset kit for my game level\n\n@tripoai Tripo Agentic Canvas ran the whole chain:\nscene concept → asset breakdown → 12 textured 3D models\nI laid them out in Blender & shipped as a new level in my browser shooter\n\nPlay: https://t.co/iVWiZUkA4G\n\nSign up through my link within 24 hours of signing up for 500 free credits and 60% off your first month\nhttps://t.co/Mii2LbcdWU",
+      "original_en": "30 minutes from a text prompt to a full asset kit for my game level\n\n@tripoai Tripo Agentic Canvas ran the whole chain:\nscene concept → asset breakdown → 12 textured 3D models\nI laid them out in Blender & shipped as a new level in my browser shooter\n\nPlay: https://t.co/iVWiZUkA4G\n\nSign up through my link within 24 hours of signing up for 500 free credits and 60% off your first month\nhttps://t.co/Mii2LbcdWU",
+      "lang": "en",
+      "hook": "Tripo Agentic Canvas walkthrough: '30 minutes from a text prompt to a full asset kit for my game level' - 12 textured 3D models shipped into a browser shooter, with an affiliate link - 37.4K views.",
+      "video_tip": "Turn one 40K character sheet into a 3D model and show the 30-minute pipeline from prompt to turnaround.",
+      "media": "video",
+      "followers_count": 93500,
+      "likes": 173,
+      "reposts": 10,
+      "bookmarks": 70,
+      "replies": 14,
+      "quotes": 1,
+      "self_quote": false,
+      "board_rank": 8,
+      "draft_en": "From a single text prompt to a playable game level in 30 minutes.\n\nTripo Agentic Canvas by @tripoai took care of every step: it sketched the scene concept, split it into an asset breakdown and produced 12 textured 3D models. Drop those into Blender, arrange the layout, and a browser shooter gets a fresh level.\n\nIf you make games, this pipeline deserves a closer look.",
+      "draft_keywords": [
+        "models"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.032,
+        "word_overlap": 0.5,
+        "max_copied_run": 4
+      },
+      "top10_rank": 8,
+      "why_hit": {
+        "trend_match": 22,
+        "verdict": "visual",
+        "matched_keywords": [
+          "models"
+        ],
+        "media": "video",
+        "note": "",
+        "topic": null
+      }
+    },
+    {
+      "id": "2122335176286187925",
+      "name": "𝐍𝐚𝐯𝐞𝐞 𝐀𝐢",
+      "display_name": "𝐍𝐚𝐯𝐞𝐞 𝐀𝐢",
+      "handle": "@navi_Ai2",
+      "views": 31687,
+      "views_label": "31,687",
+      "url": "https://x.com/navi_Ai2/status/2122335176286187925",
+      "created_at": "2026-11-16T14:25:11.000Z",
+      "posted_at": "2026-11-16T14:25:11.000Z",
+      "text": "Sometimes love means standing up for the person who matters most. ❤️\n\nCreated this using seedance 2.5 on @frameo_ai \n\n#MadeWithFrameo\n\nPrompt \n\nCreate a 30-second ultra-realistic Korean romantic action short film.\n\nScene 1 (0–10 seconds):\nA young Korean couple walks together on a https://t.co/Wt4q9RJf4w",
+      "original_en": "Sometimes love means standing up for the person who matters most. ❤️\n\nCreated this using seedance 2.5 on @frameo_ai \n\n#MadeWithFrameo\n\nPrompt \n\nCreate a 30-second ultra-realistic Korean romantic action short film.\n\nScene 1 (0–10 seconds):\nA young Korean couple walks together on a https://t.co/Wt4q9RJf4w",
+      "lang": "en",
+      "hook": "30s Seedance 2.5 Korean romantic-action short ('Sometimes love means standing up for the person who matters most') with the full scene prompt - 31.7K views, 59 replies.",
+      "video_tip": "Open a 30s 40K short with an emotional one-liner (loyalty, sacrifice) instead of the lore, and paste the scene-by-scene prompt below.",
+      "media": "video",
+      "followers_count": 51824,
+      "likes": 218,
+      "reposts": 27,
+      "bookmarks": 66,
+      "replies": 59,
+      "quotes": 0,
+      "self_quote": false,
+      "board_rank": 9,
+      "draft_en": "Love sometimes means stepping in front of the person you care about most.\n\nWatch this 30-second Korean romantic action short, generated in Seedance 2.5 on @frameo_ai. The prompt kicks off with a young Korean couple strolling side by side. #MadeWithFrameo",
+      "draft_keywords": [
+        "30-second",
+        "Seedance 2.5",
+        "Korean couple"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.105,
+        "word_overlap": 0.667,
+        "max_copied_run": 5
+      },
+      "top10_rank": 9,
+      "why_hit": {
+        "trend_match": 67,
+        "verdict": "trend",
+        "matched_keywords": [
+          "Seedance 2.5",
+          "Korean couple",
+          "30-second"
+        ],
+        "media": "video",
+        "note": "",
+        "topic": "Short drama as the pushed format"
+      }
+    },
+    {
+      "id": "2122005567455834138",
+      "name": "NΞXUS",
+      "display_name": "NΞXUS",
+      "handle": "@NEXUS_TO_NOVA",
+      "views": 24171,
+      "views_label": "24,171",
+      "url": "https://x.com/NEXUS_TO_NOVA/status/2122005567455834138",
+      "created_at": "2026-11-15T16:35:26.000Z",
+      "posted_at": "2026-11-15T16:35:26.000Z",
+      "text": "Tell me if I'm wrong. \n\nThe reason your AI films still have that \"AI look\" is because you're relying on Nano Banana and ChatGPT images.\n\nThese models aren't good enough to give you this cinematic aesthetic on their own.\n\nImage created with: @midjourney and @krea_ai 2 https://t.co/9oVrpE38W2",
+      "original_en": "Tell me if I'm wrong. \n\nThe reason your AI films still have that \"AI look\" is because you're relying on Nano Banana and ChatGPT images.\n\nThese models aren't good enough to give you this cinematic aesthetic on their own.\n\nImage created with: @midjourney and @krea_ai 2 https://t.co/9oVrpE38W2",
+      "lang": "en",
+      "hook": "Contrarian craft take: your AI films have the 'AI look' because you rely on Nano Banana and ChatGPT images; cinematic stills came from Midjourney and Krea - 24.2K views, 170 bookmarks, 60 replies.",
+      "video_tip": "Post a 'tell me if I'm wrong' take on why your 40K stills look cinematic (Midjourney references, lighting) with the clip as proof.",
+      "media": "video",
+      "followers_count": 31442,
+      "likes": 252,
+      "reposts": 10,
+      "bookmarks": 170,
+      "replies": 60,
+      "quotes": 6,
+      "self_quote": false,
+      "board_rank": 10,
+      "draft_en": "Still getting that \"AI look\" in your AI films? Blame the stills: Nano Banana and ChatGPT images can't reach a cinematic aesthetic by themselves.\n\nFor this one the stack was Midjourney plus Krea 2 (@midjourney, @krea_ai). Disagree? Tell me.",
+      "draft_keywords": [
+        "AI films",
+        "Nano Banana",
+        "ChatGPT",
+        "Midjourney"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.054,
+        "word_overlap": 0.579,
+        "max_copied_run": 5
+      },
+      "top10_rank": 10,
+      "why_hit": {
+        "trend_match": 49,
+        "verdict": "visual",
+        "matched_keywords": [
+          "ChatGPT",
+          "models"
+        ],
+        "media": "video",
+        "note": "",
+        "topic": "The AI look debate"
+      }
+    },
+    {
+      "id": "2122474715012853987",
+      "name": "AmirMušić",
+      "display_name": "AmirMušić",
+      "handle": "@AmirMushich",
+      "views": 18057,
+      "views_label": "18,057",
+      "url": "https://x.com/AmirMushich/status/2122474715012853987",
+      "created_at": "2026-11-16T23:39:40.000Z",
+      "posted_at": "2026-11-16T23:39:40.000Z",
+      "text": "Bond. James Bond. Timeless https://t.co/Rs1YenBKnM https://t.co/t6qnPnVZMu",
+      "original_en": "Bond. James Bond. Timeless https://t.co/Rs1YenBKnM https://t.co/t6qnPnVZMu",
+      "lang": "en",
+      "hook": "Five-word caption 'Bond. James Bond. Timeless' quote-posting a Bond-style clip on the day a new Bond casting dominated feeds - 18.1K views.",
+      "video_tip": "Ride a big pop-culture news day with a 40K riff on it and a 3-5 word caption.",
+      "media": "video",
+      "followers_count": 93500,
+      "likes": 131,
+      "reposts": 10,
+      "bookmarks": 47,
+      "replies": 10,
+      "quotes": 3,
+      "self_quote": false,
+      "board_rank": 11,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "note": "",
+        "topic": null
+      }
+    },
+    {
+      "id": "2122557799167377548",
+      "name": "Smiling Khan",
+      "display_name": "Smiling Khan",
+      "handle": "@AIwithkhan",
+      "views": 14409,
+      "views_label": "14,409",
+      "url": "https://x.com/AIwithkhan/status/2122557799167377548",
+      "created_at": "2026-11-17T05:09:49.000Z",
+      "posted_at": "2026-11-17T05:09:49.000Z",
+      "text": "I went on a date today 😉 \n\nMade using Seedance 2.5 on @openart_ai \n\nPrompt :\n\nCreate a 30-second, 1080p ultra-realistic early-2000s consumer DV camcorder home video capturing a romantic day between a young adult Korean couple in Seoul during the summer of 2004.\n\n**CHARACTERS:**\nA beautiful Korean woman in her early 20s with long, slightly wavy dark hair, wearing a fitted pastel-pink baby tee, a short white denim skirt, white sneakers and a small shoulder bag. Her boyfriend is a handsome Korean man in his early 20s wearing a loose white T-shirt, relaxed blue jeans, white sneakers and black sunglasses.\n\nMaintain perfectly consistent faces, hairstyles, body proportions and outfits throughout the entire video.\n\n**STORY:**\n\n**Scene 1 – The Arrival:**\nThe video opens with the girl standing outside a small Korean apartment building, looking at her wristwatch and smiling impatiently. Her boyfriend suddenly arrives on an old silver scooter. She laughs, playfully hits his shoulder and climbs onto the back, wrapping her arms around his waist.\n\n**Scene 2 – Summer Ride:**\nThey ride through a beautiful old Seoul neighborhood, passing small shops, street vendors and busy intersections. The camera follows them from a friend's handheld camcorder. They occasionally look back at each other, exchange playful smiles and laugh together.\n\n**Scene 3 – Street Food Date:**\nThey stop at a small Korean street-food stall. He buys her a cup of tteokbokki. She playfully feeds him a piece while laughing. A little sauce accidentally lands near his lips, and she gently wipes it away with her finger. They exchange affectionate looks.\n\n**Scene 4 – Romantic Park Moment:**\nLater, they walk through a quiet park filled with warm summer sunlight. He holds her hand, spins her playfully and pulls her into a warm embrace. She laughs, wraps her arms around his neck and looks into his eyes.\n\nHe gently holds her face with both hands and leans closer. They share a beautiful, passionate yet tender kiss directly on the lips. Their lips remain together for a few seconds as she wraps her arms around his neck. They slowly pull apart, smile shyly and laugh together. Capture the moment naturally with realistic lip contact, facial expressions and believable romantic body language.\n\n**Scene 5 – Final Memories:**\nIn the final scene, they sit together on a park bench during golden hour. She rests her head on his shoulder while he gently kisses her forehead. Suddenly, she notices their friend filming them, reaches toward the camera and laughs playfully. Her boyfriend grins at the camera before the footage abruptly cuts off.\n\n**CAMERA:**\nRaw early-2000s consumer DV camcorder footage, 4:3 aspect ratio, handheld amateur filming, imperfect framing, autofocus hunting, faded summer colors, slightly overexposed highlights, mild digital noise, interlacing artifacts, natural motion blur and occasional accidental zooms. Authentic nostalgic home-video feeling.\n\n**AUDIO:**\nNatural Seoul street ambience, scooter engine, traffic, footsteps, street-food sizzling, vendor conversations, distant children playing, spontaneous laughter and natural Korean conversations. No background music, narration or subtitles.\n\n**REALISM:**\nNatural romantic chemistry, genuine expressions, realistic skin texture, believable kissing movements with actual lip contact, natural hand interactions, consistent facial identity, accurate anatomy and authentic early-2000s Korean street atmosphere.\n\n**NEGATIVE:**\nNudity, explicit sexual content, cartoon, anime, CGI, beauty filters, dramatic cinematic lighting, modern luxury cars, futuristic buildings, changing faces, outfit changes, duplicated characters, distorted hands, unnatural kissing, missed lip contact, morphing objects, teleportation, subtitles, text overlays, watermark or background music.",
+      "original_en": "I went on a date today 😉 \n\nMade using Seedance 2.5 on @openart_ai \n\nPrompt :\n\nCreate a 30-second, 1080p ultra-realistic early-2000s consumer DV camcorder home video capturing a romantic day between a young adult Korean couple in Seoul during the summer of 2004.\n\n**CHARACTERS:**\nA beautiful Korean woman in her early 20s with long, slightly wavy dark hair, wearing a fitted pastel-pink baby tee, a short white denim skirt, white sneakers and a small shoulder bag. Her boyfriend is a handsome Korean man in his early 20s wearing a loose white T-shirt, relaxed blue jeans, white sneakers and black sunglasses.\n\nMaintain perfectly consistent faces, hairstyles, body proportions and outfits throughout the entire video.\n\n**STORY:**\n\n**Scene 1 – The Arrival:**\nThe video opens with the girl standing outside a small Korean apartment building, looking at her wristwatch and smiling impatiently. Her boyfriend suddenly arrives on an old silver scooter. She laughs, playfully hits his shoulder and climbs onto the back, wrapping her arms around his waist.\n\n**Scene 2 – Summer Ride:**\nThey ride through a beautiful old Seoul neighborhood, passing small shops, street vendors and busy intersections. The camera follows them from a friend's handheld camcorder. They occasionally look back at each other, exchange playful smiles and laugh together.\n\n**Scene 3 – Street Food Date:**\nThey stop at a small Korean street-food stall. He buys her a cup of tteokbokki. She playfully feeds him a piece while laughing. A little sauce accidentally lands near his lips, and she gently wipes it away with her finger. They exchange affectionate looks.\n\n**Scene 4 – Romantic Park Moment:**\nLater, they walk through a quiet park filled with warm summer sunlight. He holds her hand, spins her playfully and pulls her into a warm embrace. She laughs, wraps her arms around his neck and looks into his eyes.\n\nHe gently holds her face with both hands and leans closer. They share a beautiful, passionate yet tender kiss directly on the lips. Their lips remain together for a few seconds as she wraps her arms around his neck. They slowly pull apart, smile shyly and laugh together. Capture the moment naturally with realistic lip contact, facial expressions and believable romantic body language.\n\n**Scene 5 – Final Memories:**\nIn the final scene, they sit together on a park bench during golden hour. She rests her head on his shoulder while he gently kisses her forehead. Suddenly, she notices their friend filming them, reaches toward the camera and laughs playfully. Her boyfriend grins at the camera before the footage abruptly cuts off.\n\n**CAMERA:**\nRaw early-2000s consumer DV camcorder footage, 4:3 aspect ratio, handheld amateur filming, imperfect framing, autofocus hunting, faded summer colors, slightly overexposed highlights, mild digital noise, interlacing artifacts, natural motion blur and occasional accidental zooms. Authentic nostalgic home-video feeling.\n\n**AUDIO:**\nNatural Seoul street ambience, scooter engine, traffic, footsteps, street-food sizzling, vendor conversations, distant children playing, spontaneous laughter and natural Korean conversations. No background music, narration or subtitles.\n\n**REALISM:**\nNatural romantic chemistry, genuine expressions, realistic skin texture, believable kissing movements with actual lip contact, natural hand interactions, consistent facial identity, accurate anatomy and authentic early-2000s Korean street atmosphere.\n\n**NEGATIVE:**\nNudity, explicit sexual content, cartoon, anime, CGI, beauty filters, dramatic cinematic lighting, modern luxury cars, futuristic buildings, changing faces, outfit changes, duplicated characters, distorted hands, unnatural kissing, missed lip contact, morphing objects, teleportation, subtitles, text overlays, watermark or background music.",
+      "lang": "en",
+      "hook": "'I went on a date today' - a 30s Seedance 2.5 clip styled as a 2004 consumer DV camcorder home video, full prompt attached - 14.4K views, 52 replies.",
+      "video_tip": "Shoot a 40K scene as found footage: a 2000s camcorder look from a Guardsman's barracks or a hive city market.",
+      "media": "video",
+      "followers_count": 15704,
+      "likes": 103,
+      "reposts": 6,
+      "bookmarks": 44,
+      "replies": 52,
+      "quotes": 1,
+      "self_quote": false,
+      "board_rank": 12,
+      "why_hit": {
+        "trend_match": 79,
+        "verdict": "trend",
+        "matched_keywords": [
+          "Seedance 2.5",
+          "video",
+          "Korean couple",
+          "30-second"
+        ],
+        "media": "video",
+        "note": "",
+        "topic": "Reaction-caption clips"
+      }
+    },
+    {
+      "id": "2122304736754049295",
+      "name": "Zayan",
+      "display_name": "Zayan",
+      "handle": "@AiWithZayan",
+      "views": 13522,
+      "views_label": "13,522",
+      "url": "https://x.com/AiWithZayan/status/2122304736754049295",
+      "created_at": "2026-11-16T12:24:14.000Z",
+      "posted_at": "2026-11-16T12:24:14.000Z",
+      "text": "A Craftsman's Heart: An Unlikely Friendship with a Tiny Bird.\n\nMade with seedance 2.5.\n\nPrompt:\n\nCreate a heartwarming cinematic 3D animated short film about an elderly craftsman with wooden mechanical hands who discovers a tiny green bird in his cozy workshop. He gently cares https://t.co/bTCECPd9Vw",
+      "original_en": "A Craftsman's Heart: An Unlikely Friendship with a Tiny Bird.\n\nMade with seedance 2.5.\n\nPrompt:\n\nCreate a heartwarming cinematic 3D animated short film about an elderly craftsman with wooden mechanical hands who discovers a tiny green bird in his cozy workshop. He gently cares https://t.co/bTCECPd9Vw",
+      "lang": "en",
+      "hook": "Heartwarming 3D animated short ('A Craftsman's Heart') about an old craftsman with mechanical hands and a tiny bird, Seedance 2.5 plus prompt - 13.5K views.",
+      "video_tip": "Do a gentle 40K vignette: a Tech-Priest repairing a servo-skull that adopts a bird - warmth stands out in a grimdark feed.",
+      "media": "video",
+      "followers_count": 8549,
+      "likes": 141,
+      "reposts": 3,
+      "bookmarks": 3,
+      "replies": 11,
+      "quotes": 0,
+      "self_quote": false,
+      "board_rank": 13,
+      "why_hit": {
+        "trend_match": 35,
+        "verdict": "visual",
+        "matched_keywords": [
+          "Seedance 2.5"
+        ],
+        "media": "video",
+        "note": "",
+        "topic": "Short drama as the pushed format"
+      }
+    },
+    {
+      "id": "2122569119509950524",
+      "name": "el.cine",
+      "display_name": "el.cine",
+      "handle": "@EHuanglu",
+      "views": 12112,
+      "views_label": "12,112",
+      "url": "https://x.com/EHuanglu/status/2122569119509950524",
+      "created_at": "2026-11-17T05:54:48.000Z",
+      "posted_at": "2026-11-17T05:54:48.000Z",
+      "text": "traditional studios are gonna have a hard time explaining their quotes when a 3mins 3D AI animation like this costs $350 now https://t.co/LO6PmQa6hj",
+      "original_en": "traditional studios are gonna have a hard time explaining their quotes when a 3mins 3D AI animation like this costs $350 now https://t.co/LO6PmQa6hj",
+      "lang": "en",
+      "hook": "Cost claim: 'a 3mins 3D AI animation like this costs $350 now' aimed at traditional studio quotes - 12.1K views, 26 replies.",
+      "video_tip": "State the real cost and runtime of your last 40K episode in line one - cost posts start debates.",
+      "media": "video",
+      "followers_count": 152211,
+      "likes": 100,
+      "reposts": 7,
+      "bookmarks": 47,
+      "replies": 26,
+      "quotes": 2,
+      "self_quote": false,
+      "board_rank": 14,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "note": "",
+        "topic": null
+      }
+    },
+    {
+      "id": "2122638828204937451",
+      "name": "Ima Studio",
+      "display_name": "Ima Studio",
+      "handle": "@ImaStudio_ai",
+      "views": 11784,
+      "views_label": "11,784",
+      "url": "https://x.com/ImaStudio_ai/status/2122638828204937451",
+      "created_at": "2026-11-17T10:31:48.000Z",
+      "posted_at": "2026-11-17T10:31:48.000Z",
+      "text": "AI-generated lifestyle videos are getting harder to tell apart from real footage. 🌊\n\nA summer day on a yacht, natural movements, candid expressions, and that effortless handheld camera feel.\nBut realism takes more than a good-looking character.\nIt's about getting the movements, lighting, camera angles and small details right.\nI've broken down the workflow and prompts behind this video.\nFull breakdown + prompts 👇",
+      "original_en": "AI-generated lifestyle videos are getting harder to tell apart from real footage. 🌊\n\nA summer day on a yacht, natural movements, candid expressions, and that effortless handheld camera feel.\nBut realism takes more than a good-looking character.\nIt's about getting the movements, lighting, camera angles and small details right.\nI've broken down the workflow and prompts behind this video.\nFull breakdown + prompts 👇",
+      "lang": "en",
+      "hook": "Lifestyle realism showcase (a yacht day, handheld feel) with a full workflow-and-prompts breakdown thread - 11.8K views, 13 likes (promoted-looking).",
+      "video_tip": "Add a short 'how I got the handheld feel' breakdown under a realistic 40K clip.",
+      "media": "video",
+      "followers_count": 2838,
+      "likes": 13,
+      "reposts": 4,
+      "bookmarks": 10,
+      "replies": 5,
+      "quotes": 0,
+      "self_quote": false,
+      "board_rank": 15,
+      "why_hit": {
+        "trend_match": 35,
+        "verdict": "visual",
+        "matched_keywords": [
+          "video"
+        ],
+        "media": "video",
+        "note": "",
+        "topic": "Reaction-caption clips"
+      }
+    },
+    {
+      "id": "2122052900763607294",
+      "name": "AmirMušić",
+      "display_name": "AmirMušić",
+      "handle": "@AmirMushich",
+      "views": 10972,
+      "views_label": "10,972",
+      "url": "https://x.com/AmirMushich/status/2122052900763607294",
+      "created_at": "2026-11-15T19:43:32.000Z",
+      "posted_at": "2026-11-15T19:43:32.000Z",
+      "text": "Yes, you can create such videos just with 1 prompt:\n\n1/ Paste the prompt to Claude\n2/ Change [OBJECT] variable\n3/ Done\n\nPrompt (v2): https://t.co/24v7kHC0WI https://t.co/Yusof6W5gI https://t.co/oc6Buc9OH6",
+      "original_en": "Yes, you can create such videos just with 1 prompt:\n\n1/ Paste the prompt to Claude\n2/ Change [OBJECT] variable\n3/ Done\n\nPrompt (v2): https://t.co/24v7kHC0WI https://t.co/Yusof6W5gI https://t.co/oc6Buc9OH6",
+      "lang": "en",
+      "hook": "One-prompt recipe: paste the prompt into Claude, change the [OBJECT] variable, done - 11.0K views, 276 bookmarks.",
+      "video_tip": "Share a reusable 40K prompt template with one swappable variable ([CHAPTER] or [FACTION]) - templates get saved.",
+      "media": "video",
+      "followers_count": 93500,
+      "likes": 290,
+      "reposts": 18,
+      "bookmarks": 276,
+      "replies": 18,
+      "quotes": 1,
+      "self_quote": false,
+      "board_rank": 16,
+      "why_hit": {
+        "trend_match": 58,
+        "verdict": "trend",
+        "matched_keywords": [
+          "video",
+          "Claude"
+        ],
+        "media": "video",
+        "note": "",
+        "topic": "Reaction-caption clips"
+      }
+    },
+    {
+      "id": "2122585037862510614",
+      "name": "Kling AI",
+      "display_name": "Kling AI",
+      "handle": "@Kling_ai",
+      "views": 5698,
+      "views_label": "5,698",
+      "url": "https://x.com/Kling_ai/status/2122585037862510614",
+      "created_at": "2026-11-17T06:58:03.000Z",
+      "posted_at": "2026-11-17T06:58:03.000Z",
+      "text": "Time to rewrite the script. ✍️\n\nJoin the Short Drama Festival 2 for a chance to win the $20,000 Grand Prize! #Kling4 #KlingAI https://t.co/MCJQMmF0CX",
+      "original_en": "Time to rewrite the script. ✍️\n\nJoin the Short Drama Festival 2 for a chance to win the $20,000 Grand Prize! #Kling4 #KlingAI https://t.co/MCJQMmF0CX",
+      "lang": "en",
+      "hook": "Kling announces Short Drama Festival 2 with a $20,000 grand prize - 5.7K views.",
+      "video_tip": "Enter one 40K short drama in the Kling festival and post it as an entry.",
+      "media": "text",
+      "followers_count": 139236,
+      "likes": 61,
+      "reposts": 5,
+      "bookmarks": 27,
+      "replies": 8,
+      "quotes": 0,
+      "self_quote": false,
+      "board_rank": 17,
+      "why_hit": {
+        "trend_match": 35,
+        "verdict": "author/audience",
+        "matched_keywords": [
+          "Short Drama"
+        ],
+        "media": "text",
+        "note": "",
+        "topic": "Short drama as the pushed format"
+      }
+    },
+    {
+      "id": "2122713651471897044",
+      "name": "Higgsfield AI 🧩",
+      "display_name": "Higgsfield AI 🧩",
+      "handle": "@higgsfield_ai",
+      "views": 3862,
+      "views_label": "3,862",
+      "url": "https://x.com/higgsfield_ai/status/2122713651471897044",
+      "created_at": "2026-11-17T15:29:07.000Z",
+      "posted_at": "2026-11-17T15:29:07.000Z",
+      "text": "The hardest part of an AI film is making it not look like AI.\n\nOur new film, \"You Think You're Too Late?\"\n\n🧵 Here's how we pulled it off: https://t.co/PRxKwJ6c6R",
+      "original_en": "The hardest part of an AI film is making it not look like AI.\n\nOur new film, \"You Think You're Too Late?\"\n\n🧵 Here's how we pulled it off: https://t.co/PRxKwJ6c6R",
+      "lang": "en",
+      "hook": "Higgsfield's own film 'You Think You're Too Late?' opened with 'The hardest part of an AI film is making it not look like AI' and a how-we-did-it thread - 3.9K views.",
+      "video_tip": "Lead with the craft problem you solved (consistent armor, real lighting) and thread the fixes.",
+      "media": "video",
+      "followers_count": 256474,
+      "likes": 28,
+      "reposts": 3,
+      "bookmarks": 8,
+      "replies": 9,
+      "quotes": 0,
+      "self_quote": false,
+      "board_rank": 18,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "note": "",
+        "topic": null
+      }
+    },
+    {
+      "id": "2122373182887977149",
+      "name": "Heather Cooper",
+      "display_name": "Heather Cooper",
+      "handle": "@HBCoop_",
+      "views": 3249,
+      "views_label": "3,249",
+      "url": "https://x.com/HBCoop_/status/2122373182887977149",
+      "created_at": "2026-11-16T16:56:13.000Z",
+      "posted_at": "2026-11-16T16:56:13.000Z",
+      "text": "A sneak peek at episode 1 of Blackwater, a sci-fi series I've been developing.\n\nI made the reference images in Midjourney and Nano Banana Pro, then the shots in Seedance 2.5 in Dreamina.\n\nHere are three problems I hit along the way and how I fixed them in the post below👇 https://t.co/GSdll0Cg1L",
+      "original_en": "A sneak peek at episode 1 of Blackwater, a sci-fi series I've been developing.\n\nI made the reference images in Midjourney and Nano Banana Pro, then the shots in Seedance 2.5 in Dreamina.\n\nHere are three problems I hit along the way and how I fixed them in the post below👇 https://t.co/GSdll0Cg1L",
+      "lang": "en",
+      "hook": "Episode 1 sneak peek of 'Blackwater', a sci-fi series: Midjourney and Nano Banana Pro references, shots in Seedance 2.5 in Dreamina, three problems and fixes - 3.2K views.",
+      "video_tip": "Frame your 40K shorts as a numbered series with an episode 1 teaser and 'three problems I hit' notes.",
+      "media": "video",
+      "followers_count": 54698,
+      "likes": 77,
+      "reposts": 3,
+      "bookmarks": 28,
+      "replies": 15,
+      "quotes": 1,
+      "self_quote": false,
+      "board_rank": 19,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "note": "",
+        "topic": "Model shoot-outs and 4K"
+      }
+    },
+    {
+      "id": "2122707362603794601",
+      "name": "Kling AI",
+      "display_name": "Kling AI",
+      "handle": "@Kling_ai",
+      "views": 2772,
+      "views_label": "2,772",
+      "url": "https://x.com/Kling_ai/status/2122707362603794601",
+      "created_at": "2026-11-17T15:04:07.000Z",
+      "posted_at": "2026-11-17T15:04:07.000Z",
+      "text": "What lives within a moment? What worlds exist beyond a frame?\n\nMeet Kling Image 4.0. https://t.co/X8XNMn5mkU",
+      "original_en": "What lives within a moment? What worlds exist beyond a frame?\n\nMeet Kling Image 4.0. https://t.co/X8XNMn5mkU",
+      "lang": "en",
+      "hook": "Kling Image 4.0 launch: 'What lives within a moment? What worlds exist beyond a frame?' - 2.8K views shortly after posting.",
+      "video_tip": "Test Kling Image 4.0 on a 40K character sheet on day one and post a comparison.",
+      "media": "video",
+      "followers_count": 139236,
+      "likes": 51,
+      "reposts": 15,
+      "bookmarks": 4,
+      "replies": 6,
+      "quotes": 10,
+      "self_quote": false,
+      "board_rank": 20,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "note": "",
+        "topic": null
+      }
+    },
+    {
+      "id": "2122638915236769972",
+      "name": "OscarAI",
+      "display_name": "OscarAI",
+      "handle": "@Artedeingenio",
+      "views": 1905,
+      "views_label": "1,905",
+      "url": "https://x.com/Artedeingenio/status/2122638915236769972",
+      "created_at": "2026-11-17T10:32:08.000Z",
+      "posted_at": "2026-11-17T10:32:08.000Z",
+      "text": "🎨 Style Reference: --sref 1012767024\n\nA stunning Midjourney style with echoes of Moebius, Enki Bilal, and classic Franco-Belgian comics.\n\nDelicate ink work, earthy color palettes, expressive faces, and a subtle cinematic atmosphere. https://t.co/yLytldiUCa",
+      "original_en": "🎨 Style Reference: --sref 1012767024\n\nA stunning Midjourney style with echoes of Moebius, Enki Bilal, and classic Franco-Belgian comics.\n\nDelicate ink work, earthy color palettes, expressive faces, and a subtle cinematic atmosphere. https://t.co/yLytldiUCa",
+      "lang": "en",
+      "hook": "Midjourney style reference --sref 1012767024 with Moebius, Enki Bilal and Franco-Belgian comic echoes - 1.9K views, 42 bookmarks.",
+      "video_tip": "Try a Moebius-style 40K set - a Franco-Belgian comic look on Imperial pilgrims would be distinctive.",
+      "media": "4 photos",
+      "followers_count": 66100,
+      "likes": 50,
+      "reposts": 2,
+      "bookmarks": 42,
+      "replies": 6,
+      "quotes": 0,
+      "self_quote": false,
+      "board_rank": 21,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "image",
+        "note": "",
+        "topic": "The AI look debate"
+      }
+    }
+  ],
+  "virals_target": 20,
+  "virals_window": "last ~48h",
+  "virals_narrative": "Outsider lane on 16.11 led by @chinazaa14 at 1,001,090 views (an uncredited clip captioned 'AI filmmaking is getting wild'). Also clearing: @higgsfield_ai 503,556, @kentdhani 98,105, @BytePlusGlobal 63,756, @higgsfield 58,275",
+  "patterns": [
+    "Watchlist on 16.11: 1 hit, a star - Gossip_Goblin's 'Something to watch.' teaser for his film 'Gods Don't Give Gifts' at 46.5K; andresvandal's Spanish 'Oraculos y Magos' Seedream 5.5 dark-fantasy teaser stalled just under the line (4,881)",
+    "Bare captions keep winning: Gossip_Goblin went from a two-word title (Carnal Pursuits, 105K on 15.11) to a three-word caption plus one link to a film site (46.5K, 237 bookmarks)",
+    "LudovicCreator stayed in prompt-drop mode: Bauhaus style prompt 4,094 (100 bookmarks), Depth Illusion 1,818, lava FPV Seedance 2.5 one-shot 1,150 - steady, no breakout",
+    "ChrisGwinnLA only posted a thank-you quote of his Himalayas part one (1,845); pixelbouncer best 347; billywoodward had no posts on the day",
+    "Bogdan's best was 'Order of the Emerald Heart' (Adepta Sororitas) at 2,111 with 194 likes; the dwarf QT 1,216 and the Commissar/Sororitas/Space Marine trio 918 - rank 4 of 7. He also tried the era-swap format ('Red Sonja but it's 1973', 505)",
+    "Outsider lane: reach went to an aggregator clip (chinazaa14 'AI filmmaking is getting wild' 1.0M) and platform launches (Higgsfield Short Drama Studio 503.6K, kentdhani MiniMax H3 vs Seedance 2.5 98.1K, BytePlus Seedance 2.5 4K API 63.8K promoted-looking); short drama is the pushed format (Higgsfield studio + $1M contest, Kling Short Drama Festival 2); 30s Seedance 2.5 shorts with full prompts were the organic mid-tier (navi_Ai2 31.7K, AIwithkhan 14.4K, AiWithZayan 13.5K)"
+  ],
+  "no_hits": [
+    {
+      "handle": "@pixelbouncer",
+      "reason": "5 original posts on 2026-11-16; none reached 5,000 views (best 347).",
+      "max_views": 347
+    },
+    {
+      "handle": "@andresvandal",
+      "reason": "1 original posts on 2026-11-16; none reached 5,000 views (best 4,876).",
+      "max_views": 4876
+    },
+    {
+      "handle": "@LudovicCreator",
+      "reason": "5 original posts on 2026-11-16; none reached 5,000 views (best 4,094).",
+      "max_views": 4094
+    },
+    {
+      "handle": "@ChrisGwinnLA",
+      "reason": "1 original posts on 2026-11-16; none reached 5,000 views (best 1,845).",
+      "max_views": 1845
+    },
+    {
+      "handle": "@billywoodward",
+      "reason": "0 original posts on 2026-11-16 (timeline empty for the day after excluding replies and reposts).",
+      "max_views": 0
+    }
+  ],
+  "day_roster": [
+    {
+      "handle": "@Gossip_Goblin",
+      "name": "Gossip Goblin",
+      "views": 46499,
+      "total_views": 46499,
+      "hit": true,
+      "posts": 1,
+      "best_url": "https://x.com/Gossip_Goblin/status/2122378466838618504"
+    },
+    {
+      "handle": "@andresvandal",
+      "name": "Andres Vandal",
+      "views": 4876,
+      "total_views": 4876,
+      "hit": false,
+      "posts": 1,
+      "best_url": "https://x.com/andresvandal/status/2122544492444045685"
+    },
+    {
+      "handle": "@LudovicCreator",
+      "name": "LudovicCreator",
+      "views": 4094,
+      "total_views": 9730,
+      "hit": false,
+      "posts": 5,
+      "best_url": "https://x.com/LudovicCreator/status/2122328853636841898"
+    },
+    {
+      "handle": "@ChrisGwinnLA",
+      "name": "Christopher Gwinn | Grindhouse Glitch",
+      "views": 1845,
+      "total_views": 1845,
+      "hit": false,
+      "posts": 1,
+      "best_url": "https://x.com/ChrisGwinnLA/status/2122197458059165836"
+    },
+    {
+      "handle": "@pixelbouncer",
+      "name": "Ƥ!ЖΣLƁΘUNCΣR",
+      "views": 347,
+      "total_views": 997,
+      "hit": false,
+      "posts": 5,
+      "best_url": "https://x.com/pixelbouncer/status/2122437515940683841"
+    },
+    {
+      "handle": "@billywoodward",
+      "name": "Billy Woodward",
+      "views": 0,
+      "total_views": 0,
+      "hit": false,
+      "posts": 0,
+      "best_url": null
+    }
+  ],
+  "you_rank": {
+    "best_views": 2111,
+    "total_views": 6968,
+    "best_url": "https://x.com/SMKP_Films/status/2122333732111564907",
+    "posts": 12,
+    "vs_5k": "pending",
+    "vs_10k": "pending",
+    "rank_among_watchlist": 4,
+    "total_accounts": 7
+  },
+  "narrative_synthesis": "The outsider lane over the last ~48h was about reach, launches and money more than stories. The biggest post was an aggregator clip: chinazaa14 reposted an uncredited AI video with the five-word caption \"AI filmmaking is getting wild\" and hit 1.0M views and 1,230 bookmarks. Platforms pushed format launches: Higgsfield's Short Drama Studio (\"drop a script, get a full season of short drama\", same cast in every episode) reached 503.6K views and 733 bookmarks, and its $1,000,000 Talent Contest (3-7 min film, submit by Nov 26) added 58.3K; Kling launched Kling Image 4.0 and a $20,000 Short Drama Festival 2, and BytePlus pushed Seedance 2.5 4K via API (63.8K, only 126 likes, so mostly promoted). A model shoot-out drove the top creator post: kentdhani's MiniMax H3 vs Seedance 2.5 quote (\"similar result... cheaper price\", run locally on an RTX 5090) reached 98.1K and 436 bookmarks by asking \"which is better?\". Sponsored tool pitches filled part of the mid-tier (nrqa__ for Vivix W1 38.9K with 2 bookmarks; AmirMushich's Tripo asset-kit walkthrough 37.4K). The organic signal came from 30-second Seedance 2.5 shorts with the full prompt pasted underneath and an emotional one-line hook: navi_Ai2's Korean romance-action short (31.7K, 59 replies), AIwithkhan's 2004 camcorder \"I went on a date today\" (14.4K) and AiWithZayan's craftsman-and-bird 3D short (13.5K). Craft and cost takes also travelled: NEXUS_TO_NOVA's \"your AI films look AI because of Nano Banana\" (24.2K, 170 bookmarks) and EHuanglu's \"3 minutes of 3D AI animation for $350\" (12.1K). On the watchlist, Gossip_Goblin won the day with an 84-second vertical teaser, the caption \"Something to watch.\" and a link to his film site \"Gods Don't Give Gifts\" (46.5K, 237 bookmarks). Takeaway for Bogdan: \"short drama\" is the format platforms are pushing this week (Higgsfield studio, Kling festival, Higgsfield contest). A 3-episode 40K mini-drama with one fixed cast, posted with a one-line emotional hook and the prompt underneath, fits all three.",
+  "trend_input_only": [],
+  "trend_input_only_posts": [],
+  "leaderboards": {
+    "as_of": "2026-11-16",
+    "tracking_start": "2026-11-04",
+    "days_included": [
+      "2026-11-10",
+      "2026-11-11",
+      "2026-11-12",
+      "2026-11-13",
+      "2026-11-14",
+      "2026-11-15",
+      "2026-11-16"
+    ],
+    "month_days_included": [
+      "2026-11-04",
+      "2026-11-05",
+      "2026-11-06",
+      "2026-11-07",
+      "2026-11-08",
+      "2026-11-09",
+      "2026-11-10",
+      "2026-11-11",
+      "2026-11-12",
+      "2026-11-13",
+      "2026-11-14",
+      "2026-11-15",
+      "2026-11-16"
+    ],
+    "week": {
+      "label": "Rolling week · Nov 10–Nov 16",
+      "range": [
+        "2026-11-10",
+        "2026-11-16"
+      ],
+      "entries": [
+        {
+          "handle": "@LudovicCreator",
+          "name": "LudovicCreator",
+          "hits": 3,
+          "days": 3,
+          "views": 236446,
+          "best": 133926,
+          "best_url": "https://x.com/LudovicCreator/status/2120592485437350268"
+        },
+        {
+          "handle": "@Gossip_Goblin",
+          "name": "Gossip Goblin",
+          "hits": 4,
+          "days": 4,
+          "views": 218119,
+          "best": 104950,
+          "best_url": "https://x.com/Gossip_Goblin/status/2122005491794722988"
+        },
+        {
+          "handle": "@ChrisGwinnLA",
+          "name": "Christopher Gwinn | Grindhouse Glitch",
+          "hits": 4,
+          "days": 4,
+          "views": 55678,
+          "best": 23566,
+          "best_url": "https://x.com/ChrisGwinnLA/status/2121834058267156701"
+        },
+        {
+          "handle": "@andresvandal",
+          "name": "Andres Vandal",
+          "hits": 1,
+          "days": 1,
+          "views": 15859,
+          "best": 15859,
+          "best_url": "https://x.com/andresvandal/status/2120763498250822082"
+        }
+      ]
+    },
+    "month": {
+      "label": "November 2026 · from Nov 4",
+      "range": [
+        "2026-11-04",
+        "2026-11-16"
+      ],
+      "entries": [
+        {
+          "handle": "@Gossip_Goblin",
+          "name": "Gossip Goblin",
+          "hits": 15,
+          "days": 8,
+          "views": 676847,
+          "best": 139184,
+          "best_url": "https://x.com/Gossip_Goblin/status/2118396958289346810"
+        },
+        {
+          "handle": "@LudovicCreator",
+          "name": "LudovicCreator",
+          "hits": 3,
+          "days": 3,
+          "views": 236446,
+          "best": 133926,
+          "best_url": "https://x.com/LudovicCreator/status/2120592485437350268"
+        },
+        {
+          "handle": "@ChrisGwinnLA",
+          "name": "Christopher Gwinn | Grindhouse Glitch",
+          "hits": 5,
+          "days": 5,
+          "views": 60919,
+          "best": 23566,
+          "best_url": "https://x.com/ChrisGwinnLA/status/2121834058267156701"
+        },
+        {
+          "handle": "@andresvandal",
+          "name": "Andres Vandal",
+          "hits": 2,
+          "days": 2,
+          "views": 21164,
+          "best": 15859,
+          "best_url": "https://x.com/andresvandal/status/2120763498250822082"
+        }
+      ]
+    }
+  },
+  "drafts_top10": [
+    {
+      "rank": 1,
+      "id": "2122426594497384807",
+      "handle": "@chinazaa14",
+      "views": 1001090,
+      "lane": "outsider"
+    },
+    {
+      "rank": 2,
+      "id": "2122377853215936697",
+      "handle": "@higgsfield_ai",
+      "views": 503556,
+      "lane": "outsider"
+    },
+    {
+      "rank": 3,
+      "id": "2122144086220222792",
+      "handle": "@kentdhani",
+      "views": 98105,
+      "lane": "outsider"
+    },
+    {
+      "rank": 4,
+      "id": "2122620646975005175",
+      "handle": "@BytePlusGlobal",
+      "views": 63756,
+      "lane": "outsider"
+    },
+    {
+      "rank": 5,
+      "id": "2122441171771265172",
+      "handle": "@higgsfield",
+      "views": 58275,
+      "lane": "outsider"
+    },
+    {
+      "rank": 6,
+      "id": "2122378466838618504",
+      "handle": "@Gossip_Goblin",
+      "views": 46499,
+      "lane": "watchlist"
+    },
+    {
+      "rank": 7,
+      "id": "2122619317942718838",
+      "handle": "@nrqa__",
+      "views": 38857,
+      "lane": "outsider"
+    },
+    {
+      "rank": 8,
+      "id": "2122258920915820919",
+      "handle": "@AmirMushich",
+      "views": 37386,
+      "lane": "outsider"
+    },
+    {
+      "rank": 9,
+      "id": "2122335176286187925",
+      "handle": "@navi_Ai2",
+      "views": 31687,
+      "lane": "outsider"
+    },
+    {
+      "rank": 10,
+      "id": "2122005567455834138",
+      "handle": "@NEXUS_TO_NOVA",
+      "views": 24171,
+      "lane": "outsider"
+    }
+  ],
+  "trend_keywords": {
+    "date": "2026-11-16",
+    "window": "day D board posts + last-24h posts >= min_views + outsiders + trend-input accounts + pattern brief",
+    "method": "sum(log10 views) over distinct posts x author spread x phrase length x entity/brief bonus; >=2 authors",
+    "keywords": [
+      {
+        "keyword": "Seedance 2.5",
+        "rank": 1,
+        "score": 151.6,
+        "posts": 6,
+        "authors": 6
+      },
+      {
+        "keyword": "video",
+        "rank": 2,
+        "score": 52.0,
+        "posts": 5,
+        "authors": 5
+      },
+      {
+        "keyword": "Short Drama",
+        "rank": 3,
+        "score": 27.0,
+        "posts": 2,
+        "authors": 2
+      },
+      {
+        "keyword": "Higgsfield",
+        "rank": 4,
+        "score": 23.0,
+        "posts": 2,
+        "authors": 2
+      },
+      {
+        "keyword": "Black Friday",
+        "rank": 5,
+        "score": 23.0,
+        "posts": 2,
+        "authors": 2
+      },
+      {
+        "keyword": "AI films",
+        "rank": 6,
+        "score": 22.7,
+        "posts": 2,
+        "authors": 2
+      },
+      {
+        "keyword": "Korean couple",
+        "rank": 7,
+        "score": 19.0,
+        "posts": 2,
+        "authors": 2
+      },
+      {
+        "keyword": "Nano Banana",
+        "rank": 8,
+        "score": 17.3,
+        "posts": 2,
+        "authors": 2
+      },
+      {
+        "keyword": "ChatGPT",
+        "rank": 9,
+        "score": 17.0,
+        "posts": 2,
+        "authors": 2
+      },
+      {
+        "keyword": "Claude",
+        "rank": 10,
+        "score": 16.4,
+        "posts": 2,
+        "authors": 2
+      },
+      {
+        "keyword": "Short Drama Studio",
+        "rank": 11,
+        "score": 14.8,
+        "posts": 1,
+        "authors": 1
+      },
+      {
+        "keyword": "30-second",
+        "rank": 12,
+        "score": 14.6,
+        "posts": 2,
+        "authors": 2
+      },
+      {
+        "keyword": "Image",
+        "rank": 13,
+        "score": 13.2,
+        "posts": 2,
+        "authors": 2
+      },
+      {
+        "keyword": "I've",
+        "rank": 14,
+        "score": 12.8,
+        "posts": 2,
+        "authors": 2
+      },
+      {
+        "keyword": "AI filmmaking",
+        "rank": 15,
+        "score": 12.7,
+        "posts": 1,
+        "authors": 1
+      },
+      {
+        "keyword": "models",
+        "rank": 16,
+        "score": 12.1,
+        "posts": 2,
+        "authors": 2
+      },
+      {
+        "keyword": "Midjourney",
+        "rank": 17,
+        "score": 11.5,
+        "posts": 2,
+        "authors": 2
+      },
+      {
+        "keyword": "MiniMax H3",
+        "rank": 18,
+        "score": 10.5,
+        "posts": 1,
+        "authors": 1
+      },
+      {
+        "keyword": "Short Drama Festival",
+        "rank": 19,
+        "score": 9.8,
+        "posts": 1,
+        "authors": 1
+      },
+      {
+        "keyword": "Drama Festival 2",
+        "rank": 20,
+        "score": 9.8,
+        "posts": 1,
+        "authors": 1
+      }
+    ]
+  },
+  "trend_radar": {
+    "date": "2026-11-16",
+    "title": "Trends and post ideas",
+    "window": {
+      "end": "2026-11-17T11:15:00-05:00",
+      "label24": "16.11 11:15 - 17.11 11:15 UTC",
+      "label48": "15.11 11:15 - 17.11 11:15 UTC"
+    },
+    "corpus": {
+      "posts": 17,
+      "min_views": 5000,
+      "lanes": {
+        "watchlist": 1,
+        "outsider": 16,
+        "24h": 0,
+        "trend_input": 0
+      }
+    },
+    "summary": {
+      "top10_line": "TOP-10: 4/10 (40%) matched trends · visual 6, trend 4",
+      "headline": "6 of 21 board hits (29%) matched 24-48 h trends. Median views: trend 45.0K vs non-trend 13.5K (mean 113.8K vs 87.9K). Watchlist: 0/1 on trend. 19 hits with video, median 24.2K vs 3.8K without.",
+      "takeaway": "Video beat no-video (24.2K vs 3.8K median): take the top radar topic and package it as a video or screencast (Reaction-caption clips).",
+      "stats": {
+        "all": {
+          "n": 21,
+          "trend_n": 6,
+          "trend_pct": 29,
+          "avg_trend": 113776,
+          "avg_other": 87938,
+          "median_trend": 44981,
+          "median_other": 13522,
+          "verdicts": {
+            "trend": 6,
+            "visual": 14,
+            "author/audience": 1,
+            "coincidence/other": 0
+          }
+        },
+        "watchlist": {
+          "n": 1,
+          "trend_n": 0,
+          "trend_pct": 0,
+          "avg_trend": null,
+          "avg_other": 46499,
+          "median_trend": null,
+          "median_other": 46499,
+          "verdicts": {
+            "trend": 0,
+            "visual": 1,
+            "author/audience": 0,
+            "coincidence/other": 0
+          }
+        },
+        "outsiders": {
+          "n": 20,
+          "trend_n": 6,
+          "trend_pct": 30,
+          "avg_trend": 113776,
+          "avg_other": 90898,
+          "median_trend": 44981,
+          "median_other": 12817,
+          "verdicts": {
+            "trend": 6,
+            "visual": 13,
+            "author/audience": 1,
+            "coincidence/other": 0
+          }
+        },
+        "top10": {
+          "n": 10,
+          "trend_n": 4,
+          "trend_pct": 40,
+          "avg_trend": 164318,
+          "avg_other": 207685,
+          "median_trend": 61016,
+          "median_other": 42678,
+          "verdicts": {
+            "trend": 4,
+            "visual": 6,
+            "author/audience": 0,
+            "coincidence/other": 0
+          }
+        },
+        "media": {
+          "video_n": 19,
+          "median_video": 24171,
+          "other_n": 2,
+          "median_other": 3802
+        }
+      }
+    },
+    "topics": [
+      {
+        "name": "Reaction-caption clips",
+        "keywords": [
+          "video",
+          "AI filmmaking"
+        ],
+        "posts_24h": 5,
+        "posts_48h": 6,
+        "views_24h": 1129896,
+        "views_prev24h": 10972,
+        "views_48h": 1140868,
+        "momentum": "up x5.85",
+        "heat_raw": 25.64,
+        "evidence": [
+          {
+            "handle": "@chinazaa14",
+            "views": 1001090,
+            "url": "https://x.com/chinazaa14/status/2122426594497384807",
+            "hook": "Aggregator repost of an uncredited AI clip with a five-word caption 'AI filmmaking is getting wild' - 1.0M views, 1,230 bookmarks, 92 replies.",
+            "lane": "outsider"
+          },
+          {
+            "handle": "@BytePlusGlobal",
+            "views": 63756,
+            "url": "https://x.com/BytePlusGlobal/status/2122620646975005175",
+            "hook": "Official model news: Seedance 2.5 4K generation now available via API, framed as 'Made for the big screen... Go ahead, zoom in!' - 63.8K views but only 126 like",
+            "lane": "outsider"
+          },
+          {
+            "handle": "@nrqa__",
+            "views": 38857,
+            "url": "https://x.com/nrqa__/status/2122619317942718838",
+            "hook": "Sponsored-style creator pitch for Vivix W1: drop a trending video as reference, it follows motion and pacing, '$5 gets you 100 ten-second videos' - 38.9K views,",
+            "lane": "outsider"
+          }
+        ],
+        "heat": 100
+      },
+      {
+        "name": "Short drama as the pushed format",
+        "keywords": [
+          "Short Drama",
+          "Higgsfield",
+          "short film"
+        ],
+        "posts_24h": 3,
+        "posts_48h": 5,
+        "views_24h": 567529,
+        "views_prev24h": 45209,
+        "views_48h": 612738,
+        "momentum": "up x1.65",
+        "heat_raw": 18.54,
+        "evidence": [
+          {
+            "handle": "@higgsfield_ai",
+            "views": 503556,
+            "url": "https://x.com/higgsfield_ai/status/2122377853215936697",
+            "hook": "Higgsfield launches Short Drama Studio: drop a script, get a full season of short drama - any style, same cast in every episode, 9:16/16:9/4:3, Black Friday dis",
+            "lane": "outsider"
+          },
+          {
+            "handle": "@higgsfield",
+            "views": 58275,
+            "url": "https://x.com/higgsfield/status/2122441171771265172",
+            "hook": "Higgsfield's $1,000,000 Talent Contest reminder: make a 3-7 min film, any genre, submit by Nov 26, build it in public - 58.3K views.",
+            "lane": "outsider"
+          },
+          {
+            "handle": "@navi_Ai2",
+            "views": 31687,
+            "url": "https://x.com/navi_Ai2/status/2122335176286187925",
+            "hook": "30s Seedance 2.5 Korean romantic-action short ('Sometimes love means standing up for the person who matters most') with the full scene prompt - 31.7K views, 59 ",
+            "lane": "outsider"
+          }
+        ],
+        "heat": 72
+      },
+      {
+        "name": "Model shoot-outs and 4K",
+        "keywords": [
+          "Seedance",
+          "MiniMax H3"
+        ],
+        "posts_24h": 2,
+        "posts_48h": 5,
+        "views_24h": 78165,
+        "views_prev24h": 143314,
+        "views_48h": 221479,
+        "momentum": "cooling x0.66",
+        "heat_raw": 15.77,
+        "evidence": [
+          {
+            "handle": "@kentdhani",
+            "views": 98105,
+            "url": "https://x.com/kentdhani/status/2122144086220222792",
+            "hook": "Model shoot-out quote: 'MiniMax H3 achieved a similar result compared to Seedance 2.5 with cheaper price' plus 'ran locally using RTX5090' and a 'which is bette",
+            "lane": "outsider"
+          },
+          {
+            "handle": "@BytePlusGlobal",
+            "views": 63756,
+            "url": "https://x.com/BytePlusGlobal/status/2122620646975005175",
+            "hook": "Official model news: Seedance 2.5 4K generation now available via API, framed as 'Made for the big screen... Go ahead, zoom in!' - 63.8K views but only 126 like",
+            "lane": "outsider"
+          },
+          {
+            "handle": "@navi_Ai2",
+            "views": 31687,
+            "url": "https://x.com/navi_Ai2/status/2122335176286187925",
+            "hook": "30s Seedance 2.5 Korean romantic-action short ('Sometimes love means standing up for the person who matters most') with the full scene prompt - 31.7K views, 59 ",
+            "lane": "outsider"
+          }
+        ],
+        "heat": 62
+      },
+      {
+        "name": "The AI look debate",
+        "keywords": [
+          "AI films",
+          "Nano Banana",
+          "Midjourney"
+        ],
+        "posts_24h": 0,
+        "posts_48h": 1,
+        "views_24h": 0,
+        "views_prev24h": 24171,
+        "views_48h": 24171,
+        "momentum": "down · previous 24 h only",
+        "heat_raw": 2.19,
+        "evidence": [
+          {
+            "handle": "@NEXUS_TO_NOVA",
+            "views": 24171,
+            "url": "https://x.com/NEXUS_TO_NOVA/status/2122005567455834138",
+            "hook": "Contrarian craft take: your AI films have the 'AI look' because you rely on Nano Banana and ChatGPT images; cinematic stills came from Midjourney and Krea - 24.",
+            "lane": "outsider"
+          }
+        ],
+        "heat": 9
+      }
+    ],
+    "ideas": [
+      {
+        "title": "Ten seconds that make people say 'wild'",
+        "topic": "AI filmmaking",
+        "keywords": [
+          "AI filmmaking",
+          "video"
+        ],
+        "format": "video",
+        "visual_type": "video",
+        "visual": "10-20s cut of the single most jaw-dropping shot from the 80s-anime 40K episode, no titles, sound on.",
+        "angle": "The biggest post of the window was a short video with a viewer-style caption; lead with the shot and let AI filmmaking speak, no tool list.",
+        "hook_en": "AI filmmaking in 2026 lets one person make this. Sound on.",
+        "why": "chinazaa14 1,001,090 views; AI filmmaking #1 in the X keyword sample, up x34.45.",
+        "x_keywords": [
+          "AI filmmaking"
+        ],
+        "x_rank": 1,
+        "source": "x-keywords"
+      },
+      {
+        "title": "40K short drama, episode 1",
+        "topic": "Higgsfield",
+        "keywords": [
+          "Higgsfield",
+          "short film",
+          "Short Drama"
+        ],
+        "format": "video",
+        "visual_type": "video",
+        "visual": "45-60s vertical episode 1 of a 3-part 40K mini-drama with one fixed cast (a Commissar, a Sister, a Space Marine), title card 'Episode 1'.",
+        "angle": "Higgsfield's Short Drama Studio and its $1M contest plus Kling's Short Drama Festival 2 all push the same format; a 40K short film told as a Short Drama series fits every one of them.",
+        "hook_en": "A Commissar, a Sister and a Space Marine. Three episodes. This is Short Drama episode 1, made for the Higgsfield contest crowd.",
+        "why": "Higgsfield Short Drama Studio 503,556 views; Higgsfield talent contest 58,275; Higgsfield up x45.31 in the X keyword sample.",
+        "x_keywords": [
+          "Higgsfield",
+          "short film"
+        ],
+        "x_rank": 2,
+        "source": "x-keywords"
+      },
+      {
+        "title": "Same 40K shot, two models",
+        "topic": "Seedance",
+        "keywords": [
+          "Seedance",
+          "MiniMax H3",
+          "AI video"
+        ],
+        "format": "video",
+        "visual_type": "video",
+        "visual": "Split-screen 10-15s: one 40K prompt rendered in Seedance 2.5 (left) and MiniMax H3 (right), labels on each side.",
+        "angle": "kentdhani's MiniMax H3 vs Seedance comparison was the top creator post of the window; run the same AI video test on a 40K shot and ask the audience to vote.",
+        "hook_en": "Same Warhammer 40K prompt. Seedance on the left, MiniMax H3 on the right. Which AI video holds up?",
+        "why": "kentdhani 98,105 views and 436 bookmarks; Seedance #5 in the X keyword sample.",
+        "x_keywords": [
+          "Seedance",
+          "AI video"
+        ],
+        "x_rank": 4,
+        "source": "x-keywords"
+      },
+      {
+        "title": "Zoom-in test in 4K",
+        "topic": "AI video",
+        "keywords": [
+          "AI video",
+          "Seedance 2.5"
+        ],
+        "format": "video",
+        "visual_type": "video",
+        "visual": "Full 40K battlefield frame, then a slow digital zoom into a single helmet decal to show the 4K detail.",
+        "angle": "BytePlus pitched Seedance 2.5 4K with 'go ahead, zoom in'; show what 4K AI video detail looks like on armor and grime.",
+        "hook_en": "Seedance 2.5 in 4K. Zoom in on the helmet - this AI video holds up.",
+        "why": "BytePlusGlobal 63,756 views; AI video #4 in the X keyword sample.",
+        "x_keywords": [
+          "AI video"
+        ],
+        "x_rank": 4,
+        "source": "x-keywords"
+      },
+      {
+        "title": "30-second 40K short with the full prompt",
+        "topic": "short film",
+        "keywords": [
+          "short film",
+          "Seedance 2.5",
+          "30-second"
+        ],
+        "format": "video",
+        "visual_type": "video",
+        "visual": "30-second single-scene 40K short (a Guardsman's last letter home) with the full timed prompt pasted under it.",
+        "angle": "30-second Seedance 2.5 shorts with an emotional one-liner and the whole prompt were the organic mid-tier; post a short film the same way.",
+        "hook_en": "Sometimes duty means writing the letter you never send. 30-second short film, Seedance 2.5, full prompt below.",
+        "why": "navi_Ai2 31,687; AIwithkhan 14,409; AiWithZayan 13,522 - all Seedance 2.5 with full prompts; short film flat x0.92 in the X sample.",
+        "x_keywords": [
+          "short film"
+        ],
+        "x_rank": 8,
+        "source": "x-keywords"
+      },
+      {
+        "title": "Why my 40K stills don't look AI",
+        "topic": "Midjourney",
+        "keywords": [
+          "Midjourney",
+          "AI films",
+          "Nano Banana"
+        ],
+        "format": "carousel",
+        "visual_type": "carousel",
+        "visual": "4-image carousel: the same Sororitas character from Midjourney vs Nano Banana, then the final animated frame.",
+        "angle": "NEXUS_TO_NOVA's take on why AI films keep the 'AI look' drew 170 bookmarks; show Bogdan's own Midjourney vs Nano Banana comparison on a 40K character.",
+        "hook_en": "Same Sister, two tools. Midjourney on the left, Nano Banana on the right. This is why my AI films start where they start.",
+        "why": "NEXUS_TO_NOVA 24,171 views, 170 bookmarks; Midjourney is in the X keyword table.",
+        "x_keywords": [
+          "Midjourney"
+        ],
+        "x_rank": 15,
+        "source": "x-keywords"
+      }
+    ],
+    "articles": [
+      {
+        "title": "Short drama is the new battleground for AI video platforms",
+        "thesis": "In one window Higgsfield launched Short Drama Studio and a $1M contest while Kling opened Short Drama Festival 2 - the platforms want episodic AI filmmaking, not one-off clips.",
+        "outline": [
+          "What launched",
+          "Why episodes and fixed casts",
+          "What it means for solo creators",
+          "A 40K test plan"
+        ],
+        "keywords": [
+          "Higgsfield",
+          "AI filmmaking",
+          "Short Drama"
+        ],
+        "visual": "Cover: three vertical frames from a 40K mini-drama; inline: table of the three programs and their briefs.",
+        "why": "Higgsfield 503,556 and 58,275; Kling festival 5,698; Higgsfield and AI filmmaking top the X keyword sample.",
+        "x_keywords": [
+          "Higgsfield",
+          "AI filmmaking"
+        ]
+      },
+      {
+        "title": "Cheaper, local, 4K: the model race this week",
+        "thesis": "MiniMax H3 running locally against Seedance 2.5, and Seedance going 4K via API, change the cost math for an AI video creator.",
+        "outline": [
+          "The comparison that went viral",
+          "What 4K adds",
+          "Cost per shot",
+          "Which one for a 40K episode"
+        ],
+        "keywords": [
+          "Seedance",
+          "MiniMax H3",
+          "AI video"
+        ],
+        "visual": "Cover: split-screen 40K frame; inline: side-by-side stills from both models.",
+        "why": "kentdhani 98,105; BytePlusGlobal 63,756; Seedance and AI video in the X keyword top 5.",
+        "x_keywords": [
+          "Seedance",
+          "AI video"
+        ]
+      }
+    ],
+    "why_hit": [
+      {
+        "id": "2122378466838618504",
+        "handle": "@Gossip_Goblin",
+        "lane": "watchlist",
+        "views": 46499,
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "followers": 124995,
+        "topic": null,
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2122426594497384807",
+        "handle": "@chinazaa14",
+        "lane": "outsider",
+        "views": 1001090,
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "followers": 31332,
+        "topic": "Reaction-caption clips",
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2122377853215936697",
+        "handle": "@higgsfield_ai",
+        "lane": "outsider",
+        "views": 503556,
+        "trend_match": 88,
+        "verdict": "trend",
+        "matched_keywords": [
+          "Short Drama",
+          "Higgsfield",
+          "Black Friday",
+          "ChatGPT",
+          "Claude"
+        ],
+        "media": "video",
+        "followers": 256473,
+        "topic": "Short drama as the pushed format",
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2122144086220222792",
+        "handle": "@kentdhani",
+        "lane": "outsider",
+        "views": 98105,
+        "trend_match": 35,
+        "verdict": "visual",
+        "matched_keywords": [
+          "Seedance 2.5"
+        ],
+        "media": "video",
+        "followers": 1881,
+        "topic": "Model shoot-outs and 4K",
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2122620646975005175",
+        "handle": "@BytePlusGlobal",
+        "lane": "outsider",
+        "views": 63756,
+        "trend_match": 58,
+        "verdict": "trend",
+        "matched_keywords": [
+          "Seedance 2.5",
+          "video"
+        ],
+        "media": "video",
+        "followers": 22267,
+        "topic": "Reaction-caption clips",
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2122441171771265172",
+        "handle": "@higgsfield",
+        "lane": "outsider",
+        "views": 58275,
+        "trend_match": 58,
+        "verdict": "trend",
+        "matched_keywords": [
+          "Higgsfield",
+          "Black Friday"
+        ],
+        "media": "video",
+        "followers": 158949,
+        "topic": "Short drama as the pushed format",
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2122619317942718838",
+        "handle": "@nrqa__",
+        "lane": "outsider",
+        "views": 38857,
+        "trend_match": 35,
+        "verdict": "visual",
+        "matched_keywords": [
+          "video"
+        ],
+        "media": "video",
+        "followers": 76380,
+        "topic": "Reaction-caption clips",
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2122258920915820919",
+        "handle": "@AmirMushich",
+        "lane": "outsider",
+        "views": 37386,
+        "trend_match": 22,
+        "verdict": "visual",
+        "matched_keywords": [
+          "models"
+        ],
+        "media": "video",
+        "followers": 93500,
+        "topic": null,
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2122335176286187925",
+        "handle": "@navi_Ai2",
+        "lane": "outsider",
+        "views": 31687,
+        "trend_match": 67,
+        "verdict": "trend",
+        "matched_keywords": [
+          "Seedance 2.5",
+          "Korean couple",
+          "30-second"
+        ],
+        "media": "video",
+        "followers": 51824,
+        "topic": "Short drama as the pushed format",
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2122005567455834138",
+        "handle": "@NEXUS_TO_NOVA",
+        "lane": "outsider",
+        "views": 24171,
+        "trend_match": 49,
+        "verdict": "visual",
+        "matched_keywords": [
+          "ChatGPT",
+          "models"
+        ],
+        "media": "video",
+        "followers": 31442,
+        "topic": "The AI look debate",
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2122474715012853987",
+        "handle": "@AmirMushich",
+        "lane": "outsider",
+        "views": 18057,
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "followers": 93500,
+        "topic": null,
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2122557799167377548",
+        "handle": "@AIwithkhan",
+        "lane": "outsider",
+        "views": 14409,
+        "trend_match": 79,
+        "verdict": "trend",
+        "matched_keywords": [
+          "Seedance 2.5",
+          "video",
+          "Korean couple",
+          "30-second"
+        ],
+        "media": "video",
+        "followers": 15704,
+        "topic": "Reaction-caption clips",
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2122304736754049295",
+        "handle": "@AiWithZayan",
+        "lane": "outsider",
+        "views": 13522,
+        "trend_match": 35,
+        "verdict": "visual",
+        "matched_keywords": [
+          "Seedance 2.5"
+        ],
+        "media": "video",
+        "followers": 8549,
+        "topic": "Short drama as the pushed format",
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2122569119509950524",
+        "handle": "@EHuanglu",
+        "lane": "outsider",
+        "views": 12112,
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "followers": 152211,
+        "topic": null,
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2122638828204937451",
+        "handle": "@ImaStudio_ai",
+        "lane": "outsider",
+        "views": 11784,
+        "trend_match": 35,
+        "verdict": "visual",
+        "matched_keywords": [
+          "video"
+        ],
+        "media": "video",
+        "followers": 2838,
+        "topic": "Reaction-caption clips",
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2122052900763607294",
+        "handle": "@AmirMushich",
+        "lane": "outsider",
+        "views": 10972,
+        "trend_match": 58,
+        "verdict": "trend",
+        "matched_keywords": [
+          "video",
+          "Claude"
+        ],
+        "media": "video",
+        "followers": 93500,
+        "topic": "Reaction-caption clips",
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2122585037862510614",
+        "handle": "@Kling_ai",
+        "lane": "outsider",
+        "views": 5698,
+        "trend_match": 35,
+        "verdict": "author/audience",
+        "matched_keywords": [
+          "Short Drama"
+        ],
+        "media": "text",
+        "followers": 139236,
+        "topic": "Short drama as the pushed format",
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2122713651471897044",
+        "handle": "@higgsfield_ai",
+        "lane": "outsider",
+        "views": 3862,
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "followers": 256474,
+        "topic": null,
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2122373182887977149",
+        "handle": "@HBCoop_",
+        "lane": "outsider",
+        "views": 3249,
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "followers": 54698,
+        "topic": "Model shoot-outs and 4K",
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2122707362603794601",
+        "handle": "@Kling_ai",
+        "lane": "outsider",
+        "views": 2772,
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "followers": 139236,
+        "topic": null,
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2122638915236769972",
+        "handle": "@Artedeingenio",
+        "lane": "outsider",
+        "views": 1905,
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "image",
+        "followers": 66100,
+        "topic": "The AI look debate",
+        "self_quote": false,
+        "note": ""
+      }
+    ],
+    "labels": {
+      "trend": "trend",
+      "visual": "visual",
+      "author": "author/audience",
+      "other": "coincidence/other",
+      "nontrend": "non-trend",
+      "self_quote": "self-quote",
+      "no_data": "no data"
+    },
+    "x_keywords": {
+      "fetched_at": "2026-11-17T15:43:00+00:00",
+      "window_start": "2026-11-15T15:43:00Z",
+      "calls": 32,
+      "method": "Read-only x MCP search_posts_all, 2 calls per keyword: last 24 h and previous 24 h (24-48 h ago); lang:en, no retweets/replies, sort=relevancy, up to 25 posts per window. This is a SAMPLE of top-relevance posts, not every post on X. Views = impression_count at fetch time. Rank = sum of sampled 24 h views; 48 h = both windows; trend = 24 h sum / previous 24 h sum (up >=1.3, down <=0.7). Fresh posts are still gaining views, so 'up' is understated. Top-post share > 70% means one viral post carries the keyword.",
+      "missing": [],
+      "sample": true,
+      "sample_size_per_call": 25,
+      "keywords": [
+        {
+          "keyword": "AI filmmaking",
+          "query": "\"AI filmmaking\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 25,
+            "total": 1009333,
+            "median": 124,
+            "top": {
+              "views": 999362,
+              "url": "https://x.com/chinazaa14/status/2122426594497384807",
+              "handle": "@chinazaa14",
+              "text": "AI filmmaking is getting wild 😳😳 https://t.co/a3cWVN1RjU"
+            }
+          },
+          "prev24": {
+            "n": 25,
+            "total": 29302,
+            "median": 84,
+            "top": {
+              "views": 12201,
+              "url": "https://x.com/ZaraIrahh/status/2122278456310600007",
+              "handle": "@ZaraIrahh",
+              "text": "Deep beneath the surface, they created something they couldn't control. Now the entire facility is paying the price. ⚡ A"
+            }
+          },
+          "w48": {
+            "n": 50,
+            "total": 1038635,
+            "top": {
+              "views": 999362,
+              "url": "https://x.com/chinazaa14/status/2122426594497384807",
+              "handle": "@chinazaa14",
+              "text": "AI filmmaking is getting wild 😳😳 https://t.co/a3cWVN1RjU"
+            }
+          },
+          "change": 34.45,
+          "trend": "up",
+          "partial": false,
+          "top_share": 0.99,
+          "rank": 1
+        },
+        {
+          "keyword": "Higgsfield",
+          "query": "\"Higgsfield\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 25,
+            "total": 587018,
+            "median": 88,
+            "top": {
+              "views": 503466,
+              "url": "https://x.com/higgsfield_ai/status/2122377853215936697",
+              "handle": "@higgsfield_ai",
+              "text": "Introducing Short Drama Studio. Drop a script → get a full season of short drama. &gt; Any style, from dark fantasy to 9"
+            }
+          },
+          "prev24": {
+            "n": 25,
+            "total": 12956,
+            "median": 35,
+            "top": {
+              "views": 8563,
+              "url": "https://x.com/shishirdotai/status/2122321348769071559",
+              "handle": "@shishirdotai",
+              "text": "Malfoid &amp; Pottah 💚 | Sweet little moments Made with Higgsfield @higgsfield #malfoy #harrypotter #malfoid #animation "
+            }
+          },
+          "w48": {
+            "n": 50,
+            "total": 599974,
+            "top": {
+              "views": 503466,
+              "url": "https://x.com/higgsfield_ai/status/2122377853215936697",
+              "handle": "@higgsfield_ai",
+              "text": "Introducing Short Drama Studio. Drop a script → get a full season of short drama. &gt; Any style, from dark fantasy to 9"
+            }
+          },
+          "change": 45.31,
+          "trend": "up",
+          "partial": false,
+          "top_share": 0.86,
+          "rank": 2
+        },
+        {
+          "keyword": "text to video",
+          "query": "\"text to video\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 24,
+            "total": 45442,
+            "median": 431,
+            "top": {
+              "views": 8477,
+              "url": "https://x.com/ethan_walker_ai/status/2122362126971109439",
+              "handle": "@ethan_walker_ai",
+              "text": "If 720p fits the job, Flash's $0.152/sec text-to-video and image-to-video rate is worth comparing. No need to choose a m"
+            }
+          },
+          "prev24": {
+            "n": 25,
+            "total": 103292,
+            "median": 5606,
+            "top": {
+              "views": 11170,
+              "url": "https://x.com/MiraRaja11/status/2122336376989561176",
+              "handle": "@MiraRaja11",
+              "text": "A scene rarely lands on the first idea. Flash's 720p text-to-video and image-to-video costs about 34% less than Seedance"
+            }
+          },
+          "w48": {
+            "n": 49,
+            "total": 148734,
+            "top": {
+              "views": 11170,
+              "url": "https://x.com/MiraRaja11/status/2122336376989561176",
+              "handle": "@MiraRaja11",
+              "text": "A scene rarely lands on the first idea. Flash's 720p text-to-video and image-to-video costs about 34% less than Seedance"
+            }
+          },
+          "change": 0.44,
+          "trend": "down",
+          "partial": false,
+          "top_share": 0.19,
+          "rank": 3
+        },
+        {
+          "keyword": "AI video",
+          "query": "\"AI video\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 25,
+            "total": 40697,
+            "median": 43,
+            "top": {
+              "views": 20893,
+              "url": "https://x.com/Unifycore/status/2122374892071067948",
+              "handle": "@Unifycore",
+              "text": "AI Video Editing Just Changed FOREVER. Introducing OMIO — the next evolution of AI video creation. Split ANY video frame"
+            }
+          },
+          "prev24": {
+            "n": 25,
+            "total": 115374,
+            "median": 114,
+            "top": {
+              "views": 53400,
+              "url": "https://x.com/TheAIColony/status/2122297652628857186",
+              "handle": "@TheAIColony",
+              "text": "AI video now costs less than 10 cents a second. Topview's Black Friday deal gives you 30 months of Ultra for $1,200, and"
+            }
+          },
+          "w48": {
+            "n": 50,
+            "total": 156071,
+            "top": {
+              "views": 53400,
+              "url": "https://x.com/TheAIColony/status/2122297652628857186",
+              "handle": "@TheAIColony",
+              "text": "AI video now costs less than 10 cents a second. Topview's Black Friday deal gives you 30 months of Ultra for $1,200, and"
+            }
+          },
+          "change": 0.35,
+          "trend": "down",
+          "partial": false,
+          "top_share": 0.51,
+          "rank": 4
+        },
+        {
+          "keyword": "Seedance",
+          "query": "\"Seedance\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 25,
+            "total": 14354,
+            "median": 80,
+            "top": {
+              "views": 4992,
+              "url": "https://x.com/FutureGirlAi/status/2122361537268764879",
+              "handle": "@FutureGirlAi",
+              "text": "A little fox-and-squirrel story is exactly the kind of idea I’d want to explore in different ways. Seedance 2.5 Flash co"
+            }
+          },
+          "prev24": {
+            "n": 25,
+            "total": 209130,
+            "median": 174,
+            "top": {
+              "views": 197278,
+              "url": "https://x.com/sonuv_dev/status/2122005898986225807",
+              "handle": "@sonuv_dev",
+              "text": "Seedance 2.5 Flash just made the expensive version look like a questionable purchase 😭 Same prompt. Same 3 characters. S"
+            }
+          },
+          "w48": {
+            "n": 50,
+            "total": 223484,
+            "top": {
+              "views": 197278,
+              "url": "https://x.com/sonuv_dev/status/2122005898986225807",
+              "handle": "@sonuv_dev",
+              "text": "Seedance 2.5 Flash just made the expensive version look like a questionable purchase 😭 Same prompt. Same 3 characters. S"
+            }
+          },
+          "change": 0.07,
+          "trend": "down",
+          "partial": false,
+          "top_share": 0.35,
+          "rank": 5
+        },
+        {
+          "keyword": "image to video",
+          "query": "\"image to video\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 25,
+            "total": 11814,
+            "median": 85,
+            "top": {
+              "views": 4992,
+              "url": "https://x.com/FutureGirlAi/status/2122361537268764879",
+              "handle": "@FutureGirlAi",
+              "text": "A little fox-and-squirrel story is exactly the kind of idea I’d want to explore in different ways. Seedance 2.5 Flash co"
+            }
+          },
+          "prev24": {
+            "n": 25,
+            "total": 121538,
+            "median": 5825,
+            "top": {
+              "views": 11170,
+              "url": "https://x.com/MiraRaja11/status/2122336376989561176",
+              "handle": "@MiraRaja11",
+              "text": "A scene rarely lands on the first idea. Flash's 720p text-to-video and image-to-video costs about 34% less than Seedance"
+            }
+          },
+          "w48": {
+            "n": 50,
+            "total": 133352,
+            "top": {
+              "views": 11170,
+              "url": "https://x.com/MiraRaja11/status/2122336376989561176",
+              "handle": "@MiraRaja11",
+              "text": "A scene rarely lands on the first idea. Flash's 720p text-to-video and image-to-video costs about 34% less than Seedance"
+            }
+          },
+          "change": 0.1,
+          "trend": "down",
+          "partial": false,
+          "top_share": 0.42,
+          "rank": 6
+        },
+        {
+          "keyword": "anime",
+          "query": "\"anime\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 24,
+            "total": 11242,
+            "median": 57,
+            "top": {
+              "views": 4091,
+              "url": "https://x.com/CliftonDuncan/status/2122674319981424757",
+              "handle": "@CliftonDuncan",
+              "text": "I'm fascinated by generational attitudes toward anime. In high school only the nerdiest of nerds were into anime, and it"
+            }
+          },
+          "prev24": {
+            "n": 24,
+            "total": 12978,
+            "median": 106,
+            "top": {
+              "views": 8678,
+              "url": "https://x.com/nfadyorky/status/2122102544579064260",
+              "handle": "@nfadyorky",
+              "text": "The biggest PFP/Community on the internet is Anime. No matter where you go you see countless of users with an Anime PFP "
+            }
+          },
+          "w48": {
+            "n": 48,
+            "total": 24220,
+            "top": {
+              "views": 8678,
+              "url": "https://x.com/nfadyorky/status/2122102544579064260",
+              "handle": "@nfadyorky",
+              "text": "The biggest PFP/Community on the internet is Anime. No matter where you go you see countless of users with an Anime PFP "
+            }
+          },
+          "change": 0.87,
+          "trend": "flat",
+          "partial": false,
+          "top_share": 0.36,
+          "rank": 7
+        },
+        {
+          "keyword": "short film",
+          "query": "\"short film\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 24,
+            "total": 11098,
+            "median": 23,
+            "top": {
+              "views": 4988,
+              "url": "https://x.com/pityforyourself/status/2122462777574867227",
+              "handle": "@pityforyourself",
+              "text": "Will McCormack, who played Jason La Penna (Dr. Melfi's son) in The Sopranos won the Academy Award for Best Animated Shor"
+            }
+          },
+          "prev24": {
+            "n": 25,
+            "total": 12080,
+            "median": 32,
+            "top": {
+              "views": 7587,
+              "url": "https://x.com/MatthewACherry/status/2122040902919299314",
+              "handle": "@MatthewACherry",
+              "text": "Favorite Michael Jackson short film https://t.co/rfUCuVyyvY"
+            }
+          },
+          "w48": {
+            "n": 49,
+            "total": 23178,
+            "top": {
+              "views": 7587,
+              "url": "https://x.com/MatthewACherry/status/2122040902919299314",
+              "handle": "@MatthewACherry",
+              "text": "Favorite Michael Jackson short film https://t.co/rfUCuVyyvY"
+            }
+          },
+          "change": 0.92,
+          "trend": "flat",
+          "partial": false,
+          "top_share": 0.45,
+          "rank": 8
+        },
+        {
+          "keyword": "AI animation",
+          "query": "\"AI animation\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 25,
+            "total": 10313,
+            "median": 103,
+            "top": {
+              "views": 1787,
+              "url": "https://x.com/xmliisu/status/2122616506882158593",
+              "handle": "@xmliisu",
+              "text": "This AI Animation video is perfection Disney is so cooked right now 🔥 Seedance 2.5 https://t.co/9ojd4Bghkq"
+            }
+          },
+          "prev24": {
+            "n": 25,
+            "total": 271266,
+            "median": 104,
+            "top": {
+              "views": 113760,
+              "url": "https://x.com/FawazXweb3/status/2122027960987156493",
+              "handle": "@FawazXweb3",
+              "text": "Ghosted ​Created this AI animation using Seedance 2.5 on Dreamina ​@dreamina_ai #dreamina #dreaminacreators #AIVideo htt"
+            }
+          },
+          "w48": {
+            "n": 50,
+            "total": 281579,
+            "top": {
+              "views": 113760,
+              "url": "https://x.com/FawazXweb3/status/2122027960987156493",
+              "handle": "@FawazXweb3",
+              "text": "Ghosted ​Created this AI animation using Seedance 2.5 on Dreamina ​@dreamina_ai #dreamina #dreaminacreators #AIVideo htt"
+            }
+          },
+          "change": 0.04,
+          "trend": "down",
+          "partial": false,
+          "top_share": 0.17,
+          "rank": 9
+        },
+        {
+          "keyword": "Runway",
+          "query": "\"Runway\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 25,
+            "total": 10224,
+            "median": 59,
+            "top": {
+              "views": 4179,
+              "url": "https://x.com/WORLDMUSICAWARD/status/2122559795232215249",
+              "handle": "@WORLDMUSICAWARD",
+              "text": "Lady Gaga has been nominated for 2 Awards at the 2027 Grammys and ties as the Artist with the most Grammy nominations (5"
+            }
+          },
+          "prev24": {
+            "n": 25,
+            "total": 238412,
+            "median": 49,
+            "top": {
+              "views": 226809,
+              "url": "https://x.com/TripppleSeven7/status/2122032345490522567",
+              "handle": "@TripppleSeven7",
+              "text": "Watch This A340 Struggle to Get Airborne Before the Runway Ends! This aircraft continues accelerating down the runway, b"
+            }
+          },
+          "w48": {
+            "n": 50,
+            "total": 248636,
+            "top": {
+              "views": 226809,
+              "url": "https://x.com/TripppleSeven7/status/2122032345490522567",
+              "handle": "@TripppleSeven7",
+              "text": "Watch This A340 Struggle to Get Airborne Before the Runway Ends! This aircraft continues accelerating down the runway, b"
+            }
+          },
+          "change": 0.04,
+          "trend": "down",
+          "partial": false,
+          "top_share": 0.41,
+          "rank": 10
+        },
+        {
+          "keyword": "Kling",
+          "query": "\"Kling\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 25,
+            "total": 9180,
+            "median": 19,
+            "top": {
+              "views": 4652,
+              "url": "https://x.com/vigloostudio/status/2122578313684349379",
+              "handle": "@vigloostudio",
+              "text": "[Short Drama Festival 2 | Vigloo Studio × KLING 4.0] Tired of the same old drama clichés? What if you could rewrite the "
+            }
+          },
+          "prev24": {
+            "n": 25,
+            "total": 573668,
+            "median": 73,
+            "top": {
+              "views": 568413,
+              "url": "https://x.com/Kling_ai/status/2122183574308700468",
+              "handle": "@Kling_ai",
+              "text": "With adrenaline-pumping racing sequences and captivating performances, Redline, a Kling AI Original, brings the intensit"
+            }
+          },
+          "w48": {
+            "n": 50,
+            "total": 582848,
+            "top": {
+              "views": 568413,
+              "url": "https://x.com/Kling_ai/status/2122183574308700468",
+              "handle": "@Kling_ai",
+              "text": "With adrenaline-pumping racing sequences and captivating performances, Redline, a Kling AI Original, brings the intensit"
+            }
+          },
+          "change": 0.02,
+          "trend": "down",
+          "partial": false,
+          "top_share": 0.51,
+          "rank": 11
+        },
+        {
+          "keyword": "Veo",
+          "query": "\"Veo\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 25,
+            "total": 8250,
+            "median": 174,
+            "top": {
+              "views": 2054,
+              "url": "https://x.com/bedros_p/status/2122545954297688189",
+              "handle": "@bedros_p",
+              "text": "A model by the name of \"veo-experimental\" has now spawned in hidden documentation. It's great to see a new Veo model, fo"
+            }
+          },
+          "prev24": {
+            "n": 25,
+            "total": 5692,
+            "median": 94,
+            "top": {
+              "views": 1279,
+              "url": "https://x.com/SouthernLeague1/status/2122253354063548692",
+              "handle": "@SouthernLeague1",
+              "text": "Get a free Veo Cam and save on subscription. We’ve partnered with Veo to give our members an exclusive Black Friday deal"
+            }
+          },
+          "w48": {
+            "n": 50,
+            "total": 13942,
+            "top": {
+              "views": 2054,
+              "url": "https://x.com/bedros_p/status/2122545954297688189",
+              "handle": "@bedros_p",
+              "text": "A model by the name of \"veo-experimental\" has now spawned in hidden documentation. It's great to see a new Veo model, fo"
+            }
+          },
+          "change": 1.45,
+          "trend": "up",
+          "partial": false,
+          "top_share": 0.25,
+          "rank": 12
+        },
+        {
+          "keyword": "Sora",
+          "query": "\"Sora\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 24,
+            "total": 7802,
+            "median": 103,
+            "top": {
+              "views": 2086,
+              "url": "https://x.com/prizennn/status/2122377989010637103",
+              "handle": "@prizennn",
+              "text": "This Sora and Sono interaction is so funny to me🤣🤣🤣 Sono wants to eat snacks and sora as his babysitter is saying no no "
+            }
+          },
+          "prev24": {
+            "n": 25,
+            "total": 34619,
+            "median": 132,
+            "top": {
+              "views": 17129,
+              "url": "https://x.com/PuppyKiriko/status/2122012935300243764",
+              "handle": "@PuppyKiriko",
+              "text": "Sora (Arknights) Captured Trophy Wall Tickle Torture Demise~ (Animation) #sora #arknights #anime #feet #feetfetish #foot"
+            }
+          },
+          "w48": {
+            "n": 49,
+            "total": 42421,
+            "top": {
+              "views": 17129,
+              "url": "https://x.com/PuppyKiriko/status/2122012935300243764",
+              "handle": "@PuppyKiriko",
+              "text": "Sora (Arknights) Captured Trophy Wall Tickle Torture Demise~ (Animation) #sora #arknights #anime #feet #feetfetish #foot"
+            }
+          },
+          "change": 0.23,
+          "trend": "down",
+          "partial": false,
+          "top_share": 0.27,
+          "rank": 13
+        },
+        {
+          "keyword": "ComfyUI",
+          "query": "\"ComfyUI\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 25,
+            "total": 3969,
+            "median": 79,
+            "top": {
+              "views": 1191,
+              "url": "https://x.com/Lyelac_/status/2122576686147420518",
+              "handle": "@Lyelac_",
+              "text": "4.4GB UNCENSORED LOCAL IMAGE MODEL THAT GENERATES + EDITS Qwen Image 2.1 just got a compact GGUF quant that runs on cons"
+            }
+          },
+          "prev24": {
+            "n": 25,
+            "total": 11871,
+            "median": 62,
+            "top": {
+              "views": 5004,
+              "url": "https://x.com/AIWarper/status/2122057259790504231",
+              "handle": "@AIWarper",
+              "text": "H3 Image running in ComfyUI is a carousel factory https://t.co/vaVDPEjloX"
+            }
+          },
+          "w48": {
+            "n": 50,
+            "total": 15840,
+            "top": {
+              "views": 5004,
+              "url": "https://x.com/AIWarper/status/2122057259790504231",
+              "handle": "@AIWarper",
+              "text": "H3 Image running in ComfyUI is a carousel factory https://t.co/vaVDPEjloX"
+            }
+          },
+          "change": 0.33,
+          "trend": "down",
+          "partial": false,
+          "top_share": 0.3,
+          "rank": 14
+        },
+        {
+          "keyword": "Midjourney",
+          "query": "\"Midjourney\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 25,
+            "total": 1762,
+            "median": 29,
+            "top": {
+              "views": 303,
+              "url": "https://x.com/DigitalDaizy/status/2122679442791362855",
+              "handle": "@DigitalDaizy",
+              "text": "The Spark✨ #midjourney #grok #interiordesign #digitalart https://t.co/Q8tMBiHXZW"
+            }
+          },
+          "prev24": {
+            "n": 25,
+            "total": 2975,
+            "median": 50,
+            "top": {
+              "views": 435,
+              "url": "https://x.com/Midknight_86/status/2122007058371182596",
+              "handle": "@Midknight_86",
+              "text": "Gm everyone, happy Sunday #Midjourney #aiartcommunity https://t.co/tsL8vujtfj"
+            }
+          },
+          "w48": {
+            "n": 50,
+            "total": 4737,
+            "top": {
+              "views": 435,
+              "url": "https://x.com/Midknight_86/status/2122007058371182596",
+              "handle": "@Midknight_86",
+              "text": "Gm everyone, happy Sunday #Midjourney #aiartcommunity https://t.co/tsL8vujtfj"
+            }
+          },
+          "change": 0.59,
+          "trend": "down",
+          "partial": false,
+          "top_share": 0.17,
+          "rank": 15
+        },
+        {
+          "keyword": "Grok Imagine",
+          "query": "\"Grok Imagine\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 25,
+            "total": 1675,
+            "median": 28,
+            "top": {
+              "views": 459,
+              "url": "https://x.com/dreamydigiarts/status/2122577978911826179",
+              "handle": "@dreamydigiarts",
+              "text": "Animated with Grok Imagine https://t.co/X3iD6DHZwl https://t.co/vyEwTYt65A"
+            }
+          },
+          "prev24": {
+            "n": 25,
+            "total": 33196,
+            "median": 69,
+            "top": {
+              "views": 19916,
+              "url": "https://x.com/AadityaCodesAI/status/2121996648138334415",
+              "handle": "@AadityaCodesAI",
+              "text": "My time with the Grok Imagine team and @spacexai has come to an end after 21 incredible months. I started as an AI tutor"
+            }
+          },
+          "w48": {
+            "n": 50,
+            "total": 34871,
+            "top": {
+              "views": 19916,
+              "url": "https://x.com/AadityaCodesAI/status/2121996648138334415",
+              "handle": "@AadityaCodesAI",
+              "text": "My time with the Grok Imagine team and @spacexai has come to an end after 21 incredible months. I started as an AI tutor"
+            }
+          },
+          "change": 0.05,
+          "trend": "down",
+          "partial": false,
+          "top_share": 0.27,
+          "rank": 16
+        }
+      ]
+    },
+    "legend": "Trend match 0-100% = 1 - prod(1 - w) over matched 24 h keywords that another author also used in the 48 h window (w: rank 1-10 0.35, 11-25 0.22, 26-40 0.12, curated 0.20). Verdict: >= 50% -> trend; else video/image in the post data -> visual; else >= 100K followers (outsiders without follower data: >= 500K views, estimate) -> author/audience; else coincidence/other. Missing data shows as 'no data'. Heat = sum log10(views) of topic posts (24 h x1, 24-48 h x0.5), scaled to 100. Momentum = log-views last 24 h / previous 24 h. Trend-input-only accounts feed the corpus but are never shown as hits."
+  }
+}

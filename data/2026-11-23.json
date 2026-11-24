@@ -1,0 +1,3252 @@
+{
+  "title": "X Virality Score · 2026-11-23",
+  "brand_title": "Grok Bot X Virality Score",
+  "brand_handle": "@SMKP_Films",
+  "operator": {
+    "handle": "SMKP_Films",
+    "name": "Bogdan Orlic",
+    "profile_url": "https://x.com/SMKP_Films"
+  },
+  "timezone": "America/Toronto",
+  "date": "2026-11-23",
+  "updated": "2026-11-24T10:36:30-05:00",
+  "ui": {
+    "default_theme": "night"
+  },
+  "board_features": {
+    "count_up": true,
+    "live_pulse": true,
+    "theme_toggle": true,
+    "themes": [
+      "night",
+      "day"
+    ],
+    "grok_ambient": true,
+    "week_month_boards": true,
+    "day_roster_best_total": true,
+    "day_compare_chart": true,
+    "week_strip": true,
+    "no_hits_reasons": true,
+    "marker_class": "xvs-dash-2026",
+    "top10_drafts_v4": true,
+    "trend_keywords": true,
+    "trend_radar": true,
+    "x_keyword_table": true,
+    "experiment": true,
+    "self_quote_badge": true
+  },
+  "previous_day": {
+    "date": "2026-11-22",
+    "hits_count": 4,
+    "total_views": 366389,
+    "stars": 2,
+    "x_score": 70,
+    "top_hit": null
+  },
+  "hits": [],
+  "hits_count": 0,
+  "outsiders": [
+    {
+      "id": "2124846759679607044",
+      "name": "Kling AI",
+      "display_name": "Kling AI",
+      "handle": "@Kling_ai",
+      "views": 256794,
+      "views_label": "256,794",
+      "url": "https://x.com/Kling_ai/status/2124846759679607044",
+      "created_at": "2026-11-23T12:45:19.000Z",
+      "posted_at": "2026-11-23T12:45:19.000Z",
+      "text": "A complete image set, all from a single prompt.\n\nWith Kling Image 4.0, generate up to 10 images featuring consistent subjects and visual styles, all shaped around your creative vision. https://t.co/A5qPkSQ1tQ",
+      "original_en": "A complete image set, all from a single prompt.\n\nWith Kling Image 4.0, generate up to 10 images featuring consistent subjects and visual styles, all shaped around your creative vision. https://t.co/A5qPkSQ1tQ",
+      "lang": "en",
+      "hook": "Kling's own Kling Image 4.0 'complete image set from a single prompt' clip, now 256.8K (127K on the 22.11 board) but only 787 likes - brand reach that looks promoted.",
+      "video_tip": "Show one prompt becoming a 10-frame consistent character set: fast grid, then each frame full screen, same face throughout.",
+      "media": "video",
+      "followers_count": 139687,
+      "likes": 787,
+      "reposts": 30,
+      "bookmarks": 76,
+      "replies": 54,
+      "quotes": 12,
+      "self_quote": false,
+      "board_rank": 1,
+      "draft_en": "One prompt. A whole matching set.\n\nKling Image 4.0 now gives you up to 10 images where the subject and the style hold steady from frame to frame - each one bent toward the idea you started with. That is the model doing the consistency work for you.",
+      "draft_keywords": [
+        "Kling Image 4.0",
+        "model"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.023,
+        "word_overlap": 0.286,
+        "max_copied_run": 4
+      },
+      "top10_rank": 1
+    },
+    {
+      "id": "2124912108890378562",
+      "name": "Vashi Nedomansky, ACE",
+      "display_name": "Vashi Nedomansky, ACE",
+      "handle": "@vashikoo",
+      "views": 194793,
+      "views_label": "194,793",
+      "url": "https://x.com/vashikoo/status/2124912108890378562",
+      "created_at": "2026-11-23T17:05:00.000Z",
+      "posted_at": "2026-11-23T17:05:00.000Z",
+      "text": "In 2004, the Sony Disc Explorer 400 could hold the entire 282-disc Criterion Collection and still have room for 118 more DVDs, CDs, SACDs or VCDs.\n\n22 years later, I pay too many streaming services to tell me the movie I want isn't available.\n\nAlso, what the hell is an SACD? https://t.co/6eMW9uhSGp",
+      "original_en": "In 2004, the Sony Disc Explorer 400 could hold the entire 282-disc Criterion Collection and still have room for 118 more DVDs, CDs, SACDs or VCDs.\n\n22 years later, I pay too many streaming services to tell me the movie I want isn't available.\n\nAlso, what the hell is an SACD? https://t.co/6eMW9uhSGp",
+      "lang": "en",
+      "hook": "Not AI: a film editor's (ACE) nostalgia post about a 2004 Sony 400-disc DVD changer holding the whole Criterion Collection vs today's streaming gaps - 194.8K views, 4,255 likes, 1,149 bookmarks. Cinephile nostalgia plus a relatable gripe.",
+      "video_tip": "Pair a short clip of a physical-media object with a one-line 'then vs now' caption; film-culture nostalgia travels well beyond the AI niche.",
+      "media": "video",
+      "followers_count": 47378,
+      "likes": 4255,
+      "reposts": 411,
+      "bookmarks": 1149,
+      "replies": 122,
+      "quotes": 57,
+      "self_quote": false,
+      "board_rank": 2,
+      "draft_en": "Back in 2004, one Sony Disc Explorer 400 swallowed all 282 discs of the Criterion Collection - and still had 118 open slots left over for DVDs, CDs, VCDs or SACDs.\n\nNow, 22 years on, we stack streaming video subscriptions just to learn the film we want isn't on any of them.\n\nAlso, be honest: does anyone remember what an SACD even was?",
+      "draft_keywords": [
+        "video"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.034,
+        "word_overlap": 0.571,
+        "max_copied_run": 4
+      },
+      "top10_rank": 2
+    },
+    {
+      "id": "2124877291192819858",
+      "name": "Angry Tom",
+      "display_name": "Angry Tom",
+      "handle": "@AngryTomtweets",
+      "views": 95622,
+      "views_label": "95,622",
+      "url": "https://x.com/AngryTomtweets/status/2124877291192819858",
+      "created_at": "2026-11-23T14:46:39.000Z",
+      "posted_at": "2026-11-23T14:46:39.000Z",
+      "text": "nobody saw this coming... https://t.co/GYS6o8EDBR https://t.co/yvE8m1oRKd",
+      "original_en": "nobody saw this coming... https://t.co/GYS6o8EDBR https://t.co/yvE8m1oRKd",
+      "lang": "en",
+      "hook": "Quote-post with a three-word tease ('nobody saw this coming...') and a video - 95.6K views but only 30 likes and 3 bookmarks, so the reach looks promoted or algorithmic rather than earned.",
+      "video_tip": "A tease caption only works if the first second of the video pays it off; open on the surprise, not the setup.",
+      "media": "video",
+      "followers_count": 149711,
+      "likes": 30,
+      "reposts": 2,
+      "bookmarks": 3,
+      "replies": 4,
+      "quotes": 0,
+      "self_quote": false,
+      "board_rank": 3,
+      "draft_en": "Didn't have this one on my bingo card... 👀\n\nWatch the video.",
+      "draft_keywords": [
+        "video"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.0,
+        "word_overlap": 0.0,
+        "max_copied_run": 1
+      },
+      "top10_rank": 3
+    },
+    {
+      "id": "2125223275093688624",
+      "name": "Kling AI",
+      "display_name": "Kling AI",
+      "handle": "@Kling_ai",
+      "views": 94632,
+      "views_label": "94,632",
+      "url": "https://x.com/Kling_ai/status/2125223275093688624",
+      "created_at": "2026-11-24T13:41:28.000Z",
+      "posted_at": "2026-11-24T13:41:28.000Z",
+      "text": "Style isn’t just what you make — it’s what you push to its fullest.\n\nIn the first Creator Highlights series for Kling Image 4.0, creators take their signature palette, composition, and texture to the max, turning a distinct visual language into something unmistakably their own. https://t.co/L0tHqvAkuO",
+      "original_en": "Style isn’t just what you make — it’s what you push to its fullest.\n\nIn the first Creator Highlights series for Kling Image 4.0, creators take their signature palette, composition, and texture to the max, turning a distinct visual language into something unmistakably their own. https://t.co/L0tHqvAkuO",
+      "lang": "en",
+      "hook": "Kling 'Creator Highlights' series for Kling Image 4.0 (7 creator images) - 94.6K views but 64 likes; brand reach, promoted-looking.",
+      "video_tip": "Build a 7-image style showcase where every frame keeps one palette and texture; cut it as a 7-beat slideshow for video.",
+      "media": "7 photos",
+      "followers_count": 139687,
+      "likes": 64,
+      "reposts": 6,
+      "bookmarks": 12,
+      "replies": 12,
+      "quotes": 2,
+      "self_quote": false,
+      "board_rank": 4,
+      "draft_en": "Having a style is one thing. Pushing it all the way is another.\n\nThat is the idea behind Kling's first Creator Highlights run for Kling Image 4.0 - each creator cranks their own colours, framing and texture to the limit, until the look could only belong to them.",
+      "draft_keywords": [
+        "Creator Highlights",
+        "Kling Image 4.0"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.045,
+        "word_overlap": 0.368,
+        "max_copied_run": 4
+      },
+      "top10_rank": 4
+    },
+    {
+      "id": "2124959312606818597",
+      "name": "Google DeepMind",
+      "display_name": "Google DeepMind",
+      "handle": "@GoogleDeepMind",
+      "views": 93033,
+      "views_label": "93,033",
+      "url": "https://x.com/GoogleDeepMind/status/2124959312606818597",
+      "created_at": "2026-11-23T20:12:34.000Z",
+      "posted_at": "2026-11-23T20:12:34.000Z",
+      "text": "Gemini 4 Neon recreated Alan Turing’s 1936 study at @Cambridge_Uni in interactive 3D.\n\nUsing archival photos in @Antigravity, the model built Room X.8 at King’s College with a running Universal Turing Machine. https://t.co/mHYg9CW6jJ",
+      "original_en": "Gemini 4 Neon recreated Alan Turing’s 1936 study at @Cambridge_Uni in interactive 3D.\n\nUsing archival photos in @Antigravity, the model built Room X.8 at King’s College with a running Universal Turing Machine. https://t.co/mHYg9CW6jJ",
+      "lang": "en",
+      "hook": "Google DeepMind: Gemini 4 Neon rebuilt Alan Turing's 1936 study at King's College in interactive 3D from archival photos, with a running Universal Turing Machine - 93.0K views, 1,921 likes. History recreated from archive photos.",
+      "video_tip": "Recreate a real historic room or set from archive photos and do a slow camera move through it; reveal the original photo at the end.",
+      "media": "video",
+      "followers_count": 1624564,
+      "likes": 1921,
+      "reposts": 172,
+      "bookmarks": 340,
+      "replies": 139,
+      "quotes": 36,
+      "self_quote": false,
+      "board_rank": 5,
+      "draft_en": "A room from 1936, rebuilt so you can walk through it: Alan Turing's study at @Cambridge_Uni, now in interactive 3D.\n\nThe model behind it is Gemini 4 Neon. Fed archival photos inside @Antigravity, it reconstructed Room X.8 at King's College - and the Universal Turing Machine in there actually runs.",
+      "draft_keywords": [
+        "model",
+        "Gemini 4 Neon",
+        "Antigravity"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.064,
+        "word_overlap": 0.714,
+        "max_copied_run": 5
+      },
+      "top10_rank": 5
+    },
+    {
+      "id": "2124915406775386232",
+      "name": "Fakhr",
+      "display_name": "Fakhr",
+      "handle": "@iamfakhrealam",
+      "views": 76365,
+      "views_label": "76,365",
+      "url": "https://x.com/iamfakhrealam/status/2124915406775386232",
+      "created_at": "2026-11-23T17:18:06.000Z",
+      "posted_at": "2026-11-23T17:18:06.000Z",
+      "text": "Time to finish Higgsfield pricing…\n\nSeedance 2.5…Same model... Same quality…but Less than half the price https://t.co/itGtJfB6C0",
+      "original_en": "Time to finish Higgsfield pricing…\n\nSeedance 2.5…Same model... Same quality…but Less than half the price https://t.co/itGtJfB6C0",
+      "lang": "en",
+      "hook": "Paid partnership (flagged by X): 'Time to finish Higgsfield pricing... Seedance 2.5, same model, less than half the price' quote-post - 76.4K views, 183 likes. Price-war promo.",
+      "video_tip": "Skip the price angle; if you compare tools, show the same Seedance 2.5 shot side by side and let the output make the point.",
+      "media": "text",
+      "followers_count": 32423,
+      "likes": 183,
+      "reposts": 16,
+      "bookmarks": 25,
+      "replies": 21,
+      "quotes": 0,
+      "self_quote": false,
+      "board_rank": 6,
+      "draft_en": "Higgsfield pricing just got undercut.\n\nIdentical Seedance 2.5 model, identical output quality - for under half of what you'd pay there.",
+      "draft_keywords": [
+        "Higgsfield",
+        "pricing",
+        "Seedance",
+        "model"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.0,
+        "word_overlap": 0.583,
+        "max_copied_run": 2
+      },
+      "top10_rank": 6
+    },
+    {
+      "id": "2124874108743610647",
+      "name": "TechHalla",
+      "display_name": "TechHalla",
+      "handle": "@techhalla",
+      "views": 62542,
+      "views_label": "62,542",
+      "url": "https://x.com/techhalla/status/2124874108743610647",
+      "created_at": "2026-11-23T14:34:00.000Z",
+      "posted_at": "2026-11-23T14:34:00.000Z",
+      "text": "Game of Thrones but it's 1973 🗡️ https://t.co/GZkdoV9QRX",
+      "original_en": "Game of Thrones but it's 1973 🗡️ https://t.co/GZkdoV9QRX",
+      "lang": "en",
+      "hook": "TechHalla's era-swap series continues: 'Game of Thrones but it's 1973' grew from 2.5K in its first hour (22.11 board) to 62.5K, 653 likes, 110 bookmarks. A seven-word caption and a familiar franchise in a period look.",
+      "video_tip": "Restyle a franchise you love (Warhammer 40K, Star Wars) as a 1973 film trailer: grain, crash zooms, period wardrobe, under 60s, one-line caption.",
+      "media": "video",
+      "followers_count": 104042,
+      "likes": 653,
+      "reposts": 84,
+      "bookmarks": 110,
+      "replies": 17,
+      "quotes": 1,
+      "self_quote": false,
+      "board_rank": 7,
+      "draft_en": "What if Game of Thrones had been shot in 1973? 🗡️\n\nAn era-swap AI video.",
+      "draft_keywords": [
+        "video"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.0,
+        "word_overlap": 0.5,
+        "max_copied_run": 3
+      },
+      "top10_rank": 7
+    },
+    {
+      "id": "2125169180588818662",
+      "name": "Marry Evan",
+      "display_name": "Marry Evan",
+      "handle": "@marryevan999",
+      "views": 41355,
+      "views_label": "41,355",
+      "url": "https://x.com/marryevan999/status/2125169180588818662",
+      "created_at": "2026-11-24T10:06:31.000Z",
+      "posted_at": "2026-11-24T10:06:31.000Z",
+      "text": "AI creators, here’s a smarter way to approach ad creation.\n\nInstead of spending hours building every concept from scratch, start with a creative template that already has a strong visual direction.\n\nDreamina Marketing Studio lets you:\n→ Browse ready-to-use ad templates\n→ https://t.co/DGIrPi2WJx",
+      "original_en": "AI creators, here’s a smarter way to approach ad creation.\n\nInstead of spending hours building every concept from scratch, start with a creative template that already has a strong visual direction.\n\nDreamina Marketing Studio lets you:\n→ Browse ready-to-use ad templates\n→ https://t.co/DGIrPi2WJx",
+      "lang": "en",
+      "hook": "Dreamina Marketing Studio template pitch ('AI creators, here's a smarter way to approach ad creation') - 41.4K views, 105 likes; reads as a sponsored tool push.",
+      "video_tip": "Show a template-to-finished-ad before/after in under 15s if you sell ad work; the client-facing angle matters more than the tool.",
+      "media": "video",
+      "followers_count": 44287,
+      "likes": 105,
+      "reposts": 99,
+      "bookmarks": 32,
+      "replies": 32,
+      "quotes": 1,
+      "self_quote": false,
+      "board_rank": 8,
+      "draft_en": "Building every ad concept from a blank page eats hours.\n\nThe faster route for AI creators: begin with a template that already carries a strong visual look. Dreamina Marketing Studio is built around exactly that - you browse ad templates that are ready to go and pick your starting point.",
+      "draft_keywords": [
+        "Studio"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.0,
+        "word_overlap": 0.464,
+        "max_copied_run": 3
+      },
+      "top10_rank": 8
+    },
+    {
+      "id": "2124946551428530546",
+      "name": "Fathela Esq",
+      "display_name": "Fathela Esq",
+      "handle": "@AmControo",
+      "views": 37596,
+      "views_label": "37,596",
+      "url": "https://x.com/AmControo/status/2124946551428530546",
+      "created_at": "2026-11-23T19:21:52.000Z",
+      "posted_at": "2026-11-23T19:21:52.000Z",
+      "text": "POV: Your product just became an item someone can pick up in GTA 6.\n\nNot a billboard. Not a background cameo. The character actually walks over, notices it and takes it. That's the whole appeal of this little concept.\n\nAnd there's a Black Friday deal too: 90% OFF your first month https://t.co/zqSnRSSd5a",
+      "original_en": "POV: Your product just became an item someone can pick up in GTA 6.\n\nNot a billboard. Not a background cameo. The character actually walks over, notices it and takes it. That's the whole appeal of this little concept.\n\nAnd there's a Black Friday deal too: 90% OFF your first month https://t.co/zqSnRSSd5a",
+      "lang": "en",
+      "hook": "'POV: your product just became an item someone can pick up in GTA 6' - a product-placement concept video, 37.6K views, 130 bookmarks, ending on a 90%-off Black Friday deal (promo).",
+      "video_tip": "Product-in-game-world POV: a character walks over, notices the product, picks it up. One clean 8-10s shot; works as a UGC/ad pitch for clients.",
+      "media": "video",
+      "followers_count": 56418,
+      "likes": 217,
+      "reposts": 77,
+      "bookmarks": 130,
+      "replies": 37,
+      "quotes": 0,
+      "self_quote": false,
+      "board_rank": 9,
+      "draft_en": "Picture your product as a pickup item inside GTA 6.\n\nForget billboards and blink-and-miss cameos - a character strolls up, spots it and grabs it. That one moment is the entire pitch of this small concept video.\n\nBlack Friday bonus: 90% OFF the first month.",
+      "draft_keywords": [
+        "Black Friday",
+        "video"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.0,
+        "word_overlap": 0.333,
+        "max_copied_run": 2
+      },
+      "top10_rank": 9
+    },
+    {
+      "id": "2124926392924012996",
+      "name": "Higgsfield AI 🧩",
+      "display_name": "Higgsfield AI 🧩",
+      "handle": "@higgsfield_ai",
+      "views": 25232,
+      "views_label": "25,232",
+      "url": "https://x.com/higgsfield_ai/status/2124926392924012996",
+      "created_at": "2026-11-23T18:01:45.000Z",
+      "posted_at": "2026-11-23T18:01:45.000Z",
+      "text": "The next Higgsfield Selected is ORIGINS EP. 01: ZARA by @joeysnoisygroup\n\nA 7-minute action film about an AI K-pop idol searching for her origins.\n\nThe entire project is open source. All prompts and assets are public.\n\nHere's the full workflow: https://t.co/ZEbMMDa7mc",
+      "original_en": "The next Higgsfield Selected is ORIGINS EP. 01: ZARA by @joeysnoisygroup\n\nA 7-minute action film about an AI K-pop idol searching for her origins.\n\nThe entire project is open source. All prompts and assets are public.\n\nHere's the full workflow: https://t.co/ZEbMMDa7mc",
+      "lang": "en",
+      "hook": "Higgsfield Selected: ORIGINS EP. 01: ZARA, a 7-minute action film about an AI K-pop idol, fully open source with all prompts and assets public - 25.2K views, 156 bookmarks.",
+      "video_tip": "For a longer film, post the trailer cut with 'all prompts public' and the workflow link; open-sourcing the process earns saves.",
+      "media": "video",
+      "followers_count": 258041,
+      "likes": 311,
+      "reposts": 42,
+      "bookmarks": 156,
+      "replies": 48,
+      "quotes": 4,
+      "self_quote": false,
+      "board_rank": 10,
+      "draft_en": "An AI K-pop idol goes looking for where she came from.\n\nThe newest Higgsfield Selected pick is a 7-minute action film from @joeysnoisygroup - ORIGINS EP. 01, titled ZARA.\n\nNothing is hidden: the whole project is open source, with every prompt and asset public.\n\nFull workflow below 👇",
+      "draft_keywords": [
+        "Higgsfield Selected",
+        "workflow"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.07,
+        "word_overlap": 0.615,
+        "max_copied_run": 4
+      },
+      "top10_rank": 10
+    },
+    {
+      "id": "2125023133111562273",
+      "name": "Min Choi",
+      "display_name": "Min Choi",
+      "handle": "@minchoi",
+      "views": 22746,
+      "views_label": "22,746",
+      "url": "https://x.com/minchoi/status/2125023133111562273",
+      "created_at": "2026-11-24T00:26:10.000Z",
+      "posted_at": "2026-11-24T00:26:10.000Z",
+      "text": "This is kinda insane.\n\nAI can now turn a few photos into a personalized song + visual for any special day.\n\nI wrote the lyrics + style with Claude. @Suno MCP made the song. Suno Visuals brought it to life.\n\nAll in ONE chat.\n\n10 wild examples + how to👇 https://t.co/rFYgkzDjEv",
+      "original_en": "This is kinda insane.\n\nAI can now turn a few photos into a personalized song + visual for any special day.\n\nI wrote the lyrics + style with Claude. @Suno MCP made the song. Suno Visuals brought it to life.\n\nAll in ONE chat.\n\n10 wild examples + how to👇 https://t.co/rFYgkzDjEv",
+      "lang": "en",
+      "hook": "Min Choi: Claude lyrics + Suno MCP song + Suno Visuals turning a few photos into a personalized song video 'all in ONE chat' - 22.7K views, 69 bookmarks, '10 wild examples' thread.",
+      "video_tip": "Personalized-occasion video (birthday, anniversary) from a few photos is a sellable service; show one before/after example in 20s.",
+      "media": "video",
+      "followers_count": 392680,
+      "likes": 85,
+      "reposts": 11,
+      "bookmarks": 69,
+      "replies": 35,
+      "quotes": 0,
+      "self_quote": false,
+      "board_rank": 11
+    },
+    {
+      "id": "2125202832660042052",
+      "name": "Higgsfield AI 🧩",
+      "display_name": "Higgsfield AI 🧩",
+      "handle": "@higgsfield_ai",
+      "views": 21139,
+      "views_label": "21,139",
+      "url": "https://x.com/higgsfield_ai/status/2125202832660042052",
+      "created_at": "2026-11-24T12:20:14.000Z",
+      "posted_at": "2026-11-24T12:20:14.000Z",
+      "text": "Introducing Ideogram 4.6.\n\nTo test its precision, we made 166 edits to a single image.\n\n&gt; less pixel drift outside the edit area\n&gt; more consistent characters across edits\n&gt; more accurate colors\n&gt; native 4K output\n\nAvailable now on Higgsfield. https://t.co/vBJzIdHNgY",
+      "original_en": "Introducing Ideogram 4.6.\n\nTo test its precision, we made 166 edits to a single image.\n\n&gt; less pixel drift outside the edit area\n&gt; more consistent characters across edits\n&gt; more accurate colors\n&gt; native 4K output\n\nAvailable now on Higgsfield. https://t.co/vBJzIdHNgY",
+      "lang": "en",
+      "hook": "Higgsfield launch of Ideogram 4.6: 166 edits on a single image, with a bullet list (less pixel drift, consistent characters, accurate colors, native 4K) - 21.1K views, 367 likes.",
+      "video_tip": "Show many edits of one image as a rapid-fire cut (one subject, dozens of variations) - the edit count is the hook.",
+      "media": "video",
+      "followers_count": 258041,
+      "likes": 367,
+      "reposts": 165,
+      "bookmarks": 60,
+      "replies": 31,
+      "quotes": 0,
+      "self_quote": false,
+      "board_rank": 12
+    },
+    {
+      "id": "2124894381249585505",
+      "name": "Runway",
+      "display_name": "Runway",
+      "handle": "@runwayml",
+      "views": 18287,
+      "views_label": "18,287",
+      "url": "https://x.com/runwayml/status/2124894381249585505",
+      "created_at": "2026-11-23T15:54:33.000Z",
+      "posted_at": "2026-11-23T15:54:33.000Z",
+      "text": "Create with Runway inside ChatGPT using GPT-6.2 Astra.\n\nAstra built the Pantheon from historical diagrams, Blender handled the camera moves and Runway turned it into a festival in ancient Rome, with the building faithful to the diagrams in every shot. Watch below. https://t.co/b5Cc8DnQ44",
+      "original_en": "Create with Runway inside ChatGPT using GPT-6.2 Astra.\n\nAstra built the Pantheon from historical diagrams, Blender handled the camera moves and Runway turned it into a festival in ancient Rome, with the building faithful to the diagrams in every shot. Watch below. https://t.co/b5Cc8DnQ44",
+      "lang": "en",
+      "hook": "Runway inside ChatGPT with GPT-6.2 Astra: Pantheon built from historical diagrams, Blender camera moves, Runway turned it into a festival in ancient Rome - 18.3K views, 83 bookmarks.",
+      "video_tip": "Blockout-to-final: show a grey 3D blockout camera move, then the same move fully rendered. Control is the selling point.",
+      "media": "video",
+      "followers_count": 297967,
+      "likes": 199,
+      "reposts": 22,
+      "bookmarks": 83,
+      "replies": 52,
+      "quotes": 11,
+      "self_quote": false,
+      "board_rank": 13
+    },
+    {
+      "id": "2125066936744542352",
+      "name": "Min Choi",
+      "display_name": "Min Choi",
+      "handle": "@minchoi",
+      "views": 12450,
+      "views_label": "12,450",
+      "url": "https://x.com/minchoi/status/2125066936744542352",
+      "created_at": "2026-11-24T03:20:14.000Z",
+      "posted_at": "2026-11-24T03:20:14.000Z",
+      "text": "How is AI creating a lifetime of memories of a couple growing old together?\n\nThis couple doesn't even exist.\n\n100% AI🤯 https://t.co/BMakNPlPM3 https://t.co/QiG4dB4ZRT",
+      "original_en": "How is AI creating a lifetime of memories of a couple growing old together?\n\nThis couple doesn't even exist.\n\n100% AI🤯 https://t.co/BMakNPlPM3 https://t.co/QiG4dB4ZRT",
+      "lang": "en",
+      "hook": "Min Choi quote-post: an AI couple growing old together, '100% AI' - 12.5K views. Emotional life-montage format.",
+      "video_tip": "A one-minute life montage of one character aging works for dramatic, naturalistic character work; keep the face consistent from a model sheet.",
+      "media": "video",
+      "followers_count": 392680,
+      "likes": 38,
+      "reposts": 5,
+      "bookmarks": 21,
+      "replies": 28,
+      "quotes": 2,
+      "self_quote": false,
+      "board_rank": 14
+    },
+    {
+      "id": "2124769322983948561",
+      "name": "Smiling Khan",
+      "display_name": "Smiling Khan",
+      "handle": "@AIwithkhan",
+      "views": 11339,
+      "views_label": "11,339",
+      "url": "https://x.com/AIwithkhan/status/2124769322983948561",
+      "created_at": "2026-11-23T07:37:37.000Z",
+      "posted_at": "2026-11-23T07:37:37.000Z",
+      "text": "Big news for AI video creators! 👀🔥\n\n@popnow_ai\n\nPopNow is offering a one-time $100 pack with 100,000 credits that never expire, PLUS 7 days of unlimited 480p video generation with Seedance 2.0 Mini, MiniMax H3 and Grok Imagine Video 1.5.\n\nNo subscription or recurring payments. More freedom to experiment and create!\n\nLaunching November 23. Check it out: https://t.co/JAsTS5DUxH\n\nCheck pricing here \n\nhttps://t.co/sZ7JFSJSc7",
+      "original_en": "Big news for AI video creators! 👀🔥\n\n@popnow_ai\n\nPopNow is offering a one-time $100 pack with 100,000 credits that never expire, PLUS 7 days of unlimited 480p video generation with Seedance 2.0 Mini, MiniMax H3 and Grok Imagine Video 1.5.\n\nNo subscription or recurring payments. More freedom to experiment and create!\n\nLaunching November 23. Check it out: https://t.co/JAsTS5DUxH\n\nCheck pricing here \n\nhttps://t.co/sZ7JFSJSc7",
+      "lang": "en",
+      "hook": "Paid partnership (flagged by X): PopNow $100 one-time pack with 100,000 credits plus 7 days of unlimited 480p Seedance 2.0 Mini, MiniMax H3 and Grok Imagine Video 1.5 - 11.3K views. Promo.",
+      "video_tip": "Skip - credit-pack promos don't transfer to a creator account.",
+      "media": "photo",
+      "followers_count": 15730,
+      "likes": 102,
+      "reposts": 4,
+      "bookmarks": 24,
+      "replies": 40,
+      "quotes": 0,
+      "self_quote": false,
+      "board_rank": 15
+    },
+    {
+      "id": "2124953874461286781",
+      "name": "ImagineArt",
+      "display_name": "ImagineArt",
+      "handle": "@ImagineArt_X",
+      "views": 6349,
+      "views_label": "6,349",
+      "url": "https://x.com/ImagineArt_X/status/2124953874461286781",
+      "created_at": "2026-11-23T19:50:58.000Z",
+      "posted_at": "2026-11-23T19:50:58.000Z",
+      "text": "can't get you 0.00001% of Anthropic.\n\ncan get you 60% off every model. \n\nBlack Friday, ends Nov 30. https://t.co/VL2Hv2R4cj",
+      "original_en": "can't get you 0.00001% of Anthropic.\n\ncan get you 60% off every model. \n\nBlack Friday, ends Nov 30. https://t.co/VL2Hv2R4cj",
+      "lang": "en",
+      "hook": "ImagineArt Black Friday ('can get you 60% off every model', ends Nov 30) - 6.3K views, 28 likes. Brand promo.",
+      "video_tip": "Skip - price promo.",
+      "media": "video",
+      "followers_count": 23415,
+      "likes": 28,
+      "reposts": 1,
+      "bookmarks": 2,
+      "replies": 13,
+      "quotes": 1,
+      "self_quote": false,
+      "board_rank": 16
+    },
+    {
+      "id": "2124872708366401609",
+      "name": "AshutoshShrivastava",
+      "display_name": "AshutoshShrivastava",
+      "handle": "@ai_for_success",
+      "views": 6045,
+      "views_label": "6,045",
+      "url": "https://x.com/ai_for_success/status/2124872708366401609",
+      "created_at": "2026-11-23T14:28:26.000Z",
+      "posted_at": "2026-11-23T14:28:26.000Z",
+      "text": "Gemini 4 Neon + Magnific MCP + Antigravity is probably one of the craziest combo I've used in a while.\n\nHere's what I was working on over the weekend. I couldn't find a single guide that covered the entire image-to-3D, rigging, animation, and expressions workflow in detail, including all the small things and common mistakes you make when you work for the first time.\n\nSo I built one for my own future reference and documented the entire process, including the open-source tools and components used. Sharing it here so you can use it too. Hope it helps!",
+      "original_en": "Gemini 4 Neon + Magnific MCP + Antigravity is probably one of the craziest combo I've used in a while.\n\nHere's what I was working on over the weekend. I couldn't find a single guide that covered the entire image-to-3D, rigging, animation, and expressions workflow in detail, including all the small things and common mistakes you make when you work for the first time.\n\nSo I built one for my own future reference and documented the entire process, including the open-source tools and components used. Sharing it here so you can use it too. Hope it helps!",
+      "lang": "en",
+      "hook": "Workflow guide: Gemini 4 Neon + Magnific MCP + Antigravity for image-to-3D, rigging, animation and expressions, documented with common mistakes - 6.0K views, 98 bookmarks (1.6% save rate).",
+      "video_tip": "Document your own character pipeline (model sheet - 3D - animation) as a 30s breakdown reel; full write-up in the thread.",
+      "media": "video",
+      "followers_count": 82914,
+      "likes": 113,
+      "reposts": 6,
+      "bookmarks": 98,
+      "replies": 24,
+      "quotes": 1,
+      "self_quote": false,
+      "board_rank": 17
+    },
+    {
+      "id": "2124896595049087223",
+      "name": "ULTIMATE DREAM FILMS",
+      "display_name": "ULTIMATE DREAM FILMS",
+      "handle": "@udf_cg",
+      "views": 4645,
+      "views_label": "4,645",
+      "url": "https://x.com/udf_cg/status/2124896595049087223",
+      "created_at": "2026-11-23T16:03:21.000Z",
+      "posted_at": "2026-11-23T16:03:21.000Z",
+      "text": "🚨 THIS IS GETTING OUT OF HAND, @YouTube. 👇\n\nWARNING to ALL CREATORS‼️ \n\nYouTube promotes AI filmmaking. Yet independent AI film studios are now being DEMONETIZED under the same vague “unsatisfying or off-putting content” label!\n\nMy channel UDF: 53k subscribers.\n\nNexus Short Films: 101k subscribers\n\nLume Studio: 42 MILLION views. A team of 30+ people.\n\nDifferent filmmakers. SAME accusation. No specific offending videos identified. Livelihoods and earnings at stake!\n\nAnd this is happening RIGHT BEFORE CHRISTMAS!! 🤬\n\n@TeamYouTube @nealmohan:\n\nWHERE ARE THE VIOLATIONS? WHERE IS THE ACCOUNTABILITY?\n\nTo every AI filmmaker, animator, and creator who has been demonetized: SPEAK UP!\n\nReply with your experience. Share your notices.\n\nLet’s document how many of us this is happening to.",
+      "original_en": "🚨 THIS IS GETTING OUT OF HAND, @YouTube. 👇\n\nWARNING to ALL CREATORS‼️ \n\nYouTube promotes AI filmmaking. Yet independent AI film studios are now being DEMONETIZED under the same vague “unsatisfying or off-putting content” label!\n\nMy channel UDF: 53k subscribers.\n\nNexus Short Films: 101k subscribers\n\nLume Studio: 42 MILLION views. A team of 30+ people.\n\nDifferent filmmakers. SAME accusation. No specific offending videos identified. Livelihoods and earnings at stake!\n\nAnd this is happening RIGHT BEFORE CHRISTMAS!! 🤬\n\n@TeamYouTube @nealmohan:\n\nWHERE ARE THE VIOLATIONS? WHERE IS THE ACCOUNTABILITY?\n\nTo every AI filmmaker, animator, and creator who has been demonetized: SPEAK UP!\n\nReply with your experience. Share your notices.\n\nLet’s document how many of us this is happening to.",
+      "lang": "en",
+      "hook": "Small account (82 followers) warning that AI film channels (UDF 53K subs, Nexus Short Films 101K, Lume Studio) are being demonetized on YouTube for 'unsatisfying or off-putting content' - 4.6K views, 22 replies. Platform-risk talking point for AI filmmakers.",
+      "video_tip": "If you post on YouTube too, keep X as a home for native uploads; a short 'where I publish and why' post can spark replies.",
+      "media": "photo",
+      "followers_count": 82,
+      "likes": 59,
+      "reposts": 17,
+      "bookmarks": 14,
+      "replies": 22,
+      "quotes": 2,
+      "self_quote": false,
+      "board_rank": 18
+    },
+    {
+      "id": "2124883521257025818",
+      "name": "OscarAI",
+      "display_name": "OscarAI",
+      "handle": "@Artedeingenio",
+      "views": 3471,
+      "views_label": "3,471",
+      "url": "https://x.com/Artedeingenio/status/2124883521257025818",
+      "created_at": "2026-11-23T15:11:24.000Z",
+      "posted_at": "2026-11-23T15:11:24.000Z",
+      "text": "Bruce Lee vs. Anubis\n\nEnter the Underworld https://t.co/jlO9kjguHM",
+      "original_en": "Bruce Lee vs. Anubis\n\nEnter the Underworld https://t.co/jlO9kjguHM",
+      "lang": "en",
+      "hook": "OscarAI 'Bruce Lee vs. Anubis - Enter the Underworld': a two-line icon-vs-myth fight video, 3.5K views, 97 likes.",
+      "video_tip": "Icon-vs-myth matchup (a Space Marine vs a mythic creature) as a 15-20s fight beat with a two-line title card.",
+      "media": "video",
+      "followers_count": 66458,
+      "likes": 97,
+      "reposts": 16,
+      "bookmarks": 18,
+      "replies": 13,
+      "quotes": 2,
+      "self_quote": false,
+      "board_rank": 19
+    },
+    {
+      "id": "2125134004424962458",
+      "name": "OscarAI",
+      "display_name": "OscarAI",
+      "handle": "@Artedeingenio",
+      "views": 2312,
+      "views_label": "2,312",
+      "url": "https://x.com/Artedeingenio/status/2125134004424962458",
+      "created_at": "2026-11-24T07:46:44.000Z",
+      "posted_at": "2026-11-24T07:46:44.000Z",
+      "text": "🎨 Style Reference: --sref 231973479\n\nRetro Ink Anime\n\nA fusion of classic Japanese anime and vintage graphic novel aesthetics, featuring expressive hand-inked linework, bold cel shading, earthy colors, and nostalgic analog print textures. https://t.co/SwuoYBKz0b",
+      "original_en": "🎨 Style Reference: --sref 231973479\n\nRetro Ink Anime\n\nA fusion of classic Japanese anime and vintage graphic novel aesthetics, featuring expressive hand-inked linework, bold cel shading, earthy colors, and nostalgic analog print textures. https://t.co/SwuoYBKz0b",
+      "lang": "en",
+      "hook": "Midjourney style reference share (--sref 231973479 'Retro Ink Anime', hand-inked lines, cel shading, print textures) - 2.3K views, 38 bookmarks; sref shares earn saves.",
+      "video_tip": "Animate one retro-ink-anime frame with subtle line boil and camera drift, and put the sref code in the caption.",
+      "media": "4 photos",
+      "followers_count": 66458,
+      "likes": 63,
+      "reposts": 8,
+      "bookmarks": 38,
+      "replies": 6,
+      "quotes": 0,
+      "self_quote": false,
+      "board_rank": 20
+    }
+  ],
+  "outsiders_count": 20,
+  "virals": [
+    {
+      "id": "2124846759679607044",
+      "name": "Kling AI",
+      "display_name": "Kling AI",
+      "handle": "@Kling_ai",
+      "views": 256794,
+      "views_label": "256,794",
+      "url": "https://x.com/Kling_ai/status/2124846759679607044",
+      "created_at": "2026-11-23T12:45:19.000Z",
+      "posted_at": "2026-11-23T12:45:19.000Z",
+      "text": "A complete image set, all from a single prompt.\n\nWith Kling Image 4.0, generate up to 10 images featuring consistent subjects and visual styles, all shaped around your creative vision. https://t.co/A5qPkSQ1tQ",
+      "original_en": "A complete image set, all from a single prompt.\n\nWith Kling Image 4.0, generate up to 10 images featuring consistent subjects and visual styles, all shaped around your creative vision. https://t.co/A5qPkSQ1tQ",
+      "lang": "en",
+      "hook": "Kling's own Kling Image 4.0 'complete image set from a single prompt' clip, now 256.8K (127K on the 22.11 board) but only 787 likes - brand reach that looks promoted.",
+      "video_tip": "Show one prompt becoming a 10-frame consistent character set: fast grid, then each frame full screen, same face throughout.",
+      "media": "video",
+      "followers_count": 139687,
+      "likes": 787,
+      "reposts": 30,
+      "bookmarks": 76,
+      "replies": 54,
+      "quotes": 12,
+      "self_quote": false,
+      "board_rank": 1,
+      "draft_en": "One prompt. A whole matching set.\n\nKling Image 4.0 now gives you up to 10 images where the subject and the style hold steady from frame to frame - each one bent toward the idea you started with. That is the model doing the consistency work for you.",
+      "draft_keywords": [
+        "Kling Image 4.0",
+        "model"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.023,
+        "word_overlap": 0.286,
+        "max_copied_run": 4
+      },
+      "top10_rank": 1,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "note": "",
+        "topic": "Kling Image 4.0 brand reach"
+      }
+    },
+    {
+      "id": "2124912108890378562",
+      "name": "Vashi Nedomansky, ACE",
+      "display_name": "Vashi Nedomansky, ACE",
+      "handle": "@vashikoo",
+      "views": 194793,
+      "views_label": "194,793",
+      "url": "https://x.com/vashikoo/status/2124912108890378562",
+      "created_at": "2026-11-23T17:05:00.000Z",
+      "posted_at": "2026-11-23T17:05:00.000Z",
+      "text": "In 2004, the Sony Disc Explorer 400 could hold the entire 282-disc Criterion Collection and still have room for 118 more DVDs, CDs, SACDs or VCDs.\n\n22 years later, I pay too many streaming services to tell me the movie I want isn't available.\n\nAlso, what the hell is an SACD? https://t.co/6eMW9uhSGp",
+      "original_en": "In 2004, the Sony Disc Explorer 400 could hold the entire 282-disc Criterion Collection and still have room for 118 more DVDs, CDs, SACDs or VCDs.\n\n22 years later, I pay too many streaming services to tell me the movie I want isn't available.\n\nAlso, what the hell is an SACD? https://t.co/6eMW9uhSGp",
+      "lang": "en",
+      "hook": "Not AI: a film editor's (ACE) nostalgia post about a 2004 Sony 400-disc DVD changer holding the whole Criterion Collection vs today's streaming gaps - 194.8K views, 4,255 likes, 1,149 bookmarks. Cinephile nostalgia plus a relatable gripe.",
+      "video_tip": "Pair a short clip of a physical-media object with a one-line 'then vs now' caption; film-culture nostalgia travels well beyond the AI niche.",
+      "media": "video",
+      "followers_count": 47378,
+      "likes": 4255,
+      "reposts": 411,
+      "bookmarks": 1149,
+      "replies": 122,
+      "quotes": 57,
+      "self_quote": false,
+      "board_rank": 2,
+      "draft_en": "Back in 2004, one Sony Disc Explorer 400 swallowed all 282 discs of the Criterion Collection - and still had 118 open slots left over for DVDs, CDs, VCDs or SACDs.\n\nNow, 22 years on, we stack streaming video subscriptions just to learn the film we want isn't on any of them.\n\nAlso, be honest: does anyone remember what an SACD even was?",
+      "draft_keywords": [
+        "video"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.034,
+        "word_overlap": 0.571,
+        "max_copied_run": 4
+      },
+      "top10_rank": 2,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "note": "",
+        "topic": null
+      }
+    },
+    {
+      "id": "2124877291192819858",
+      "name": "Angry Tom",
+      "display_name": "Angry Tom",
+      "handle": "@AngryTomtweets",
+      "views": 95622,
+      "views_label": "95,622",
+      "url": "https://x.com/AngryTomtweets/status/2124877291192819858",
+      "created_at": "2026-11-23T14:46:39.000Z",
+      "posted_at": "2026-11-23T14:46:39.000Z",
+      "text": "nobody saw this coming... https://t.co/GYS6o8EDBR https://t.co/yvE8m1oRKd",
+      "original_en": "nobody saw this coming... https://t.co/GYS6o8EDBR https://t.co/yvE8m1oRKd",
+      "lang": "en",
+      "hook": "Quote-post with a three-word tease ('nobody saw this coming...') and a video - 95.6K views but only 30 likes and 3 bookmarks, so the reach looks promoted or algorithmic rather than earned.",
+      "video_tip": "A tease caption only works if the first second of the video pays it off; open on the surprise, not the setup.",
+      "media": "video",
+      "followers_count": 149711,
+      "likes": 30,
+      "reposts": 2,
+      "bookmarks": 3,
+      "replies": 4,
+      "quotes": 0,
+      "self_quote": false,
+      "board_rank": 3,
+      "draft_en": "Didn't have this one on my bingo card... 👀\n\nWatch the video.",
+      "draft_keywords": [
+        "video"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.0,
+        "word_overlap": 0.0,
+        "max_copied_run": 1
+      },
+      "top10_rank": 3,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "note": "",
+        "topic": null
+      }
+    },
+    {
+      "id": "2125223275093688624",
+      "name": "Kling AI",
+      "display_name": "Kling AI",
+      "handle": "@Kling_ai",
+      "views": 94632,
+      "views_label": "94,632",
+      "url": "https://x.com/Kling_ai/status/2125223275093688624",
+      "created_at": "2026-11-24T13:41:28.000Z",
+      "posted_at": "2026-11-24T13:41:28.000Z",
+      "text": "Style isn’t just what you make — it’s what you push to its fullest.\n\nIn the first Creator Highlights series for Kling Image 4.0, creators take their signature palette, composition, and texture to the max, turning a distinct visual language into something unmistakably their own. https://t.co/L0tHqvAkuO",
+      "original_en": "Style isn’t just what you make — it’s what you push to its fullest.\n\nIn the first Creator Highlights series for Kling Image 4.0, creators take their signature palette, composition, and texture to the max, turning a distinct visual language into something unmistakably their own. https://t.co/L0tHqvAkuO",
+      "lang": "en",
+      "hook": "Kling 'Creator Highlights' series for Kling Image 4.0 (7 creator images) - 94.6K views but 64 likes; brand reach, promoted-looking.",
+      "video_tip": "Build a 7-image style showcase where every frame keeps one palette and texture; cut it as a 7-beat slideshow for video.",
+      "media": "7 photos",
+      "followers_count": 139687,
+      "likes": 64,
+      "reposts": 6,
+      "bookmarks": 12,
+      "replies": 12,
+      "quotes": 2,
+      "self_quote": false,
+      "board_rank": 4,
+      "draft_en": "Having a style is one thing. Pushing it all the way is another.\n\nThat is the idea behind Kling's first Creator Highlights run for Kling Image 4.0 - each creator cranks their own colours, framing and texture to the limit, until the look could only belong to them.",
+      "draft_keywords": [
+        "Creator Highlights",
+        "Kling Image 4.0"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.045,
+        "word_overlap": 0.368,
+        "max_copied_run": 4
+      },
+      "top10_rank": 4,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "image",
+        "note": "",
+        "topic": "Kling Image 4.0 brand reach"
+      }
+    },
+    {
+      "id": "2124959312606818597",
+      "name": "Google DeepMind",
+      "display_name": "Google DeepMind",
+      "handle": "@GoogleDeepMind",
+      "views": 93033,
+      "views_label": "93,033",
+      "url": "https://x.com/GoogleDeepMind/status/2124959312606818597",
+      "created_at": "2026-11-23T20:12:34.000Z",
+      "posted_at": "2026-11-23T20:12:34.000Z",
+      "text": "Gemini 4 Neon recreated Alan Turing’s 1936 study at @Cambridge_Uni in interactive 3D.\n\nUsing archival photos in @Antigravity, the model built Room X.8 at King’s College with a running Universal Turing Machine. https://t.co/mHYg9CW6jJ",
+      "original_en": "Gemini 4 Neon recreated Alan Turing’s 1936 study at @Cambridge_Uni in interactive 3D.\n\nUsing archival photos in @Antigravity, the model built Room X.8 at King’s College with a running Universal Turing Machine. https://t.co/mHYg9CW6jJ",
+      "lang": "en",
+      "hook": "Google DeepMind: Gemini 4 Neon rebuilt Alan Turing's 1936 study at King's College in interactive 3D from archival photos, with a running Universal Turing Machine - 93.0K views, 1,921 likes. History recreated from archive photos.",
+      "video_tip": "Recreate a real historic room or set from archive photos and do a slow camera move through it; reveal the original photo at the end.",
+      "media": "video",
+      "followers_count": 1624564,
+      "likes": 1921,
+      "reposts": 172,
+      "bookmarks": 340,
+      "replies": 139,
+      "quotes": 36,
+      "self_quote": false,
+      "board_rank": 5,
+      "draft_en": "A room from 1936, rebuilt so you can walk through it: Alan Turing's study at @Cambridge_Uni, now in interactive 3D.\n\nThe model behind it is Gemini 4 Neon. Fed archival photos inside @Antigravity, it reconstructed Room X.8 at King's College - and the Universal Turing Machine in there actually runs.",
+      "draft_keywords": [
+        "model",
+        "Gemini 4 Neon",
+        "Antigravity"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.064,
+        "word_overlap": 0.714,
+        "max_copied_run": 5
+      },
+      "top10_rank": 5,
+      "why_hit": {
+        "trend_match": 73,
+        "verdict": "trend",
+        "matched_keywords": [
+          "Gemini 4 Neon",
+          "model",
+          "Antigravity"
+        ],
+        "media": "video",
+        "note": "",
+        "topic": "Workflows and open-source films"
+      }
+    },
+    {
+      "id": "2124915406775386232",
+      "name": "Fakhr",
+      "display_name": "Fakhr",
+      "handle": "@iamfakhrealam",
+      "views": 76365,
+      "views_label": "76,365",
+      "url": "https://x.com/iamfakhrealam/status/2124915406775386232",
+      "created_at": "2026-11-23T17:18:06.000Z",
+      "posted_at": "2026-11-23T17:18:06.000Z",
+      "text": "Time to finish Higgsfield pricing…\n\nSeedance 2.5…Same model... Same quality…but Less than half the price https://t.co/itGtJfB6C0",
+      "original_en": "Time to finish Higgsfield pricing…\n\nSeedance 2.5…Same model... Same quality…but Less than half the price https://t.co/itGtJfB6C0",
+      "lang": "en",
+      "hook": "Paid partnership (flagged by X): 'Time to finish Higgsfield pricing... Seedance 2.5, same model, less than half the price' quote-post - 76.4K views, 183 likes. Price-war promo.",
+      "video_tip": "Skip the price angle; if you compare tools, show the same Seedance 2.5 shot side by side and let the output make the point.",
+      "media": "text",
+      "followers_count": 32423,
+      "likes": 183,
+      "reposts": 16,
+      "bookmarks": 25,
+      "replies": 21,
+      "quotes": 0,
+      "self_quote": false,
+      "board_rank": 6,
+      "draft_en": "Higgsfield pricing just got undercut.\n\nIdentical Seedance 2.5 model, identical output quality - for under half of what you'd pay there.",
+      "draft_keywords": [
+        "Higgsfield",
+        "pricing",
+        "Seedance",
+        "model"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.0,
+        "word_overlap": 0.583,
+        "max_copied_run": 2
+      },
+      "top10_rank": 6,
+      "why_hit": {
+        "trend_match": 82,
+        "verdict": "trend",
+        "matched_keywords": [
+          "Higgsfield",
+          "model",
+          "Seedance",
+          "pricing"
+        ],
+        "media": "text",
+        "note": "",
+        "topic": "Black Friday tool pricing"
+      }
+    },
+    {
+      "id": "2124874108743610647",
+      "name": "TechHalla",
+      "display_name": "TechHalla",
+      "handle": "@techhalla",
+      "views": 62542,
+      "views_label": "62,542",
+      "url": "https://x.com/techhalla/status/2124874108743610647",
+      "created_at": "2026-11-23T14:34:00.000Z",
+      "posted_at": "2026-11-23T14:34:00.000Z",
+      "text": "Game of Thrones but it's 1973 🗡️ https://t.co/GZkdoV9QRX",
+      "original_en": "Game of Thrones but it's 1973 🗡️ https://t.co/GZkdoV9QRX",
+      "lang": "en",
+      "hook": "TechHalla's era-swap series continues: 'Game of Thrones but it's 1973' grew from 2.5K in its first hour (22.11 board) to 62.5K, 653 likes, 110 bookmarks. A seven-word caption and a familiar franchise in a period look.",
+      "video_tip": "Restyle a franchise you love (Warhammer 40K, Star Wars) as a 1973 film trailer: grain, crash zooms, period wardrobe, under 60s, one-line caption.",
+      "media": "video",
+      "followers_count": 104042,
+      "likes": 653,
+      "reposts": 84,
+      "bookmarks": 110,
+      "replies": 17,
+      "quotes": 1,
+      "self_quote": false,
+      "board_rank": 7,
+      "draft_en": "What if Game of Thrones had been shot in 1973? 🗡️\n\nAn era-swap AI video.",
+      "draft_keywords": [
+        "video"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.0,
+        "word_overlap": 0.5,
+        "max_copied_run": 3
+      },
+      "top10_rank": 7,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "note": "",
+        "topic": null
+      }
+    },
+    {
+      "id": "2125169180588818662",
+      "name": "Marry Evan",
+      "display_name": "Marry Evan",
+      "handle": "@marryevan999",
+      "views": 41355,
+      "views_label": "41,355",
+      "url": "https://x.com/marryevan999/status/2125169180588818662",
+      "created_at": "2026-11-24T10:06:31.000Z",
+      "posted_at": "2026-11-24T10:06:31.000Z",
+      "text": "AI creators, here’s a smarter way to approach ad creation.\n\nInstead of spending hours building every concept from scratch, start with a creative template that already has a strong visual direction.\n\nDreamina Marketing Studio lets you:\n→ Browse ready-to-use ad templates\n→ https://t.co/DGIrPi2WJx",
+      "original_en": "AI creators, here’s a smarter way to approach ad creation.\n\nInstead of spending hours building every concept from scratch, start with a creative template that already has a strong visual direction.\n\nDreamina Marketing Studio lets you:\n→ Browse ready-to-use ad templates\n→ https://t.co/DGIrPi2WJx",
+      "lang": "en",
+      "hook": "Dreamina Marketing Studio template pitch ('AI creators, here's a smarter way to approach ad creation') - 41.4K views, 105 likes; reads as a sponsored tool push.",
+      "video_tip": "Show a template-to-finished-ad before/after in under 15s if you sell ad work; the client-facing angle matters more than the tool.",
+      "media": "video",
+      "followers_count": 44287,
+      "likes": 105,
+      "reposts": 99,
+      "bookmarks": 32,
+      "replies": 32,
+      "quotes": 1,
+      "self_quote": false,
+      "board_rank": 8,
+      "draft_en": "Building every ad concept from a blank page eats hours.\n\nThe faster route for AI creators: begin with a template that already carries a strong visual look. Dreamina Marketing Studio is built around exactly that - you browse ad templates that are ready to go and pick your starting point.",
+      "draft_keywords": [
+        "Studio"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.0,
+        "word_overlap": 0.464,
+        "max_copied_run": 3
+      },
+      "top10_rank": 8,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "note": "",
+        "topic": null
+      }
+    },
+    {
+      "id": "2124946551428530546",
+      "name": "Fathela Esq",
+      "display_name": "Fathela Esq",
+      "handle": "@AmControo",
+      "views": 37596,
+      "views_label": "37,596",
+      "url": "https://x.com/AmControo/status/2124946551428530546",
+      "created_at": "2026-11-23T19:21:52.000Z",
+      "posted_at": "2026-11-23T19:21:52.000Z",
+      "text": "POV: Your product just became an item someone can pick up in GTA 6.\n\nNot a billboard. Not a background cameo. The character actually walks over, notices it and takes it. That's the whole appeal of this little concept.\n\nAnd there's a Black Friday deal too: 90% OFF your first month https://t.co/zqSnRSSd5a",
+      "original_en": "POV: Your product just became an item someone can pick up in GTA 6.\n\nNot a billboard. Not a background cameo. The character actually walks over, notices it and takes it. That's the whole appeal of this little concept.\n\nAnd there's a Black Friday deal too: 90% OFF your first month https://t.co/zqSnRSSd5a",
+      "lang": "en",
+      "hook": "'POV: your product just became an item someone can pick up in GTA 6' - a product-placement concept video, 37.6K views, 130 bookmarks, ending on a 90%-off Black Friday deal (promo).",
+      "video_tip": "Product-in-game-world POV: a character walks over, notices the product, picks it up. One clean 8-10s shot; works as a UGC/ad pitch for clients.",
+      "media": "video",
+      "followers_count": 56418,
+      "likes": 217,
+      "reposts": 77,
+      "bookmarks": 130,
+      "replies": 37,
+      "quotes": 0,
+      "self_quote": false,
+      "board_rank": 9,
+      "draft_en": "Picture your product as a pickup item inside GTA 6.\n\nForget billboards and blink-and-miss cameos - a character strolls up, spots it and grabs it. That one moment is the entire pitch of this small concept video.\n\nBlack Friday bonus: 90% OFF the first month.",
+      "draft_keywords": [
+        "Black Friday",
+        "video"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.0,
+        "word_overlap": 0.333,
+        "max_copied_run": 2
+      },
+      "top10_rank": 9,
+      "why_hit": {
+        "trend_match": 35,
+        "verdict": "visual",
+        "matched_keywords": [
+          "Black Friday"
+        ],
+        "media": "video",
+        "note": "",
+        "topic": "Black Friday tool pricing"
+      }
+    },
+    {
+      "id": "2124926392924012996",
+      "name": "Higgsfield AI 🧩",
+      "display_name": "Higgsfield AI 🧩",
+      "handle": "@higgsfield_ai",
+      "views": 25232,
+      "views_label": "25,232",
+      "url": "https://x.com/higgsfield_ai/status/2124926392924012996",
+      "created_at": "2026-11-23T18:01:45.000Z",
+      "posted_at": "2026-11-23T18:01:45.000Z",
+      "text": "The next Higgsfield Selected is ORIGINS EP. 01: ZARA by @joeysnoisygroup\n\nA 7-minute action film about an AI K-pop idol searching for her origins.\n\nThe entire project is open source. All prompts and assets are public.\n\nHere's the full workflow: https://t.co/ZEbMMDa7mc",
+      "original_en": "The next Higgsfield Selected is ORIGINS EP. 01: ZARA by @joeysnoisygroup\n\nA 7-minute action film about an AI K-pop idol searching for her origins.\n\nThe entire project is open source. All prompts and assets are public.\n\nHere's the full workflow: https://t.co/ZEbMMDa7mc",
+      "lang": "en",
+      "hook": "Higgsfield Selected: ORIGINS EP. 01: ZARA, a 7-minute action film about an AI K-pop idol, fully open source with all prompts and assets public - 25.2K views, 156 bookmarks.",
+      "video_tip": "For a longer film, post the trailer cut with 'all prompts public' and the workflow link; open-sourcing the process earns saves.",
+      "media": "video",
+      "followers_count": 258041,
+      "likes": 311,
+      "reposts": 42,
+      "bookmarks": 156,
+      "replies": 48,
+      "quotes": 4,
+      "self_quote": false,
+      "board_rank": 10,
+      "draft_en": "An AI K-pop idol goes looking for where she came from.\n\nThe newest Higgsfield Selected pick is a 7-minute action film from @joeysnoisygroup - ORIGINS EP. 01, titled ZARA.\n\nNothing is hidden: the whole project is open source, with every prompt and asset public.\n\nFull workflow below 👇",
+      "draft_keywords": [
+        "Higgsfield Selected",
+        "workflow"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.07,
+        "word_overlap": 0.615,
+        "max_copied_run": 4
+      },
+      "top10_rank": 10,
+      "why_hit": {
+        "trend_match": 58,
+        "verdict": "trend",
+        "matched_keywords": [
+          "Higgsfield",
+          "workflow"
+        ],
+        "media": "video",
+        "note": "",
+        "topic": "Black Friday tool pricing"
+      }
+    },
+    {
+      "id": "2125023133111562273",
+      "name": "Min Choi",
+      "display_name": "Min Choi",
+      "handle": "@minchoi",
+      "views": 22746,
+      "views_label": "22,746",
+      "url": "https://x.com/minchoi/status/2125023133111562273",
+      "created_at": "2026-11-24T00:26:10.000Z",
+      "posted_at": "2026-11-24T00:26:10.000Z",
+      "text": "This is kinda insane.\n\nAI can now turn a few photos into a personalized song + visual for any special day.\n\nI wrote the lyrics + style with Claude. @Suno MCP made the song. Suno Visuals brought it to life.\n\nAll in ONE chat.\n\n10 wild examples + how to👇 https://t.co/rFYgkzDjEv",
+      "original_en": "This is kinda insane.\n\nAI can now turn a few photos into a personalized song + visual for any special day.\n\nI wrote the lyrics + style with Claude. @Suno MCP made the song. Suno Visuals brought it to life.\n\nAll in ONE chat.\n\n10 wild examples + how to👇 https://t.co/rFYgkzDjEv",
+      "lang": "en",
+      "hook": "Min Choi: Claude lyrics + Suno MCP song + Suno Visuals turning a few photos into a personalized song video 'all in ONE chat' - 22.7K views, 69 bookmarks, '10 wild examples' thread.",
+      "video_tip": "Personalized-occasion video (birthday, anniversary) from a few photos is a sellable service; show one before/after example in 20s.",
+      "media": "video",
+      "followers_count": 392680,
+      "likes": 85,
+      "reposts": 11,
+      "bookmarks": 69,
+      "replies": 35,
+      "quotes": 0,
+      "self_quote": false,
+      "board_rank": 11,
+      "why_hit": {
+        "trend_match": 22,
+        "verdict": "visual",
+        "matched_keywords": [
+          "MCP"
+        ],
+        "media": "video",
+        "note": "",
+        "topic": "Workflows and open-source films"
+      }
+    },
+    {
+      "id": "2125202832660042052",
+      "name": "Higgsfield AI 🧩",
+      "display_name": "Higgsfield AI 🧩",
+      "handle": "@higgsfield_ai",
+      "views": 21139,
+      "views_label": "21,139",
+      "url": "https://x.com/higgsfield_ai/status/2125202832660042052",
+      "created_at": "2026-11-24T12:20:14.000Z",
+      "posted_at": "2026-11-24T12:20:14.000Z",
+      "text": "Introducing Ideogram 4.6.\n\nTo test its precision, we made 166 edits to a single image.\n\n&gt; less pixel drift outside the edit area\n&gt; more consistent characters across edits\n&gt; more accurate colors\n&gt; native 4K output\n\nAvailable now on Higgsfield. https://t.co/vBJzIdHNgY",
+      "original_en": "Introducing Ideogram 4.6.\n\nTo test its precision, we made 166 edits to a single image.\n\n&gt; less pixel drift outside the edit area\n&gt; more consistent characters across edits\n&gt; more accurate colors\n&gt; native 4K output\n\nAvailable now on Higgsfield. https://t.co/vBJzIdHNgY",
+      "lang": "en",
+      "hook": "Higgsfield launch of Ideogram 4.6: 166 edits on a single image, with a bullet list (less pixel drift, consistent characters, accurate colors, native 4K) - 21.1K views, 367 likes.",
+      "video_tip": "Show many edits of one image as a rapid-fire cut (one subject, dozens of variations) - the edit count is the hook.",
+      "media": "video",
+      "followers_count": 258041,
+      "likes": 367,
+      "reposts": 165,
+      "bookmarks": 60,
+      "replies": 31,
+      "quotes": 0,
+      "self_quote": false,
+      "board_rank": 12,
+      "why_hit": {
+        "trend_match": 35,
+        "verdict": "visual",
+        "matched_keywords": [
+          "Higgsfield"
+        ],
+        "media": "video",
+        "note": "",
+        "topic": "Black Friday tool pricing"
+      }
+    },
+    {
+      "id": "2124894381249585505",
+      "name": "Runway",
+      "display_name": "Runway",
+      "handle": "@runwayml",
+      "views": 18287,
+      "views_label": "18,287",
+      "url": "https://x.com/runwayml/status/2124894381249585505",
+      "created_at": "2026-11-23T15:54:33.000Z",
+      "posted_at": "2026-11-23T15:54:33.000Z",
+      "text": "Create with Runway inside ChatGPT using GPT-6.2 Astra.\n\nAstra built the Pantheon from historical diagrams, Blender handled the camera moves and Runway turned it into a festival in ancient Rome, with the building faithful to the diagrams in every shot. Watch below. https://t.co/b5Cc8DnQ44",
+      "original_en": "Create with Runway inside ChatGPT using GPT-6.2 Astra.\n\nAstra built the Pantheon from historical diagrams, Blender handled the camera moves and Runway turned it into a festival in ancient Rome, with the building faithful to the diagrams in every shot. Watch below. https://t.co/b5Cc8DnQ44",
+      "lang": "en",
+      "hook": "Runway inside ChatGPT with GPT-6.2 Astra: Pantheon built from historical diagrams, Blender camera moves, Runway turned it into a festival in ancient Rome - 18.3K views, 83 bookmarks.",
+      "video_tip": "Blockout-to-final: show a grey 3D blockout camera move, then the same move fully rendered. Control is the selling point.",
+      "media": "video",
+      "followers_count": 297967,
+      "likes": 199,
+      "reposts": 22,
+      "bookmarks": 83,
+      "replies": 52,
+      "quotes": 11,
+      "self_quote": false,
+      "board_rank": 13,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "note": "",
+        "topic": null
+      }
+    },
+    {
+      "id": "2125066936744542352",
+      "name": "Min Choi",
+      "display_name": "Min Choi",
+      "handle": "@minchoi",
+      "views": 12450,
+      "views_label": "12,450",
+      "url": "https://x.com/minchoi/status/2125066936744542352",
+      "created_at": "2026-11-24T03:20:14.000Z",
+      "posted_at": "2026-11-24T03:20:14.000Z",
+      "text": "How is AI creating a lifetime of memories of a couple growing old together?\n\nThis couple doesn't even exist.\n\n100% AI🤯 https://t.co/BMakNPlPM3 https://t.co/QiG4dB4ZRT",
+      "original_en": "How is AI creating a lifetime of memories of a couple growing old together?\n\nThis couple doesn't even exist.\n\n100% AI🤯 https://t.co/BMakNPlPM3 https://t.co/QiG4dB4ZRT",
+      "lang": "en",
+      "hook": "Min Choi quote-post: an AI couple growing old together, '100% AI' - 12.5K views. Emotional life-montage format.",
+      "video_tip": "A one-minute life montage of one character aging works for dramatic, naturalistic character work; keep the face consistent from a model sheet.",
+      "media": "video",
+      "followers_count": 392680,
+      "likes": 38,
+      "reposts": 5,
+      "bookmarks": 21,
+      "replies": 28,
+      "quotes": 2,
+      "self_quote": false,
+      "board_rank": 14,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "note": "",
+        "topic": null
+      }
+    },
+    {
+      "id": "2124769322983948561",
+      "name": "Smiling Khan",
+      "display_name": "Smiling Khan",
+      "handle": "@AIwithkhan",
+      "views": 11339,
+      "views_label": "11,339",
+      "url": "https://x.com/AIwithkhan/status/2124769322983948561",
+      "created_at": "2026-11-23T07:37:37.000Z",
+      "posted_at": "2026-11-23T07:37:37.000Z",
+      "text": "Big news for AI video creators! 👀🔥\n\n@popnow_ai\n\nPopNow is offering a one-time $100 pack with 100,000 credits that never expire, PLUS 7 days of unlimited 480p video generation with Seedance 2.0 Mini, MiniMax H3 and Grok Imagine Video 1.5.\n\nNo subscription or recurring payments. More freedom to experiment and create!\n\nLaunching November 23. Check it out: https://t.co/JAsTS5DUxH\n\nCheck pricing here \n\nhttps://t.co/sZ7JFSJSc7",
+      "original_en": "Big news for AI video creators! 👀🔥\n\n@popnow_ai\n\nPopNow is offering a one-time $100 pack with 100,000 credits that never expire, PLUS 7 days of unlimited 480p video generation with Seedance 2.0 Mini, MiniMax H3 and Grok Imagine Video 1.5.\n\nNo subscription or recurring payments. More freedom to experiment and create!\n\nLaunching November 23. Check it out: https://t.co/JAsTS5DUxH\n\nCheck pricing here \n\nhttps://t.co/sZ7JFSJSc7",
+      "lang": "en",
+      "hook": "Paid partnership (flagged by X): PopNow $100 one-time pack with 100,000 credits plus 7 days of unlimited 480p Seedance 2.0 Mini, MiniMax H3 and Grok Imagine Video 1.5 - 11.3K views. Promo.",
+      "video_tip": "Skip - credit-pack promos don't transfer to a creator account.",
+      "media": "photo",
+      "followers_count": 15730,
+      "likes": 102,
+      "reposts": 4,
+      "bookmarks": 24,
+      "replies": 40,
+      "quotes": 0,
+      "self_quote": false,
+      "board_rank": 15,
+      "why_hit": {
+        "trend_match": 58,
+        "verdict": "trend",
+        "matched_keywords": [
+          "Seedance",
+          "pricing"
+        ],
+        "media": "image",
+        "note": "",
+        "topic": "Black Friday tool pricing"
+      }
+    },
+    {
+      "id": "2124953874461286781",
+      "name": "ImagineArt",
+      "display_name": "ImagineArt",
+      "handle": "@ImagineArt_X",
+      "views": 6349,
+      "views_label": "6,349",
+      "url": "https://x.com/ImagineArt_X/status/2124953874461286781",
+      "created_at": "2026-11-23T19:50:58.000Z",
+      "posted_at": "2026-11-23T19:50:58.000Z",
+      "text": "can't get you 0.00001% of Anthropic.\n\ncan get you 60% off every model. \n\nBlack Friday, ends Nov 30. https://t.co/VL2Hv2R4cj",
+      "original_en": "can't get you 0.00001% of Anthropic.\n\ncan get you 60% off every model. \n\nBlack Friday, ends Nov 30. https://t.co/VL2Hv2R4cj",
+      "lang": "en",
+      "hook": "ImagineArt Black Friday ('can get you 60% off every model', ends Nov 30) - 6.3K views, 28 likes. Brand promo.",
+      "video_tip": "Skip - price promo.",
+      "media": "video",
+      "followers_count": 23415,
+      "likes": 28,
+      "reposts": 1,
+      "bookmarks": 2,
+      "replies": 13,
+      "quotes": 1,
+      "self_quote": false,
+      "board_rank": 16,
+      "why_hit": {
+        "trend_match": 58,
+        "verdict": "trend",
+        "matched_keywords": [
+          "Black Friday",
+          "model"
+        ],
+        "media": "video",
+        "note": "",
+        "topic": "Black Friday tool pricing"
+      }
+    },
+    {
+      "id": "2124872708366401609",
+      "name": "AshutoshShrivastava",
+      "display_name": "AshutoshShrivastava",
+      "handle": "@ai_for_success",
+      "views": 6045,
+      "views_label": "6,045",
+      "url": "https://x.com/ai_for_success/status/2124872708366401609",
+      "created_at": "2026-11-23T14:28:26.000Z",
+      "posted_at": "2026-11-23T14:28:26.000Z",
+      "text": "Gemini 4 Neon + Magnific MCP + Antigravity is probably one of the craziest combo I've used in a while.\n\nHere's what I was working on over the weekend. I couldn't find a single guide that covered the entire image-to-3D, rigging, animation, and expressions workflow in detail, including all the small things and common mistakes you make when you work for the first time.\n\nSo I built one for my own future reference and documented the entire process, including the open-source tools and components used. Sharing it here so you can use it too. Hope it helps!",
+      "original_en": "Gemini 4 Neon + Magnific MCP + Antigravity is probably one of the craziest combo I've used in a while.\n\nHere's what I was working on over the weekend. I couldn't find a single guide that covered the entire image-to-3D, rigging, animation, and expressions workflow in detail, including all the small things and common mistakes you make when you work for the first time.\n\nSo I built one for my own future reference and documented the entire process, including the open-source tools and components used. Sharing it here so you can use it too. Hope it helps!",
+      "lang": "en",
+      "hook": "Workflow guide: Gemini 4 Neon + Magnific MCP + Antigravity for image-to-3D, rigging, animation and expressions, documented with common mistakes - 6.0K views, 98 bookmarks (1.6% save rate).",
+      "video_tip": "Document your own character pipeline (model sheet - 3D - animation) as a 30s breakdown reel; full write-up in the thread.",
+      "media": "video",
+      "followers_count": 82914,
+      "likes": 113,
+      "reposts": 6,
+      "bookmarks": 98,
+      "replies": 24,
+      "quotes": 1,
+      "self_quote": false,
+      "board_rank": 17,
+      "why_hit": {
+        "trend_match": 79,
+        "verdict": "trend",
+        "matched_keywords": [
+          "Gemini 4 Neon",
+          "Antigravity",
+          "workflow",
+          "MCP"
+        ],
+        "media": "video",
+        "note": "",
+        "topic": "Workflows and open-source films"
+      }
+    },
+    {
+      "id": "2124896595049087223",
+      "name": "ULTIMATE DREAM FILMS",
+      "display_name": "ULTIMATE DREAM FILMS",
+      "handle": "@udf_cg",
+      "views": 4645,
+      "views_label": "4,645",
+      "url": "https://x.com/udf_cg/status/2124896595049087223",
+      "created_at": "2026-11-23T16:03:21.000Z",
+      "posted_at": "2026-11-23T16:03:21.000Z",
+      "text": "🚨 THIS IS GETTING OUT OF HAND, @YouTube. 👇\n\nWARNING to ALL CREATORS‼️ \n\nYouTube promotes AI filmmaking. Yet independent AI film studios are now being DEMONETIZED under the same vague “unsatisfying or off-putting content” label!\n\nMy channel UDF: 53k subscribers.\n\nNexus Short Films: 101k subscribers\n\nLume Studio: 42 MILLION views. A team of 30+ people.\n\nDifferent filmmakers. SAME accusation. No specific offending videos identified. Livelihoods and earnings at stake!\n\nAnd this is happening RIGHT BEFORE CHRISTMAS!! 🤬\n\n@TeamYouTube @nealmohan:\n\nWHERE ARE THE VIOLATIONS? WHERE IS THE ACCOUNTABILITY?\n\nTo every AI filmmaker, animator, and creator who has been demonetized: SPEAK UP!\n\nReply with your experience. Share your notices.\n\nLet’s document how many of us this is happening to.",
+      "original_en": "🚨 THIS IS GETTING OUT OF HAND, @YouTube. 👇\n\nWARNING to ALL CREATORS‼️ \n\nYouTube promotes AI filmmaking. Yet independent AI film studios are now being DEMONETIZED under the same vague “unsatisfying or off-putting content” label!\n\nMy channel UDF: 53k subscribers.\n\nNexus Short Films: 101k subscribers\n\nLume Studio: 42 MILLION views. A team of 30+ people.\n\nDifferent filmmakers. SAME accusation. No specific offending videos identified. Livelihoods and earnings at stake!\n\nAnd this is happening RIGHT BEFORE CHRISTMAS!! 🤬\n\n@TeamYouTube @nealmohan:\n\nWHERE ARE THE VIOLATIONS? WHERE IS THE ACCOUNTABILITY?\n\nTo every AI filmmaker, animator, and creator who has been demonetized: SPEAK UP!\n\nReply with your experience. Share your notices.\n\nLet’s document how many of us this is happening to.",
+      "lang": "en",
+      "hook": "Small account (82 followers) warning that AI film channels (UDF 53K subs, Nexus Short Films 101K, Lume Studio) are being demonetized on YouTube for 'unsatisfying or off-putting content' - 4.6K views, 22 replies. Platform-risk talking point for AI filmmakers.",
+      "video_tip": "If you post on YouTube too, keep X as a home for native uploads; a short 'where I publish and why' post can spark replies.",
+      "media": "photo",
+      "followers_count": 82,
+      "likes": 59,
+      "reposts": 17,
+      "bookmarks": 14,
+      "replies": 22,
+      "quotes": 2,
+      "self_quote": false,
+      "board_rank": 18,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "image",
+        "note": "",
+        "topic": null
+      }
+    },
+    {
+      "id": "2124883521257025818",
+      "name": "OscarAI",
+      "display_name": "OscarAI",
+      "handle": "@Artedeingenio",
+      "views": 3471,
+      "views_label": "3,471",
+      "url": "https://x.com/Artedeingenio/status/2124883521257025818",
+      "created_at": "2026-11-23T15:11:24.000Z",
+      "posted_at": "2026-11-23T15:11:24.000Z",
+      "text": "Bruce Lee vs. Anubis\n\nEnter the Underworld https://t.co/jlO9kjguHM",
+      "original_en": "Bruce Lee vs. Anubis\n\nEnter the Underworld https://t.co/jlO9kjguHM",
+      "lang": "en",
+      "hook": "OscarAI 'Bruce Lee vs. Anubis - Enter the Underworld': a two-line icon-vs-myth fight video, 3.5K views, 97 likes.",
+      "video_tip": "Icon-vs-myth matchup (a Space Marine vs a mythic creature) as a 15-20s fight beat with a two-line title card.",
+      "media": "video",
+      "followers_count": 66458,
+      "likes": 97,
+      "reposts": 16,
+      "bookmarks": 18,
+      "replies": 13,
+      "quotes": 2,
+      "self_quote": false,
+      "board_rank": 19,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "note": "",
+        "topic": null
+      }
+    },
+    {
+      "id": "2125134004424962458",
+      "name": "OscarAI",
+      "display_name": "OscarAI",
+      "handle": "@Artedeingenio",
+      "views": 2312,
+      "views_label": "2,312",
+      "url": "https://x.com/Artedeingenio/status/2125134004424962458",
+      "created_at": "2026-11-24T07:46:44.000Z",
+      "posted_at": "2026-11-24T07:46:44.000Z",
+      "text": "🎨 Style Reference: --sref 231973479\n\nRetro Ink Anime\n\nA fusion of classic Japanese anime and vintage graphic novel aesthetics, featuring expressive hand-inked linework, bold cel shading, earthy colors, and nostalgic analog print textures. https://t.co/SwuoYBKz0b",
+      "original_en": "🎨 Style Reference: --sref 231973479\n\nRetro Ink Anime\n\nA fusion of classic Japanese anime and vintage graphic novel aesthetics, featuring expressive hand-inked linework, bold cel shading, earthy colors, and nostalgic analog print textures. https://t.co/SwuoYBKz0b",
+      "lang": "en",
+      "hook": "Midjourney style reference share (--sref 231973479 'Retro Ink Anime', hand-inked lines, cel shading, print textures) - 2.3K views, 38 bookmarks; sref shares earn saves.",
+      "video_tip": "Animate one retro-ink-anime frame with subtle line boil and camera drift, and put the sref code in the caption.",
+      "media": "4 photos",
+      "followers_count": 66458,
+      "likes": 63,
+      "reposts": 8,
+      "bookmarks": 38,
+      "replies": 6,
+      "quotes": 0,
+      "self_quote": false,
+      "board_rank": 20,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "image",
+        "note": "",
+        "topic": null
+      }
+    }
+  ],
+  "virals_target": 20,
+  "virals_window": "last ~48h",
+  "virals_narrative": "Outsider lane on 23.11 led by @Kling_ai at 256,794 views (Kling Image 4.0 clip, promoted-looking). Also clearing: @vashikoo 194,793, @AngryTomtweets 95,622, @Kling_ai 94,632, @GoogleDeepMind 93,033",
+  "patterns": [
+    "Watchlist on 23.11: 0 hits, 0 stars - nobody cleared 5,000 views with an original post; Gossip_Goblin posted nothing at all after Fishbowl Spartacus (294,346 on 22.11)",
+    "Near misses: LudovicCreator 1,973 (Safari Silhouette Symphony prompt share; 5 originals, next 1,358 / 1,345 / 1,168), pixelbouncer 689 (12 originals, all video or photo), andresvandal replies/reposts only (best reply 2,270), ChrisGwinnLA replies/reposts only, billywoodward one reply",
+    "Bogdan's best was 'Time of the Wolf... Space Wolves!' at 1,158 (photo), rank 2 of 7 behind LudovicCreator 1,973; 5 originals totaling 1,965, down from 2,587 on 22.11",
+    "Outsider lane: Kling Image 4.0 brand reach again (single-prompt image set 256,794 on 787 likes; Creator Highlights 94,632 on 64 likes, both promoted-looking) plus a Black Friday wave of paid/promo posts (Higgsfield-Seedance pricing 76,365 paid partnership, Dreamina templates 41,355, PopNow 11,339 paid partnership)",
+    "Organic formats that worked: era-swap trailers (TechHalla 'Game of Thrones but it's 1973' 62,542), archive-photo recreations (DeepMind Turing study 93,033), open-source long films and workflows (Higgsfield Selected ZARA 7-min film 25,232 / 156 bookmarks; Gemini + Magnific rigging guide 98 bookmarks)",
+    "Film-culture nostalgia travels: vashikoo's 400-disc Criterion DVD changer post 194,793 views and 1,149 bookmarks - not AI, but the biggest organic creative post in the window"
+  ],
+  "no_hits": [
+    {
+      "handle": "@Gossip_Goblin",
+      "reason": "0 posts of any kind on 2026-11-23 (no originals, replies or reposts; confirmed with a from: search).",
+      "max_views": 0
+    },
+    {
+      "handle": "@pixelbouncer",
+      "reason": "12 original posts on 2026-11-23; none reached 5,000 views (best 689).",
+      "max_views": 689
+    },
+    {
+      "handle": "@andresvandal",
+      "reason": "0 original posts on 2026-11-23 (4 replies in Spanish, best reply 2,270, plus 2 reposts).",
+      "max_views": 0
+    },
+    {
+      "handle": "@LudovicCreator",
+      "reason": "5 original posts on 2026-11-23; none reached 5,000 views (best 1,973).",
+      "max_views": 1973
+    },
+    {
+      "handle": "@ChrisGwinnLA",
+      "reason": "0 original posts on 2026-11-23 (replies to comments and one repost of his own Minotauroi post).",
+      "max_views": 0
+    },
+    {
+      "handle": "@billywoodward",
+      "reason": "0 original posts on 2026-11-23 (one reply only).",
+      "max_views": 0
+    }
+  ],
+  "day_roster": [
+    {
+      "handle": "@LudovicCreator",
+      "name": "LudovicCreator",
+      "views": 1973,
+      "total_views": 6793,
+      "hit": false,
+      "posts": 5,
+      "best_url": "https://x.com/LudovicCreator/status/2124797618656084432"
+    },
+    {
+      "handle": "@pixelbouncer",
+      "name": "Ƥ!ЖΣLƁΘUNCΣR",
+      "views": 689,
+      "total_views": 4235,
+      "hit": false,
+      "posts": 12,
+      "best_url": "https://x.com/pixelbouncer/status/2124796519018639757"
+    },
+    {
+      "handle": "@Gossip_Goblin",
+      "name": "Gossip Goblin",
+      "views": 0,
+      "total_views": 0,
+      "hit": false,
+      "posts": 0,
+      "best_url": null
+    },
+    {
+      "handle": "@andresvandal",
+      "name": "Andres Vandal",
+      "views": 0,
+      "total_views": 0,
+      "hit": false,
+      "posts": 0,
+      "best_url": null
+    },
+    {
+      "handle": "@ChrisGwinnLA",
+      "name": "Christopher Gwinn | Grindhouse Glitch",
+      "views": 0,
+      "total_views": 0,
+      "hit": false,
+      "posts": 0,
+      "best_url": null
+    },
+    {
+      "handle": "@billywoodward",
+      "name": "Billy Woodward",
+      "views": 0,
+      "total_views": 0,
+      "hit": false,
+      "posts": 0,
+      "best_url": null
+    }
+  ],
+  "you_rank": {
+    "best_views": 1158,
+    "total_views": 1965,
+    "best_url": "https://x.com/SMKP_Films/status/2124930893399638391",
+    "posts": 5,
+    "vs_5k": "pending",
+    "vs_10k": "pending",
+    "rank_among_watchlist": 2,
+    "total_accounts": 7
+  },
+  "narrative_synthesis": "A quiet day on the watchlist and a brand-heavy outsider lane. The biggest AI-creative number was again Kling's own Kling Image 4.0 \"complete image set from a single prompt\" clip, now 256.8K views (127K a day earlier) on just 787 likes, plus a new Kling \"Creator Highlights\" post at 94.6K with 64 likes - both promoted-looking. Paid and promo posts were everywhere for Black Friday: a paid-partnership Higgsfield/Seedance 2.5 pricing post (76.4K), a paid-partnership PopNow credit pack (11.3K), a Dreamina Marketing Studio template pitch (41.4K, 105 likes), a GTA 6 product-placement concept ending on a 90%-off deal (37.6K) and ImagineArt's 60%-off push (6.3K). Angry Tom's \"nobody saw this coming...\" quote-post hit 95.6K on 30 likes, which also looks promoted. The organic signals: TechHalla's era-swap series keeps working (\"Game of Thrones but it's 1973\" grew from 2.5K to 62.5K, 653 likes, 110 bookmarks); a film editor's nostalgia post about a 400-disc DVD changer holding the whole Criterion Collection pulled 194.8K and 1,149 bookmarks (not AI, but pure film culture); Google DeepMind rebuilt Alan Turing's 1936 study in 3D from archival photos (93.0K, 1,921 likes); and longer open-source films and documented workflows earned saves - Higgsfield Selected's 7-minute \"ORIGINS EP. 01: ZARA\" with all prompts public (25.2K, 156 bookmarks), Runway inside ChatGPT building the Pantheon from diagrams (18.3K), and a Gemini 4 Neon + Magnific MCP image-to-3D rigging guide (6.0K, 98 bookmarks). One small account flagged AI film channels being demonetized on YouTube (4.6K, 22 replies). On the watchlist, nobody cleared 5,000: Gossip_Goblin posted nothing, LudovicCreator's best original was a prompt share at 1,973, pixelbouncer peaked at 689, and andresvandal, ChrisGwinnLA and billywoodward posted replies or reposts only.",
+  "trend_input_only": [],
+  "trend_input_only_posts": [],
+  "leaderboards": {
+    "as_of": "2026-11-23",
+    "tracking_start": "2026-11-04",
+    "days_included": [
+      "2026-11-17",
+      "2026-11-18",
+      "2026-11-19",
+      "2026-11-20",
+      "2026-11-21",
+      "2026-11-22",
+      "2026-11-23"
+    ],
+    "month_days_included": [
+      "2026-11-04",
+      "2026-11-05",
+      "2026-11-06",
+      "2026-11-07",
+      "2026-11-08",
+      "2026-11-09",
+      "2026-11-10",
+      "2026-11-11",
+      "2026-11-12",
+      "2026-11-13",
+      "2026-11-14",
+      "2026-11-15",
+      "2026-11-16",
+      "2026-11-17",
+      "2026-11-18",
+      "2026-11-19",
+      "2026-11-20",
+      "2026-11-21",
+      "2026-11-22",
+      "2026-11-23"
+    ],
+    "week": {
+      "label": "Rolling week · Nov 17–Nov 23",
+      "range": [
+        "2026-11-17",
+        "2026-11-23"
+      ],
+      "entries": [
+        {
+          "handle": "@Gossip_Goblin",
+          "name": "Gossip Goblin",
+          "hits": 8,
+          "days": 5,
+          "views": 700529,
+          "best": 294346,
+          "best_url": "https://x.com/Gossip_Goblin/status/2124541100480180361"
+        },
+        {
+          "handle": "@LudovicCreator",
+          "name": "LudovicCreator",
+          "hits": 2,
+          "days": 1,
+          "views": 65034,
+          "best": 59046,
+          "best_url": "https://x.com/LudovicCreator/status/2124578704550695184"
+        },
+        {
+          "handle": "@andresvandal",
+          "name": "Andres Vandal",
+          "hits": 1,
+          "days": 1,
+          "views": 33645,
+          "best": 33645,
+          "best_url": "https://x.com/andresvandal/status/2124333545921691925"
+        }
+      ]
+    },
+    "month": {
+      "label": "November 2026 · from Nov 4",
+      "range": [
+        "2026-11-04",
+        "2026-11-23"
+      ],
+      "entries": [
+        {
+          "handle": "@Gossip_Goblin",
+          "name": "Gossip Goblin",
+          "hits": 23,
+          "days": 13,
+          "views": 1377376,
+          "best": 294346,
+          "best_url": "https://x.com/Gossip_Goblin/status/2124541100480180361"
+        },
+        {
+          "handle": "@LudovicCreator",
+          "name": "LudovicCreator",
+          "hits": 5,
+          "days": 4,
+          "views": 301480,
+          "best": 133926,
+          "best_url": "https://x.com/LudovicCreator/status/2120592485437350268"
+        },
+        {
+          "handle": "@ChrisGwinnLA",
+          "name": "Christopher Gwinn | Grindhouse Glitch",
+          "hits": 5,
+          "days": 5,
+          "views": 60919,
+          "best": 23566,
+          "best_url": "https://x.com/ChrisGwinnLA/status/2121834058267156701"
+        },
+        {
+          "handle": "@andresvandal",
+          "name": "Andres Vandal",
+          "hits": 3,
+          "days": 3,
+          "views": 54809,
+          "best": 33645,
+          "best_url": "https://x.com/andresvandal/status/2124333545921691925"
+        }
+      ]
+    }
+  },
+  "drafts_top10": [
+    {
+      "rank": 1,
+      "id": "2124846759679607044",
+      "handle": "@Kling_ai",
+      "views": 256794,
+      "lane": "outsider"
+    },
+    {
+      "rank": 2,
+      "id": "2124912108890378562",
+      "handle": "@vashikoo",
+      "views": 194793,
+      "lane": "outsider"
+    },
+    {
+      "rank": 3,
+      "id": "2124877291192819858",
+      "handle": "@AngryTomtweets",
+      "views": 95622,
+      "lane": "outsider"
+    },
+    {
+      "rank": 4,
+      "id": "2125223275093688624",
+      "handle": "@Kling_ai",
+      "views": 94632,
+      "lane": "outsider"
+    },
+    {
+      "rank": 5,
+      "id": "2124959312606818597",
+      "handle": "@GoogleDeepMind",
+      "views": 93033,
+      "lane": "outsider"
+    },
+    {
+      "rank": 6,
+      "id": "2124915406775386232",
+      "handle": "@iamfakhrealam",
+      "views": 76365,
+      "lane": "outsider"
+    },
+    {
+      "rank": 7,
+      "id": "2124874108743610647",
+      "handle": "@techhalla",
+      "views": 62542,
+      "lane": "outsider"
+    },
+    {
+      "rank": 8,
+      "id": "2125169180588818662",
+      "handle": "@marryevan999",
+      "views": 41355,
+      "lane": "outsider"
+    },
+    {
+      "rank": 9,
+      "id": "2124946551428530546",
+      "handle": "@AmControo",
+      "views": 37596,
+      "lane": "outsider"
+    },
+    {
+      "rank": 10,
+      "id": "2124926392924012996",
+      "handle": "@higgsfield_ai",
+      "views": 25232,
+      "lane": "outsider"
+    }
+  ],
+  "trend_keywords": {
+    "date": "2026-11-23",
+    "window": "day D board posts + last-24h posts >= min_views + outsiders + trend-input accounts + pattern brief",
+    "method": "sum(log10 views) over distinct posts x author spread x phrase length x entity/brief bonus; >=2 authors",
+    "keywords": [
+      {
+        "keyword": "Higgsfield",
+        "rank": 1,
+        "score": 29.9,
+        "posts": 3,
+        "authors": 2
+      },
+      {
+        "keyword": "Kling Image 4.0",
+        "rank": 2,
+        "score": 27.0,
+        "posts": 2,
+        "authors": 1
+      },
+      {
+        "keyword": "Black Friday",
+        "rank": 3,
+        "score": 23.9,
+        "posts": 2,
+        "authors": 2
+      },
+      {
+        "keyword": "Gemini 4 Neon",
+        "rank": 4,
+        "score": 23.6,
+        "posts": 2,
+        "authors": 2
+      },
+      {
+        "keyword": "model",
+        "rank": 5,
+        "score": 23.2,
+        "posts": 3,
+        "authors": 3
+      },
+      {
+        "keyword": "Seedance",
+        "rank": 6,
+        "score": 19.6,
+        "posts": 2,
+        "authors": 2
+      },
+      {
+        "keyword": "pricing",
+        "rank": 7,
+        "score": 15.7,
+        "posts": 2,
+        "authors": 2
+      },
+      {
+        "keyword": "Antigravity",
+        "rank": 8,
+        "score": 14.8,
+        "posts": 2,
+        "authors": 2
+      },
+      {
+        "keyword": "workflow",
+        "rank": 9,
+        "score": 14.4,
+        "posts": 2,
+        "authors": 2
+      },
+      {
+        "keyword": "Studio",
+        "rank": 10,
+        "score": 14.0,
+        "posts": 2,
+        "authors": 2
+      },
+      {
+        "keyword": "MCP",
+        "rank": 11,
+        "score": 13.7,
+        "posts": 2,
+        "authors": 2
+      },
+      {
+        "keyword": "video",
+        "rank": 12,
+        "score": 13.6,
+        "posts": 2,
+        "authors": 2
+      },
+      {
+        "keyword": "Creator Highlights",
+        "rank": 13,
+        "score": 10.5,
+        "posts": 1,
+        "authors": 1
+      },
+      {
+        "keyword": "Higgsfield Selected",
+        "rank": 14,
+        "score": 9.3,
+        "posts": 1,
+        "authors": 1
+      }
+    ]
+  },
+  "trend_radar": {
+    "date": "2026-11-23",
+    "title": "Trends and post ideas",
+    "window": {
+      "end": "2026-11-24T10:33:27-05:00",
+      "label24": "23.11 10:33 - 24.11 10:33 UTC",
+      "label48": "22.11 10:33 - 24.11 10:33 UTC"
+    },
+    "corpus": {
+      "posts": 17,
+      "min_views": 5000,
+      "lanes": {
+        "watchlist": 0,
+        "outsider": 17,
+        "24h": 0,
+        "trend_input": 0
+      }
+    },
+    "summary": {
+      "top10_line": "TOP-10: 3/10 (30%) matched trends · visual 7, trend 3",
+      "headline": "6 of 20 board hits (30%) matched 24-48 h trends. Median views: trend 18.3K vs non-trend 30.2K (mean 36.4K vs 62.0K). Watchlist: 0/0 on trend. 15 hits with video, median 25.2K vs 11.3K without.",
+      "takeaway": "No watchlist hits on 23.11; brand and paid Black Friday posts owned the reach (Kling 256,794 on 787 likes), while era swaps, archive recreations and open workflows earned the likes and saves.",
+      "stats": {
+        "all": {
+          "n": 20,
+          "trend_n": 6,
+          "trend_pct": 30,
+          "avg_trend": 36394,
+          "avg_other": 62027,
+          "median_trend": 18286,
+          "median_other": 30171,
+          "verdicts": {
+            "trend": 6,
+            "visual": 14,
+            "author/audience": 0,
+            "coincidence/other": 0
+          }
+        },
+        "watchlist": {
+          "n": 0,
+          "trend_n": 0,
+          "trend_pct": 0,
+          "avg_trend": null,
+          "avg_other": null,
+          "median_trend": null,
+          "median_other": null,
+          "verdicts": {
+            "trend": 0,
+            "visual": 0,
+            "author/audience": 0,
+            "coincidence/other": 0
+          }
+        },
+        "outsiders": {
+          "n": 20,
+          "trend_n": 6,
+          "trend_pct": 30,
+          "avg_trend": 36394,
+          "avg_other": 62027,
+          "median_trend": 18286,
+          "median_other": 30171,
+          "verdicts": {
+            "trend": 6,
+            "visual": 14,
+            "author/audience": 0,
+            "coincidence/other": 0
+          }
+        },
+        "top10": {
+          "n": 10,
+          "trend_n": 3,
+          "trend_pct": 30,
+          "avg_trend": 64877,
+          "avg_other": 111905,
+          "median_trend": 76365,
+          "median_other": 94632,
+          "verdicts": {
+            "trend": 3,
+            "visual": 7,
+            "author/audience": 0,
+            "coincidence/other": 0
+          }
+        },
+        "media": {
+          "video_n": 15,
+          "median_video": 25232,
+          "other_n": 5,
+          "median_other": 11339
+        }
+      }
+    },
+    "topics": [
+      {
+        "name": "Black Friday tool pricing",
+        "keywords": [
+          "Higgsfield",
+          "Black Friday",
+          "pricing",
+          "Seedance"
+        ],
+        "posts_24h": 5,
+        "posts_48h": 6,
+        "views_24h": 166681,
+        "views_prev24h": 11339,
+        "views_48h": 178020,
+        "momentum": "up x5.42",
+        "heat_raw": 24.02,
+        "evidence": [
+          {
+            "handle": "@iamfakhrealam",
+            "views": 76365,
+            "url": "https://x.com/iamfakhrealam/status/2124915406775386232",
+            "hook": "Paid partnership (flagged by X): 'Time to finish Higgsfield pricing... Seedance 2.5, same model, less than half the price' quote-post - 76.4K views, 183 likes. ",
+            "lane": "outsider"
+          },
+          {
+            "handle": "@AmControo",
+            "views": 37596,
+            "url": "https://x.com/AmControo/status/2124946551428530546",
+            "hook": "'POV: your product just became an item someone can pick up in GTA 6' - a product-placement concept video, 37.6K views, 130 bookmarks, ending on a 90%-off Black ",
+            "lane": "outsider"
+          },
+          {
+            "handle": "@higgsfield_ai",
+            "views": 25232,
+            "url": "https://x.com/higgsfield_ai/status/2124926392924012996",
+            "hook": "Higgsfield Selected: ORIGINS EP. 01: ZARA, a 7-minute action film about an AI K-pop idol, fully open source with all prompts and assets public - 25.2K views, 15",
+            "lane": "outsider"
+          }
+        ],
+        "heat": 100
+      },
+      {
+        "name": "Workflows and open-source films",
+        "keywords": [
+          "Gemini 4 Neon",
+          "Antigravity",
+          "MCP",
+          "workflow",
+          "Higgsfield Selected"
+        ],
+        "posts_24h": 3,
+        "posts_48h": 4,
+        "views_24h": 141011,
+        "views_prev24h": 6045,
+        "views_48h": 147056,
+        "momentum": "up x3.63",
+        "heat_raw": 15.62,
+        "evidence": [
+          {
+            "handle": "@GoogleDeepMind",
+            "views": 93033,
+            "url": "https://x.com/GoogleDeepMind/status/2124959312606818597",
+            "hook": "Google DeepMind: Gemini 4 Neon rebuilt Alan Turing's 1936 study at King's College in interactive 3D from archival photos, with a running Universal Turing Machin",
+            "lane": "outsider"
+          },
+          {
+            "handle": "@higgsfield_ai",
+            "views": 25232,
+            "url": "https://x.com/higgsfield_ai/status/2124926392924012996",
+            "hook": "Higgsfield Selected: ORIGINS EP. 01: ZARA, a 7-minute action film about an AI K-pop idol, fully open source with all prompts and assets public - 25.2K views, 15",
+            "lane": "outsider"
+          },
+          {
+            "handle": "@minchoi",
+            "views": 22746,
+            "url": "https://x.com/minchoi/status/2125023133111562273",
+            "hook": "Min Choi: Claude lyrics + Suno MCP song + Suno Visuals turning a few photos into a personalized song video 'all in ONE chat' - 22.7K views, 69 bookmarks, '10 wi",
+            "lane": "outsider"
+          }
+        ],
+        "heat": 65
+      },
+      {
+        "name": "Kling Image 4.0 brand reach",
+        "keywords": [
+          "Kling Image 4.0",
+          "Creator Highlights"
+        ],
+        "posts_24h": 1,
+        "posts_48h": 2,
+        "views_24h": 94632,
+        "views_prev24h": 256794,
+        "views_48h": 351426,
+        "momentum": "steady x0.92",
+        "heat_raw": 7.68,
+        "evidence": [
+          {
+            "handle": "@Kling_ai",
+            "views": 256794,
+            "url": "https://x.com/Kling_ai/status/2124846759679607044",
+            "hook": "Kling's own Kling Image 4.0 'complete image set from a single prompt' clip, now 256.8K (127K on the 22.11 board) but only 787 likes - brand reach that looks pro",
+            "lane": "outsider"
+          },
+          {
+            "handle": "@Kling_ai",
+            "views": 94632,
+            "url": "https://x.com/Kling_ai/status/2125223275093688624",
+            "hook": "Kling 'Creator Highlights' series for Kling Image 4.0 (7 creator images) - 94.6K views but 64 likes; brand reach, promoted-looking.",
+            "lane": "outsider"
+          }
+        ],
+        "heat": 32
+      }
+    ],
+    "ideas": [
+      {
+        "title": "Blockout to final with Runway",
+        "topic": "Runway",
+        "keywords": [
+          "Runway"
+        ],
+        "format": "video",
+        "visual_type": "video",
+        "visual": "Split-screen: grey 3D blockout camera move of a Hive city on the left, the same move rendered in Runway on the right.",
+        "angle": "Runway's Pantheon post (diagrams to Blender camera to Runway) did 18,287 views and 83 bookmarks; Runway is #1 in the X keyword sample, up x7.2 (87.4K).",
+        "hook_en": "Same camera move, twice: grey blockout, then the finished Runway shot.",
+        "why": "Runway up x7.2 in the 24h sample; control-first workflows keep earning saves.",
+        "x_keywords": [
+          "Runway"
+        ],
+        "x_rank": 1,
+        "source": "x-keywords"
+      },
+      {
+        "title": "What a Seedance shot really costs",
+        "topic": "Seedance",
+        "keywords": [
+          "Seedance",
+          "pricing"
+        ],
+        "format": "screencast",
+        "visual_type": "screencast",
+        "visual": "Screen recording of one 40K shot generated in Seedance with the price per clip overlaid, ending on the final clip.",
+        "angle": "A paid-partnership post on Higgsfield vs Seedance 2.5 pricing hit 76,365 views; Seedance is #2 in the X keyword sample (51.2K) though down x0.1 from a promo-heavy day.",
+        "hook_en": "Black Friday or not - here is what one Seedance shot of a Space Marine actually cost me.",
+        "why": "Pricing posts dominate reach this week; a creator's own honest numbers stand out against paid promos.",
+        "x_keywords": [
+          "Seedance"
+        ],
+        "x_rank": 2,
+        "source": "x-keywords"
+      },
+      {
+        "title": "Space Marine vs a myth",
+        "topic": "AI animation",
+        "keywords": [
+          "AI animation"
+        ],
+        "format": "video",
+        "visual_type": "video",
+        "visual": "15-20s AI animation fight beat: a Space Wolf against a mythic beast, two-line title card at the start.",
+        "angle": "OscarAI's 'Bruce Lee vs. Anubis' icon-vs-myth clip did 3,471 views and 97 likes on a two-line caption; AI animation is #3 in the X keyword sample (47.0K, flat).",
+        "hook_en": "Space Wolf vs. Fenrisian legend - an AI animation in one round.",
+        "why": "AI animation holds steady in the sample; matchup titles give an instant hook.",
+        "x_keywords": [
+          "AI animation"
+        ],
+        "x_rank": 3,
+        "source": "x-keywords"
+      },
+      {
+        "title": "Warhammer 40K but it's 1973",
+        "topic": "AI video",
+        "keywords": [
+          "AI video"
+        ],
+        "format": "video",
+        "visual_type": "video",
+        "visual": "30-50s trailer of a 40K scene restyled as a 1973 film: film grain, crash zooms, period title card, one-line caption.",
+        "angle": "TechHalla's era-swap AI video 'Game of Thrones but it's 1973' grew from 2.5K in its first hour to 62,542 views, 653 likes and 110 bookmarks.",
+        "hook_en": "Warhammer 40K, if it had been shot in 1973 - an era-swap AI video.",
+        "why": "62,542 views on a seven-word caption; AI video is #4 in the X keyword sample (25.8K, down x0.46).",
+        "x_keywords": [
+          "AI video"
+        ],
+        "x_rank": 4,
+        "source": "x-keywords"
+      },
+      {
+        "title": "ComfyUI character sheet to motion",
+        "topic": "ComfyUI",
+        "keywords": [
+          "ComfyUI",
+          "workflow"
+        ],
+        "format": "carousel",
+        "visual_type": "carousel",
+        "visual": "4-slide carousel: reference, turnaround model sheet, posed frame, first animated frame, each labelled.",
+        "angle": "A Gemini 4 Neon + Magnific MCP image-to-3D rigging guide got 98 bookmarks on 6,045 views; ComfyUI is #5 in the X keyword sample (8.8K, down x0.62).",
+        "hook_en": "My character consistency workflow in 4 slides - from one reference to a ComfyUI-ready model sheet.",
+        "why": "Step-by-step workflows get saved at 1-2% while promos get almost none.",
+        "x_keywords": [
+          "ComfyUI"
+        ],
+        "x_rank": 5,
+        "source": "x-keywords"
+      },
+      {
+        "title": "Open the workflow on your next short film",
+        "topic": "short film",
+        "keywords": [
+          "short film",
+          "workflow"
+        ],
+        "format": "video",
+        "visual_type": "video",
+        "visual": "60s trailer of Short film 53 followed by a 3-panel workflow card (model sheet - shots - edit).",
+        "angle": "Higgsfield Selected's 7-minute 'ORIGINS EP. 01: ZARA' went out with all prompts and assets public and the full workflow: 25,232 views, 156 bookmarks. Short film is flat in the X keyword sample (6.5K, x1.12).",
+        "hook_en": "Short film 53 - trailer up top, the whole workflow underneath.",
+        "why": "Open workflows earn bookmarks; short film is one of the few keywords not falling in the sample.",
+        "x_keywords": [
+          "short film"
+        ],
+        "x_rank": 7,
+        "source": "x-keywords"
+      },
+      {
+        "title": "Time of the Wolf, animated",
+        "topic": "image to video",
+        "keywords": [
+          "image to video"
+        ],
+        "format": "video",
+        "visual_type": "video",
+        "visual": "Take your Space Wolves still (your best post on 23.11, 1,158 views) and run it image to video: slow push-in, snow, breath in the cold.",
+        "angle": "Your 'Time of the Wolf... Space Wolves!' still was your best post on 23.11 at 1,158 views; image to video is in the X keyword sample (3.2K, down x0.09).",
+        "hook_en": "Yesterday's Space Wolves still, now moving - image to video, 8 seconds.",
+        "why": "Re-using a still that already worked is the cheapest test of whether motion lifts reach.",
+        "x_keywords": [
+          "image to video"
+        ],
+        "x_rank": 13,
+        "source": "x-keywords"
+      }
+    ],
+    "articles": [
+      {
+        "title": "Black Friday on X: paid reach vs earned reach in AI video",
+        "thesis": "On 23.11 the biggest AI-creative numbers were brand or paid posts (Kling 256,794 on 787 likes, a paid Higgsfield/Seedance pricing post 76,365, PopNow 11,339) while organic formats like era swaps and open workflows earned the likes and saves.",
+        "outline": [
+          "Reach vs likes vs bookmarks on the day's promos",
+          "How X flags paid partnerships",
+          "What the organic posts did instead",
+          "What a creator account can borrow"
+        ],
+        "keywords": [
+          "Black Friday",
+          "Seedance",
+          "pricing"
+        ],
+        "visual": "Table graphic: views, likes and bookmarks for the promo posts next to the organic ones.",
+        "why": "256,794 / 76,365 / 41,355 / 11,339 views on promo posts vs 62,542 on TechHalla's era swap.",
+        "x_keywords": [
+          "Seedance"
+        ]
+      },
+      {
+        "title": "Why era swaps keep working",
+        "thesis": "TechHalla's '...but it's 1973' series went from 70.0K (Back to the Future) to 62,542 (Game of Thrones) on seven-word captions - a familiar franchise plus a period look is a repeatable AI video format.",
+        "outline": [
+          "The format: franchise + year + look",
+          "The numbers so far",
+          "What makes the 1973 look read instantly",
+          "Doing it with your own universe (40K, Star Wars)"
+        ],
+        "keywords": [
+          "AI video",
+          "AI filmmaking"
+        ],
+        "visual": "Cover: side-by-side stills of a 40K scene, modern vs 1973 grade.",
+        "why": "62,542 views on 23.11 after 70.0K on 22.11.",
+        "x_keywords": [
+          "AI video",
+          "AI filmmaking"
+        ]
+      }
+    ],
+    "why_hit": [
+      {
+        "id": "2124846759679607044",
+        "handle": "@Kling_ai",
+        "lane": "outsider",
+        "views": 256794,
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "followers": 139687,
+        "topic": "Kling Image 4.0 brand reach",
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2124912108890378562",
+        "handle": "@vashikoo",
+        "lane": "outsider",
+        "views": 194793,
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "followers": 47378,
+        "topic": null,
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2124877291192819858",
+        "handle": "@AngryTomtweets",
+        "lane": "outsider",
+        "views": 95622,
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "followers": 149711,
+        "topic": null,
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2125223275093688624",
+        "handle": "@Kling_ai",
+        "lane": "outsider",
+        "views": 94632,
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "image",
+        "followers": 139687,
+        "topic": "Kling Image 4.0 brand reach",
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2124959312606818597",
+        "handle": "@GoogleDeepMind",
+        "lane": "outsider",
+        "views": 93033,
+        "trend_match": 73,
+        "verdict": "trend",
+        "matched_keywords": [
+          "Gemini 4 Neon",
+          "model",
+          "Antigravity"
+        ],
+        "media": "video",
+        "followers": 1624564,
+        "topic": "Workflows and open-source films",
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2124915406775386232",
+        "handle": "@iamfakhrealam",
+        "lane": "outsider",
+        "views": 76365,
+        "trend_match": 82,
+        "verdict": "trend",
+        "matched_keywords": [
+          "Higgsfield",
+          "model",
+          "Seedance",
+          "pricing"
+        ],
+        "media": "text",
+        "followers": 32423,
+        "topic": "Black Friday tool pricing",
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2124874108743610647",
+        "handle": "@techhalla",
+        "lane": "outsider",
+        "views": 62542,
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "followers": 104042,
+        "topic": null,
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2125169180588818662",
+        "handle": "@marryevan999",
+        "lane": "outsider",
+        "views": 41355,
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "followers": 44287,
+        "topic": null,
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2124946551428530546",
+        "handle": "@AmControo",
+        "lane": "outsider",
+        "views": 37596,
+        "trend_match": 35,
+        "verdict": "visual",
+        "matched_keywords": [
+          "Black Friday"
+        ],
+        "media": "video",
+        "followers": 56418,
+        "topic": "Black Friday tool pricing",
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2124926392924012996",
+        "handle": "@higgsfield_ai",
+        "lane": "outsider",
+        "views": 25232,
+        "trend_match": 58,
+        "verdict": "trend",
+        "matched_keywords": [
+          "Higgsfield",
+          "workflow"
+        ],
+        "media": "video",
+        "followers": 258041,
+        "topic": "Black Friday tool pricing",
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2125023133111562273",
+        "handle": "@minchoi",
+        "lane": "outsider",
+        "views": 22746,
+        "trend_match": 22,
+        "verdict": "visual",
+        "matched_keywords": [
+          "MCP"
+        ],
+        "media": "video",
+        "followers": 392680,
+        "topic": "Workflows and open-source films",
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2125202832660042052",
+        "handle": "@higgsfield_ai",
+        "lane": "outsider",
+        "views": 21139,
+        "trend_match": 35,
+        "verdict": "visual",
+        "matched_keywords": [
+          "Higgsfield"
+        ],
+        "media": "video",
+        "followers": 258041,
+        "topic": "Black Friday tool pricing",
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2124894381249585505",
+        "handle": "@runwayml",
+        "lane": "outsider",
+        "views": 18287,
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "followers": 297967,
+        "topic": null,
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2125066936744542352",
+        "handle": "@minchoi",
+        "lane": "outsider",
+        "views": 12450,
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "followers": 392680,
+        "topic": null,
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2124769322983948561",
+        "handle": "@AIwithkhan",
+        "lane": "outsider",
+        "views": 11339,
+        "trend_match": 58,
+        "verdict": "trend",
+        "matched_keywords": [
+          "Seedance",
+          "pricing"
+        ],
+        "media": "image",
+        "followers": 15730,
+        "topic": "Black Friday tool pricing",
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2124953874461286781",
+        "handle": "@ImagineArt_X",
+        "lane": "outsider",
+        "views": 6349,
+        "trend_match": 58,
+        "verdict": "trend",
+        "matched_keywords": [
+          "Black Friday",
+          "model"
+        ],
+        "media": "video",
+        "followers": 23415,
+        "topic": "Black Friday tool pricing",
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2124872708366401609",
+        "handle": "@ai_for_success",
+        "lane": "outsider",
+        "views": 6045,
+        "trend_match": 79,
+        "verdict": "trend",
+        "matched_keywords": [
+          "Gemini 4 Neon",
+          "Antigravity",
+          "workflow",
+          "MCP"
+        ],
+        "media": "video",
+        "followers": 82914,
+        "topic": "Workflows and open-source films",
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2124896595049087223",
+        "handle": "@udf_cg",
+        "lane": "outsider",
+        "views": 4645,
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "image",
+        "followers": 82,
+        "topic": null,
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2124883521257025818",
+        "handle": "@Artedeingenio",
+        "lane": "outsider",
+        "views": 3471,
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "followers": 66458,
+        "topic": null,
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2125134004424962458",
+        "handle": "@Artedeingenio",
+        "lane": "outsider",
+        "views": 2312,
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "image",
+        "followers": 66458,
+        "topic": null,
+        "self_quote": false,
+        "note": ""
+      }
+    ],
+    "labels": {
+      "trend": "trend",
+      "visual": "visual",
+      "author": "author/audience",
+      "other": "coincidence/other",
+      "nontrend": "non-trend",
+      "self_quote": "self-quote",
+      "no_data": "no data"
+    },
+    "x_keywords": {
+      "fetched_at": "2026-11-24T15:33:00+00:00",
+      "window_start": "2026-11-22T15:33:00Z",
+      "calls": 32,
+      "method": "Read-only x MCP search_posts_all, 2 calls per keyword: last 24 h and previous 24 h (24-48 h ago); lang:en, no retweets/replies, sort=relevancy, up to 25 posts per window. This is a SAMPLE of top-relevance posts, not every post on X. Views = impression_count at fetch time. Rank = sum of sampled 24 h views; 48 h = both windows; trend = 24 h sum / previous 24 h sum (up >=1.3, down <=0.7). Fresh posts are still gaining views, so 'up' is understated. Top-post share > 70% means one viral post carries the keyword.",
+      "missing": [],
+      "sample": true,
+      "sample_size_per_call": 25,
+      "keywords": [
+        {
+          "keyword": "Runway",
+          "query": "\"Runway\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 25,
+            "total": 87417,
+            "median": 60,
+            "top": {
+              "views": 64141,
+              "url": "https://x.com/MCCCANM/status/2124997947834401054",
+              "handle": "@MCCCANM",
+              "text": "“Line up &amp; wait” is a standard term ATC uses to put you on the runway without clearing you for takeoff. It used to b"
+            }
+          },
+          "prev24": {
+            "n": 24,
+            "total": 12135,
+            "median": 78,
+            "top": {
+              "views": 3558,
+              "url": "https://x.com/Infragati/status/2124774693341462971",
+              "handle": "@Infragati",
+              "text": "Varanasi’s Lal Bahadur Shastri International Airport, Uttar Pradesh expansion is progressing, with the 2.89 km NH-56 run"
+            }
+          },
+          "w48": {
+            "n": 49,
+            "total": 99552,
+            "top": {
+              "views": 64141,
+              "url": "https://x.com/MCCCANM/status/2124997947834401054",
+              "handle": "@MCCCANM",
+              "text": "“Line up &amp; wait” is a standard term ATC uses to put you on the runway without clearing you for takeoff. It used to b"
+            }
+          },
+          "change": 7.2,
+          "trend": "up",
+          "partial": false,
+          "top_share": 0.73,
+          "rank": 1
+        },
+        {
+          "keyword": "Seedance",
+          "query": "\"Seedance\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 25,
+            "total": 51210,
+            "median": 36,
+            "top": {
+              "views": 44974,
+              "url": "https://x.com/liambraus/status/2124936146195222643",
+              "handle": "@liambraus",
+              "text": "PEOPLE HAVE BEEN GENERATING AI VIDEO IN FEAR FOR TWO YEARS. Every prompt costs credits. Every revision makes you wonder "
+            }
+          },
+          "prev24": {
+            "n": 25,
+            "total": 517790,
+            "median": 124,
+            "top": {
+              "views": 259626,
+              "url": "https://x.com/base10_/status/2124628061308219505",
+              "handle": "@base10_",
+              "text": "Up to 30 days of unlimited AI video generation. That caught my attention, but the more useful question is: how much time"
+            }
+          },
+          "w48": {
+            "n": 50,
+            "total": 569000,
+            "top": {
+              "views": 259626,
+              "url": "https://x.com/base10_/status/2124628061308219505",
+              "handle": "@base10_",
+              "text": "Up to 30 days of unlimited AI video generation. That caught my attention, but the more useful question is: how much time"
+            }
+          },
+          "change": 0.1,
+          "trend": "down",
+          "partial": false,
+          "top_share": 0.88,
+          "rank": 2
+        },
+        {
+          "keyword": "AI animation",
+          "query": "\"AI animation\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 24,
+            "total": 46993,
+            "median": 97,
+            "top": {
+              "views": 24359,
+              "url": "https://x.com/catchthaaaanks/status/2125022612669792691",
+              "handle": "@catchthaaaanks",
+              "text": "This AI animation is better than Disney 🔥 Seedance 2.5 https://t.co/5gc56aUVar https://t.co/V6OywjIi1e"
+            }
+          },
+          "prev24": {
+            "n": 25,
+            "total": 56177,
+            "median": 106,
+            "top": {
+              "views": 30929,
+              "url": "https://x.com/thepkonicier/status/2124788896332738741",
+              "handle": "@thepkonicier",
+              "text": "This AI animation is better than Disney 🔥 Seedance 2.5 https://t.co/l9pGP3iBj3 https://t.co/qnxNn9xh6n"
+            }
+          },
+          "w48": {
+            "n": 49,
+            "total": 103170,
+            "top": {
+              "views": 30929,
+              "url": "https://x.com/thepkonicier/status/2124788896332738741",
+              "handle": "@thepkonicier",
+              "text": "This AI animation is better than Disney 🔥 Seedance 2.5 https://t.co/l9pGP3iBj3 https://t.co/qnxNn9xh6n"
+            }
+          },
+          "change": 0.84,
+          "trend": "flat",
+          "partial": false,
+          "top_share": 0.52,
+          "rank": 3
+        },
+        {
+          "keyword": "AI video",
+          "query": "\"AI video\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 25,
+            "total": 25780,
+            "median": 20,
+            "top": {
+              "views": 13033,
+              "url": "https://x.com/Xtep_12/status/2125102926691553598",
+              "handle": "@Xtep_12",
+              "text": "The AI video playground for marketing teams. Arcade turns your idea into polished video in minutes. AI video that looks "
+            }
+          },
+          "prev24": {
+            "n": 25,
+            "total": 56589,
+            "median": 53,
+            "top": {
+              "views": 27674,
+              "url": "https://x.com/Anusiya___/status/2124734108828082635",
+              "handle": "@Anusiya___",
+              "text": "Yesterday Full day Mamitha baiju &amp; pradeep Ranganathan AI video Released Today New Trending Mamitha baiju &amp; Sury"
+            }
+          },
+          "w48": {
+            "n": 50,
+            "total": 82369,
+            "top": {
+              "views": 27674,
+              "url": "https://x.com/Anusiya___/status/2124734108828082635",
+              "handle": "@Anusiya___",
+              "text": "Yesterday Full day Mamitha baiju &amp; pradeep Ranganathan AI video Released Today New Trending Mamitha baiju &amp; Sury"
+            }
+          },
+          "change": 0.46,
+          "trend": "down",
+          "partial": false,
+          "top_share": 0.51,
+          "rank": 4
+        },
+        {
+          "keyword": "ComfyUI",
+          "query": "\"ComfyUI\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 25,
+            "total": 8785,
+            "median": 32,
+            "top": {
+              "views": 3800,
+              "url": "https://x.com/Claire_Redfeld/status/2125079639865651658",
+              "handle": "@Claire_Redfeld",
+              "text": "Nice update for ComfyUI users: ComfyUI now natively supports SenseNova U1.6 self-correction. Generate the visual, let th"
+            }
+          },
+          "prev24": {
+            "n": 25,
+            "total": 14204,
+            "median": 74,
+            "top": {
+              "views": 4726,
+              "url": "https://x.com/RolfJTS/status/2124663483727794656",
+              "handle": "@RolfJTS",
+              "text": "Filterless #smoking #smokingfetish #ai #aiart #grok #minimax #gemini #chatgpt #comfyui https://t.co/pfX46tJXBD"
+            }
+          },
+          "w48": {
+            "n": 50,
+            "total": 22989,
+            "top": {
+              "views": 4726,
+              "url": "https://x.com/RolfJTS/status/2124663483727794656",
+              "handle": "@RolfJTS",
+              "text": "Filterless #smoking #smokingfetish #ai #aiart #grok #minimax #gemini #chatgpt #comfyui https://t.co/pfX46tJXBD"
+            }
+          },
+          "change": 0.62,
+          "trend": "down",
+          "partial": false,
+          "top_share": 0.43,
+          "rank": 5
+        },
+        {
+          "keyword": "anime",
+          "query": "\"anime\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 25,
+            "total": 8162,
+            "median": 34,
+            "top": {
+              "views": 6232,
+              "url": "https://x.com/harukaawake/status/2125152455222792375",
+              "handle": "@harukaawake",
+              "text": "🇯🇵 A Muslim man is claiming that there will be a Muslim hero in an anime soon. Any anime which features Muslims should n"
+            }
+          },
+          "prev24": {
+            "n": 25,
+            "total": 17141,
+            "median": 43,
+            "top": {
+              "views": 11954,
+              "url": "https://x.com/chromat1cfire/status/2124786286091497760",
+              "handle": "@chromat1cfire",
+              "text": "🧵 While flashiness or idiosyncratic style is nothing new to the anime industry, the new standard set by the modern anime"
+            }
+          },
+          "w48": {
+            "n": 50,
+            "total": 25303,
+            "top": {
+              "views": 11954,
+              "url": "https://x.com/chromat1cfire/status/2124786286091497760",
+              "handle": "@chromat1cfire",
+              "text": "🧵 While flashiness or idiosyncratic style is nothing new to the anime industry, the new standard set by the modern anime"
+            }
+          },
+          "change": 0.48,
+          "trend": "down",
+          "partial": false,
+          "top_share": 0.76,
+          "rank": 6
+        },
+        {
+          "keyword": "short film",
+          "query": "\"short film\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 25,
+            "total": 6507,
+            "median": 16,
+            "top": {
+              "views": 3831,
+              "url": "https://x.com/ChalchitraT/status/2125151112793911767",
+              "handle": "@ChalchitraT",
+              "text": "A special Indian short film! 🍿 @TripathiiPankaj speaks about the short film Laali featuring him, and why it made him fee"
+            }
+          },
+          "prev24": {
+            "n": 25,
+            "total": 5823,
+            "median": 72,
+            "top": {
+              "views": 3274,
+              "url": "https://x.com/Falloutperri/status/2124636029491564545",
+              "handle": "@Falloutperri",
+              "text": "lowkey straight out of the atw short film today https://t.co/GYxqnmUsOL"
+            }
+          },
+          "w48": {
+            "n": 50,
+            "total": 12330,
+            "top": {
+              "views": 3831,
+              "url": "https://x.com/ChalchitraT/status/2125151112793911767",
+              "handle": "@ChalchitraT",
+              "text": "A special Indian short film! 🍿 @TripathiiPankaj speaks about the short film Laali featuring him, and why it made him fee"
+            }
+          },
+          "change": 1.12,
+          "trend": "flat",
+          "partial": false,
+          "top_share": 0.59,
+          "rank": 7
+        },
+        {
+          "keyword": "Higgsfield",
+          "query": "\"Higgsfield\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 25,
+            "total": 6288,
+            "median": 25,
+            "top": {
+              "views": 2771,
+              "url": "https://x.com/Septic_Sauce/status/2124903306602373230",
+              "handle": "@Septic_Sauce",
+              "text": "Brought to you by Higgsfield... https://t.co/gViXxR054h"
+            }
+          },
+          "prev24": {
+            "n": 25,
+            "total": 33340,
+            "median": 106,
+            "top": {
+              "views": 17991,
+              "url": "https://x.com/drewfallon12/status/2124640091473875026",
+              "handle": "@drewfallon12",
+              "text": "higgsfield is the most brianrot seizure website of all time wow lol"
+            }
+          },
+          "w48": {
+            "n": 50,
+            "total": 39628,
+            "top": {
+              "views": 17991,
+              "url": "https://x.com/drewfallon12/status/2124640091473875026",
+              "handle": "@drewfallon12",
+              "text": "higgsfield is the most brianrot seizure website of all time wow lol"
+            }
+          },
+          "change": 0.19,
+          "trend": "down",
+          "partial": false,
+          "top_share": 0.44,
+          "rank": 8
+        },
+        {
+          "keyword": "Sora",
+          "query": "\"Sora\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 25,
+            "total": 6042,
+            "median": 88,
+            "top": {
+              "views": 1478,
+              "url": "https://x.com/DrillbotKillbot/status/2125118004564480345",
+              "handle": "@DrillbotKillbot",
+              "text": "Yknow if we REALLY wanted to kick the hornets nest we could talk about how \"is in love with Sora but Sora doesn't love t"
+            }
+          },
+          "prev24": {
+            "n": 25,
+            "total": 20104,
+            "median": 129,
+            "top": {
+              "views": 9980,
+              "url": "https://x.com/soralure/status/2124605357326479716",
+              "handle": "@soralure",
+              "text": "WHO IN A20SOUL IS YOUR first bias: Zai current bias: Alure, Sora e Zai first mv you watched: Superstar member you’re mos"
+            }
+          },
+          "w48": {
+            "n": 50,
+            "total": 26146,
+            "top": {
+              "views": 9980,
+              "url": "https://x.com/soralure/status/2124605357326479716",
+              "handle": "@soralure",
+              "text": "WHO IN A20SOUL IS YOUR first bias: Zai current bias: Alure, Sora e Zai first mv you watched: Superstar member you’re mos"
+            }
+          },
+          "change": 0.3,
+          "trend": "down",
+          "partial": false,
+          "top_share": 0.24,
+          "rank": 9
+        },
+        {
+          "keyword": "text to video",
+          "query": "\"text to video\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 25,
+            "total": 5626,
+            "median": 44,
+            "top": {
+              "views": 3072,
+              "url": "https://x.com/SD_Tutorial/status/2125143333819572628",
+              "handle": "@SD_Tutorial",
+              "text": "MiniMax-H3 😌ReDiverse-FT adapter a LoRA adapter that restores output diversity to the fast, 4-step distilled MiniMax-H3 "
+            }
+          },
+          "prev24": {
+            "n": 25,
+            "total": 7256,
+            "median": 74,
+            "top": {
+              "views": 2640,
+              "url": "https://x.com/HuggingModels/status/2124594773348819354",
+              "handle": "@HuggingModels",
+              "text": "Meet pi-H3 by Lakonik: an image-text-to-video model that also generates audio. Built on MiniMax-H3 with flow-matching an"
+            }
+          },
+          "w48": {
+            "n": 50,
+            "total": 12882,
+            "top": {
+              "views": 3072,
+              "url": "https://x.com/SD_Tutorial/status/2125143333819572628",
+              "handle": "@SD_Tutorial",
+              "text": "MiniMax-H3 😌ReDiverse-FT adapter a LoRA adapter that restores output diversity to the fast, 4-step distilled MiniMax-H3 "
+            }
+          },
+          "change": 0.78,
+          "trend": "flat",
+          "partial": false,
+          "top_share": 0.55,
+          "rank": 10
+        },
+        {
+          "keyword": "AI filmmaking",
+          "query": "\"AI filmmaking\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 25,
+            "total": 3978,
+            "median": 65,
+            "top": {
+              "views": 796,
+              "url": "https://x.com/ElvianaAi/status/2125124227695280224",
+              "handle": "@ElvianaAi",
+              "text": "A scene straight out of a movie. Rain-soaked platforms, cinematic lighting, atmospheric fog, and a timeless train statio"
+            }
+          },
+          "prev24": {
+            "n": 23,
+            "total": 28567,
+            "median": 165,
+            "top": {
+              "views": 14135,
+              "url": "https://x.com/techhalla/status/2124812480358895741",
+              "handle": "@techhalla",
+              "text": "wish I'd known about this AI filmmaking hack sooner... would have saved me somuch time and money! https://t.co/vgMpKr5wo"
+            }
+          },
+          "w48": {
+            "n": 48,
+            "total": 32545,
+            "top": {
+              "views": 14135,
+              "url": "https://x.com/techhalla/status/2124812480358895741",
+              "handle": "@techhalla",
+              "text": "wish I'd known about this AI filmmaking hack sooner... would have saved me somuch time and money! https://t.co/vgMpKr5wo"
+            }
+          },
+          "change": 0.14,
+          "trend": "down",
+          "partial": false,
+          "top_share": 0.2,
+          "rank": 11
+        },
+        {
+          "keyword": "Kling",
+          "query": "\"Kling\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 25,
+            "total": 3483,
+            "median": 26,
+            "top": {
+              "views": 872,
+              "url": "https://x.com/IlPoofto/status/2124914983523741966",
+              "handle": "@IlPoofto",
+              "text": "You get what you pay for Kling is cheap, but so often doesn't follow the prompt, makes errors and produces really hokey "
+            }
+          },
+          "prev24": {
+            "n": 25,
+            "total": 63942,
+            "median": 25,
+            "top": {
+              "views": 44247,
+              "url": "https://x.com/AmControo/status/2124563674811474170",
+              "handle": "@AmControo",
+              "text": "Can AI recreate the timeless charm of a vintage fashion film? I tested Kling Image 4.0 and ChatGPT Images 2.6 using the "
+            }
+          },
+          "w48": {
+            "n": 50,
+            "total": 67425,
+            "top": {
+              "views": 44247,
+              "url": "https://x.com/AmControo/status/2124563674811474170",
+              "handle": "@AmControo",
+              "text": "Can AI recreate the timeless charm of a vintage fashion film? I tested Kling Image 4.0 and ChatGPT Images 2.6 using the "
+            }
+          },
+          "change": 0.05,
+          "trend": "down",
+          "partial": false,
+          "top_share": 0.25,
+          "rank": 12
+        },
+        {
+          "keyword": "image to video",
+          "query": "\"image to video\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 24,
+            "total": 3163,
+            "median": 33,
+            "top": {
+              "views": 1687,
+              "url": "https://x.com/PapaIVRazzi/status/2124905400965423348",
+              "handle": "@PapaIVRazzi",
+              "text": "Try now our bot: Self Touch scene. And bonus scene Upload your girl’s face. Ai nsfw video generator. Undress your girl o"
+            }
+          },
+          "prev24": {
+            "n": 13,
+            "total": 35167,
+            "median": 54,
+            "top": {
+              "views": 30053,
+              "url": "https://x.com/PapaIVRazzi/status/2124531920105034040",
+              "handle": "@PapaIVRazzi",
+              "text": "Try now our bot: New: Swap Pack. Upload your girl’s face. Ai nsfw video generator. Undress your girl or swap face.%100 f"
+            }
+          },
+          "w48": {
+            "n": 37,
+            "total": 38330,
+            "top": {
+              "views": 30053,
+              "url": "https://x.com/PapaIVRazzi/status/2124531920105034040",
+              "handle": "@PapaIVRazzi",
+              "text": "Try now our bot: New: Swap Pack. Upload your girl’s face. Ai nsfw video generator. Undress your girl or swap face.%100 f"
+            }
+          },
+          "change": 0.09,
+          "trend": "down",
+          "partial": false,
+          "top_share": 0.53,
+          "rank": 13
+        },
+        {
+          "keyword": "Grok Imagine",
+          "query": "\"Grok Imagine\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 25,
+            "total": 2924,
+            "median": 25,
+            "top": {
+              "views": 1507,
+              "url": "https://x.com/dvorahfr/status/2125202589159748040",
+              "handle": "@dvorahfr",
+              "text": "Grok Imagine contains a vast number of underrated tools. When I try other software, it feels very slow and highly imprac"
+            }
+          },
+          "prev24": {
+            "n": 25,
+            "total": 10811,
+            "median": 34,
+            "top": {
+              "views": 6252,
+              "url": "https://x.com/tomo_stream/status/2124618029665566852",
+              "handle": "@tomo_stream",
+              "text": "Claudia @grok @imagine https://t.co/nn6rGbuiMD"
+            }
+          },
+          "w48": {
+            "n": 50,
+            "total": 13735,
+            "top": {
+              "views": 6252,
+              "url": "https://x.com/tomo_stream/status/2124618029665566852",
+              "handle": "@tomo_stream",
+              "text": "Claudia @grok @imagine https://t.co/nn6rGbuiMD"
+            }
+          },
+          "change": 0.27,
+          "trend": "down",
+          "partial": false,
+          "top_share": 0.52,
+          "rank": 14
+        },
+        {
+          "keyword": "Midjourney",
+          "query": "\"Midjourney\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 25,
+            "total": 1604,
+            "median": 44,
+            "top": {
+              "views": 264,
+              "url": "https://x.com/gurniaiart/status/2125142627041579136",
+              "handle": "@gurniaiart",
+              "text": "Blue art #AIArt #AIイラスト #midjourney #AIgirl #aiGallery https://t.co/icYK6orGkt"
+            }
+          },
+          "prev24": {
+            "n": 25,
+            "total": 5877,
+            "median": 82,
+            "top": {
+              "views": 1721,
+              "url": "https://x.com/LittleTinRobot/status/2124612389509464069",
+              "handle": "@LittleTinRobot",
+              "text": "Corloin Flats - Race Day @midjourney https://t.co/StwgIcSv23"
+            }
+          },
+          "w48": {
+            "n": 50,
+            "total": 7481,
+            "top": {
+              "views": 1721,
+              "url": "https://x.com/LittleTinRobot/status/2124612389509464069",
+              "handle": "@LittleTinRobot",
+              "text": "Corloin Flats - Race Day @midjourney https://t.co/StwgIcSv23"
+            }
+          },
+          "change": 0.27,
+          "trend": "down",
+          "partial": false,
+          "top_share": 0.16,
+          "rank": 15
+        },
+        {
+          "keyword": "Veo",
+          "query": "\"Veo\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 25,
+            "total": 1547,
+            "median": 37,
+            "top": {
+              "views": 283,
+              "url": "https://x.com/Cheshire_FA/status/2124939819931341047",
+              "handle": "@Cheshire_FA",
+              "text": "Get a free Veo Cam and save on subscription. We’ve partnered with Veo to give our members an exclusive Black Friday deal"
+            }
+          },
+          "prev24": {
+            "n": 25,
+            "total": 2467,
+            "median": 43,
+            "top": {
+              "views": 533,
+              "url": "https://x.com/EssexCountyFA/status/2124834252206338328",
+              "handle": "@EssexCountyFA",
+              "text": "#BlackFriday benefits can be accessed by #GrassrootsFootball clubs through our @veotechnologies partnership, with free V"
+            }
+          },
+          "w48": {
+            "n": 50,
+            "total": 4014,
+            "top": {
+              "views": 533,
+              "url": "https://x.com/EssexCountyFA/status/2124834252206338328",
+              "handle": "@EssexCountyFA",
+              "text": "#BlackFriday benefits can be accessed by #GrassrootsFootball clubs through our @veotechnologies partnership, with free V"
+            }
+          },
+          "change": 0.63,
+          "trend": "down",
+          "partial": false,
+          "top_share": 0.18,
+          "rank": 16
+        }
+      ]
+    },
+    "legend": "Trend match 0-100% = 1 - prod(1 - w) over matched 24 h keywords that another author also used in the 48 h window (w: rank 1-10 0.35, 11-25 0.22, 26-40 0.12, curated 0.20). Verdict: >= 50% -> trend; else video/image in the post data -> visual; else >= 100K followers (outsiders without follower data: >= 500K views, estimate) -> author/audience; else coincidence/other. Missing data shows as 'no data'. Heat = sum log10(views) of topic posts (24 h x1, 24-48 h x0.5), scaled to 100. Momentum = log-views last 24 h / previous 24 h. Trend-input-only accounts feed the corpus but are never shown as hits."
+  }
+}

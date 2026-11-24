@@ -1,0 +1,3329 @@
+{
+  "title": "X Virality Score · 2026-11-21",
+  "brand_title": "Grok Bot X Virality Score",
+  "brand_handle": "@SMKP_Films",
+  "operator": {
+    "handle": "SMKP_Films",
+    "name": "Bogdan Orlic",
+    "profile_url": "https://x.com/SMKP_Films"
+  },
+  "timezone": "America/Toronto",
+  "date": "2026-11-21",
+  "updated": "2026-11-22T10:41:28-05:00",
+  "ui": {
+    "default_theme": "night"
+  },
+  "board_features": {
+    "count_up": true,
+    "live_pulse": true,
+    "theme_toggle": true,
+    "themes": [
+      "night",
+      "day"
+    ],
+    "grok_ambient": true,
+    "week_month_boards": true,
+    "day_roster_best_total": true,
+    "day_compare_chart": true,
+    "week_strip": true,
+    "no_hits_reasons": true,
+    "marker_class": "xvs-dash-2026",
+    "top10_drafts_v4": true,
+    "trend_keywords": true,
+    "trend_radar": true,
+    "x_keyword_table": true,
+    "experiment": true,
+    "self_quote_badge": true
+  },
+  "previous_day": {
+    "date": "2026-11-20",
+    "hits_count": 2,
+    "total_views": 182277,
+    "stars": 1,
+    "x_score": 63,
+    "top_hit": null
+  },
+  "hits": [
+    {
+      "id": "2124333545921691925",
+      "name": "Andres Vandal",
+      "display_name": "Andres Vandal",
+      "handle": "@andresvandal",
+      "views": 33645,
+      "views_label": "33,645",
+      "url": "https://x.com/andresvandal/status/2124333545921691925",
+      "created_at": "2026-11-22T02:46:00.000Z",
+      "posted_at": "2026-11-22T02:46:00.000Z",
+      "highlight": true,
+      "text": "Una historia que se pone mejor en el contenido exclusivo gracias a @WhatsTokenAI \n\nPuede ver contenido exclusivo en https://t.co/LQsqh7F2Hn\n\nEl contenido que muchos estaban pidiendo.\nIngresa ahora y hagamos crecer el universo vandal y ahora AfterHoursTv https://t.co/E1KAD0CBgG",
+      "original_en": "A story that gets even better in the exclusive content, thanks to @WhatsTokenAI\n\nYou can watch the exclusive content at https://t.co/LQsqh7F2Hn\n\nThe content so many of you were asking for.\nGo in now and let's grow the Vandal universe, and now AfterHoursTv https://t.co/E1KAD0CBgG",
+      "lang": "es",
+      "media": "video",
+      "likes": 1221,
+      "reposts": 63,
+      "bookmarks": 853,
+      "replies": 11,
+      "quotes": 4,
+      "followers_count": 18552,
+      "self_quote": false,
+      "hook": "A 30-second dark-fantasy video teasing a story that \"gets better\" behind a paywall (exclusive content via @WhatsTokenAI, partner link) - 33.6K views, 1,221 likes, 853 bookmarks (2.5% save rate). Cliffhanger video plus \"the rest is exclusive\" curiosity gap; posted the same day he said YouTube removed him and he is looking for a home for his series.",
+      "video_tip": "Cut a 30s cliffhanger from your next 40K short: open mid-action, end on the reveal frame, then one line saying where the full episode lives (YouTube). No hashtags; let the unanswered question drive the click.",
+      "board_rank": 4,
+      "draft_en": "The story only gets better in the exclusive cut, made possible by @WhatsTokenAI.\n\nThis is the video so many of you kept asking for.\n\nThe exclusive content is waiting at the link - jump in and help the Vandal universe grow, now with AfterHoursTv too.",
+      "draft_keywords": [
+        "video"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.049,
+        "word_overlap": 0.579,
+        "max_copied_run": 4
+      },
+      "top10_rank": 4,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "note": "",
+        "topic": null
+      }
+    }
+  ],
+  "hits_count": 1,
+  "outsiders": [
+    {
+      "id": "2123831379825967126",
+      "name": "Higgsfield AI 🧩",
+      "display_name": "Higgsfield AI 🧩",
+      "handle": "@higgsfield_ai",
+      "views": 182917,
+      "views_label": "182,917",
+      "url": "https://x.com/higgsfield_ai/status/2123831379825967126",
+      "created_at": "2026-11-20T17:30:34.000Z",
+      "posted_at": "2026-11-20T17:30:34.000Z",
+      "text": "Meet Higgsfield GPU Harness in Claude.\n\nRent on-demand GPUs in Claude via Higgsfield MCP to render, run open-weight models and train LoRAs.\n\nRun multiple AI agents work on your professional apps in the cloud at once, from any device.\n\nBlack Friday deal, live now: get up to 63% off.",
+      "original_en": "Meet Higgsfield GPU Harness in Claude.\n\nRent on-demand GPUs in Claude via Higgsfield MCP to render, run open-weight models and train LoRAs.\n\nRun multiple AI agents work on your professional apps in the cloud at once, from any device.\n\nBlack Friday deal, live now: get up to 63% off.",
+      "lang": "en",
+      "hook": "Higgsfield GPU Harness launch: rent cloud GPUs inside Claude via Higgsfield MCP, Black Friday up to 63% off - 182.9K views, 715 likes (0.39% like rate, promoted-looking).",
+      "video_tip": "Skip the offer; borrow the 'agent does the heavy lifting' angle only if you actually use it in your Seedance workflow.",
+      "media": "video",
+      "followers_count": 257829,
+      "likes": 715,
+      "reposts": 260,
+      "bookmarks": 281,
+      "replies": 54,
+      "quotes": 12,
+      "self_quote": false,
+      "board_rank": 1,
+      "draft_en": "Higgsfield GPU Harness now lives inside Claude.\n\nThrough the Higgsfield MCP you can rent GPUs on demand - for rendering, training LoRAs or running open-weight models.\n\nSpin up several AI agent sessions on your pro apps at the same time, in the cloud, from whatever device is in your hand.\n\nBlack Friday pricing is already on: as much as 63% off.",
+      "draft_keywords": [
+        "Higgsfield GPU Harness",
+        "Claude",
+        "MCP",
+        "GPUs",
+        "AI agent"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.0,
+        "word_overlap": 0.5,
+        "max_copied_run": 3
+      },
+      "top10_rank": 1
+    },
+    {
+      "id": "2123905539063336984",
+      "name": "Higgsfield AI 🧩",
+      "display_name": "Higgsfield AI 🧩",
+      "handle": "@higgsfield_ai",
+      "views": 157163,
+      "views_label": "157,163",
+      "url": "https://x.com/higgsfield_ai/status/2123905539063336984",
+      "created_at": "2026-11-20T22:25:15.000Z",
+      "posted_at": "2026-11-20T22:25:15.000Z",
+      "text": "Claude built a Miami-style town in Blender with 2,538 assets.\n\nRendered in Unreal Engine on Higgsfield GPU Harness in 74 minutes.\n\nHere's how: https://t.co/Hyj5MpChB6 https://t.co/O2P3RiULON",
+      "original_en": "Claude built a Miami-style town in Blender with 2,538 assets.\n\nRendered in Unreal Engine on Higgsfield GPU Harness in 74 minutes.\n\nHere's how: https://t.co/Hyj5MpChB6 https://t.co/O2P3RiULON",
+      "lang": "en",
+      "hook": "Higgsfield 'Claude built a Miami-style town in Blender with 2,538 assets', rendered in 74 minutes - still climbing from 20.11, now 157.2K views and 1,121 bookmarks (best save rate of the brand lane).",
+      "video_tip": "Number-first opener: put one hard production fact on screen in the first second of your next 40K short, then show the shot.",
+      "media": "video",
+      "followers_count": 257829,
+      "likes": 1678,
+      "reposts": 291,
+      "bookmarks": 1121,
+      "replies": 63,
+      "quotes": 20,
+      "self_quote": false,
+      "board_rank": 2,
+      "draft_en": "One prompt to Claude, and Blender ends up with a whole Miami-style town - 2,538 assets of it.\n\nThe Unreal Engine render took just 74 minutes, running on Higgsfield GPU Harness.\n\nFull walkthrough below:",
+      "draft_keywords": [
+        "Claude",
+        "Blender",
+        "Higgsfield GPU Harness"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.032,
+        "word_overlap": 0.6,
+        "max_copied_run": 4
+      },
+      "top10_rank": 2
+    },
+    {
+      "id": "2124193626527813683",
+      "name": "Vashi Nedomansky, ACE",
+      "display_name": "Vashi Nedomansky, ACE",
+      "handle": "@vashikoo",
+      "views": 55694,
+      "views_label": "55,694",
+      "url": "https://x.com/vashikoo/status/2124193626527813683",
+      "created_at": "2026-11-21T17:30:00.000Z",
+      "posted_at": "2026-11-21T17:30:00.000Z",
+      "text": "Hollywood has been using AI for years.\n\nYou just didn't notice.\n\n27 documented films.\n\nMultiple AI technologies.\n\nNot all AI is Generative AI.\n\nHere's the difference: https://t.co/6yF02lkN5o",
+      "original_en": "Hollywood has been using AI for years.\n\nYou just didn't notice.\n\n27 documented films.\n\nMultiple AI technologies.\n\nNot all AI is Generative AI.\n\nHere's the difference: https://t.co/6yF02lkN5o",
+      "lang": "en",
+      "hook": "vashikoo 'Hollywood has been using AI for years. You just didn't notice.' - a 27-film explainer card riding the Fincher/Cliff Booth AI debate; 55.7K views but 247 likes and 187 bookmarks (0.44% like rate, reach looks promoted or algorithm-pushed).",
+      "video_tip": "Turn the debate into a skit: a Commissar inspecting a 'totally hand-painted' propaganda reel and slowly discovering the machine spirit made it. Short punchline caption, no lecture.",
+      "media": "photo",
+      "followers_count": 47366,
+      "likes": 247,
+      "reposts": 51,
+      "bookmarks": 187,
+      "replies": 24,
+      "quotes": 16,
+      "self_quote": false,
+      "board_rank": 3,
+      "draft_en": "AI has been in Hollywood movies for years - most people simply never spotted it.\n\nThere are 27 documented films, built with more than one kind of AI tech.\n\nAnd not every AI tool counts as Generative AI.\n\nThe difference, explained:",
+      "draft_keywords": [
+        "Generative AI"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.0,
+        "word_overlap": 0.375,
+        "max_copied_run": 3
+      },
+      "top10_rank": 3
+    },
+    {
+      "id": "2124457346894016998",
+      "name": "TechHalla",
+      "display_name": "TechHalla",
+      "handle": "@techhalla",
+      "views": 28387,
+      "views_label": "28,387",
+      "url": "https://x.com/techhalla/status/2124457346894016998",
+      "created_at": "2026-11-22T10:57:56.000Z",
+      "posted_at": "2026-11-22T10:57:56.000Z",
+      "text": "Back to the Future but it's 1973 🥼 https://t.co/NW1q2sJv4M",
+      "original_en": "Back to the Future but it's 1973 🥼 https://t.co/NW1q2sJv4M",
+      "lang": "en",
+      "hook": "TechHalla 'Back to the Future but it's 1973' - a retro re-imagining clip on a seven-word caption; 28.4K views, 657 likes in ~5h. Second weekend in a row the '<film> but it's <year>' format wins for him (Matrix/1981 last time).",
+      "video_tip": "Do '<40K faction> but it's a 1970s grindhouse trailer' or 'Space Marines but it's a 1985 VHS ad' in Seedance - one-line caption, the era-swap is the hook.",
+      "media": "video",
+      "followers_count": 103984,
+      "likes": 657,
+      "reposts": 87,
+      "bookmarks": 125,
+      "replies": 23,
+      "quotes": 8,
+      "self_quote": false,
+      "board_rank": 5,
+      "draft_en": "What if Back to the Future had been shot in 1973? This AI video imagines exactly that 🥼",
+      "draft_keywords": [
+        "AI video"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.071,
+        "word_overlap": 0.333,
+        "max_copied_run": 4
+      },
+      "top10_rank": 5
+    },
+    {
+      "id": "2123992310362894691",
+      "name": "Higgsfield AI 🧩",
+      "display_name": "Higgsfield AI 🧩",
+      "handle": "@higgsfield_ai",
+      "views": 22574,
+      "views_label": "22,574",
+      "url": "https://x.com/higgsfield_ai/status/2123992310362894691",
+      "created_at": "2026-11-21T04:10:03.000Z",
+      "posted_at": "2026-11-21T04:10:03.000Z",
+      "text": "We asked Claude to create as many humans in Blender as possible.\n\nIt had x12 RTX PRO 6000 GPUs for rendering\n\n150,172 objects in this crowd, filling a street up to the rooftops.\n\nIt all ran on Higgsfield GPU Harness, cloud GPUs your AI agent can rent. https://t.co/cAsMSJeMTi https://t.co/paz86z6K5M",
+      "original_en": "We asked Claude to create as many humans in Blender as possible.\n\nIt had x12 RTX PRO 6000 GPUs for rendering\n\n150,172 objects in this crowd, filling a street up to the rooftops.\n\nIt all ran on Higgsfield GPU Harness, cloud GPUs your AI agent can rent. https://t.co/cAsMSJeMTi https://t.co/paz86z6K5M",
+      "lang": "en",
+      "hook": "Higgsfield 'as many humans in Blender as possible': 150,172 objects, a crowd filling a street to the rooftops - 22.6K views, 66 bookmarks.",
+      "video_tip": "Scale reveal: start on one Guardsman's face, pull back to an endless regiment. Let the number of bodies be the joke or the awe.",
+      "media": "video",
+      "followers_count": 257829,
+      "likes": 181,
+      "reposts": 30,
+      "bookmarks": 66,
+      "replies": 26,
+      "quotes": 4,
+      "self_quote": false,
+      "board_rank": 6,
+      "draft_en": "Ask Claude to fill a Blender scene with people and keep going - you get a street packed to the rooftops with 150,172 objects.\n\nThe render leaned on x12 RTX Pro 6000 GPUs rented through Higgsfield GPU Harness, the cloud setup an AI agent can book on its own.",
+      "draft_keywords": [
+        "Claude",
+        "Blender",
+        "RTX",
+        "Pro 6000",
+        "GPUs",
+        "Higgsfield GPU Harness",
+        "AI agent"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.043,
+        "word_overlap": 0.63,
+        "max_copied_run": 5
+      },
+      "top10_rank": 6
+    },
+    {
+      "id": "2123991686099734816",
+      "name": "Higgsfield AI 🧩",
+      "display_name": "Higgsfield AI 🧩",
+      "handle": "@higgsfield_ai",
+      "views": 12966,
+      "views_label": "12,966",
+      "url": "https://x.com/higgsfield_ai/status/2123991686099734816",
+      "created_at": "2026-11-21T04:07:34.000Z",
+      "posted_at": "2026-11-21T04:07:34.000Z",
+      "text": "Fable 5.2 built a 20-second Blender film with detailed geometry and realistic materials.\n\nWe ran the project on 5 RTX PRO 6000 GPUs through Higgsfield GPU Harness.\n\nYour AI agent can rent cloud GPUs directly from Claude or ChatGPT. https://t.co/j9y5F7PtPB https://t.co/paz86z7hVk",
+      "original_en": "Fable 5.2 built a 20-second Blender film with detailed geometry and realistic materials.\n\nWe ran the project on 5 RTX PRO 6000 GPUs through Higgsfield GPU Harness.\n\nYour AI agent can rent cloud GPUs directly from Claude or ChatGPT. https://t.co/j9y5F7PtPB https://t.co/paz86z7hVk",
+      "lang": "en",
+      "hook": "Higgsfield 'Fable 5.2 built a 20-second Blender film' on 5 RTX PRO 6000 GPUs - 13.0K views, 30 bookmarks; part of the same GPU Harness push.",
+      "video_tip": "Not worth copying directly; the takeaway is 'show the finished 20s piece first, specs second'.",
+      "media": "video",
+      "followers_count": 257829,
+      "likes": 117,
+      "reposts": 14,
+      "bookmarks": 30,
+      "replies": 13,
+      "quotes": 0,
+      "self_quote": false,
+      "board_rank": 7,
+      "draft_en": "Fable 5.2 made a short Blender clip, 20 seconds long, with realistic materials and finely detailed geometry.\n\nRender time came from 5 RTX Pro 6000 GPUs via Higgsfield GPU Harness.\n\nThe twist: an AI agent books that cloud power itself, straight from ChatGPT or Claude.",
+      "draft_keywords": [
+        "Blender",
+        "RTX",
+        "Pro 6000",
+        "GPUs",
+        "Higgsfield GPU Harness",
+        "AI agent",
+        "ChatGPT",
+        "Claude"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.048,
+        "word_overlap": 0.621,
+        "max_copied_run": 5
+      },
+      "top10_rank": 7
+    },
+    {
+      "id": "2123875791566168423",
+      "name": "Runway",
+      "display_name": "Runway",
+      "handle": "@runwayml",
+      "views": 10713,
+      "views_label": "10,713",
+      "url": "https://x.com/runwayml/status/2123875791566168423",
+      "created_at": "2026-11-20T20:27:03.000Z",
+      "posted_at": "2026-11-20T20:27:03.000Z",
+      "text": "Since the start of October, agents have written nearly every pull request we’ve merged into Runway App Studio.\n\nOur latest engineering post explains how we built a system that reviews those changes, tests them in a browser and brings in an engineer for high-risk decisions.\nhttps://t.co/BZ1xyoagKc",
+      "original_en": "Since the start of October, agents have written nearly every pull request we’ve merged into Runway App Studio.\n\nOur latest engineering post explains how we built a system that reviews those changes, tests them in a browser and brings in an engineer for high-risk decisions.\nhttps://t.co/BZ1xyoagKc",
+      "lang": "en",
+      "hook": "Runway engineering note: agents wrote nearly every merged PR in Runway App Studio since October - 10.7K views but only 54 likes on a text post (0.5% like rate, promoted-looking).",
+      "video_tip": "Off-niche for you; ignore for content.",
+      "media": "text",
+      "followers_count": 297796,
+      "likes": 54,
+      "reposts": 8,
+      "bookmarks": 13,
+      "replies": 28,
+      "quotes": 7,
+      "self_quote": false,
+      "board_rank": 8,
+      "draft_en": "Almost every merged pull request in Runway App Studio since early October came from an AI agent.\n\nTheir new engineering write-up covers the review setup behind it: changes get checked, tested in a browser, and an engineer only steps in when the decision is high-risk.",
+      "draft_keywords": [
+        "AI agent"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.024,
+        "word_overlap": 0.5,
+        "max_copied_run": 4
+      },
+      "top10_rank": 8
+    },
+    {
+      "id": "2123838678271172693",
+      "name": "Pika",
+      "display_name": "Pika",
+      "handle": "@pika_labs",
+      "views": 6436,
+      "views_label": "6,436",
+      "url": "https://x.com/pika_labs/status/2123838678271172693",
+      "created_at": "2026-11-20T17:59:34.000Z",
+      "posted_at": "2026-11-20T17:59:34.000Z",
+      "text": "Seedance 2.5 Flash is now on Pika.\nBuilt for the work where you need a lot of takes: ad creative, testing an idea ten different ways, batch runs.\n\n- Up to 30 seconds per video, in 480p or 720p.\n- Up to 10 images, 5 videos, and 5 audio clips as references. https://t.co/g0Ly8oxLHT",
+      "original_en": "Seedance 2.5 Flash is now on Pika.\nBuilt for the work where you need a lot of takes: ad creative, testing an idea ten different ways, batch runs.\n\n- Up to 30 seconds per video, in 480p or 720p.\n- Up to 10 images, 5 videos, and 5 audio clips as references. https://t.co/g0Ly8oxLHT",
+      "lang": "en",
+      "hook": "Pika adds Seedance 2.5 Flash: up to 30s per video, 480p/720p, up to 10 image / 5 video / 5 audio references, built for many takes - 6.4K views.",
+      "video_tip": "Your tool is in the news: a 'same prompt, 10 takes' Seedance reel of one Chaos Marine shot, labelled take 1-10, is native content for this.",
+      "media": "video",
+      "followers_count": 152666,
+      "likes": 94,
+      "reposts": 2,
+      "bookmarks": 16,
+      "replies": 40,
+      "quotes": 6,
+      "self_quote": false,
+      "board_rank": 9,
+      "draft_en": "Pika just added Seedance 2.5 Flash, and it is clearly tuned for volume: batch runs, ad work, or pushing one idea ten ways.\n\nClips go as long as 30 seconds (480p or 720p). For references you can feed it 10 images, plus 5 videos and 5 audio tracks.",
+      "draft_keywords": [
+        "Seedance 2.5 Flash",
+        "video"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.044,
+        "word_overlap": 0.667,
+        "max_copied_run": 5
+      },
+      "top10_rank": 9
+    },
+    {
+      "id": "2123852779366298045",
+      "name": "Luma",
+      "display_name": "Luma",
+      "handle": "@LumaLabsAI",
+      "views": 5569,
+      "views_label": "5,569",
+      "url": "https://x.com/LumaLabsAI/status/2123852779366298045",
+      "created_at": "2026-11-20T18:55:36.000Z",
+      "posted_at": "2026-11-20T18:55:36.000Z",
+      "text": "\"One Last Change.\" A short film by Ian Lihui Wang featuring increasingly unhinged requests for a water bottle commercial.\n\nMade with Luma MCP.\nNow live in ChatGPT and Claude. https://t.co/KMPNFPDBdN",
+      "original_en": "\"One Last Change.\" A short film by Ian Lihui Wang featuring increasingly unhinged requests for a water bottle commercial.\n\nMade with Luma MCP.\nNow live in ChatGPT and Claude. https://t.co/KMPNFPDBdN",
+      "lang": "en",
+      "hook": "Luma 'One Last Change' short by Ian Lihui Wang - increasingly unhinged client revisions on a water-bottle ad, made with Luma MCP - 5.6K views.",
+      "video_tip": "Client-from-hell is a proven skit shape: 'the Inquisition requests one last change to the propaganda poster' - each revision more absurd.",
+      "media": "video",
+      "followers_count": 196239,
+      "likes": 37,
+      "reposts": 5,
+      "bookmarks": 7,
+      "replies": 21,
+      "quotes": 1,
+      "self_quote": false,
+      "board_rank": 10,
+      "draft_en": "A client who wants a water bottle ad, and every revision request gets more unhinged.\n\nIan Lihui Wang turned that into the short \"One Last Change\", built with Luma MCP - now usable inside ChatGPT and Claude.",
+      "draft_keywords": [
+        "MCP",
+        "ChatGPT",
+        "Claude"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.03,
+        "word_overlap": 0.571,
+        "max_copied_run": 4
+      },
+      "top10_rank": 10
+    },
+    {
+      "id": "2124100944518357056",
+      "name": "mjs",
+      "display_name": "mjs",
+      "handle": "@manasjsaloi",
+      "views": 5529,
+      "views_label": "5,529",
+      "url": "https://x.com/manasjsaloi/status/2124100944518357056",
+      "created_at": "2026-11-21T11:21:43.000Z",
+      "posted_at": "2026-11-21T11:21:43.000Z",
+      "text": "The top models on Higgsfield are all Chinese video models. China has won AI video. \nThe US built better text models. China built the video models people actually use to make money. Why couldn't the US compete with China on video? https://t.co/UDrfhhtTSr",
+      "original_en": "The top models on Higgsfield are all Chinese video models. China has won AI video. \nThe US built better text models. China built the video models people actually use to make money. Why couldn't the US compete with China on video? https://t.co/UDrfhhtTSr",
+      "lang": "en",
+      "hook": "manasjsaloi: 'The top models on Higgsfield are all Chinese video models. China has won AI video.' - 5.5K views, 67 bookmarks; a hot take that pulls replies.",
+      "video_tip": "An opinion post with your own proof: 'Every shot in my last 40K short came from Seedance' plus the clip - take a side, show the work.",
+      "media": "text",
+      "followers_count": 38575,
+      "likes": 70,
+      "reposts": 2,
+      "bookmarks": 67,
+      "replies": 10,
+      "quotes": 3,
+      "self_quote": false,
+      "board_rank": 11
+    },
+    {
+      "id": "2123974692440523068",
+      "name": "Kling AI",
+      "display_name": "Kling AI",
+      "handle": "@Kling_ai",
+      "views": 4598,
+      "views_label": "4,598",
+      "url": "https://x.com/Kling_ai/status/2123974692440523068",
+      "created_at": "2026-11-21T03:00:02.000Z",
+      "posted_at": "2026-11-21T03:00:02.000Z",
+      "text": "From November 10 to 12, Kling AI joined Adobe MAX 2026 in Miami, Florida, connecting with global brands, agencies, and creators to explore the role of AI video in professional creative workflows.\n\nUnder the theme \"Bringing AI Video into Professional Creative Workflow\", Kling 4.0 showcased a range of creative applications, highlighting new possibilities for ideation and content production. As model capabilities continue to advance, creative teams can explore more directions and bring more ideas to life.\n\nKling AI will continue working with industry partners around the world to integrate its models more naturally into professional content production and help turn more creative ideas into reality.",
+      "original_en": "From November 10 to 12, Kling AI joined Adobe MAX 2026 in Miami, Florida, connecting with global brands, agencies, and creators to explore the role of AI video in professional creative workflows.\n\nUnder the theme \"Bringing AI Video into Professional Creative Workflow\", Kling 4.0 showcased a range of creative applications, highlighting new possibilities for ideation and content production. As model capabilities continue to advance, creative teams can explore more directions and bring more ideas to life.\n\nKling AI will continue working with industry partners around the world to integrate its models more naturally into professional content production and help turn more creative ideas into reality.",
+      "lang": "en",
+      "hook": "Kling at Adobe MAX 2026 recap (Kling 4.0, 'AI video in professional creative workflow') - 4.6K views, 41 likes, one bookmark; corporate recap, low pull.",
+      "video_tip": "Nothing to copy.",
+      "media": "4 photos",
+      "followers_count": 139620,
+      "likes": 41,
+      "reposts": 5,
+      "bookmarks": 1,
+      "replies": 9,
+      "quotes": 2,
+      "self_quote": false,
+      "board_rank": 12
+    },
+    {
+      "id": "2123853885198536899",
+      "name": "Dreamina AI",
+      "display_name": "Dreamina AI",
+      "handle": "@dreamina_ai",
+      "views": 4473,
+      "views_label": "4,473",
+      "url": "https://x.com/dreamina_ai/status/2123853885198536899",
+      "created_at": "2026-11-20T19:00:00.000Z",
+      "posted_at": "2026-11-20T19:00:00.000Z",
+      "text": "Dreamina Seedream 5.5 - A New Level of Realism and Creative Precision!\n\nMore realistic portraits. More precise image editing. Significantly improved text accuracy. And transparent assets come out ready to use.\n\n#DreaminaAI #DreaminaSeedream5_5 https://t.co/4Ogvc3HoQK",
+      "original_en": "Dreamina Seedream 5.5 - A New Level of Realism and Creative Precision!\n\nMore realistic portraits. More precise image editing. Significantly improved text accuracy. And transparent assets come out ready to use.\n\n#DreaminaAI #DreaminaSeedream5_5 https://t.co/4Ogvc3HoQK",
+      "lang": "en",
+      "hook": "Dreamina Seedream 5.5 promo: more realistic portraits, more precise edits, better text, transparent assets - 4.5K views.",
+      "video_tip": "Seedream 5.5 already worked for you (3,080 on the Chaos Space Marines carousel); a Seedream 5.5 still to Seedance motion before/after is the natural follow-up.",
+      "media": "video",
+      "followers_count": 31646,
+      "likes": 121,
+      "reposts": 9,
+      "bookmarks": 17,
+      "replies": 17,
+      "quotes": 1,
+      "self_quote": false,
+      "board_rank": 13
+    },
+    {
+      "id": "2124216273223528464",
+      "name": "Dreamina AI",
+      "display_name": "Dreamina AI",
+      "handle": "@dreamina_ai",
+      "views": 3775,
+      "views_label": "3,775",
+      "url": "https://x.com/dreamina_ai/status/2124216273223528464",
+      "created_at": "2026-11-21T19:00:00.000Z",
+      "posted_at": "2026-11-21T19:00:00.000Z",
+      "text": "Dreamina Launches 30+ AI Tools — Your All-in-One Creative &amp; Marketing Toolkit! 🚀\n\nSmarter, More Efficient Marketing. More Creative Image Editing. Easier Video Creation. Everything you need to create, all in one place.\n\n#DreaminaAI #DreaminaAITools #DreaminaSeedance2_5 https://t.co/qtiTfgvGP7",
+      "original_en": "Dreamina Launches 30+ AI Tools — Your All-in-One Creative &amp; Marketing Toolkit! 🚀\n\nSmarter, More Efficient Marketing. More Creative Image Editing. Easier Video Creation. Everything you need to create, all in one place.\n\n#DreaminaAI #DreaminaAITools #DreaminaSeedance2_5 https://t.co/qtiTfgvGP7",
+      "lang": "en",
+      "hook": "Dreamina launches 30+ AI tools 'all-in-one creative and marketing toolkit' (Seedance 2.5 tag) - 3.8K views.",
+      "video_tip": "Brand announcement; skip.",
+      "media": "video",
+      "followers_count": 31646,
+      "likes": 100,
+      "reposts": 14,
+      "bookmarks": 22,
+      "replies": 13,
+      "quotes": 1,
+      "self_quote": false,
+      "board_rank": 14
+    },
+    {
+      "id": "2124381685835813268",
+      "name": "Kling AI",
+      "display_name": "Kling AI",
+      "handle": "@Kling_ai",
+      "views": 3711,
+      "views_label": "3,711",
+      "url": "https://x.com/Kling_ai/status/2124381685835813268",
+      "created_at": "2026-11-22T05:57:17.000Z",
+      "posted_at": "2026-11-22T05:57:17.000Z",
+      "text": "A fantastical journey through Eight Nights. ✨\n\nMade with #Kling4 in 4K 10-bit HDR. #KlingAI https://t.co/hTFw9I4aVO",
+      "original_en": "A fantastical journey through Eight Nights. ✨\n\nMade with #Kling4 in 4K 10-bit HDR. #KlingAI https://t.co/hTFw9I4aVO",
+      "lang": "en",
+      "hook": "Kling 'A fantastical journey through Eight Nights', Kling 4 in 4K 10-bit HDR - 3.7K views; Kling's weekend push of 4K HDR showcase clips.",
+      "video_tip": "If you test 4K HDR, show a dark Grimdark interior with candle and plasma light - the format that sells HDR.",
+      "media": "text",
+      "followers_count": 139620,
+      "likes": 40,
+      "reposts": 2,
+      "bookmarks": 6,
+      "replies": 12,
+      "quotes": 1,
+      "self_quote": false,
+      "board_rank": 15
+    },
+    {
+      "id": "2123864935683985657",
+      "name": "🎮🍿Pturtle 🐢🍿🎮",
+      "display_name": "🎮🍿Pturtle 🐢🍿🎮",
+      "handle": "@PturtIe",
+      "views": 3648,
+      "views_label": "3,648",
+      "url": "https://x.com/PturtIe/status/2123864935683985657",
+      "created_at": "2026-11-20T19:43:54.000Z",
+      "posted_at": "2026-11-20T19:43:54.000Z",
+      "text": "This is why David Fincher is the best director working today. He doesn’t care about hipster film snobs and their performative outrage over generative AI.\n\n#THEFURTHERMISADVENTURESOFCLIFFBOOTH is the best movie of the year. Go see it. \n\n#Netflix https://t.co/cIL0QaFjdr",
+      "original_en": "This is why David Fincher is the best director working today. He doesn’t care about hipster film snobs and their performative outrage over generative AI.\n\n#THEFURTHERMISADVENTURESOFCLIFFBOOTH is the best movie of the year. Go see it. \n\n#Netflix https://t.co/cIL0QaFjdr",
+      "lang": "en",
+      "hook": "PturtIe defends David Fincher using generative AI in 'The Further Misadventures of Cliff Booth' - 3.6K views from a 252-follower account (debate reach).",
+      "video_tip": "The Fincher debate is the weekend's film-Twitter topic; one calm, specific take with your own clip can ride it.",
+      "media": "text",
+      "followers_count": 252,
+      "likes": 81,
+      "reposts": 16,
+      "bookmarks": 11,
+      "replies": 9,
+      "quotes": 7,
+      "self_quote": false,
+      "board_rank": 16
+    },
+    {
+      "id": "2123957610567155798",
+      "name": "This Week in Startups",
+      "display_name": "This Week in Startups",
+      "handle": "@twistartups",
+      "views": 2430,
+      "views_label": "2,430",
+      "url": "https://x.com/twistartups/status/2123957610567155798",
+      "created_at": "2026-11-21T01:52:10.000Z",
+      "posted_at": "2026-11-21T01:52:10.000Z",
+      "text": "Did David Fincher’s new “Cliff Booth” sequel for Netflix use AI for a few sequences?\n\nFilm critics are up in arms, but Jason argues that, if the movie is good, no one will ultimately care how it was made. Did audiences complain when Forrest Gump met JFK? No, they just enjoyed the https://t.co/uuNMn4x4um",
+      "original_en": "Did David Fincher’s new “Cliff Booth” sequel for Netflix use AI for a few sequences?\n\nFilm critics are up in arms, but Jason argues that, if the movie is good, no one will ultimately care how it was made. Did audiences complain when Forrest Gump met JFK? No, they just enjoyed the https://t.co/uuNMn4x4um",
+      "lang": "en",
+      "hook": "This Week in Startups: did Fincher's Cliff Booth sequel use AI for some sequences? 'If the movie is good, no one will care how it was made' - 2.4K views.",
+      "video_tip": "Same debate; a 'would you notice?' A/B clip from your own work is the visual version.",
+      "media": "video",
+      "followers_count": 108842,
+      "likes": 10,
+      "reposts": 0,
+      "bookmarks": 1,
+      "replies": 1,
+      "quotes": 0,
+      "self_quote": false,
+      "board_rank": 17
+    },
+    {
+      "id": "2124057091052892469",
+      "name": "Astro Polo",
+      "display_name": "Astro Polo",
+      "handle": "@astropol0",
+      "views": 2035,
+      "views_label": "2,035",
+      "url": "https://x.com/astropol0/status/2124057091052892469",
+      "created_at": "2026-11-21T08:27:28.000Z",
+      "posted_at": "2026-11-21T08:27:28.000Z",
+      "text": "Nano Banana 2 Pro might drop sooner than expected\n\nhere’s everything circulating….\n\n- codename “Paper Volcano” has appeared in Google Flow and Google Cloud\n- multiple people spotted it in production code and quotas\n- expected to focus on better editing, consistency and overall image quality\n-  arly tester claimed the current checkpoint didn’t look that strong.. still unverified tho\n- naming is still unclear some are calling it Nano Banana 2 Pro others Nano Banana Pro 2.. might be different \n\nGoogle usually doesn’t leave these things visible for long before shipping so its closer",
+      "original_en": "Nano Banana 2 Pro might drop sooner than expected\n\nhere’s everything circulating….\n\n- codename “Paper Volcano” has appeared in Google Flow and Google Cloud\n- multiple people spotted it in production code and quotas\n- expected to focus on better editing, consistency and overall image quality\n-  arly tester claimed the current checkpoint didn’t look that strong.. still unverified tho\n- naming is still unclear some are calling it Nano Banana 2 Pro others Nano Banana Pro 2.. might be different \n\nGoogle usually doesn’t leave these things visible for long before shipping so its closer",
+      "lang": "en",
+      "hook": "Nano Banana 2 Pro rumour roundup (codename 'Paper Volcano' in Google Flow/Cloud) - 2.0K views.",
+      "video_tip": "Rumour posts are cheap; only worth it if you have a test to show.",
+      "media": "2 photos",
+      "followers_count": 3649,
+      "likes": 54,
+      "reposts": 4,
+      "bookmarks": 5,
+      "replies": 1,
+      "quotes": 0,
+      "self_quote": false,
+      "board_rank": 18
+    },
+    {
+      "id": "2124482990067548369",
+      "name": "Riccardo Wolf",
+      "display_name": "Riccardo Wolf",
+      "handle": "@WolfRiccardo",
+      "views": 1668,
+      "views_label": "1,668",
+      "url": "https://x.com/WolfRiccardo/status/2124482990067548369",
+      "created_at": "2026-11-22T12:39:50.000Z",
+      "posted_at": "2026-11-22T12:39:50.000Z",
+      "text": "A lot of people are saying that mellow-manta, the image model currently being tested on Arena (@arena), is the new Nano Banana Pro. However, I strongly disagree. I've run several tests, and you can take a look at the results yourself.\n\nIf this actually turns out to be the new Nano Banana Pro, it would be a complete disaster. But I honestly don't believe that's the case.\n\nTo me, mellow-manta looks very similar to MAI Image outputs, especially when it comes to skin textures, the plastic-like appearance, and the tendency to exaggerate skin imperfections.\n\nI've tested mellow-manta extensively, and I want to make one thing clear: it's not a bad model at all.\n\nMy point is that we've been waiting a long time for the new Nano Banana Pro, and many people are already sharing mellow-manta as if it's the next version.\n\nIf it really turns out to be Nano Banana Pro, I think a lot of people are going to be extremely disappointed.",
+      "original_en": "A lot of people are saying that mellow-manta, the image model currently being tested on Arena (@arena), is the new Nano Banana Pro. However, I strongly disagree. I've run several tests, and you can take a look at the results yourself.\n\nIf this actually turns out to be the new Nano Banana Pro, it would be a complete disaster. But I honestly don't believe that's the case.\n\nTo me, mellow-manta looks very similar to MAI Image outputs, especially when it comes to skin textures, the plastic-like appearance, and the tendency to exaggerate skin imperfections.\n\nI've tested mellow-manta extensively, and I want to make one thing clear: it's not a bad model at all.\n\nMy point is that we've been waiting a long time for the new Nano Banana Pro, and many people are already sharing mellow-manta as if it's the next version.\n\nIf it really turns out to be Nano Banana Pro, I think a lot of people are going to be extremely disappointed.",
+      "lang": "en",
+      "hook": "WolfRiccardo tests 'mellow-manta' on Arena and argues it is not the new Nano Banana Pro (plastic skin textures) - 1.7K views, 5-image comparison.",
+      "video_tip": "Comparison carousels keep working for you; a Seedream vs Nano Banana 40K face test fits.",
+      "media": "5 photos",
+      "followers_count": 2054,
+      "likes": 27,
+      "reposts": 1,
+      "bookmarks": 9,
+      "replies": 10,
+      "quotes": 0,
+      "self_quote": false,
+      "board_rank": 19
+    },
+    {
+      "id": "2124436504386875489",
+      "name": "OscarAI",
+      "display_name": "OscarAI",
+      "handle": "@Artedeingenio",
+      "views": 1521,
+      "views_label": "1,521",
+      "url": "https://x.com/Artedeingenio/status/2124436504386875489",
+      "created_at": "2026-11-22T09:35:07.000Z",
+      "posted_at": "2026-11-22T09:35:07.000Z",
+      "text": "The Runaway Shadow\n\nA Whimsical Surreal Animated Short Film\n\nCreated using one of my Midjourney styles and @dreamina_ai https://t.co/TIG0iz2EMF",
+      "original_en": "The Runaway Shadow\n\nA Whimsical Surreal Animated Short Film\n\nCreated using one of my Midjourney styles and @dreamina_ai https://t.co/TIG0iz2EMF",
+      "lang": "en",
+      "hook": "Artedeingenio 'The Runaway Shadow', a whimsical surreal animated short from a Midjourney style + Dreamina - 1.5K views in ~6h.",
+      "video_tip": "Titled mini-short with a one-line logline under the title - copy the packaging for your next skit.",
+      "media": "video",
+      "followers_count": 66407,
+      "likes": 36,
+      "reposts": 6,
+      "bookmarks": 10,
+      "replies": 8,
+      "quotes": 0,
+      "self_quote": false,
+      "board_rank": 20
+    },
+    {
+      "id": "2124476335338799186",
+      "name": "OscarAI",
+      "display_name": "OscarAI",
+      "handle": "@Artedeingenio",
+      "views": 1039,
+      "views_label": "1,039",
+      "url": "https://x.com/Artedeingenio/status/2124476335338799186",
+      "created_at": "2026-11-22T12:13:23.000Z",
+      "posted_at": "2026-11-22T12:13:23.000Z",
+      "text": "The Last Little Song\n\nA Tiny Robot's Big Dream\n\nI absolutely love animated shorts with a unique visual style and emotional storytelling.\n\nI share all the prompts behind these creations with my subscribers. https://t.co/oEPCAqJHjt",
+      "original_en": "The Last Little Song\n\nA Tiny Robot's Big Dream\n\nI absolutely love animated shorts with a unique visual style and emotional storytelling.\n\nI share all the prompts behind these creations with my subscribers. https://t.co/oEPCAqJHjt",
+      "lang": "en",
+      "hook": "Artedeingenio 'The Last Little Song - A Tiny Robot's Big Dream', emotional animated short, prompts behind a subscriber wall - 1.0K views.",
+      "video_tip": "Small emotional robot story = servo-skull short; title + subtitle + one sentence of why you made it.",
+      "media": "video",
+      "followers_count": 66407,
+      "likes": 17,
+      "reposts": 0,
+      "bookmarks": 4,
+      "replies": 3,
+      "quotes": 0,
+      "self_quote": false,
+      "board_rank": 21
+    }
+  ],
+  "outsiders_count": 20,
+  "virals": [
+    {
+      "id": "2123831379825967126",
+      "name": "Higgsfield AI 🧩",
+      "display_name": "Higgsfield AI 🧩",
+      "handle": "@higgsfield_ai",
+      "views": 182917,
+      "views_label": "182,917",
+      "url": "https://x.com/higgsfield_ai/status/2123831379825967126",
+      "created_at": "2026-11-20T17:30:34.000Z",
+      "posted_at": "2026-11-20T17:30:34.000Z",
+      "text": "Meet Higgsfield GPU Harness in Claude.\n\nRent on-demand GPUs in Claude via Higgsfield MCP to render, run open-weight models and train LoRAs.\n\nRun multiple AI agents work on your professional apps in the cloud at once, from any device.\n\nBlack Friday deal, live now: get up to 63% off.",
+      "original_en": "Meet Higgsfield GPU Harness in Claude.\n\nRent on-demand GPUs in Claude via Higgsfield MCP to render, run open-weight models and train LoRAs.\n\nRun multiple AI agents work on your professional apps in the cloud at once, from any device.\n\nBlack Friday deal, live now: get up to 63% off.",
+      "lang": "en",
+      "hook": "Higgsfield GPU Harness launch: rent cloud GPUs inside Claude via Higgsfield MCP, Black Friday up to 63% off - 182.9K views, 715 likes (0.39% like rate, promoted-looking).",
+      "video_tip": "Skip the offer; borrow the 'agent does the heavy lifting' angle only if you actually use it in your Seedance workflow.",
+      "media": "video",
+      "followers_count": 257829,
+      "likes": 715,
+      "reposts": 260,
+      "bookmarks": 281,
+      "replies": 54,
+      "quotes": 12,
+      "self_quote": false,
+      "board_rank": 1,
+      "draft_en": "Higgsfield GPU Harness now lives inside Claude.\n\nThrough the Higgsfield MCP you can rent GPUs on demand - for rendering, training LoRAs or running open-weight models.\n\nSpin up several AI agent sessions on your pro apps at the same time, in the cloud, from whatever device is in your hand.\n\nBlack Friday pricing is already on: as much as 63% off.",
+      "draft_keywords": [
+        "Higgsfield GPU Harness",
+        "Claude",
+        "MCP",
+        "GPUs",
+        "AI agent"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.0,
+        "word_overlap": 0.5,
+        "max_copied_run": 3
+      },
+      "top10_rank": 1,
+      "why_hit": {
+        "trend_match": 58,
+        "verdict": "trend",
+        "matched_keywords": [
+          "Claude",
+          "MCP"
+        ],
+        "media": "video",
+        "note": "",
+        "topic": "Number-first agent builds"
+      }
+    },
+    {
+      "id": "2123905539063336984",
+      "name": "Higgsfield AI 🧩",
+      "display_name": "Higgsfield AI 🧩",
+      "handle": "@higgsfield_ai",
+      "views": 157163,
+      "views_label": "157,163",
+      "url": "https://x.com/higgsfield_ai/status/2123905539063336984",
+      "created_at": "2026-11-20T22:25:15.000Z",
+      "posted_at": "2026-11-20T22:25:15.000Z",
+      "text": "Claude built a Miami-style town in Blender with 2,538 assets.\n\nRendered in Unreal Engine on Higgsfield GPU Harness in 74 minutes.\n\nHere's how: https://t.co/Hyj5MpChB6 https://t.co/O2P3RiULON",
+      "original_en": "Claude built a Miami-style town in Blender with 2,538 assets.\n\nRendered in Unreal Engine on Higgsfield GPU Harness in 74 minutes.\n\nHere's how: https://t.co/Hyj5MpChB6 https://t.co/O2P3RiULON",
+      "lang": "en",
+      "hook": "Higgsfield 'Claude built a Miami-style town in Blender with 2,538 assets', rendered in 74 minutes - still climbing from 20.11, now 157.2K views and 1,121 bookmarks (best save rate of the brand lane).",
+      "video_tip": "Number-first opener: put one hard production fact on screen in the first second of your next 40K short, then show the shot.",
+      "media": "video",
+      "followers_count": 257829,
+      "likes": 1678,
+      "reposts": 291,
+      "bookmarks": 1121,
+      "replies": 63,
+      "quotes": 20,
+      "self_quote": false,
+      "board_rank": 2,
+      "draft_en": "One prompt to Claude, and Blender ends up with a whole Miami-style town - 2,538 assets of it.\n\nThe Unreal Engine render took just 74 minutes, running on Higgsfield GPU Harness.\n\nFull walkthrough below:",
+      "draft_keywords": [
+        "Claude",
+        "Blender",
+        "Higgsfield GPU Harness"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.032,
+        "word_overlap": 0.6,
+        "max_copied_run": 4
+      },
+      "top10_rank": 2,
+      "why_hit": {
+        "trend_match": 35,
+        "verdict": "visual",
+        "matched_keywords": [
+          "Claude"
+        ],
+        "media": "video",
+        "note": "",
+        "topic": "Number-first agent builds"
+      }
+    },
+    {
+      "id": "2124193626527813683",
+      "name": "Vashi Nedomansky, ACE",
+      "display_name": "Vashi Nedomansky, ACE",
+      "handle": "@vashikoo",
+      "views": 55694,
+      "views_label": "55,694",
+      "url": "https://x.com/vashikoo/status/2124193626527813683",
+      "created_at": "2026-11-21T17:30:00.000Z",
+      "posted_at": "2026-11-21T17:30:00.000Z",
+      "text": "Hollywood has been using AI for years.\n\nYou just didn't notice.\n\n27 documented films.\n\nMultiple AI technologies.\n\nNot all AI is Generative AI.\n\nHere's the difference: https://t.co/6yF02lkN5o",
+      "original_en": "Hollywood has been using AI for years.\n\nYou just didn't notice.\n\n27 documented films.\n\nMultiple AI technologies.\n\nNot all AI is Generative AI.\n\nHere's the difference: https://t.co/6yF02lkN5o",
+      "lang": "en",
+      "hook": "vashikoo 'Hollywood has been using AI for years. You just didn't notice.' - a 27-film explainer card riding the Fincher/Cliff Booth AI debate; 55.7K views but 247 likes and 187 bookmarks (0.44% like rate, reach looks promoted or algorithm-pushed).",
+      "video_tip": "Turn the debate into a skit: a Commissar inspecting a 'totally hand-painted' propaganda reel and slowly discovering the machine spirit made it. Short punchline caption, no lecture.",
+      "media": "photo",
+      "followers_count": 47366,
+      "likes": 247,
+      "reposts": 51,
+      "bookmarks": 187,
+      "replies": 24,
+      "quotes": 16,
+      "self_quote": false,
+      "board_rank": 3,
+      "draft_en": "AI has been in Hollywood movies for years - most people simply never spotted it.\n\nThere are 27 documented films, built with more than one kind of AI tech.\n\nAnd not every AI tool counts as Generative AI.\n\nThe difference, explained:",
+      "draft_keywords": [
+        "Generative AI"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.0,
+        "word_overlap": 0.375,
+        "max_copied_run": 3
+      },
+      "top10_rank": 3,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "image",
+        "note": "",
+        "topic": "Generative AI in Hollywood"
+      }
+    },
+    {
+      "id": "2124457346894016998",
+      "name": "TechHalla",
+      "display_name": "TechHalla",
+      "handle": "@techhalla",
+      "views": 28387,
+      "views_label": "28,387",
+      "url": "https://x.com/techhalla/status/2124457346894016998",
+      "created_at": "2026-11-22T10:57:56.000Z",
+      "posted_at": "2026-11-22T10:57:56.000Z",
+      "text": "Back to the Future but it's 1973 🥼 https://t.co/NW1q2sJv4M",
+      "original_en": "Back to the Future but it's 1973 🥼 https://t.co/NW1q2sJv4M",
+      "lang": "en",
+      "hook": "TechHalla 'Back to the Future but it's 1973' - a retro re-imagining clip on a seven-word caption; 28.4K views, 657 likes in ~5h. Second weekend in a row the '<film> but it's <year>' format wins for him (Matrix/1981 last time).",
+      "video_tip": "Do '<40K faction> but it's a 1970s grindhouse trailer' or 'Space Marines but it's a 1985 VHS ad' in Seedance - one-line caption, the era-swap is the hook.",
+      "media": "video",
+      "followers_count": 103984,
+      "likes": 657,
+      "reposts": 87,
+      "bookmarks": 125,
+      "replies": 23,
+      "quotes": 8,
+      "self_quote": false,
+      "board_rank": 5,
+      "draft_en": "What if Back to the Future had been shot in 1973? This AI video imagines exactly that 🥼",
+      "draft_keywords": [
+        "AI video"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.071,
+        "word_overlap": 0.333,
+        "max_copied_run": 4
+      },
+      "top10_rank": 5,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "note": "",
+        "topic": null
+      }
+    },
+    {
+      "id": "2123992310362894691",
+      "name": "Higgsfield AI 🧩",
+      "display_name": "Higgsfield AI 🧩",
+      "handle": "@higgsfield_ai",
+      "views": 22574,
+      "views_label": "22,574",
+      "url": "https://x.com/higgsfield_ai/status/2123992310362894691",
+      "created_at": "2026-11-21T04:10:03.000Z",
+      "posted_at": "2026-11-21T04:10:03.000Z",
+      "text": "We asked Claude to create as many humans in Blender as possible.\n\nIt had x12 RTX PRO 6000 GPUs for rendering\n\n150,172 objects in this crowd, filling a street up to the rooftops.\n\nIt all ran on Higgsfield GPU Harness, cloud GPUs your AI agent can rent. https://t.co/cAsMSJeMTi https://t.co/paz86z6K5M",
+      "original_en": "We asked Claude to create as many humans in Blender as possible.\n\nIt had x12 RTX PRO 6000 GPUs for rendering\n\n150,172 objects in this crowd, filling a street up to the rooftops.\n\nIt all ran on Higgsfield GPU Harness, cloud GPUs your AI agent can rent. https://t.co/cAsMSJeMTi https://t.co/paz86z6K5M",
+      "lang": "en",
+      "hook": "Higgsfield 'as many humans in Blender as possible': 150,172 objects, a crowd filling a street to the rooftops - 22.6K views, 66 bookmarks.",
+      "video_tip": "Scale reveal: start on one Guardsman's face, pull back to an endless regiment. Let the number of bodies be the joke or the awe.",
+      "media": "video",
+      "followers_count": 257829,
+      "likes": 181,
+      "reposts": 30,
+      "bookmarks": 66,
+      "replies": 26,
+      "quotes": 4,
+      "self_quote": false,
+      "board_rank": 6,
+      "draft_en": "Ask Claude to fill a Blender scene with people and keep going - you get a street packed to the rooftops with 150,172 objects.\n\nThe render leaned on x12 RTX Pro 6000 GPUs rented through Higgsfield GPU Harness, the cloud setup an AI agent can book on its own.",
+      "draft_keywords": [
+        "Claude",
+        "Blender",
+        "RTX",
+        "Pro 6000",
+        "GPUs",
+        "Higgsfield GPU Harness",
+        "AI agent"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.043,
+        "word_overlap": 0.63,
+        "max_copied_run": 5
+      },
+      "top10_rank": 6,
+      "why_hit": {
+        "trend_match": 35,
+        "verdict": "visual",
+        "matched_keywords": [
+          "Claude"
+        ],
+        "media": "video",
+        "note": "",
+        "topic": "Number-first agent builds"
+      }
+    },
+    {
+      "id": "2123991686099734816",
+      "name": "Higgsfield AI 🧩",
+      "display_name": "Higgsfield AI 🧩",
+      "handle": "@higgsfield_ai",
+      "views": 12966,
+      "views_label": "12,966",
+      "url": "https://x.com/higgsfield_ai/status/2123991686099734816",
+      "created_at": "2026-11-21T04:07:34.000Z",
+      "posted_at": "2026-11-21T04:07:34.000Z",
+      "text": "Fable 5.2 built a 20-second Blender film with detailed geometry and realistic materials.\n\nWe ran the project on 5 RTX PRO 6000 GPUs through Higgsfield GPU Harness.\n\nYour AI agent can rent cloud GPUs directly from Claude or ChatGPT. https://t.co/j9y5F7PtPB https://t.co/paz86z7hVk",
+      "original_en": "Fable 5.2 built a 20-second Blender film with detailed geometry and realistic materials.\n\nWe ran the project on 5 RTX PRO 6000 GPUs through Higgsfield GPU Harness.\n\nYour AI agent can rent cloud GPUs directly from Claude or ChatGPT. https://t.co/j9y5F7PtPB https://t.co/paz86z7hVk",
+      "lang": "en",
+      "hook": "Higgsfield 'Fable 5.2 built a 20-second Blender film' on 5 RTX PRO 6000 GPUs - 13.0K views, 30 bookmarks; part of the same GPU Harness push.",
+      "video_tip": "Not worth copying directly; the takeaway is 'show the finished 20s piece first, specs second'.",
+      "media": "video",
+      "followers_count": 257829,
+      "likes": 117,
+      "reposts": 14,
+      "bookmarks": 30,
+      "replies": 13,
+      "quotes": 0,
+      "self_quote": false,
+      "board_rank": 7,
+      "draft_en": "Fable 5.2 made a short Blender clip, 20 seconds long, with realistic materials and finely detailed geometry.\n\nRender time came from 5 RTX Pro 6000 GPUs via Higgsfield GPU Harness.\n\nThe twist: an AI agent books that cloud power itself, straight from ChatGPT or Claude.",
+      "draft_keywords": [
+        "Blender",
+        "RTX",
+        "Pro 6000",
+        "GPUs",
+        "Higgsfield GPU Harness",
+        "AI agent",
+        "ChatGPT",
+        "Claude"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.048,
+        "word_overlap": 0.621,
+        "max_copied_run": 5
+      },
+      "top10_rank": 7,
+      "why_hit": {
+        "trend_match": 49,
+        "verdict": "visual",
+        "matched_keywords": [
+          "Claude",
+          "ChatGPT"
+        ],
+        "media": "video",
+        "note": "",
+        "topic": "Number-first agent builds"
+      }
+    },
+    {
+      "id": "2123875791566168423",
+      "name": "Runway",
+      "display_name": "Runway",
+      "handle": "@runwayml",
+      "views": 10713,
+      "views_label": "10,713",
+      "url": "https://x.com/runwayml/status/2123875791566168423",
+      "created_at": "2026-11-20T20:27:03.000Z",
+      "posted_at": "2026-11-20T20:27:03.000Z",
+      "text": "Since the start of October, agents have written nearly every pull request we’ve merged into Runway App Studio.\n\nOur latest engineering post explains how we built a system that reviews those changes, tests them in a browser and brings in an engineer for high-risk decisions.\nhttps://t.co/BZ1xyoagKc",
+      "original_en": "Since the start of October, agents have written nearly every pull request we’ve merged into Runway App Studio.\n\nOur latest engineering post explains how we built a system that reviews those changes, tests them in a browser and brings in an engineer for high-risk decisions.\nhttps://t.co/BZ1xyoagKc",
+      "lang": "en",
+      "hook": "Runway engineering note: agents wrote nearly every merged PR in Runway App Studio since October - 10.7K views but only 54 likes on a text post (0.5% like rate, promoted-looking).",
+      "video_tip": "Off-niche for you; ignore for content.",
+      "media": "text",
+      "followers_count": 297796,
+      "likes": 54,
+      "reposts": 8,
+      "bookmarks": 13,
+      "replies": 28,
+      "quotes": 7,
+      "self_quote": false,
+      "board_rank": 8,
+      "draft_en": "Almost every merged pull request in Runway App Studio since early October came from an AI agent.\n\nTheir new engineering write-up covers the review setup behind it: changes get checked, tested in a browser, and an engineer only steps in when the decision is high-risk.",
+      "draft_keywords": [
+        "AI agent"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.024,
+        "word_overlap": 0.5,
+        "max_copied_run": 4
+      },
+      "top10_rank": 8,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "author/audience",
+        "matched_keywords": [],
+        "media": "text",
+        "note": "",
+        "topic": null
+      }
+    },
+    {
+      "id": "2123838678271172693",
+      "name": "Pika",
+      "display_name": "Pika",
+      "handle": "@pika_labs",
+      "views": 6436,
+      "views_label": "6,436",
+      "url": "https://x.com/pika_labs/status/2123838678271172693",
+      "created_at": "2026-11-20T17:59:34.000Z",
+      "posted_at": "2026-11-20T17:59:34.000Z",
+      "text": "Seedance 2.5 Flash is now on Pika.\nBuilt for the work where you need a lot of takes: ad creative, testing an idea ten different ways, batch runs.\n\n- Up to 30 seconds per video, in 480p or 720p.\n- Up to 10 images, 5 videos, and 5 audio clips as references. https://t.co/g0Ly8oxLHT",
+      "original_en": "Seedance 2.5 Flash is now on Pika.\nBuilt for the work where you need a lot of takes: ad creative, testing an idea ten different ways, batch runs.\n\n- Up to 30 seconds per video, in 480p or 720p.\n- Up to 10 images, 5 videos, and 5 audio clips as references. https://t.co/g0Ly8oxLHT",
+      "lang": "en",
+      "hook": "Pika adds Seedance 2.5 Flash: up to 30s per video, 480p/720p, up to 10 image / 5 video / 5 audio references, built for many takes - 6.4K views.",
+      "video_tip": "Your tool is in the news: a 'same prompt, 10 takes' Seedance reel of one Chaos Marine shot, labelled take 1-10, is native content for this.",
+      "media": "video",
+      "followers_count": 152666,
+      "likes": 94,
+      "reposts": 2,
+      "bookmarks": 16,
+      "replies": 40,
+      "quotes": 6,
+      "self_quote": false,
+      "board_rank": 9,
+      "draft_en": "Pika just added Seedance 2.5 Flash, and it is clearly tuned for volume: batch runs, ad work, or pushing one idea ten ways.\n\nClips go as long as 30 seconds (480p or 720p). For references you can feed it 10 images, plus 5 videos and 5 audio tracks.",
+      "draft_keywords": [
+        "Seedance 2.5 Flash",
+        "video"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.044,
+        "word_overlap": 0.667,
+        "max_copied_run": 5
+      },
+      "top10_rank": 9,
+      "why_hit": {
+        "trend_match": 35,
+        "verdict": "visual",
+        "matched_keywords": [
+          "video"
+        ],
+        "media": "video",
+        "note": "",
+        "topic": "Cliffhanger / exclusive-content teasers"
+      }
+    },
+    {
+      "id": "2123852779366298045",
+      "name": "Luma",
+      "display_name": "Luma",
+      "handle": "@LumaLabsAI",
+      "views": 5569,
+      "views_label": "5,569",
+      "url": "https://x.com/LumaLabsAI/status/2123852779366298045",
+      "created_at": "2026-11-20T18:55:36.000Z",
+      "posted_at": "2026-11-20T18:55:36.000Z",
+      "text": "\"One Last Change.\" A short film by Ian Lihui Wang featuring increasingly unhinged requests for a water bottle commercial.\n\nMade with Luma MCP.\nNow live in ChatGPT and Claude. https://t.co/KMPNFPDBdN",
+      "original_en": "\"One Last Change.\" A short film by Ian Lihui Wang featuring increasingly unhinged requests for a water bottle commercial.\n\nMade with Luma MCP.\nNow live in ChatGPT and Claude. https://t.co/KMPNFPDBdN",
+      "lang": "en",
+      "hook": "Luma 'One Last Change' short by Ian Lihui Wang - increasingly unhinged client revisions on a water-bottle ad, made with Luma MCP - 5.6K views.",
+      "video_tip": "Client-from-hell is a proven skit shape: 'the Inquisition requests one last change to the propaganda poster' - each revision more absurd.",
+      "media": "video",
+      "followers_count": 196239,
+      "likes": 37,
+      "reposts": 5,
+      "bookmarks": 7,
+      "replies": 21,
+      "quotes": 1,
+      "self_quote": false,
+      "board_rank": 10,
+      "draft_en": "A client who wants a water bottle ad, and every revision request gets more unhinged.\n\nIan Lihui Wang turned that into the short \"One Last Change\", built with Luma MCP - now usable inside ChatGPT and Claude.",
+      "draft_keywords": [
+        "MCP",
+        "ChatGPT",
+        "Claude"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.03,
+        "word_overlap": 0.571,
+        "max_copied_run": 4
+      },
+      "top10_rank": 10,
+      "why_hit": {
+        "trend_match": 67,
+        "verdict": "trend",
+        "matched_keywords": [
+          "Claude",
+          "MCP",
+          "ChatGPT"
+        ],
+        "media": "video",
+        "note": "",
+        "topic": "Number-first agent builds"
+      }
+    },
+    {
+      "id": "2124100944518357056",
+      "name": "mjs",
+      "display_name": "mjs",
+      "handle": "@manasjsaloi",
+      "views": 5529,
+      "views_label": "5,529",
+      "url": "https://x.com/manasjsaloi/status/2124100944518357056",
+      "created_at": "2026-11-21T11:21:43.000Z",
+      "posted_at": "2026-11-21T11:21:43.000Z",
+      "text": "The top models on Higgsfield are all Chinese video models. China has won AI video. \nThe US built better text models. China built the video models people actually use to make money. Why couldn't the US compete with China on video? https://t.co/UDrfhhtTSr",
+      "original_en": "The top models on Higgsfield are all Chinese video models. China has won AI video. \nThe US built better text models. China built the video models people actually use to make money. Why couldn't the US compete with China on video? https://t.co/UDrfhhtTSr",
+      "lang": "en",
+      "hook": "manasjsaloi: 'The top models on Higgsfield are all Chinese video models. China has won AI video.' - 5.5K views, 67 bookmarks; a hot take that pulls replies.",
+      "video_tip": "An opinion post with your own proof: 'Every shot in my last 40K short came from Seedance' plus the clip - take a side, show the work.",
+      "media": "text",
+      "followers_count": 38575,
+      "likes": 70,
+      "reposts": 2,
+      "bookmarks": 67,
+      "replies": 10,
+      "quotes": 3,
+      "self_quote": false,
+      "board_rank": 11,
+      "why_hit": {
+        "trend_match": 35,
+        "verdict": "coincidence/other",
+        "matched_keywords": [
+          "video"
+        ],
+        "media": "text",
+        "note": "",
+        "topic": "Cliffhanger / exclusive-content teasers"
+      }
+    },
+    {
+      "id": "2123974692440523068",
+      "name": "Kling AI",
+      "display_name": "Kling AI",
+      "handle": "@Kling_ai",
+      "views": 4598,
+      "views_label": "4,598",
+      "url": "https://x.com/Kling_ai/status/2123974692440523068",
+      "created_at": "2026-11-21T03:00:02.000Z",
+      "posted_at": "2026-11-21T03:00:02.000Z",
+      "text": "From November 10 to 12, Kling AI joined Adobe MAX 2026 in Miami, Florida, connecting with global brands, agencies, and creators to explore the role of AI video in professional creative workflows.\n\nUnder the theme \"Bringing AI Video into Professional Creative Workflow\", Kling 4.0 showcased a range of creative applications, highlighting new possibilities for ideation and content production. As model capabilities continue to advance, creative teams can explore more directions and bring more ideas to life.\n\nKling AI will continue working with industry partners around the world to integrate its models more naturally into professional content production and help turn more creative ideas into reality.",
+      "original_en": "From November 10 to 12, Kling AI joined Adobe MAX 2026 in Miami, Florida, connecting with global brands, agencies, and creators to explore the role of AI video in professional creative workflows.\n\nUnder the theme \"Bringing AI Video into Professional Creative Workflow\", Kling 4.0 showcased a range of creative applications, highlighting new possibilities for ideation and content production. As model capabilities continue to advance, creative teams can explore more directions and bring more ideas to life.\n\nKling AI will continue working with industry partners around the world to integrate its models more naturally into professional content production and help turn more creative ideas into reality.",
+      "lang": "en",
+      "hook": "Kling at Adobe MAX 2026 recap (Kling 4.0, 'AI video in professional creative workflow') - 4.6K views, 41 likes, one bookmark; corporate recap, low pull.",
+      "video_tip": "Nothing to copy.",
+      "media": "4 photos",
+      "followers_count": 139620,
+      "likes": 41,
+      "reposts": 5,
+      "bookmarks": 1,
+      "replies": 9,
+      "quotes": 2,
+      "self_quote": false,
+      "board_rank": 12,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "image",
+        "note": "",
+        "topic": "Cliffhanger / exclusive-content teasers"
+      }
+    },
+    {
+      "id": "2123853885198536899",
+      "name": "Dreamina AI",
+      "display_name": "Dreamina AI",
+      "handle": "@dreamina_ai",
+      "views": 4473,
+      "views_label": "4,473",
+      "url": "https://x.com/dreamina_ai/status/2123853885198536899",
+      "created_at": "2026-11-20T19:00:00.000Z",
+      "posted_at": "2026-11-20T19:00:00.000Z",
+      "text": "Dreamina Seedream 5.5 - A New Level of Realism and Creative Precision!\n\nMore realistic portraits. More precise image editing. Significantly improved text accuracy. And transparent assets come out ready to use.\n\n#DreaminaAI #DreaminaSeedream5_5 https://t.co/4Ogvc3HoQK",
+      "original_en": "Dreamina Seedream 5.5 - A New Level of Realism and Creative Precision!\n\nMore realistic portraits. More precise image editing. Significantly improved text accuracy. And transparent assets come out ready to use.\n\n#DreaminaAI #DreaminaSeedream5_5 https://t.co/4Ogvc3HoQK",
+      "lang": "en",
+      "hook": "Dreamina Seedream 5.5 promo: more realistic portraits, more precise edits, better text, transparent assets - 4.5K views.",
+      "video_tip": "Seedream 5.5 already worked for you (3,080 on the Chaos Space Marines carousel); a Seedream 5.5 still to Seedance motion before/after is the natural follow-up.",
+      "media": "video",
+      "followers_count": 31646,
+      "likes": 121,
+      "reposts": 9,
+      "bookmarks": 17,
+      "replies": 17,
+      "quotes": 1,
+      "self_quote": false,
+      "board_rank": 13,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "note": "",
+        "topic": null
+      }
+    },
+    {
+      "id": "2124216273223528464",
+      "name": "Dreamina AI",
+      "display_name": "Dreamina AI",
+      "handle": "@dreamina_ai",
+      "views": 3775,
+      "views_label": "3,775",
+      "url": "https://x.com/dreamina_ai/status/2124216273223528464",
+      "created_at": "2026-11-21T19:00:00.000Z",
+      "posted_at": "2026-11-21T19:00:00.000Z",
+      "text": "Dreamina Launches 30+ AI Tools — Your All-in-One Creative &amp; Marketing Toolkit! 🚀\n\nSmarter, More Efficient Marketing. More Creative Image Editing. Easier Video Creation. Everything you need to create, all in one place.\n\n#DreaminaAI #DreaminaAITools #DreaminaSeedance2_5 https://t.co/qtiTfgvGP7",
+      "original_en": "Dreamina Launches 30+ AI Tools — Your All-in-One Creative &amp; Marketing Toolkit! 🚀\n\nSmarter, More Efficient Marketing. More Creative Image Editing. Easier Video Creation. Everything you need to create, all in one place.\n\n#DreaminaAI #DreaminaAITools #DreaminaSeedance2_5 https://t.co/qtiTfgvGP7",
+      "lang": "en",
+      "hook": "Dreamina launches 30+ AI tools 'all-in-one creative and marketing toolkit' (Seedance 2.5 tag) - 3.8K views.",
+      "video_tip": "Brand announcement; skip.",
+      "media": "video",
+      "followers_count": 31646,
+      "likes": 100,
+      "reposts": 14,
+      "bookmarks": 22,
+      "replies": 13,
+      "quotes": 1,
+      "self_quote": false,
+      "board_rank": 14,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "note": "",
+        "topic": "Cliffhanger / exclusive-content teasers"
+      }
+    },
+    {
+      "id": "2124381685835813268",
+      "name": "Kling AI",
+      "display_name": "Kling AI",
+      "handle": "@Kling_ai",
+      "views": 3711,
+      "views_label": "3,711",
+      "url": "https://x.com/Kling_ai/status/2124381685835813268",
+      "created_at": "2026-11-22T05:57:17.000Z",
+      "posted_at": "2026-11-22T05:57:17.000Z",
+      "text": "A fantastical journey through Eight Nights. ✨\n\nMade with #Kling4 in 4K 10-bit HDR. #KlingAI https://t.co/hTFw9I4aVO",
+      "original_en": "A fantastical journey through Eight Nights. ✨\n\nMade with #Kling4 in 4K 10-bit HDR. #KlingAI https://t.co/hTFw9I4aVO",
+      "lang": "en",
+      "hook": "Kling 'A fantastical journey through Eight Nights', Kling 4 in 4K 10-bit HDR - 3.7K views; Kling's weekend push of 4K HDR showcase clips.",
+      "video_tip": "If you test 4K HDR, show a dark Grimdark interior with candle and plasma light - the format that sells HDR.",
+      "media": "text",
+      "followers_count": 139620,
+      "likes": 40,
+      "reposts": 2,
+      "bookmarks": 6,
+      "replies": 12,
+      "quotes": 1,
+      "self_quote": false,
+      "board_rank": 15,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "author/audience",
+        "matched_keywords": [],
+        "media": "text",
+        "note": "",
+        "topic": null
+      }
+    },
+    {
+      "id": "2123864935683985657",
+      "name": "🎮🍿Pturtle 🐢🍿🎮",
+      "display_name": "🎮🍿Pturtle 🐢🍿🎮",
+      "handle": "@PturtIe",
+      "views": 3648,
+      "views_label": "3,648",
+      "url": "https://x.com/PturtIe/status/2123864935683985657",
+      "created_at": "2026-11-20T19:43:54.000Z",
+      "posted_at": "2026-11-20T19:43:54.000Z",
+      "text": "This is why David Fincher is the best director working today. He doesn’t care about hipster film snobs and their performative outrage over generative AI.\n\n#THEFURTHERMISADVENTURESOFCLIFFBOOTH is the best movie of the year. Go see it. \n\n#Netflix https://t.co/cIL0QaFjdr",
+      "original_en": "This is why David Fincher is the best director working today. He doesn’t care about hipster film snobs and their performative outrage over generative AI.\n\n#THEFURTHERMISADVENTURESOFCLIFFBOOTH is the best movie of the year. Go see it. \n\n#Netflix https://t.co/cIL0QaFjdr",
+      "lang": "en",
+      "hook": "PturtIe defends David Fincher using generative AI in 'The Further Misadventures of Cliff Booth' - 3.6K views from a 252-follower account (debate reach).",
+      "video_tip": "The Fincher debate is the weekend's film-Twitter topic; one calm, specific take with your own clip can ride it.",
+      "media": "text",
+      "followers_count": 252,
+      "likes": 81,
+      "reposts": 16,
+      "bookmarks": 11,
+      "replies": 9,
+      "quotes": 7,
+      "self_quote": false,
+      "board_rank": 16,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "coincidence/other",
+        "matched_keywords": [],
+        "media": "text",
+        "note": "",
+        "topic": "Generative AI in Hollywood"
+      }
+    },
+    {
+      "id": "2123957610567155798",
+      "name": "This Week in Startups",
+      "display_name": "This Week in Startups",
+      "handle": "@twistartups",
+      "views": 2430,
+      "views_label": "2,430",
+      "url": "https://x.com/twistartups/status/2123957610567155798",
+      "created_at": "2026-11-21T01:52:10.000Z",
+      "posted_at": "2026-11-21T01:52:10.000Z",
+      "text": "Did David Fincher’s new “Cliff Booth” sequel for Netflix use AI for a few sequences?\n\nFilm critics are up in arms, but Jason argues that, if the movie is good, no one will ultimately care how it was made. Did audiences complain when Forrest Gump met JFK? No, they just enjoyed the https://t.co/uuNMn4x4um",
+      "original_en": "Did David Fincher’s new “Cliff Booth” sequel for Netflix use AI for a few sequences?\n\nFilm critics are up in arms, but Jason argues that, if the movie is good, no one will ultimately care how it was made. Did audiences complain when Forrest Gump met JFK? No, they just enjoyed the https://t.co/uuNMn4x4um",
+      "lang": "en",
+      "hook": "This Week in Startups: did Fincher's Cliff Booth sequel use AI for some sequences? 'If the movie is good, no one will care how it was made' - 2.4K views.",
+      "video_tip": "Same debate; a 'would you notice?' A/B clip from your own work is the visual version.",
+      "media": "video",
+      "followers_count": 108842,
+      "likes": 10,
+      "reposts": 0,
+      "bookmarks": 1,
+      "replies": 1,
+      "quotes": 0,
+      "self_quote": false,
+      "board_rank": 17,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "note": "",
+        "topic": null
+      }
+    },
+    {
+      "id": "2124057091052892469",
+      "name": "Astro Polo",
+      "display_name": "Astro Polo",
+      "handle": "@astropol0",
+      "views": 2035,
+      "views_label": "2,035",
+      "url": "https://x.com/astropol0/status/2124057091052892469",
+      "created_at": "2026-11-21T08:27:28.000Z",
+      "posted_at": "2026-11-21T08:27:28.000Z",
+      "text": "Nano Banana 2 Pro might drop sooner than expected\n\nhere’s everything circulating….\n\n- codename “Paper Volcano” has appeared in Google Flow and Google Cloud\n- multiple people spotted it in production code and quotas\n- expected to focus on better editing, consistency and overall image quality\n-  arly tester claimed the current checkpoint didn’t look that strong.. still unverified tho\n- naming is still unclear some are calling it Nano Banana 2 Pro others Nano Banana Pro 2.. might be different \n\nGoogle usually doesn’t leave these things visible for long before shipping so its closer",
+      "original_en": "Nano Banana 2 Pro might drop sooner than expected\n\nhere’s everything circulating….\n\n- codename “Paper Volcano” has appeared in Google Flow and Google Cloud\n- multiple people spotted it in production code and quotas\n- expected to focus on better editing, consistency and overall image quality\n-  arly tester claimed the current checkpoint didn’t look that strong.. still unverified tho\n- naming is still unclear some are calling it Nano Banana 2 Pro others Nano Banana Pro 2.. might be different \n\nGoogle usually doesn’t leave these things visible for long before shipping so its closer",
+      "lang": "en",
+      "hook": "Nano Banana 2 Pro rumour roundup (codename 'Paper Volcano' in Google Flow/Cloud) - 2.0K views.",
+      "video_tip": "Rumour posts are cheap; only worth it if you have a test to show.",
+      "media": "2 photos",
+      "followers_count": 3649,
+      "likes": 54,
+      "reposts": 4,
+      "bookmarks": 5,
+      "replies": 1,
+      "quotes": 0,
+      "self_quote": false,
+      "board_rank": 18,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "image",
+        "note": "",
+        "topic": null
+      }
+    },
+    {
+      "id": "2124482990067548369",
+      "name": "Riccardo Wolf",
+      "display_name": "Riccardo Wolf",
+      "handle": "@WolfRiccardo",
+      "views": 1668,
+      "views_label": "1,668",
+      "url": "https://x.com/WolfRiccardo/status/2124482990067548369",
+      "created_at": "2026-11-22T12:39:50.000Z",
+      "posted_at": "2026-11-22T12:39:50.000Z",
+      "text": "A lot of people are saying that mellow-manta, the image model currently being tested on Arena (@arena), is the new Nano Banana Pro. However, I strongly disagree. I've run several tests, and you can take a look at the results yourself.\n\nIf this actually turns out to be the new Nano Banana Pro, it would be a complete disaster. But I honestly don't believe that's the case.\n\nTo me, mellow-manta looks very similar to MAI Image outputs, especially when it comes to skin textures, the plastic-like appearance, and the tendency to exaggerate skin imperfections.\n\nI've tested mellow-manta extensively, and I want to make one thing clear: it's not a bad model at all.\n\nMy point is that we've been waiting a long time for the new Nano Banana Pro, and many people are already sharing mellow-manta as if it's the next version.\n\nIf it really turns out to be Nano Banana Pro, I think a lot of people are going to be extremely disappointed.",
+      "original_en": "A lot of people are saying that mellow-manta, the image model currently being tested on Arena (@arena), is the new Nano Banana Pro. However, I strongly disagree. I've run several tests, and you can take a look at the results yourself.\n\nIf this actually turns out to be the new Nano Banana Pro, it would be a complete disaster. But I honestly don't believe that's the case.\n\nTo me, mellow-manta looks very similar to MAI Image outputs, especially when it comes to skin textures, the plastic-like appearance, and the tendency to exaggerate skin imperfections.\n\nI've tested mellow-manta extensively, and I want to make one thing clear: it's not a bad model at all.\n\nMy point is that we've been waiting a long time for the new Nano Banana Pro, and many people are already sharing mellow-manta as if it's the next version.\n\nIf it really turns out to be Nano Banana Pro, I think a lot of people are going to be extremely disappointed.",
+      "lang": "en",
+      "hook": "WolfRiccardo tests 'mellow-manta' on Arena and argues it is not the new Nano Banana Pro (plastic skin textures) - 1.7K views, 5-image comparison.",
+      "video_tip": "Comparison carousels keep working for you; a Seedream vs Nano Banana 40K face test fits.",
+      "media": "5 photos",
+      "followers_count": 2054,
+      "likes": 27,
+      "reposts": 1,
+      "bookmarks": 9,
+      "replies": 10,
+      "quotes": 0,
+      "self_quote": false,
+      "board_rank": 19,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "image",
+        "note": "",
+        "topic": null
+      }
+    },
+    {
+      "id": "2124436504386875489",
+      "name": "OscarAI",
+      "display_name": "OscarAI",
+      "handle": "@Artedeingenio",
+      "views": 1521,
+      "views_label": "1,521",
+      "url": "https://x.com/Artedeingenio/status/2124436504386875489",
+      "created_at": "2026-11-22T09:35:07.000Z",
+      "posted_at": "2026-11-22T09:35:07.000Z",
+      "text": "The Runaway Shadow\n\nA Whimsical Surreal Animated Short Film\n\nCreated using one of my Midjourney styles and @dreamina_ai https://t.co/TIG0iz2EMF",
+      "original_en": "The Runaway Shadow\n\nA Whimsical Surreal Animated Short Film\n\nCreated using one of my Midjourney styles and @dreamina_ai https://t.co/TIG0iz2EMF",
+      "lang": "en",
+      "hook": "Artedeingenio 'The Runaway Shadow', a whimsical surreal animated short from a Midjourney style + Dreamina - 1.5K views in ~6h.",
+      "video_tip": "Titled mini-short with a one-line logline under the title - copy the packaging for your next skit.",
+      "media": "video",
+      "followers_count": 66407,
+      "likes": 36,
+      "reposts": 6,
+      "bookmarks": 10,
+      "replies": 8,
+      "quotes": 0,
+      "self_quote": false,
+      "board_rank": 20,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "note": "",
+        "topic": "Cliffhanger / exclusive-content teasers"
+      }
+    },
+    {
+      "id": "2124476335338799186",
+      "name": "OscarAI",
+      "display_name": "OscarAI",
+      "handle": "@Artedeingenio",
+      "views": 1039,
+      "views_label": "1,039",
+      "url": "https://x.com/Artedeingenio/status/2124476335338799186",
+      "created_at": "2026-11-22T12:13:23.000Z",
+      "posted_at": "2026-11-22T12:13:23.000Z",
+      "text": "The Last Little Song\n\nA Tiny Robot's Big Dream\n\nI absolutely love animated shorts with a unique visual style and emotional storytelling.\n\nI share all the prompts behind these creations with my subscribers. https://t.co/oEPCAqJHjt",
+      "original_en": "The Last Little Song\n\nA Tiny Robot's Big Dream\n\nI absolutely love animated shorts with a unique visual style and emotional storytelling.\n\nI share all the prompts behind these creations with my subscribers. https://t.co/oEPCAqJHjt",
+      "lang": "en",
+      "hook": "Artedeingenio 'The Last Little Song - A Tiny Robot's Big Dream', emotional animated short, prompts behind a subscriber wall - 1.0K views.",
+      "video_tip": "Small emotional robot story = servo-skull short; title + subtitle + one sentence of why you made it.",
+      "media": "video",
+      "followers_count": 66407,
+      "likes": 17,
+      "reposts": 0,
+      "bookmarks": 4,
+      "replies": 3,
+      "quotes": 0,
+      "self_quote": false,
+      "board_rank": 21,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "note": "",
+        "topic": null
+      }
+    }
+  ],
+  "virals_target": 20,
+  "virals_window": "last ~48h",
+  "virals_narrative": "Outsider lane on 20.11 led by @higgsfield_ai at 182,917 views (Higgsfield GPU Harness launch, promoted-looking). Also clearing: @higgsfield_ai 157,163, @vashikoo 55,694, @techhalla 28,387, @higgsfield_ai 22,574",
+  "patterns": [
+    "Watchlist on 21.11: 1 hit, 1 star - andresvandal's 30s Spanish dark-fantasy teaser for exclusive content on @WhatsTokenAI at 33,645 views and 853 bookmarks (his best original since 17.11)",
+    "The hit is a cliffhanger/paywall tease: video gives half the story, caption promises the rest elsewhere - bookmarks (853) far above replies (11), people save it to come back",
+    "Near misses: LudovicCreator 'Sacred Geometry Mandala' prompt share 2,545 and 'QT Your Viking' 2,424 (prompt-share and QT-call formats); pixelbouncer 'GN Bonus' fractal QT call 468; ChrisGwinnLA quote-post only 340",
+    "Gossip_Goblin and billywoodward posted nothing on 21.11; Gossip_Goblin's six-day streak above threshold ended",
+    "Bogdan's best was 'Awakening the old machines' (4-image sci-fi set) at 333, rank 5 of 7; the Storaro-inspired light-and-colour stills series (5 originals) stayed under 350",
+    "Outsider lane: Higgsfield GPU Harness launch 182.9K (promoted-looking) and number-first Blender demos (Miami town 157.2K, 1,121 bookmarks); vashikoo 'Hollywood has been using AI for years' 55.7K (low like rate); organic: TechHalla 'Back to the Future but it's 1973' 28.4K; Seedance 2.5 Flash on Pika; Fincher generative-AI debate continues"
+  ],
+  "no_hits": [
+    {
+      "handle": "@Gossip_Goblin",
+      "reason": "0 posts on 2026-11-21 (no originals, replies or reposts in the timeline).",
+      "max_views": 0
+    },
+    {
+      "handle": "@pixelbouncer",
+      "reason": "11 original posts on 2026-11-21; none reached 5,000 views (best 468).",
+      "max_views": 468
+    },
+    {
+      "handle": "@LudovicCreator",
+      "reason": "5 original posts on 2026-11-21; none reached 5,000 views (best 2,545).",
+      "max_views": 2545
+    },
+    {
+      "handle": "@ChrisGwinnLA",
+      "reason": "1 original posts on 2026-11-21; none reached 5,000 views (best 340).",
+      "max_views": 340
+    },
+    {
+      "handle": "@billywoodward",
+      "reason": "0 posts on 2026-11-21 (no originals, replies or reposts in the timeline).",
+      "max_views": 0
+    }
+  ],
+  "day_roster": [
+    {
+      "handle": "@andresvandal",
+      "name": "Andres Vandal",
+      "views": 33645,
+      "total_views": 33645,
+      "hit": true,
+      "posts": 1,
+      "best_url": "https://x.com/andresvandal/status/2124333545921691925"
+    },
+    {
+      "handle": "@LudovicCreator",
+      "name": "LudovicCreator",
+      "views": 2545,
+      "total_views": 8883,
+      "hit": false,
+      "posts": 5,
+      "best_url": "https://x.com/LudovicCreator/status/2124072842614485265"
+    },
+    {
+      "handle": "@pixelbouncer",
+      "name": "Ƥ!ЖΣLƁΘUNCΣR",
+      "views": 468,
+      "total_views": 2666,
+      "hit": false,
+      "posts": 11,
+      "best_url": "https://x.com/pixelbouncer/status/2124249379917733977"
+    },
+    {
+      "handle": "@ChrisGwinnLA",
+      "name": "Christopher Gwinn | Grindhouse Glitch",
+      "views": 340,
+      "total_views": 340,
+      "hit": false,
+      "posts": 1,
+      "best_url": "https://x.com/ChrisGwinnLA/status/2124296533671911560"
+    },
+    {
+      "handle": "@Gossip_Goblin",
+      "name": "Gossip Goblin",
+      "views": 0,
+      "total_views": 0,
+      "hit": false,
+      "posts": 0,
+      "best_url": null
+    },
+    {
+      "handle": "@billywoodward",
+      "name": "Billy Woodward",
+      "views": 0,
+      "total_views": 0,
+      "hit": false,
+      "posts": 0,
+      "best_url": null
+    }
+  ],
+  "you_rank": {
+    "best_views": 333,
+    "total_views": 903,
+    "best_url": "https://x.com/SMKP_Films/status/2124209293117563324",
+    "posts": 5,
+    "vs_5k": "pending",
+    "vs_10k": "pending",
+    "rank_among_watchlist": 5,
+    "total_accounts": 7
+  },
+  "narrative_synthesis": "A quiet Saturday. The outsider lane over the last 48h was dominated by brand pushes: Higgsfield's GPU Harness campaign (rent cloud GPUs inside Claude, Black Friday up to 63% off) put the launch at 182.9K views with only 715 likes, which looks promoted, while the number-first build demos did the real engagement (\"Claude built a Miami-style town in Blender with 2,538 assets\", still climbing at 157.2K and 1,121 bookmarks; a 150,172-object crowd at 22.6K). The organic conversation was the David Fincher / Cliff Booth generative-AI debate, now reframed by vashikoo's \"Hollywood has been using AI for years. You just didn't notice.\" (55.7K, but a low like rate) plus smaller takes from PturtIe and This Week in Startups. The cleanest creator signal was TechHalla again: \"Back to the Future but it's 1973\" hit 28.4K in about five hours on a seven-word caption, the same era-swap format that worked with Matrix last weekend. Tool news was all ByteDance-adjacent: Seedance 2.5 Flash landed on Pika (30s clips, multi-reference), Dreamina pushed Seedream 5.5 and a 30-tool bundle, and manasjsaloi's \"China has won AI video\" take drew bookmarks. Kling ran 4K HDR showcase clips at low reach. On the watchlist, andresvandal carried the day alone with a 30-second Spanish-language promo for exclusive content on @WhatsTokenAI (33.6K views, 853 bookmarks); Gossip_Goblin and billywoodward posted nothing.",
+  "trend_input_only": [],
+  "trend_input_only_posts": [],
+  "leaderboards": {
+    "as_of": "2026-11-21",
+    "tracking_start": "2026-11-04",
+    "days_included": [
+      "2026-11-15",
+      "2026-11-16",
+      "2026-11-17",
+      "2026-11-18",
+      "2026-11-19",
+      "2026-11-20",
+      "2026-11-21"
+    ],
+    "month_days_included": [
+      "2026-11-04",
+      "2026-11-05",
+      "2026-11-06",
+      "2026-11-07",
+      "2026-11-08",
+      "2026-11-09",
+      "2026-11-10",
+      "2026-11-11",
+      "2026-11-12",
+      "2026-11-13",
+      "2026-11-14",
+      "2026-11-15",
+      "2026-11-16",
+      "2026-11-17",
+      "2026-11-18",
+      "2026-11-19",
+      "2026-11-20",
+      "2026-11-21"
+    ],
+    "week": {
+      "label": "Rolling week · Nov 15–Nov 21",
+      "range": [
+        "2026-11-15",
+        "2026-11-21"
+      ],
+      "entries": [
+        {
+          "handle": "@Gossip_Goblin",
+          "name": "Gossip Goblin",
+          "hits": 8,
+          "days": 6,
+          "views": 550623,
+          "best": 174301,
+          "best_url": "https://x.com/Gossip_Goblin/status/2123815371606012104"
+        },
+        {
+          "handle": "@andresvandal",
+          "name": "Andres Vandal",
+          "hits": 1,
+          "days": 1,
+          "views": 33645,
+          "best": 33645,
+          "best_url": "https://x.com/andresvandal/status/2124333545921691925"
+        },
+        {
+          "handle": "@ChrisGwinnLA",
+          "name": "Christopher Gwinn | Grindhouse Glitch",
+          "hits": 1,
+          "days": 1,
+          "views": 23566,
+          "best": 23566,
+          "best_url": "https://x.com/ChrisGwinnLA/status/2121834058267156701"
+        }
+      ]
+    },
+    "month": {
+      "label": "November 2026 · from Nov 4",
+      "range": [
+        "2026-11-04",
+        "2026-11-21"
+      ],
+      "entries": [
+        {
+          "handle": "@Gossip_Goblin",
+          "name": "Gossip Goblin",
+          "hits": 21,
+          "days": 12,
+          "views": 1076021,
+          "best": 174301,
+          "best_url": "https://x.com/Gossip_Goblin/status/2123815371606012104"
+        },
+        {
+          "handle": "@LudovicCreator",
+          "name": "LudovicCreator",
+          "hits": 3,
+          "days": 3,
+          "views": 236446,
+          "best": 133926,
+          "best_url": "https://x.com/LudovicCreator/status/2120592485437350268"
+        },
+        {
+          "handle": "@ChrisGwinnLA",
+          "name": "Christopher Gwinn | Grindhouse Glitch",
+          "hits": 5,
+          "days": 5,
+          "views": 60919,
+          "best": 23566,
+          "best_url": "https://x.com/ChrisGwinnLA/status/2121834058267156701"
+        },
+        {
+          "handle": "@andresvandal",
+          "name": "Andres Vandal",
+          "hits": 3,
+          "days": 3,
+          "views": 54809,
+          "best": 33645,
+          "best_url": "https://x.com/andresvandal/status/2124333545921691925"
+        }
+      ]
+    }
+  },
+  "drafts_top10": [
+    {
+      "rank": 1,
+      "id": "2123831379825967126",
+      "handle": "@higgsfield_ai",
+      "views": 182917,
+      "lane": "outsider"
+    },
+    {
+      "rank": 2,
+      "id": "2123905539063336984",
+      "handle": "@higgsfield_ai",
+      "views": 157163,
+      "lane": "outsider"
+    },
+    {
+      "rank": 3,
+      "id": "2124193626527813683",
+      "handle": "@vashikoo",
+      "views": 55694,
+      "lane": "outsider"
+    },
+    {
+      "rank": 4,
+      "id": "2124333545921691925",
+      "handle": "@andresvandal",
+      "views": 33645,
+      "lane": "watchlist"
+    },
+    {
+      "rank": 5,
+      "id": "2124457346894016998",
+      "handle": "@techhalla",
+      "views": 28387,
+      "lane": "outsider"
+    },
+    {
+      "rank": 6,
+      "id": "2123992310362894691",
+      "handle": "@higgsfield_ai",
+      "views": 22574,
+      "lane": "outsider"
+    },
+    {
+      "rank": 7,
+      "id": "2123991686099734816",
+      "handle": "@higgsfield_ai",
+      "views": 12966,
+      "lane": "outsider"
+    },
+    {
+      "rank": 8,
+      "id": "2123875791566168423",
+      "handle": "@runwayml",
+      "views": 10713,
+      "lane": "outsider"
+    },
+    {
+      "rank": 9,
+      "id": "2123838678271172693",
+      "handle": "@pika_labs",
+      "views": 6436,
+      "lane": "outsider"
+    },
+    {
+      "rank": 10,
+      "id": "2123852779366298045",
+      "handle": "@LumaLabsAI",
+      "views": 5569,
+      "lane": "outsider"
+    }
+  ],
+  "trend_keywords": {
+    "date": "2026-11-21",
+    "window": "day D board posts + last-24h posts >= min_views + outsiders + trend-input accounts + pattern brief",
+    "method": "sum(log10 views) over distinct posts x author spread x phrase length x entity/brief bonus; >=2 authors",
+    "keywords": [
+      {
+        "keyword": "Higgsfield GPU Harness",
+        "rank": 1,
+        "score": 49.2,
+        "posts": 4,
+        "authors": 1
+      },
+      {
+        "keyword": "video",
+        "rank": 2,
+        "score": 39.4,
+        "posts": 4,
+        "authors": 4
+      },
+      {
+        "keyword": "Claude",
+        "rank": 3,
+        "score": 38.3,
+        "posts": 5,
+        "authors": 2
+      },
+      {
+        "keyword": "AI agent",
+        "rank": 4,
+        "score": 22.3,
+        "posts": 3,
+        "authors": 1
+      },
+      {
+        "keyword": "Blender",
+        "rank": 5,
+        "score": 22.2,
+        "posts": 3,
+        "authors": 1
+      },
+      {
+        "keyword": "Generative AI",
+        "rank": 6,
+        "score": 18.2,
+        "posts": 2,
+        "authors": 2
+      },
+      {
+        "keyword": "Nano Banana Pro",
+        "rank": 7,
+        "score": 17.6,
+        "posts": 2,
+        "authors": 2
+      },
+      {
+        "keyword": "GPUs",
+        "rank": 8,
+        "score": 17.2,
+        "posts": 3,
+        "authors": 1
+      },
+      {
+        "keyword": "AI video",
+        "rank": 9,
+        "score": 16.2,
+        "posts": 2,
+        "authors": 2
+      },
+      {
+        "keyword": "MCP",
+        "rank": 10,
+        "score": 15.2,
+        "posts": 2,
+        "authors": 2
+      },
+      {
+        "keyword": "Pro 6000",
+        "rank": 11,
+        "score": 13.8,
+        "posts": 2,
+        "authors": 1
+      },
+      {
+        "keyword": "ChatGPT",
+        "rank": 12,
+        "score": 13.3,
+        "posts": 2,
+        "authors": 2
+      },
+      {
+        "keyword": "Netflix",
+        "rank": 13,
+        "score": 11.7,
+        "posts": 2,
+        "authors": 2
+      },
+      {
+        "keyword": "RTX",
+        "rank": 14,
+        "score": 10.6,
+        "posts": 2,
+        "authors": 1
+      },
+      {
+        "keyword": "Seedance 2.5 Flash",
+        "rank": 15,
+        "score": 9.9,
+        "posts": 1,
+        "authors": 1
+      },
+      {
+        "keyword": "Cliff Booth",
+        "rank": 16,
+        "curated": true
+      }
+    ]
+  },
+  "trend_radar": {
+    "date": "2026-11-21",
+    "title": "Trends and post ideas",
+    "window": {
+      "end": "2026-11-22T10:38:26-05:00",
+      "label24": "21.11 10:38 - 22.11 10:38 UTC",
+      "label48": "20.11 10:38 - 22.11 10:38 UTC"
+    },
+    "corpus": {
+      "posts": 11,
+      "min_views": 5000,
+      "lanes": {
+        "watchlist": 1,
+        "outsider": 10,
+        "24h": 0,
+        "trend_input": 0
+      }
+    },
+    "summary": {
+      "top10_line": "TOP-10: 2/10 (20%) matched trends · visual 7, trend 2, author/audience 1",
+      "headline": "2 of 21 board hits (10%) matched 24-48 h trends. Median views: trend 94.2K vs non-trend 4.6K (mean 94.2K vs 19.1K). Watchlist: 0/1 on trend. 13 hits with video, median 6.4K vs 4.2K without.",
+      "takeaway": "andresvandal's 30s exclusive-content teaser (33.6K, 853 bookmarks) was the only watchlist hit; Gossip_Goblin and billywoodward were silent. Outsiders: Higgsfield's GPU Harness push (promoted-looking launch, number-first Blender demos), the Fincher generative AI debate, TechHalla's era-swap clip. Bogdan's best was 333 (rank 5 of 7).",
+      "stats": {
+        "all": {
+          "n": 21,
+          "trend_n": 2,
+          "trend_pct": 10,
+          "avg_trend": 94243,
+          "avg_other": 19053,
+          "median_trend": 94243,
+          "median_other": 4598,
+          "verdicts": {
+            "trend": 2,
+            "visual": 15,
+            "author/audience": 2,
+            "coincidence/other": 2
+          }
+        },
+        "watchlist": {
+          "n": 1,
+          "trend_n": 0,
+          "trend_pct": 0,
+          "avg_trend": null,
+          "avg_other": 33645,
+          "median_trend": null,
+          "median_other": 33645,
+          "verdicts": {
+            "trend": 0,
+            "visual": 1,
+            "author/audience": 0,
+            "coincidence/other": 0
+          }
+        },
+        "outsiders": {
+          "n": 20,
+          "trend_n": 2,
+          "trend_pct": 10,
+          "avg_trend": 94243,
+          "avg_other": 18242,
+          "median_trend": 94243,
+          "median_other": 4536,
+          "verdicts": {
+            "trend": 2,
+            "visual": 14,
+            "author/audience": 2,
+            "coincidence/other": 2
+          }
+        },
+        "top10": {
+          "n": 10,
+          "trend_n": 2,
+          "trend_pct": 20,
+          "avg_trend": 94243,
+          "avg_other": 40947,
+          "median_trend": 94243,
+          "median_other": 25480,
+          "verdicts": {
+            "trend": 2,
+            "visual": 7,
+            "author/audience": 1,
+            "coincidence/other": 0
+          }
+        },
+        "media": {
+          "video_n": 13,
+          "median_video": 6436,
+          "other_n": 8,
+          "median_other": 4154
+        }
+      }
+    },
+    "topics": [
+      {
+        "name": "Number-first agent builds",
+        "keywords": [
+          "Claude",
+          "Higgsfield GPU Harness",
+          "Blender"
+        ],
+        "posts_24h": 0,
+        "posts_48h": 5,
+        "views_24h": 0,
+        "views_prev24h": 381189,
+        "views_48h": 381189,
+        "momentum": "down · previous 24 h only",
+        "heat_raw": 11.34,
+        "evidence": [
+          {
+            "handle": "@higgsfield_ai",
+            "views": 182917,
+            "url": "https://x.com/higgsfield_ai/status/2123831379825967126",
+            "hook": "Higgsfield GPU Harness launch: rent cloud GPUs inside Claude via Higgsfield MCP, Black Friday up to 63% off - 182.9K views, 715 likes (0.39% like rate, promoted",
+            "lane": "outsider"
+          },
+          {
+            "handle": "@higgsfield_ai",
+            "views": 157163,
+            "url": "https://x.com/higgsfield_ai/status/2123905539063336984",
+            "hook": "Higgsfield 'Claude built a Miami-style town in Blender with 2,538 assets', rendered in 74 minutes - still climbing from 20.11, now 157.2K views and 1,121 bookma",
+            "lane": "outsider"
+          },
+          {
+            "handle": "@higgsfield_ai",
+            "views": 22574,
+            "url": "https://x.com/higgsfield_ai/status/2123992310362894691",
+            "hook": "Higgsfield 'as many humans in Blender as possible': 150,172 objects, a crowd filling a street to the rooftops - 22.6K views, 66 bookmarks.",
+            "lane": "outsider"
+          }
+        ],
+        "heat": 100
+      },
+      {
+        "name": "Cliffhanger / exclusive-content teasers",
+        "keywords": [
+          "video",
+          "short film"
+        ],
+        "posts_24h": 0,
+        "posts_48h": 3,
+        "views_24h": 0,
+        "views_prev24h": 17534,
+        "views_48h": 17534,
+        "momentum": "down · previous 24 h only",
+        "heat_raw": 5.65,
+        "evidence": [
+          {
+            "handle": "@pika_labs",
+            "views": 6436,
+            "url": "https://x.com/pika_labs/status/2123838678271172693",
+            "hook": "Pika adds Seedance 2.5 Flash: up to 30s per video, 480p/720p, up to 10 image / 5 video / 5 audio references, built for many takes - 6.4K views.",
+            "lane": "outsider"
+          },
+          {
+            "handle": "@LumaLabsAI",
+            "views": 5569,
+            "url": "https://x.com/LumaLabsAI/status/2123852779366298045",
+            "hook": "Luma 'One Last Change' short by Ian Lihui Wang - increasingly unhinged client revisions on a water-bottle ad, made with Luma MCP - 5.6K views.",
+            "lane": "outsider"
+          },
+          {
+            "handle": "@manasjsaloi",
+            "views": 5529,
+            "url": "https://x.com/manasjsaloi/status/2124100944518357056",
+            "hook": "manasjsaloi: 'The top models on Higgsfield are all Chinese video models. China has won AI video.' - 5.5K views, 67 bookmarks; a hot take that pulls replies.",
+            "lane": "outsider"
+          }
+        ],
+        "heat": 50
+      },
+      {
+        "name": "Generative AI in Hollywood",
+        "keywords": [
+          "Generative AI"
+        ],
+        "posts_24h": 1,
+        "posts_48h": 1,
+        "views_24h": 55694,
+        "views_prev24h": 0,
+        "views_48h": 55694,
+        "momentum": "new · 24 h only",
+        "heat_raw": 4.75,
+        "evidence": [
+          {
+            "handle": "@vashikoo",
+            "views": 55694,
+            "url": "https://x.com/vashikoo/status/2124193626527813683",
+            "hook": "vashikoo 'Hollywood has been using AI for years. You just didn't notice.' - a 27-film explainer card riding the Fincher/Cliff Booth AI debate; 55.7K views but 2",
+            "lane": "outsider"
+          }
+        ],
+        "heat": 42
+      },
+      {
+        "name": "Era-swap re-imaginings",
+        "keywords": [
+          "AI video",
+          "short film"
+        ],
+        "posts_24h": 0,
+        "posts_48h": 2,
+        "views_24h": 0,
+        "views_prev24h": 11098,
+        "views_48h": 11098,
+        "momentum": "down · previous 24 h only",
+        "heat_raw": 3.74,
+        "evidence": [
+          {
+            "handle": "@LumaLabsAI",
+            "views": 5569,
+            "url": "https://x.com/LumaLabsAI/status/2123852779366298045",
+            "hook": "Luma 'One Last Change' short by Ian Lihui Wang - increasingly unhinged client revisions on a water-bottle ad, made with Luma MCP - 5.6K views.",
+            "lane": "outsider"
+          },
+          {
+            "handle": "@manasjsaloi",
+            "views": 5529,
+            "url": "https://x.com/manasjsaloi/status/2124100944518357056",
+            "hook": "manasjsaloi: 'The top models on Higgsfield are all Chinese video models. China has won AI video.' - 5.5K views, 67 bookmarks; a hot take that pulls replies.",
+            "lane": "outsider"
+          }
+        ],
+        "heat": 33
+      },
+      {
+        "name": "Seedance everywhere",
+        "keywords": [
+          "Seedance 2.5 Flash",
+          "Seedance"
+        ],
+        "posts_24h": 0,
+        "posts_48h": 1,
+        "views_24h": 0,
+        "views_prev24h": 6436,
+        "views_48h": 6436,
+        "momentum": "down · previous 24 h only",
+        "heat_raw": 1.9,
+        "evidence": [
+          {
+            "handle": "@pika_labs",
+            "views": 6436,
+            "url": "https://x.com/pika_labs/status/2123838678271172693",
+            "hook": "Pika adds Seedance 2.5 Flash: up to 30s per video, 480p/720p, up to 10 image / 5 video / 5 audio references, built for many takes - 6.4K views.",
+            "lane": "outsider"
+          }
+        ],
+        "heat": 17
+      }
+    ],
+    "ideas": [
+      {
+        "title": "Space Marines but it's 1973",
+        "topic": "AI animation",
+        "keywords": [
+          "AI animation",
+          "short film"
+        ],
+        "format": "video",
+        "visual_type": "video",
+        "visual": "20-30s 1970s grindhouse trailer of a Space Marine chapter: film grain, zoom lenses, title card, mono narrator.",
+        "angle": "TechHalla's 'Back to the Future but it's 1973' did 28.4K in about five hours on a seven-word caption.",
+        "hook_en": "Space Marines, but it's a 1973 grindhouse trailer. A tiny AI animation short film, VHS grain included.",
+        "why": "TechHalla 28,387 views; AI animation is the biggest keyword in the X sample (90.3K, flat x1.13).",
+        "x_keywords": [
+          "AI animation",
+          "short film"
+        ],
+        "x_rank": 1,
+        "source": "x-keywords"
+      },
+      {
+        "title": "40K cliffhanger cut",
+        "topic": "short film",
+        "keywords": [
+          "short film",
+          "Seedance"
+        ],
+        "format": "video",
+        "visual_type": "video",
+        "visual": "30s Seedance cut from your next 40K short: open mid-battle, stop on the reveal frame (helmet coming off, daemon in the doorway).",
+        "angle": "andresvandal's 30s teaser that sends people to the rest of the story was the only watchlist hit on 21.11.",
+        "hook_en": "30 seconds of a Seedance short film, and it stops right where it gets heretical. Full episode on YouTube.",
+        "why": "andresvandal 33,645 views and 853 bookmarks on 21.11; short film up x4.06 and Seedance up x7.8 in the X keyword sample.",
+        "x_keywords": [
+          "short film",
+          "Seedance"
+        ],
+        "x_rank": 2,
+        "source": "x-keywords"
+      },
+      {
+        "title": "10 takes, one Chaos Marine",
+        "topic": "Seedance",
+        "keywords": [
+          "Seedance",
+          "Seedance 2.5 Flash"
+        ],
+        "format": "video",
+        "visual_type": "video",
+        "visual": "Grid or rapid-cut reel of the same Chaos Marine shot generated 10 times, each labelled take 1-10, ending on your pick.",
+        "angle": "Seedance 2.5 Flash on Pika is pitched for many takes and batch runs.",
+        "hook_en": "Same prompt, 10 takes in Seedance. Which Chaos Marine makes the final cut?",
+        "why": "Pika's Seedance 2.5 Flash post 6,436 views; Seedance up x7.8 in the X keyword sample.",
+        "x_keywords": [
+          "Seedance"
+        ],
+        "x_rank": 2,
+        "source": "x-keywords"
+      },
+      {
+        "title": "Seedream still to Seedance motion",
+        "topic": "image to video",
+        "keywords": [
+          "image to video",
+          "Seedance"
+        ],
+        "format": "video",
+        "visual_type": "video",
+        "visual": "Before/after: the Seedream 5.5 Chaos Space Marines still, then the same frame brought to life in Seedance.",
+        "angle": "Bogdan's Seedream 5.5 carousel was his best post of the week (3,080 on 20.11); image to video is still a top-5 keyword.",
+        "hook_en": "Last week's Chaos Space Marines stills, now moving. Image to video in Seedance, one frame at a time.",
+        "why": "Bogdan 3,080 on 20.11; image to video 22.5K in the X keyword sample (top 5).",
+        "x_keywords": [
+          "image to video",
+          "Seedance"
+        ],
+        "x_rank": 2,
+        "source": "x-keywords"
+      },
+      {
+        "title": "Would you notice? 40K edition",
+        "topic": "short film",
+        "keywords": [
+          "short film",
+          "Generative AI"
+        ],
+        "format": "video",
+        "visual_type": "video",
+        "visual": "Split-screen: a hand-painted miniature shot vs the Seedance shot of the same scene; reveal which is which at the end.",
+        "angle": "The Fincher / Cliff Booth generative AI debate and vashikoo's 'Hollywood has been using AI for years' post.",
+        "hook_en": "One shot in this short film is a painted miniature, one is AI. Most people guess wrong.",
+        "why": "vashikoo 55,694 views on 21.11; Fincher debate posts 3,648 and 2,430.",
+        "x_keywords": [
+          "short film"
+        ],
+        "x_rank": 3,
+        "source": "x-keywords"
+      },
+      {
+        "title": "Servo-skull crowd reveal",
+        "topic": "Kling",
+        "keywords": [
+          "Kling",
+          "AI video"
+        ],
+        "format": "video",
+        "visual_type": "video",
+        "visual": "Open tight on one Guardsman's face, pull back to an endless regiment filling a hive-city street to the rooftops.",
+        "angle": "Higgsfield's 150,172-object crowd and Miami-town builds win on sheer scale.",
+        "hook_en": "One Guardsman. Then the camera pulls back. AI video, Kling vs Seedance on the same shot.",
+        "why": "Higgsfield crowd 22,574 and Miami town 157,163 views; Kling 33.4K in the X keyword sample (top 5).",
+        "x_keywords": [
+          "Kling",
+          "AI video"
+        ],
+        "x_rank": 4,
+        "source": "x-keywords"
+      }
+    ],
+    "articles": [
+      {
+        "title": "The cliffhanger post: why 30-second teasers get saved",
+        "thesis": "andresvandal's 21.11 teaser drew 853 bookmarks on 33.6K views because it stops before the payoff and names where the rest lives.",
+        "outline": [
+          "The 21.11 post: video length, caption, bookmarks vs replies",
+          "Teaser vs full-video posts on the watchlist this month",
+          "How to cut a 30s cliffhanger from a 40K short",
+          "Where to send people (YouTube, pinned post)"
+        ],
+        "keywords": [
+          "short film",
+          "video"
+        ],
+        "visual": "Cover: the cut point frame; inline: bookmarks vs views bar for the watchlist's last 7 hits.",
+        "why": "33,645 views and 853 bookmarks on 21.11.",
+        "x_keywords": [
+          "short film"
+        ]
+      },
+      {
+        "title": "Seedance week: what Pika, Dreamina and Higgsfield launches mean for 40K creators",
+        "thesis": "Seedance 2.5 Flash is now on multiple platforms; the choice is about takes, length and references, not the model.",
+        "outline": [
+          "Seedance 2.5 Flash on Pika: 30s, 10/5/5 references",
+          "Dreamina's bundle and Seedream 5.5",
+          "Cost per usable shot for a 40K short",
+          "My take after testing"
+        ],
+        "keywords": [
+          "Seedance",
+          "Seedance 2.5 Flash"
+        ],
+        "visual": "Comparison table screenshot plus three sample frames.",
+        "why": "Seedance up x7.8 in the X keyword sample; Pika post 6,436, Dreamina posts 4,473 and 3,775.",
+        "x_keywords": [
+          "Seedance"
+        ]
+      }
+    ],
+    "why_hit": [
+      {
+        "id": "2124333545921691925",
+        "handle": "@andresvandal",
+        "lane": "watchlist",
+        "views": 33645,
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "followers": 18552,
+        "topic": null,
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2123831379825967126",
+        "handle": "@higgsfield_ai",
+        "lane": "outsider",
+        "views": 182917,
+        "trend_match": 58,
+        "verdict": "trend",
+        "matched_keywords": [
+          "Claude",
+          "MCP"
+        ],
+        "media": "video",
+        "followers": 257829,
+        "topic": "Number-first agent builds",
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2123905539063336984",
+        "handle": "@higgsfield_ai",
+        "lane": "outsider",
+        "views": 157163,
+        "trend_match": 35,
+        "verdict": "visual",
+        "matched_keywords": [
+          "Claude"
+        ],
+        "media": "video",
+        "followers": 257829,
+        "topic": "Number-first agent builds",
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2124193626527813683",
+        "handle": "@vashikoo",
+        "lane": "outsider",
+        "views": 55694,
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "image",
+        "followers": 47366,
+        "topic": "Generative AI in Hollywood",
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2124457346894016998",
+        "handle": "@techhalla",
+        "lane": "outsider",
+        "views": 28387,
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "followers": 103984,
+        "topic": null,
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2123992310362894691",
+        "handle": "@higgsfield_ai",
+        "lane": "outsider",
+        "views": 22574,
+        "trend_match": 35,
+        "verdict": "visual",
+        "matched_keywords": [
+          "Claude"
+        ],
+        "media": "video",
+        "followers": 257829,
+        "topic": "Number-first agent builds",
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2123991686099734816",
+        "handle": "@higgsfield_ai",
+        "lane": "outsider",
+        "views": 12966,
+        "trend_match": 49,
+        "verdict": "visual",
+        "matched_keywords": [
+          "Claude",
+          "ChatGPT"
+        ],
+        "media": "video",
+        "followers": 257829,
+        "topic": "Number-first agent builds",
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2123875791566168423",
+        "handle": "@runwayml",
+        "lane": "outsider",
+        "views": 10713,
+        "trend_match": 0,
+        "verdict": "author/audience",
+        "matched_keywords": [],
+        "media": "text",
+        "followers": 297796,
+        "topic": null,
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2123838678271172693",
+        "handle": "@pika_labs",
+        "lane": "outsider",
+        "views": 6436,
+        "trend_match": 35,
+        "verdict": "visual",
+        "matched_keywords": [
+          "video"
+        ],
+        "media": "video",
+        "followers": 152666,
+        "topic": "Cliffhanger / exclusive-content teasers",
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2123852779366298045",
+        "handle": "@LumaLabsAI",
+        "lane": "outsider",
+        "views": 5569,
+        "trend_match": 67,
+        "verdict": "trend",
+        "matched_keywords": [
+          "Claude",
+          "MCP",
+          "ChatGPT"
+        ],
+        "media": "video",
+        "followers": 196239,
+        "topic": "Number-first agent builds",
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2124100944518357056",
+        "handle": "@manasjsaloi",
+        "lane": "outsider",
+        "views": 5529,
+        "trend_match": 35,
+        "verdict": "coincidence/other",
+        "matched_keywords": [
+          "video"
+        ],
+        "media": "text",
+        "followers": 38575,
+        "topic": "Cliffhanger / exclusive-content teasers",
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2123974692440523068",
+        "handle": "@Kling_ai",
+        "lane": "outsider",
+        "views": 4598,
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "image",
+        "followers": 139620,
+        "topic": "Cliffhanger / exclusive-content teasers",
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2123853885198536899",
+        "handle": "@dreamina_ai",
+        "lane": "outsider",
+        "views": 4473,
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "followers": 31646,
+        "topic": null,
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2124216273223528464",
+        "handle": "@dreamina_ai",
+        "lane": "outsider",
+        "views": 3775,
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "followers": 31646,
+        "topic": "Cliffhanger / exclusive-content teasers",
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2124381685835813268",
+        "handle": "@Kling_ai",
+        "lane": "outsider",
+        "views": 3711,
+        "trend_match": 0,
+        "verdict": "author/audience",
+        "matched_keywords": [],
+        "media": "text",
+        "followers": 139620,
+        "topic": null,
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2123864935683985657",
+        "handle": "@PturtIe",
+        "lane": "outsider",
+        "views": 3648,
+        "trend_match": 0,
+        "verdict": "coincidence/other",
+        "matched_keywords": [],
+        "media": "text",
+        "followers": 252,
+        "topic": "Generative AI in Hollywood",
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2123957610567155798",
+        "handle": "@twistartups",
+        "lane": "outsider",
+        "views": 2430,
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "followers": 108842,
+        "topic": null,
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2124057091052892469",
+        "handle": "@astropol0",
+        "lane": "outsider",
+        "views": 2035,
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "image",
+        "followers": 3649,
+        "topic": null,
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2124482990067548369",
+        "handle": "@WolfRiccardo",
+        "lane": "outsider",
+        "views": 1668,
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "image",
+        "followers": 2054,
+        "topic": null,
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2124436504386875489",
+        "handle": "@Artedeingenio",
+        "lane": "outsider",
+        "views": 1521,
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "followers": 66407,
+        "topic": "Cliffhanger / exclusive-content teasers",
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2124476335338799186",
+        "handle": "@Artedeingenio",
+        "lane": "outsider",
+        "views": 1039,
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "followers": 66407,
+        "topic": null,
+        "self_quote": false,
+        "note": ""
+      }
+    ],
+    "labels": {
+      "trend": "trend",
+      "visual": "visual",
+      "author": "author/audience",
+      "other": "coincidence/other",
+      "nontrend": "non-trend",
+      "self_quote": "self-quote",
+      "no_data": "no data"
+    },
+    "x_keywords": {
+      "fetched_at": "2026-11-22T15:38:00+00:00",
+      "window_start": "2026-11-20T15:38:00Z",
+      "calls": 32,
+      "method": "Read-only x MCP search_posts_all, 2 calls per keyword: last 24 h and previous 24 h (24-48 h ago); lang:en, no retweets/replies, sort=relevancy, up to 25 posts per window. This is a SAMPLE of top-relevance posts, not every post on X. Views = impression_count at fetch time. Rank = sum of sampled 24 h views; 48 h = both windows; trend = 24 h sum / previous 24 h sum (up >=1.3, down <=0.7). Fresh posts are still gaining views, so 'up' is understated. Top-post share > 70% means one viral post carries the keyword.",
+      "missing": [],
+      "sample": true,
+      "sample_size_per_call": 25,
+      "keywords": [
+        {
+          "keyword": "AI animation",
+          "query": "\"AI animation\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 25,
+            "total": 90267,
+            "median": 91,
+            "top": {
+              "views": 77758,
+              "url": "https://x.com/MatrixRamenist/status/2124321977393467583",
+              "handle": "@MatrixRamenist",
+              "text": "GTA 6 Mandy Sex Scene AI Animation 4 mins 34 sec is out on Patreon now https://t.co/xzXoHP6ovo"
+            }
+          },
+          "prev24": {
+            "n": 24,
+            "total": 79663,
+            "median": 96,
+            "top": {
+              "views": 42864,
+              "url": "https://x.com/socialwithaayan/status/2124165047291404746",
+              "handle": "@socialwithaayan",
+              "text": "this AI animation looks better than Disney workflow below (free) 👇 https://t.co/NvKyYBRZyc"
+            }
+          },
+          "w48": {
+            "n": 49,
+            "total": 169930,
+            "top": {
+              "views": 77758,
+              "url": "https://x.com/MatrixRamenist/status/2124321977393467583",
+              "handle": "@MatrixRamenist",
+              "text": "GTA 6 Mandy Sex Scene AI Animation 4 mins 34 sec is out on Patreon now https://t.co/xzXoHP6ovo"
+            }
+          },
+          "change": 1.13,
+          "trend": "flat",
+          "partial": false,
+          "top_share": 0.86,
+          "rank": 1
+        },
+        {
+          "keyword": "Seedance",
+          "query": "\"Seedance\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 25,
+            "total": 58645,
+            "median": 46,
+            "top": {
+              "views": 37080,
+              "url": "https://x.com/TextoCriativo/status/2124372192788131857",
+              "handle": "@TextoCriativo",
+              "text": "What if your next video project looked this cinematic? Dreamina makes it possible to explore visuals like these with Rea"
+            }
+          },
+          "prev24": {
+            "n": 25,
+            "total": 7521,
+            "median": 96,
+            "top": {
+              "views": 2540,
+              "url": "https://x.com/reapi_api/status/2124131520675991988",
+              "handle": "@reapi_api",
+              "text": "We just slashed Seedance 2.0 &amp; 2.5 API prices on reAPI — now up to 79% cheaper than fal and up to 47% cheaper than K"
+            }
+          },
+          "w48": {
+            "n": 50,
+            "total": 66166,
+            "top": {
+              "views": 37080,
+              "url": "https://x.com/TextoCriativo/status/2124372192788131857",
+              "handle": "@TextoCriativo",
+              "text": "What if your next video project looked this cinematic? Dreamina makes it possible to explore visuals like these with Rea"
+            }
+          },
+          "change": 7.8,
+          "trend": "up",
+          "partial": false,
+          "top_share": 0.63,
+          "rank": 2
+        },
+        {
+          "keyword": "short film",
+          "query": "\"short film\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 24,
+            "total": 43606,
+            "median": 183,
+            "top": {
+              "views": 22673,
+              "url": "https://x.com/Old_But_Gold50s/status/2124312391097970711",
+              "handle": "@Old_But_Gold50s",
+              "text": "I had almost forgotten what it felt like to watch a heartfelt, traditionally hand-drawn animated film. Absolutely wonder"
+            }
+          },
+          "prev24": {
+            "n": 25,
+            "total": 10741,
+            "median": 26,
+            "top": {
+              "views": 7744,
+              "url": "https://x.com/connorkissy/status/2123881651021529321",
+              "handle": "@connorkissy",
+              "text": "the verizon short film back on the tl always makes me giggle bc my dad is a lifelong verizon employee and he said the sh"
+            }
+          },
+          "w48": {
+            "n": 49,
+            "total": 54347,
+            "top": {
+              "views": 22673,
+              "url": "https://x.com/Old_But_Gold50s/status/2124312391097970711",
+              "handle": "@Old_But_Gold50s",
+              "text": "I had almost forgotten what it felt like to watch a heartfelt, traditionally hand-drawn animated film. Absolutely wonder"
+            }
+          },
+          "change": 4.06,
+          "trend": "up",
+          "partial": false,
+          "top_share": 0.52,
+          "rank": 3
+        },
+        {
+          "keyword": "Kling",
+          "query": "\"Kling\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 25,
+            "total": 33378,
+            "median": 33,
+            "top": {
+              "views": 18582,
+              "url": "https://x.com/JaynitMakwana/status/2124518503923532050",
+              "handle": "@JaynitMakwana",
+              "text": "i gave Kling Image 4.0 and GPT Image 2.6 the exact same prompt, a model next to a giant orange, and i genuinely can’t pi"
+            }
+          },
+          "prev24": {
+            "n": 25,
+            "total": 50577,
+            "median": 82,
+            "top": {
+              "views": 37369,
+              "url": "https://x.com/riyazz_ai/status/2123827104815218732",
+              "handle": "@riyazz_ai",
+              "text": "Would you believe these 4K game environments cost less than $0.10 to generate? MiniMax H3 Image vs. Kling Image 4.0. @Mi"
+            }
+          },
+          "w48": {
+            "n": 50,
+            "total": 83955,
+            "top": {
+              "views": 37369,
+              "url": "https://x.com/riyazz_ai/status/2123827104815218732",
+              "handle": "@riyazz_ai",
+              "text": "Would you believe these 4K game environments cost less than $0.10 to generate? MiniMax H3 Image vs. Kling Image 4.0. @Mi"
+            }
+          },
+          "change": 0.66,
+          "trend": "down",
+          "partial": false,
+          "top_share": 0.56,
+          "rank": 4
+        },
+        {
+          "keyword": "image to video",
+          "query": "\"image to video\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 25,
+            "total": 22516,
+            "median": 75,
+            "top": {
+              "views": 15132,
+              "url": "https://x.com/supheli_sahis/status/2124200899925135692",
+              "handle": "@supheli_sahis",
+              "text": "Try now our bot: Sex pack. Upload your girl’s face. Ai nsfw video generator. Undress your girl or swap face.%100 free. i"
+            }
+          },
+          "prev24": {
+            "n": 25,
+            "total": 33776,
+            "median": 147,
+            "top": {
+              "views": 11666,
+              "url": "https://x.com/alizeh_ai/status/2124160467455320542",
+              "handle": "@alizeh_ai",
+              "text": "MINIMAX H3 KEEPS BLURRING THE DETAILS. THIS 74 MB FILE FIXES IT 😳 one tiny anatomy lora for the minimax h3 video model, "
+            }
+          },
+          "w48": {
+            "n": 50,
+            "total": 56292,
+            "top": {
+              "views": 15132,
+              "url": "https://x.com/supheli_sahis/status/2124200899925135692",
+              "handle": "@supheli_sahis",
+              "text": "Try now our bot: Sex pack. Upload your girl’s face. Ai nsfw video generator. Undress your girl or swap face.%100 free. i"
+            }
+          },
+          "change": 0.67,
+          "trend": "down",
+          "partial": false,
+          "top_share": 0.67,
+          "rank": 5
+        },
+        {
+          "keyword": "AI video",
+          "query": "\"AI video\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 25,
+            "total": 15894,
+            "median": 40,
+            "top": {
+              "views": 10072,
+              "url": "https://x.com/Xtep_12/status/2124441238598209653",
+              "handle": "@Xtep_12",
+              "text": "The AI video playground for marketing teams. Arcade turns your idea into polished video in minutes. AI video that looks "
+            }
+          },
+          "prev24": {
+            "n": 25,
+            "total": 79889,
+            "median": 94,
+            "top": {
+              "views": 73698,
+              "url": "https://x.com/keenn_eth/status/2124137891186250070",
+              "handle": "@keenn_eth",
+              "text": "AI video creators dream come true 🤩 TWO FREE AI VIDEO GENERATION TOOLS you can use without paying a single penny Save th"
+            }
+          },
+          "w48": {
+            "n": 50,
+            "total": 95783,
+            "top": {
+              "views": 73698,
+              "url": "https://x.com/keenn_eth/status/2124137891186250070",
+              "handle": "@keenn_eth",
+              "text": "AI video creators dream come true 🤩 TWO FREE AI VIDEO GENERATION TOOLS you can use without paying a single penny Save th"
+            }
+          },
+          "change": 0.2,
+          "trend": "down",
+          "partial": false,
+          "top_share": 0.63,
+          "rank": 6
+        },
+        {
+          "keyword": "text to video",
+          "query": "\"text to video\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 25,
+            "total": 14961,
+            "median": 47,
+            "top": {
+              "views": 4302,
+              "url": "https://x.com/27_bishal/status/2124326290048327691",
+              "handle": "@27_bishal",
+              "text": "MINIMAX H3 HAS A 74 MB DETAIL FIX 😳 If H3 keeps losing anatomical details in generated videos, this tiny LoRA might help"
+            }
+          },
+          "prev24": {
+            "n": 25,
+            "total": 86376,
+            "median": 110,
+            "top": {
+              "views": 48520,
+              "url": "https://x.com/DanielZambrini/status/2123891957529510012",
+              "handle": "@DanielZambrini",
+              "text": "Gemini 4 Neon vs GPT 6.2 Astra vs Fable 5.2 \"Life in the eyes of a Squirrel\" Despite not being the same price or size, a"
+            }
+          },
+          "w48": {
+            "n": 50,
+            "total": 101337,
+            "top": {
+              "views": 48520,
+              "url": "https://x.com/DanielZambrini/status/2123891957529510012",
+              "handle": "@DanielZambrini",
+              "text": "Gemini 4 Neon vs GPT 6.2 Astra vs Fable 5.2 \"Life in the eyes of a Squirrel\" Despite not being the same price or size, a"
+            }
+          },
+          "change": 0.17,
+          "trend": "down",
+          "partial": false,
+          "top_share": 0.29,
+          "rank": 7
+        },
+        {
+          "keyword": "Runway",
+          "query": "\"Runway\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 25,
+            "total": 9461,
+            "median": 38,
+            "top": {
+              "views": 2645,
+              "url": "https://x.com/RDTMutiroes/status/2124209459732050024",
+              "handle": "@RDTMutiroes",
+              "text": "Ajude Lady Gaga a ser indicada ao \"Gold Derby Music Awards 2027\" nas categorias: 🔸️ Album of the Year MAYHEM Requiem 🔸️ "
+            }
+          },
+          "prev24": {
+            "n": 25,
+            "total": 26740,
+            "median": 46,
+            "top": {
+              "views": 8435,
+              "url": "https://x.com/PrecisionLabs0/status/2123857912082895158",
+              "handle": "@PrecisionLabs0",
+              "text": "A crosswind landing becomes even more demanding when the runway is surrounded by Alpine terrain and the gusts are pushin"
+            }
+          },
+          "w48": {
+            "n": 50,
+            "total": 36201,
+            "top": {
+              "views": 8435,
+              "url": "https://x.com/PrecisionLabs0/status/2123857912082895158",
+              "handle": "@PrecisionLabs0",
+              "text": "A crosswind landing becomes even more demanding when the runway is surrounded by Alpine terrain and the gusts are pushin"
+            }
+          },
+          "change": 0.35,
+          "trend": "down",
+          "partial": false,
+          "top_share": 0.28,
+          "rank": 8
+        },
+        {
+          "keyword": "Sora",
+          "query": "\"Sora\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 25,
+            "total": 7526,
+            "median": 110,
+            "top": {
+              "views": 1441,
+              "url": "https://x.com/prizennn/status/2124260866723848197",
+              "handle": "@prizennn",
+              "text": "Istg Sora is already the king of flirting... #SORA https://t.co/pt3s2O6qCf"
+            }
+          },
+          "prev24": {
+            "n": 25,
+            "total": 11508,
+            "median": 235,
+            "top": {
+              "views": 3101,
+              "url": "https://x.com/soraphoria_/status/2124055108203999354",
+              "handle": "@soraphoria_",
+              "text": "i love how tai stopping sora from acting up 😆😆 Tai to Sora: hyung stop being a weird.. Seoha: 😆😆 #TAI #SEOHA #SORA #A2OS"
+            }
+          },
+          "w48": {
+            "n": 50,
+            "total": 19034,
+            "top": {
+              "views": 3101,
+              "url": "https://x.com/soraphoria_/status/2124055108203999354",
+              "handle": "@soraphoria_",
+              "text": "i love how tai stopping sora from acting up 😆😆 Tai to Sora: hyung stop being a weird.. Seoha: 😆😆 #TAI #SEOHA #SORA #A2OS"
+            }
+          },
+          "change": 0.65,
+          "trend": "down",
+          "partial": false,
+          "top_share": 0.19,
+          "rank": 9
+        },
+        {
+          "keyword": "Higgsfield",
+          "query": "\"Higgsfield\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 25,
+            "total": 6986,
+            "median": 24,
+            "top": {
+              "views": 3429,
+              "url": "https://x.com/janm_uiux/status/2124440587327697257",
+              "handle": "@janm_uiux",
+              "text": "How to design scroll-driven sites with Claude and Higgsfield AI https://t.co/3hJUnEATkv"
+            }
+          },
+          "prev24": {
+            "n": 25,
+            "total": 245260,
+            "median": 30,
+            "top": {
+              "views": 182959,
+              "url": "https://x.com/higgsfield_ai/status/2123831379825967126",
+              "handle": "@higgsfield_ai",
+              "text": "Meet Higgsfield GPU Harness in Claude. Rent on-demand GPUs in Claude via Higgsfield MCP to render, run open-weight model"
+            }
+          },
+          "w48": {
+            "n": 50,
+            "total": 252246,
+            "top": {
+              "views": 182959,
+              "url": "https://x.com/higgsfield_ai/status/2123831379825967126",
+              "handle": "@higgsfield_ai",
+              "text": "Meet Higgsfield GPU Harness in Claude. Rent on-demand GPUs in Claude via Higgsfield MCP to render, run open-weight model"
+            }
+          },
+          "change": 0.03,
+          "trend": "down",
+          "partial": false,
+          "top_share": 0.49,
+          "rank": 10
+        },
+        {
+          "keyword": "anime",
+          "query": "\"anime\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 25,
+            "total": 6134,
+            "median": 19,
+            "top": {
+              "views": 3153,
+              "url": "https://x.com/KyoutarosDad/status/2124437381436649495",
+              "handle": "@KyoutarosDad",
+              "text": "Kyoichiro's Blooming Anime vs. Manga Absolute Perfection. You can even argue the anime is better than the manga. It's ho"
+            }
+          },
+          "prev24": {
+            "n": 25,
+            "total": 50628,
+            "median": 58,
+            "top": {
+              "views": 34045,
+              "url": "https://x.com/oski_oo/status/2123904913331683515",
+              "handle": "@oski_oo",
+              "text": "Your free sex ticket🎟️ 🎨:Redhornyhead 🍓: https://t.co/xhGung2VL2 #hentaivídeo #hentai #anime #rule34 #nsfw #porn #anime "
+            }
+          },
+          "w48": {
+            "n": 50,
+            "total": 56762,
+            "top": {
+              "views": 34045,
+              "url": "https://x.com/oski_oo/status/2123904913331683515",
+              "handle": "@oski_oo",
+              "text": "Your free sex ticket🎟️ 🎨:Redhornyhead 🍓: https://t.co/xhGung2VL2 #hentaivídeo #hentai #anime #rule34 #nsfw #porn #anime "
+            }
+          },
+          "change": 0.12,
+          "trend": "down",
+          "partial": false,
+          "top_share": 0.51,
+          "rank": 11
+        },
+        {
+          "keyword": "ComfyUI",
+          "query": "\"ComfyUI\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 25,
+            "total": 5972,
+            "median": 54,
+            "top": {
+              "views": 1570,
+              "url": "https://x.com/wildmindai/status/2124210600758903003",
+              "handle": "@wildmindai",
+              "text": "ComfyUI Workbench DSH Plugin pulls local ComfyUI into the DeepSeek Harness sidebar; - imports any workflow - runs every "
+            }
+          },
+          "prev24": {
+            "n": 25,
+            "total": 129162,
+            "median": 80,
+            "top": {
+              "views": 92126,
+              "url": "https://x.com/HanshengCh/status/2124140029715087809",
+              "handle": "@HanshengCh",
+              "text": "The fastest MiniMax H3 is now open source 🚀 pi-H3: 2–4 steps, No VAE decoder • One B200: 768p video faster than real tim"
+            }
+          },
+          "w48": {
+            "n": 50,
+            "total": 135134,
+            "top": {
+              "views": 92126,
+              "url": "https://x.com/HanshengCh/status/2124140029715087809",
+              "handle": "@HanshengCh",
+              "text": "The fastest MiniMax H3 is now open source 🚀 pi-H3: 2–4 steps, No VAE decoder • One B200: 768p video faster than real tim"
+            }
+          },
+          "change": 0.05,
+          "trend": "down",
+          "partial": false,
+          "top_share": 0.26,
+          "rank": 12
+        },
+        {
+          "keyword": "AI filmmaking",
+          "query": "\"AI filmmaking\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 25,
+            "total": 3186,
+            "median": 74,
+            "top": {
+              "views": 705,
+              "url": "https://x.com/RobotCleopatra/status/2124367016484295023",
+              "handle": "@RobotCleopatra",
+              "text": "THE VIDEO LAB 🎬 THE WHEAT RAID | Ancient Greece Four warriors. One surprise attack. A fortress caught off guard. A cinem"
+            }
+          },
+          "prev24": {
+            "n": 25,
+            "total": 38234,
+            "median": 149,
+            "top": {
+              "views": 10419,
+              "url": "https://x.com/Evelynb7a1/status/2123846004177076405",
+              "handle": "@Evelynb7a1",
+              "text": "One of the biggest challenges in AI filmmaking is maintaining visual consistency across shots. Curious to see how Snowgl"
+            }
+          },
+          "w48": {
+            "n": 50,
+            "total": 41420,
+            "top": {
+              "views": 10419,
+              "url": "https://x.com/Evelynb7a1/status/2123846004177076405",
+              "handle": "@Evelynb7a1",
+              "text": "One of the biggest challenges in AI filmmaking is maintaining visual consistency across shots. Curious to see how Snowgl"
+            }
+          },
+          "change": 0.08,
+          "trend": "down",
+          "partial": false,
+          "top_share": 0.22,
+          "rank": 13
+        },
+        {
+          "keyword": "Grok Imagine",
+          "query": "\"Grok Imagine\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 25,
+            "total": 2131,
+            "median": 38,
+            "top": {
+              "views": 556,
+              "url": "https://x.com/Maer4real/status/2124451656641179986",
+              "handle": "@Maer4real",
+              "text": "Roses Made with @grok Imagine https://t.co/HYhPduIKDg"
+            }
+          },
+          "prev24": {
+            "n": 25,
+            "total": 5720,
+            "median": 53,
+            "top": {
+              "views": 3182,
+              "url": "https://x.com/testerlabor/status/2124097281595220068",
+              "handle": "@testerlabor",
+              "text": "To SpaceXSI: I ran 2 polls with over 1,000 Grok users in total and the message is clear: Grok Imagine is the number 1 re"
+            }
+          },
+          "w48": {
+            "n": 50,
+            "total": 7851,
+            "top": {
+              "views": 3182,
+              "url": "https://x.com/testerlabor/status/2124097281595220068",
+              "handle": "@testerlabor",
+              "text": "To SpaceXSI: I ran 2 polls with over 1,000 Grok users in total and the message is clear: Grok Imagine is the number 1 re"
+            }
+          },
+          "change": 0.37,
+          "trend": "down",
+          "partial": false,
+          "top_share": 0.26,
+          "rank": 14
+        },
+        {
+          "keyword": "Midjourney",
+          "query": "\"Midjourney\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 25,
+            "total": 2111,
+            "median": 50,
+            "top": {
+              "views": 300,
+              "url": "https://x.com/gurniaiart/status/2124483785982955982",
+              "handle": "@gurniaiart",
+              "text": "Market day #AIArt #AIイラスト #AIgirl #midjourney #aiGallery https://t.co/tOBXVlaJ23"
+            }
+          },
+          "prev24": {
+            "n": 25,
+            "total": 7366,
+            "median": 44,
+            "top": {
+              "views": 2105,
+              "url": "https://x.com/goo_vision/status/2123859122600706514",
+              "handle": "@goo_vision",
+              "text": "Breathe in 🌸 — Video &amp; Effects @krea_ai Images @midjourney Sound @ElevenLabs https://t.co/qylCKMZ6iA"
+            }
+          },
+          "w48": {
+            "n": 50,
+            "total": 9477,
+            "top": {
+              "views": 2105,
+              "url": "https://x.com/goo_vision/status/2123859122600706514",
+              "handle": "@goo_vision",
+              "text": "Breathe in 🌸 — Video &amp; Effects @krea_ai Images @midjourney Sound @ElevenLabs https://t.co/qylCKMZ6iA"
+            }
+          },
+          "change": 0.29,
+          "trend": "down",
+          "partial": false,
+          "top_share": 0.14,
+          "rank": 15
+        },
+        {
+          "keyword": "Veo",
+          "query": "\"Veo\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 25,
+            "total": 1501,
+            "median": 24,
+            "top": {
+              "views": 514,
+              "url": "https://x.com/RenfrewFC/status/2124432331008094231",
+              "handle": "@RenfrewFC",
+              "text": "VEO highlights from yesterdays match against Musselburgh Athletic are now available on our YouTube channel https://t.co/"
+            }
+          },
+          "prev24": {
+            "n": 25,
+            "total": 3180,
+            "median": 39,
+            "top": {
+              "views": 897,
+              "url": "https://x.com/DaniKifi/status/2123980896042991942",
+              "handle": "@DaniKifi",
+              "text": "Los veo en 5min en onlyfans"
+            }
+          },
+          "w48": {
+            "n": 50,
+            "total": 4681,
+            "top": {
+              "views": 897,
+              "url": "https://x.com/DaniKifi/status/2123980896042991942",
+              "handle": "@DaniKifi",
+              "text": "Los veo en 5min en onlyfans"
+            }
+          },
+          "change": 0.47,
+          "trend": "down",
+          "partial": false,
+          "top_share": 0.34,
+          "rank": 16
+        }
+      ]
+    },
+    "legend": "Trend match 0-100% = 1 - prod(1 - w) over matched 24 h keywords that another author also used in the 48 h window (w: rank 1-10 0.35, 11-25 0.22, 26-40 0.12, curated 0.20). Verdict: >= 50% -> trend; else video/image in the post data -> visual; else >= 100K followers (outsiders without follower data: >= 500K views, estimate) -> author/audience; else coincidence/other. Missing data shows as 'no data'. Heat = sum log10(views) of topic posts (24 h x1, 24-48 h x0.5), scaled to 100. Momentum = log-views last 24 h / previous 24 h. Trend-input-only accounts feed the corpus but are never shown as hits."
+  }
+}

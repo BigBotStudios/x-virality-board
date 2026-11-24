@@ -1,0 +1,3396 @@
+{
+  "title": "X Virality Score · 2026-11-18",
+  "brand_title": "Grok Bot X Virality Score",
+  "brand_handle": "@SMKP_Films",
+  "operator": {
+    "handle": "SMKP_Films",
+    "name": "Bogdan Orlic",
+    "profile_url": "https://x.com/SMKP_Films"
+  },
+  "timezone": "America/Toronto",
+  "date": "2026-11-18",
+  "updated": "2026-11-19T10:37:29-05:00",
+  "ui": {
+    "default_theme": "night"
+  },
+  "board_features": {
+    "count_up": true,
+    "live_pulse": true,
+    "theme_toggle": true,
+    "themes": [
+      "night",
+      "day"
+    ],
+    "grok_ambient": true,
+    "week_month_boards": true,
+    "day_roster_best_total": true,
+    "day_compare_chart": true,
+    "week_strip": true,
+    "no_hits_reasons": true,
+    "marker_class": "xvs-dash-2026",
+    "top10_drafts_v4": true,
+    "trend_keywords": true,
+    "trend_radar": true,
+    "x_keyword_table": true,
+    "experiment": true,
+    "self_quote_badge": true
+  },
+  "previous_day": {
+    "date": "2026-11-17",
+    "hits_count": 1,
+    "total_views": 144051,
+    "stars": 1,
+    "x_score": 59,
+    "top_hit": null
+  },
+  "hits": [
+    {
+      "id": "2123095356506325436",
+      "name": "Gossip Goblin",
+      "display_name": "Gossip Goblin",
+      "handle": "@Gossip_Goblin",
+      "views": 56768,
+      "views_label": "56,768",
+      "url": "https://x.com/Gossip_Goblin/status/2123095356506325436",
+      "created_at": "2026-11-18T16:45:52.000Z",
+      "posted_at": "2026-11-18T16:45:52.000Z",
+      "highlight": true,
+      "text": "Excited to share our new Behind the Scenes mini-doc today, showing the huge human effort behind Gods Don't Give Gifts.\n\nOur special early preview screenings with Director Q&amp;As on 12/4 (LA) and 12/5 (SF) sold out instantly—with only a few tickets left for NYC (12/10), we have big https://t.co/j380qr0xxE",
+      "original_en": "Excited to share our new Behind the Scenes mini-doc today, showing the huge human effort behind Gods Don't Give Gifts.\n\nOur special early preview screenings with Director Q&amp;As on 12/4 (LA) and 12/5 (SF) sold out instantly—with only a few tickets left for NYC (12/10), we have big https://t.co/j380qr0xxE",
+      "lang": "en",
+      "media": "video",
+      "likes": 946,
+      "reposts": 107,
+      "bookmarks": 411,
+      "replies": 80,
+      "quotes": 39,
+      "followers_count": 125432,
+      "self_quote": false,
+      "hook": "Behind-the-scenes mini-doc (21:51 native video) for his feature Gods Don't Give Gifts, framed as \"the huge human effort\" plus sold-out screening news - 56.8K views, 946 likes, 411 bookmarks, 39 quotes.",
+      "video_tip": "Cut a 2-4 minute behind-the-scenes piece on one of your 40K shorts: rejected takes, prompt notes, the edit timeline and you at the desk. Upload it natively, open on the finished shot, then show how it was made. Lead the caption with the human-effort angle.",
+      "board_rank": 5,
+      "draft_en": "Behind the scenes of Gods Don't Give Gifts: a new mini-doc is out today, and it shows how much human work this AI film really took.\n\nThe early previews in LA (12/4) and SF (12/5), each with a Q&A from the director, were gone almost instantly. NYC (12/10) is down to its last few tickets.",
+      "draft_keywords": [
+        "Behind",
+        "Gods",
+        "Gifts",
+        "AI film"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.019,
+        "word_overlap": 0.682,
+        "max_copied_run": 4
+      },
+      "top10_rank": 5,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "note": "",
+        "topic": "Human craft behind AI film"
+      }
+    }
+  ],
+  "hits_count": 1,
+  "outsiders": [
+    {
+      "id": "2123127584342921652",
+      "name": "Pika",
+      "display_name": "Pika",
+      "handle": "@pika_labs",
+      "views": 409703,
+      "views_label": "409,703",
+      "url": "https://x.com/pika_labs/status/2123127584342921652",
+      "created_at": "2026-11-18T18:53:56.000Z",
+      "posted_at": "2026-11-18T18:53:56.000Z",
+      "text": "Today, we’re excited to share Enact, a research preview of scenes that respond to you.\n\nEnact represents a new way of making AI video, one that’s designed to mimic the experience of directing on set. Built on Pika H3 Flex, it allows a creator to interact with “actors,” manually re-stage a scene, and manipulate the camera—all in real time.\n\nWe think this is the beginning of a new paradigm for creation. Read more and reach out for a demo below.",
+      "original_en": "Today, we’re excited to share Enact, a research preview of scenes that respond to you.\n\nEnact represents a new way of making AI video, one that’s designed to mimic the experience of directing on set. Built on Pika H3 Flex, it allows a creator to interact with “actors,” manually re-stage a scene, and manipulate the camera—all in real time.\n\nWe think this is the beginning of a new paradigm for creation. Read more and reach out for a demo below.",
+      "lang": "en",
+      "hook": "Launch: Pika Enact, a research preview where you direct AI 'actors', re-stage a scene and move the camera in real time (Pika H3 Flex) - 409.7K views, 1,385 likes, 1,013 bookmarks; reach looks boosted (0.3% like rate) and was echoed by a wave of near-identical creator posts.",
+      "video_tip": "Act it out yourself: a 20s 'directing' skit where you shout notes at a Space Marine who keeps misreading them - the 'directing AI actors' idea is the hook of the week.",
+      "media": "video",
+      "followers_count": 152094,
+      "likes": 1385,
+      "reposts": 189,
+      "bookmarks": 1013,
+      "replies": 198,
+      "quotes": 192,
+      "self_quote": false,
+      "board_rank": 1,
+      "draft_en": "Pika Enact is out as a research preview, and it treats AI video like a film set instead of a prompt box.\n\nYou talk to the \"actors\", move people around the scene yourself and steer the camera while it all runs live. Under the hood sits Pika H3 Flex.\n\nIf this works, AI filmmaking starts to feel like directing. Details and demo requests are linked below.",
+      "draft_keywords": [
+        "Pika Enact",
+        "AI video",
+        "AI filmmaking"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.0,
+        "word_overlap": 0.375,
+        "max_copied_run": 3
+      },
+      "top10_rank": 1
+    },
+    {
+      "id": "2123079065360126339",
+      "name": "Dreamina AI",
+      "display_name": "Dreamina AI",
+      "handle": "@dreamina_ai",
+      "views": 306573,
+      "views_label": "306,573",
+      "url": "https://x.com/dreamina_ai/status/2123079065360126339",
+      "created_at": "2026-11-18T15:41:08.000Z",
+      "posted_at": "2026-11-18T15:41:08.000Z",
+      "text": "Dreamina Black Friday Sale is Live!\n\n🔒 Unlock UNLIMITED access to our video and image models.\n\n🎬 Unlimited Video Generation\n> Flagship Seedance 2.5: up to 30 days\n> Seedance 2.0 series: up to 30 days\n> Unlimited generation of videos up to 30 sec at 1080p\n\n🖼️ Unlimited Image Generation\n> Seedream 5.5: up to 60 days\n> GPT Image and Nano Banana series: up to 60 days\n> Seedream 5.0 Flash: up to 365 days\n\n🔥 Bonus:\n📣 Credit Purchase Sale: up to 83% off - best deal of the year.\n🕒 Limited-time offer. Stock up for a full year.\n\n🎁 Special Giveaway: 30 lucky winners will each win a one-year Advanced Plan!\nHow to Enter:\n1. Repost and follow @dreamina_ai.\n2. Comment below and share your experience using our features (motion studio, marketing studio, drama studio... )\nDon't miss out. Explore our latest features and create more with Dreamina!\n\n#DreaminaAI #DreaminaSeedance2_5 #blackfriday #DreaminaSeedream5_5",
+      "original_en": "Dreamina Black Friday Sale is Live!\n\n🔒 Unlock UNLIMITED access to our video and image models.\n\n🎬 Unlimited Video Generation\n> Flagship Seedance 2.5: up to 30 days\n> Seedance 2.0 series: up to 30 days\n> Unlimited generation of videos up to 30 sec at 1080p\n\n🖼️ Unlimited Image Generation\n> Seedream 5.5: up to 60 days\n> GPT Image and Nano Banana series: up to 60 days\n> Seedream 5.0 Flash: up to 365 days\n\n🔥 Bonus:\n📣 Credit Purchase Sale: up to 83% off - best deal of the year.\n🕒 Limited-time offer. Stock up for a full year.\n\n🎁 Special Giveaway: 30 lucky winners will each win a one-year Advanced Plan!\nHow to Enter:\n1. Repost and follow @dreamina_ai.\n2. Comment below and share your experience using our features (motion studio, marketing studio, drama studio... )\nDon't miss out. Explore our latest features and create more with Dreamina!\n\n#DreaminaAI #DreaminaSeedance2_5 #blackfriday #DreaminaSeedream5_5",
+      "lang": "en",
+      "hook": "Dreamina Black Friday sale: unlimited Seedance 2.5 (up to 30 days) and Seedream 5.5 (up to 60 days) plus a giveaway - 306.6K views but 632 likes (promoted-looking).",
+      "video_tip": "Skip the sale angle; if you buy unlimited Seedance time, post a 'what I made with 30 days unlimited' 40K montage later in the week.",
+      "media": "photo",
+      "followers_count": 31460,
+      "likes": 632,
+      "reposts": 194,
+      "bookmarks": 505,
+      "replies": 224,
+      "quotes": 66,
+      "self_quote": false,
+      "board_rank": 2,
+      "draft_en": "Dreamina just switched on its Black Friday Sale, and the headline is unlimited generation.\n\nVideo: flagship Seedance 2.5 and the Seedance 2.0 series stay unlimited for as long as 30 days, with clips of up to 30 sec at 1080p.\nImages: Seedream 5.5 plus the GPT Image and Nano Banana series run as long as 60 days, and Seedream 5.0 Flash goes to 365 days.\n\nCredit packs are cut by up to 83% as well, and 30 people will win a one-year Advanced Plan. Limited time only.",
+      "draft_keywords": [
+        "Black Friday Sale",
+        "Seedance 2.5",
+        "Seedream 5.5",
+        "Nano Banana",
+        "Flash"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.095,
+        "word_overlap": 0.683,
+        "max_copied_run": 6
+      },
+      "top10_rank": 2
+    },
+    {
+      "id": "2122916879824306422",
+      "name": "Vini",
+      "display_name": "Vini",
+      "handle": "@Viniai_",
+      "views": 75870,
+      "views_label": "75,870",
+      "url": "https://x.com/Viniai_/status/2122916879824306422",
+      "created_at": "2026-11-18T04:56:40.000Z",
+      "posted_at": "2026-11-18T04:56:40.000Z",
+      "text": "This AI video is an Absolute Masterpiece🔥\n\nMade by Fable 5.2 + Seedance 2.5 is unbelievable\n\nPrompt below: https://t.co/l9MBLeazBc",
+      "original_en": "This AI video is an Absolute Masterpiece🔥\n\nMade by Fable 5.2 + Seedance 2.5 is unbelievable\n\nPrompt below: https://t.co/l9MBLeazBc",
+      "lang": "en",
+      "hook": "Big-claim caption ('Absolute Masterpiece') on a Fable 5.2 + Seedance 2.5 video with 'prompt below' - 75.9K views, 1,175 likes, 733 bookmarks from 12.5K followers.",
+      "video_tip": "Post one 30-45s Seedance 2.5 40K battle clip with a two-line caption naming the tools and put the full prompt in the first reply - prompt-below posts pull bookmarks.",
+      "media": "video",
+      "followers_count": 12472,
+      "likes": 1175,
+      "reposts": 131,
+      "bookmarks": 733,
+      "replies": 174,
+      "quotes": 19,
+      "self_quote": false,
+      "board_rank": 3,
+      "draft_en": "Fable 5.2 paired with Seedance 2.5 just produced an AI video I can't stop rewatching.\n\nThe full prompt is waiting in the reply below.",
+      "draft_keywords": [
+        "Fable 5.2",
+        "Seedance 2.5",
+        "AI video"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.0,
+        "word_overlap": 0.462,
+        "max_copied_run": 2
+      },
+      "top10_rank": 3
+    },
+    {
+      "id": "2122783998921642347",
+      "name": "omid",
+      "display_name": "omid",
+      "handle": "@omidaziz",
+      "views": 57266,
+      "views_label": "57,266",
+      "url": "https://x.com/omidaziz/status/2122783998921642347",
+      "created_at": "2026-11-17T20:08:39.000Z",
+      "posted_at": "2026-11-17T20:08:39.000Z",
+      "text": "Every AI video model I’m testing still struggles with opening a can.\n\nSeedance 2.5 gets close but the interaction looks awkward.\n\nKling 4 and Omni 1.2 Flash both have major physics hallucinations. https://t.co/BBZxHo1V90",
+      "original_en": "Every AI video model I’m testing still struggles with opening a can.\n\nSeedance 2.5 gets close but the interaction looks awkward.\n\nKling 4 and Omni 1.2 Flash both have major physics hallucinations. https://t.co/BBZxHo1V90",
+      "lang": "en",
+      "hook": "Honest failure test: 'every AI video model still struggles with opening a can' - Seedance 2.5 close, Kling 4 and Omni 1.2 Flash hallucinate physics - 57.3K views from 1.5K followers (still climbing from yesterday).",
+      "video_tip": "Do a 40K version: a Space Marine trying to open a ration tin across three models, side by side - small everyday physics fails travel well.",
+      "media": "video",
+      "followers_count": 1550,
+      "likes": 200,
+      "reposts": 2,
+      "bookmarks": 66,
+      "replies": 26,
+      "quotes": 0,
+      "self_quote": false,
+      "board_rank": 4,
+      "draft_en": "Simple test for any AI video model: open a can.\n\nNone of them pass yet. Seedance 2.5 comes closest, but the hand-on-can contact still looks clumsy. Kling 4 and Omni 1.2 Flash fall apart with serious physics hallucinations.",
+      "draft_keywords": [
+        "AI video model",
+        "Seedance 2.5",
+        "Kling 4",
+        "Flash"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.086,
+        "word_overlap": 0.44,
+        "max_copied_run": 6
+      },
+      "top10_rank": 4
+    },
+    {
+      "id": "2123155980213166173",
+      "name": "Harry Pro",
+      "display_name": "Harry Pro",
+      "handle": "@ProCreatorHarry",
+      "views": 44230,
+      "views_label": "44,230",
+      "url": "https://x.com/ProCreatorHarry/status/2123155980213166173",
+      "created_at": "2026-11-18T20:46:46.000Z",
+      "posted_at": "2026-11-18T20:46:46.000Z",
+      "text": "Beyond prompts, into real-time direction.\n\nPika Enact lets you direct AI actors, shape dialogue, emotions, and movements through conversation. Call “Action” to turn rehearsal into a continuous take.\n\nAn exciting step for AI filmmaking. @pika_labs\n\nhttps://t.co/M8DNmoL2xs https://t.co/fTnX8gHeOz https://t.co/aXZip0LZm3",
+      "original_en": "Beyond prompts, into real-time direction.\n\nPika Enact lets you direct AI actors, shape dialogue, emotions, and movements through conversation. Call “Action” to turn rehearsal into a continuous take.\n\nAn exciting step for AI filmmaking. @pika_labs\n\nhttps://t.co/M8DNmoL2xs https://t.co/fTnX8gHeOz https://t.co/aXZip0LZm3",
+      "lang": "en",
+      "hook": "Creator quote-post of Pika Enact ('Beyond prompts, into real-time direction') - 44.2K views, 301 likes, 0 bookmarks; part of a coordinated launch wave (likely paid).",
+      "video_tip": "No action needed; note the phrase 'directing, not prompting' as the week's buzz line.",
+      "media": "video",
+      "followers_count": 39990,
+      "likes": 301,
+      "reposts": 0,
+      "bookmarks": 0,
+      "replies": 2,
+      "quotes": 0,
+      "self_quote": false,
+      "board_rank": 6,
+      "draft_en": "Prompting is turning into directing.\n\nWith Pika Enact you rehearse with AI actors by chatting with them - their lines, their feelings, where they move. Say \"Action\" and the rehearsal rolls straight into one unbroken take.\n\nA real step forward for AI filmmaking. @pika_labs",
+      "draft_keywords": [
+        "Pika Enact",
+        "AI filmmaking"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.049,
+        "word_overlap": 0.391,
+        "max_copied_run": 5
+      },
+      "top10_rank": 6
+    },
+    {
+      "id": "2123138921022595509",
+      "name": "Kuria | AI",
+      "display_name": "Kuria | AI",
+      "handle": "@I_amShiti",
+      "views": 30648,
+      "views_label": "30,648",
+      "url": "https://x.com/I_amShiti/status/2123138921022595509",
+      "created_at": "2026-11-18T19:38:59.000Z",
+      "posted_at": "2026-11-18T19:38:59.000Z",
+      "text": "AI video creation is moving beyond prompts. We're getting closer to actually directing scenes.\n\nPika Enact introduces a new way to interact with AI-generated videos. You can reposition actors and objects while the scene is playing, talk to actors and direct their dialogue or https://t.co/nHRWRyDEZZ https://t.co/kJxpVkPicG",
+      "original_en": "AI video creation is moving beyond prompts. We're getting closer to actually directing scenes.\n\nPika Enact introduces a new way to interact with AI-generated videos. You can reposition actors and objects while the scene is playing, talk to actors and direct their dialogue or https://t.co/nHRWRyDEZZ https://t.co/kJxpVkPicG",
+      "lang": "en",
+      "hook": "Another Pika Enact explainer quote-post ('moving beyond prompts... actually directing scenes') - 30.6K views, 104 likes (campaign-style reach).",
+      "video_tip": "Same lesson: 'direct, don't prompt' framing is everywhere this week - use it in a caption over a behind-the-scenes clip of how you stage a 40K shot.",
+      "media": "video",
+      "followers_count": 101801,
+      "likes": 104,
+      "reposts": 67,
+      "bookmarks": 2,
+      "replies": 43,
+      "quotes": 0,
+      "self_quote": false,
+      "board_rank": 7,
+      "draft_en": "Directing, not just prompting - that is where AI video is heading.\n\nPika Enact lets you step into a generated scene while it plays: drag actors and props to new spots, chat with the cast and steer what they say.",
+      "draft_keywords": [
+        "AI video",
+        "Pika Enact"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.0,
+        "word_overlap": 0.333,
+        "max_copied_run": 2
+      },
+      "top10_rank": 7
+    },
+    {
+      "id": "2123124839204663338",
+      "name": "Higgsfield AI 🧩",
+      "display_name": "Higgsfield AI 🧩",
+      "handle": "@higgsfield_ai",
+      "views": 25341,
+      "views_label": "25,341",
+      "url": "https://x.com/higgsfield_ai/status/2123124839204663338",
+      "created_at": "2026-11-18T18:43:02.000Z",
+      "posted_at": "2026-11-18T18:43:02.000Z",
+      "text": "Stop prompting emotions.\n\nThis AI commercial explores five emotions. We didn't prompt any of them.\n\nInstead, we focused on:\n\n&gt; Physical details\n&gt; Camera direction\n&gt; Character motivation\n\nHere’s how we did it 🧵 https://t.co/VaG4GhppFj",
+      "original_en": "Stop prompting emotions.\n\nThis AI commercial explores five emotions. We didn't prompt any of them.\n\nInstead, we focused on:\n\n&gt; Physical details\n&gt; Camera direction\n&gt; Character motivation\n\nHere’s how we did it 🧵 https://t.co/VaG4GhppFj",
+      "lang": "en",
+      "hook": "'Stop prompting emotions' - an AI commercial with five emotions, made by prompting physical details, camera direction and character motivation instead - 25.3K views, 316 bookmarks, thread.",
+      "video_tip": "For your dramatic-dialogue shots: prompt a Guardsman's trembling hands and a slow push-in instead of 'scared', then post the clip with a 3-point 'how' thread.",
+      "media": "video",
+      "followers_count": 257218,
+      "likes": 363,
+      "reposts": 42,
+      "bookmarks": 316,
+      "replies": 36,
+      "quotes": 3,
+      "self_quote": false,
+      "board_rank": 8,
+      "draft_en": "Five emotions in one AI video commercial, and not one of them was written into a prompt.\n\nThe trick is to skip naming the feeling. Describe the physical details, direct the camera, give the character a motivation - the emotion shows up on its own.\n\nFull breakdown in the thread 🧵",
+      "draft_keywords": [
+        "AI video"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.0,
+        "word_overlap": 0.391,
+        "max_copied_run": 2
+      },
+      "top10_rank": 8
+    },
+    {
+      "id": "2123098732770263485",
+      "name": "Runway",
+      "display_name": "Runway",
+      "handle": "@runwayml",
+      "views": 18865,
+      "views_label": "18,865",
+      "url": "https://x.com/runwayml/status/2123098732770263485",
+      "created_at": "2026-11-18T16:59:17.000Z",
+      "posted_at": "2026-11-18T16:59:17.000Z",
+      "text": "The world’s premier AI Festival returns.\n\nAIF 2027 will once again celebrate the work being made with AI across Film, Design, Fashion, Advertising and Gaming. With gala screenings in New York, Los Angeles and Tokyo.\n\nSubmissions are now open at https://t.co/YgXwT8sUXB https://t.co/e2CvcAkSCO",
+      "original_en": "The world’s premier AI Festival returns.\n\nAIF 2027 will once again celebrate the work being made with AI across Film, Design, Fashion, Advertising and Gaming. With gala screenings in New York, Los Angeles and Tokyo.\n\nSubmissions are now open at https://t.co/YgXwT8sUXB https://t.co/e2CvcAkSCO",
+      "lang": "en",
+      "hook": "Runway opens submissions for AI Festival 2027 (film, design, fashion, ads, gaming; screenings NY, LA, Tokyo) - 18.9K views.",
+      "video_tip": "Worth considering: cut a 2-3 min 40K or sci-fi short as a festival submission and post the 'submitted' trailer - festival framing adds weight.",
+      "media": "video",
+      "followers_count": 297604,
+      "likes": 158,
+      "reposts": 25,
+      "bookmarks": 94,
+      "replies": 24,
+      "quotes": 14,
+      "self_quote": false,
+      "board_rank": 9,
+      "draft_en": "Runway's AI Festival is coming back as AIF 2027.\n\nIt honors AI-made work in film and design, plus fashion, gaming and advertising, and the gala screenings will hit Tokyo, Los Angeles and New York.\n\nGot an AI film ready? Entries are open now: https://t.co/YgXwT8sUXB",
+      "draft_keywords": [
+        "AI film"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.0,
+        "word_overlap": 0.615,
+        "max_copied_run": 3
+      },
+      "top10_rank": 9
+    },
+    {
+      "id": "2123118145552749015",
+      "name": "Google Labs",
+      "display_name": "Google Labs",
+      "handle": "@GoogleLabs",
+      "views": 16842,
+      "views_label": "16,842",
+      "url": "https://x.com/GoogleLabs/status/2123118145552749015",
+      "created_at": "2026-11-18T18:16:26.000Z",
+      "posted_at": "2026-11-18T18:16:26.000Z",
+      "text": "Create a world from one sentence, then change it while you’re standing inside 🌐\n\nProject Genie now runs on @GoogleDeepMind’s Genie 4. Here’s what’s new:\n— Prompt mid-session to edit your world live\n— Create worlds conversationally with the help of a new agent\n— Explore & remix other users' worlds in the gallery\n\nAvailable now to eligible Google AI Ultra subscribers",
+      "original_en": "Create a world from one sentence, then change it while you’re standing inside 🌐\n\nProject Genie now runs on @GoogleDeepMind’s Genie 4. Here’s what’s new:\n— Prompt mid-session to edit your world live\n— Create worlds conversationally with the help of a new agent\n— Explore & remix other users' worlds in the gallery\n\nAvailable now to eligible Google AI Ultra subscribers",
+      "lang": "en",
+      "hook": "Google Labs: Project Genie now runs on Genie 4 - build a world from one sentence and edit it live while inside it - 16.8K views, 302 likes.",
+      "video_tip": "Make a 'world from one sentence' bit: one line of 40K lore typed on screen, then cut to the generated hive city - show the prompt as part of the video.",
+      "media": "video",
+      "followers_count": 228802,
+      "likes": 302,
+      "reposts": 31,
+      "bookmarks": 69,
+      "replies": 15,
+      "quotes": 6,
+      "self_quote": false,
+      "board_rank": 10,
+      "draft_en": "Project Genie is now powered by Genie 4 from @GoogleDeepMind, one of the most fun world models to play with.\n\nOne sentence builds a world, and you can keep reshaping it from the inside:\n- edit it live with fresh prompts mid-session\n- build worlds by chatting with a new agent\n- browse and remix what others made in the gallery\n\nIf you're on Google AI Ultra and eligible, it's live today.",
+      "draft_keywords": [
+        "models"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.0,
+        "word_overlap": 0.533,
+        "max_copied_run": 3
+      },
+      "top10_rank": 10
+    },
+    {
+      "id": "2123083834355007970",
+      "name": "Krea",
+      "display_name": "Krea",
+      "handle": "@krea_ai",
+      "views": 7568,
+      "views_label": "7,568",
+      "url": "https://x.com/krea_ai/status/2123083834355007970",
+      "created_at": "2026-11-18T16:00:05.000Z",
+      "posted_at": "2026-11-18T16:00:05.000Z",
+      "text": "introducing the Krea Black Friday sale - the absolute best prices in generative AI.\n\n• 75% less for Seedance 2.5\n• 62% less for Nano Banana Pro\n• 45% less for Kling 4\n\nget it before Nov 30 👇 https://t.co/T139mRidoq",
+      "original_en": "introducing the Krea Black Friday sale - the absolute best prices in generative AI.\n\n• 75% less for Seedance 2.5\n• 62% less for Nano Banana Pro\n• 45% less for Kling 4\n\nget it before Nov 30 👇 https://t.co/T139mRidoq",
+      "lang": "en",
+      "hook": "Krea Black Friday sale: 75% less for Seedance 2.5, 62% for Nano Banana Pro, 45% for Kling 4 - 7.6K views, 87 likes.",
+      "video_tip": "Price drops = good week to batch-render Seedance 2.5 shots; no post needed.",
+      "media": "video",
+      "followers_count": 126020,
+      "likes": 87,
+      "reposts": 14,
+      "bookmarks": 34,
+      "replies": 14,
+      "quotes": 3,
+      "self_quote": false,
+      "board_rank": 11
+    },
+    {
+      "id": "2122856162689491233",
+      "name": "ImagineArt",
+      "display_name": "ImagineArt",
+      "handle": "@ImagineArt_X",
+      "views": 6614,
+      "views_label": "6,614",
+      "url": "https://x.com/ImagineArt_X/status/2122856162689491233",
+      "created_at": "2026-11-18T00:55:24.000Z",
+      "posted_at": "2026-11-18T00:55:24.000Z",
+      "text": "there is a GTA 6 mod for AI video models: Imagine MCP x @claudeai's Fable 5.2.\n\nhear us out. gameplay videos are hard to recreate, even with Seedance 2.5. why? unlike AI models, NPCs are not strictly physics-faithful.\n\nthe fix? absurdly simple: throw Blender in between Fable 5.2 and Imagine MCP.\n\nand type one prompt: \"grey mannequin previz, canned game animations, synced idle loops, physics glitches, smooth game camera.\"\n\nvoilà, consistent glitchy bad-physics gameplay.",
+      "original_en": "there is a GTA 6 mod for AI video models: Imagine MCP x @claudeai's Fable 5.2.\n\nhear us out. gameplay videos are hard to recreate, even with Seedance 2.5. why? unlike AI models, NPCs are not strictly physics-faithful.\n\nthe fix? absurdly simple: throw Blender in between Fable 5.2 and Imagine MCP.\n\nand type one prompt: \"grey mannequin previz, canned game animations, synced idle loops, physics glitches, smooth game camera.\"\n\nvoilà, consistent glitchy bad-physics gameplay.",
+      "lang": "en",
+      "hook": "'GTA 6 mod for AI video': Fable 5.2 + Blender previz in the middle + one prompt gives glitchy game-physics footage - 6.6K views.",
+      "video_tip": "Fake a 40K 'video game' clip: grey-mannequin previz, game HUD, canned animation loops - 'Warhammer game that doesn't exist' is a proven format.",
+      "media": "video",
+      "followers_count": 23430,
+      "likes": 27,
+      "reposts": 3,
+      "bookmarks": 2,
+      "replies": 11,
+      "quotes": 0,
+      "self_quote": false,
+      "board_rank": 12
+    },
+    {
+      "id": "2123070353215803529",
+      "name": "Raven Morgoth",
+      "display_name": "Raven Morgoth",
+      "handle": "@morgoth_raven",
+      "views": 5803,
+      "views_label": "5,803",
+      "url": "https://x.com/morgoth_raven/status/2123070353215803529",
+      "created_at": "2026-11-18T15:06:31.000Z",
+      "posted_at": "2026-11-18T15:06:31.000Z",
+      "text": "If you’re struggling with continuous fails from Seedance 2.5 while animating complex scenes, try blocking them in Blender first. I just started working with Claude Fable 5.2 and Blender, and the results have completely changed my workflow. Simple 3D blocking with the right Seedance instructions produces shots I couldn’t get through prompting alone (SD failed almost every time)\nBlender previs and Seedance 2.5 gives you beautiful photorealistic output. I’m absolutely blown away by this approach",
+      "original_en": "If you’re struggling with continuous fails from Seedance 2.5 while animating complex scenes, try blocking them in Blender first. I just started working with Claude Fable 5.2 and Blender, and the results have completely changed my workflow. Simple 3D blocking with the right Seedance instructions produces shots I couldn’t get through prompting alone (SD failed almost every time)\nBlender previs and Seedance 2.5 gives you beautiful photorealistic output. I’m absolutely blown away by this approach",
+      "lang": "en",
+      "hook": "Workflow tip: block complex scenes in Blender (with Claude Fable 5.2) before Seedance 2.5 - 5.8K views, 151 likes, 120 bookmarks from 7K followers.",
+      "video_tip": "Show a 10s split: grey Blender blocking on the left, finished Seedance 2.5 40K shot on the right - previs-to-final comparisons earn bookmarks.",
+      "media": "video",
+      "followers_count": 7079,
+      "likes": 151,
+      "reposts": 16,
+      "bookmarks": 120,
+      "replies": 16,
+      "quotes": 1,
+      "self_quote": false,
+      "board_rank": 13
+    },
+    {
+      "id": "2122805280861782085",
+      "name": "Cortex",
+      "display_name": "Cortex",
+      "handle": "@0xCortexq",
+      "views": 5333,
+      "views_label": "5,333",
+      "url": "https://x.com/0xCortexq/status/2122805280861782085",
+      "created_at": "2026-11-17T21:33:13.000Z",
+      "posted_at": "2026-11-17T21:33:13.000Z",
+      "text": "chatgpt 6.2 goes straight to the whale. claude fable 5.2 stays on the swan\n\neach wrote one prompt for seedance 2.5: one unbroken shot, snake out of a persian rug, becomes a swan, dives into the sea, becomes a whale\n\none run each, no fixes. chatgpt side ran on 6.2 early access\n\ntop: whale arrives about 2/3 in\nbottom: swan over a stormy sea, whale only in the last 2 seconds\n\n@Inomsxbt wrote that the \"winner\" depends on which chart you look at. here it depends on what you want from the shot\n\nwhich ending works better for you?",
+      "original_en": "chatgpt 6.2 goes straight to the whale. claude fable 5.2 stays on the swan\n\neach wrote one prompt for seedance 2.5: one unbroken shot, snake out of a persian rug, becomes a swan, dives into the sea, becomes a whale\n\none run each, no fixes. chatgpt side ran on 6.2 early access\n\ntop: whale arrives about 2/3 in\nbottom: swan over a stormy sea, whale only in the last 2 seconds\n\n@Inomsxbt wrote that the \"winner\" depends on which chart you look at. here it depends on what you want from the shot\n\nwhich ending works better for you?",
+      "lang": "en",
+      "hook": "Same one-shot prompt, two LLM directors (ChatGPT 6.2 vs Claude Fable 5.2) writing for Seedance 2.5: rug-snake to swan to whale - 5.3K views from 29 followers.",
+      "video_tip": "Run a two-director test on a 40K transformation shot (servo-skull to Thunderhawk) and ask 'which ending works better?'",
+      "media": "video",
+      "followers_count": 29,
+      "likes": 11,
+      "reposts": 6,
+      "bookmarks": 8,
+      "replies": 5,
+      "quotes": 2,
+      "self_quote": false,
+      "board_rank": 14
+    },
+    {
+      "id": "2123043238785556801",
+      "name": "Kling AI",
+      "display_name": "Kling AI",
+      "handle": "@Kling_ai",
+      "views": 4432,
+      "views_label": "4,432",
+      "url": "https://x.com/Kling_ai/status/2123043238785556801",
+      "created_at": "2026-11-18T13:18:47.000Z",
+      "posted_at": "2026-11-18T13:18:47.000Z",
+      "text": "Bring your ideas to life with Kling Image 4.0. #KlingAI #KlingImage4\n\nNow live on @eachlabs https://t.co/hmpeDpDTBO",
+      "original_en": "Bring your ideas to life with Kling Image 4.0. #KlingAI #KlingImage4\n\nNow live on @eachlabs https://t.co/hmpeDpDTBO",
+      "lang": "en",
+      "hook": "Kling Image 4.0 platform rollout post ('now live on eachlabs') - 4.4K views, 32 likes; one of many Kling 4.0 distribution posts.",
+      "video_tip": "Low priority; Kling Image 4.0 is still the image-model news of the week if you want to test 8K character sheets.",
+      "media": "text",
+      "followers_count": 139504,
+      "likes": 32,
+      "reposts": 1,
+      "bookmarks": 6,
+      "replies": 3,
+      "quotes": 0,
+      "self_quote": false,
+      "board_rank": 15
+    },
+    {
+      "id": "2122910953717260596",
+      "name": "BGKuaci",
+      "display_name": "BGKuaci",
+      "handle": "@BGKuaci",
+      "views": 2989,
+      "views_label": "2,989",
+      "url": "https://x.com/BGKuaci/status/2122910953717260596",
+      "created_at": "2026-11-18T04:33:07.000Z",
+      "posted_at": "2026-11-18T04:33:07.000Z",
+      "text": "A 12-meter crocodile smashed their canoe… then they swam right into the nest of a 15-meter electric eel \nOne shock killed the crocodile. Now it’s coming onto land\n “Next time… we walk home.”\n\nCinematic AI video generated with @AkoolInc\n\nJoin the AKOOL AI FILM CHALLENGE! 🎬 Win https://t.co/MhXqyb9jhw",
+      "original_en": "A 12-meter crocodile smashed their canoe… then they swam right into the nest of a 15-meter electric eel \nOne shock killed the crocodile. Now it’s coming onto land\n “Next time… we walk home.”\n\nCinematic AI video generated with @AkoolInc\n\nJoin the AKOOL AI FILM CHALLENGE! 🎬 Win https://t.co/MhXqyb9jhw",
+      "lang": "en",
+      "hook": "Creature-feature AI short (12m crocodile vs 15m electric eel) for the Akool AI film challenge - 3.0K views.",
+      "video_tip": "Monster-escalation loglines work: 'a Carnifex smashed the Chimera... then it walked into a Ripper swarm nest'.",
+      "media": "video",
+      "followers_count": 12101,
+      "likes": 25,
+      "reposts": 2,
+      "bookmarks": 3,
+      "replies": 4,
+      "quotes": 0,
+      "self_quote": false,
+      "board_rank": 16
+    },
+    {
+      "id": "2123189519143096556",
+      "name": "latent moss",
+      "display_name": "latent moss",
+      "handle": "@latentmoss",
+      "views": 2060,
+      "views_label": "2,060",
+      "url": "https://x.com/latentmoss/status/2123189519143096556",
+      "created_at": "2026-11-18T23:00:02.000Z",
+      "posted_at": "2026-11-18T23:00:02.000Z",
+      "text": "told fable 5.2 to make a short film out of some midjourney image, using blender.\nthere isn't a deeper meaning (that I know of). https://t.co/mfBcdWMbUq",
+      "original_en": "told fable 5.2 to make a short film out of some midjourney image, using blender.\nthere isn't a deeper meaning (that I know of). https://t.co/mfBcdWMbUq",
+      "lang": "en",
+      "hook": "Low-key 'told Fable 5.2 to make a short film out of a Midjourney image, using Blender' - 2.1K views from 1.4K followers.",
+      "video_tip": "Try it on one of your Midjourney 40K stills: let a code model build the Blender scene, then post the odd result with a deadpan one-liner.",
+      "media": "video",
+      "followers_count": 1445,
+      "likes": 54,
+      "reposts": 3,
+      "bookmarks": 18,
+      "replies": 3,
+      "quotes": 1,
+      "self_quote": false,
+      "board_rank": 17
+    },
+    {
+      "id": "2123120254398472578",
+      "name": "Ryan Lightbourn",
+      "display_name": "Ryan Lightbourn",
+      "handle": "@ryanlightbourn",
+      "views": 1964,
+      "views_label": "1,964",
+      "url": "https://x.com/ryanlightbourn/status/2123120254398472578",
+      "created_at": "2026-11-18T18:24:48.000Z",
+      "posted_at": "2026-11-18T18:24:48.000Z",
+      "text": "Goblin team walks us through the future of cinema.\n\nThe \"Gods Don't Give Gifts\" prologue at Lumara was spectacular.\n\nSo hyped to watch this on the big screen ❤️\nhttps://t.co/b89rrFhRMG",
+      "original_en": "Goblin team walks us through the future of cinema.\n\nThe \"Gods Don't Give Gifts\" prologue at Lumara was spectacular.\n\nSo hyped to watch this on the big screen ❤️\nhttps://t.co/b89rrFhRMG",
+      "lang": "en",
+      "hook": "Quote of Gossip_Goblin's BTS doc: the 'Gods Don't Give Gifts' prologue at Lumara was spectacular - 2.0K views.",
+      "video_tip": "Shows the halo around Goblin's doc - quoting a big creator's release with a personal reaction is easy borrowed reach.",
+      "media": "text",
+      "followers_count": 15900,
+      "likes": 63,
+      "reposts": 2,
+      "bookmarks": 16,
+      "replies": 5,
+      "quotes": 0,
+      "self_quote": false,
+      "board_rank": 18
+    },
+    {
+      "id": "2123115809094750502",
+      "name": "Eliott Mogenet",
+      "display_name": "Eliott Mogenet",
+      "handle": "@eliott__mogenet",
+      "views": 1961,
+      "views_label": "1,961",
+      "url": "https://x.com/eliott__mogenet/status/2123115809094750502",
+      "created_at": "2026-11-18T18:07:09.000Z",
+      "posted_at": "2026-11-18T18:07:09.000Z",
+      "text": "This documentary should be required viewing for anyone who thinks AI filmmaking is \"pushing a button.\" \n\nBehind every great AI film: hours of human craft.  \n\nAI isn't replacing teams of specialists. It's just one more skill they have to master. https://t.co/T1lOO3UAzY",
+      "original_en": "This documentary should be required viewing for anyone who thinks AI filmmaking is \"pushing a button.\" \n\nBehind every great AI film: hours of human craft.  \n\nAI isn't replacing teams of specialists. It's just one more skill they have to master. https://t.co/T1lOO3UAzY",
+      "lang": "en",
+      "hook": "Quote of the same doc: 'required viewing for anyone who thinks AI filmmaking is pushing a button... hours of human craft' - 2.0K views.",
+      "video_tip": "Post your own 60s 'this is not pushing a button' BTS: prompt notes, rejected takes, edit timeline of one 40K short.",
+      "media": "text",
+      "followers_count": 1165,
+      "likes": 39,
+      "reposts": 3,
+      "bookmarks": 16,
+      "replies": 7,
+      "quotes": 0,
+      "self_quote": false,
+      "board_rank": 19
+    },
+    {
+      "id": "2123231695860281554",
+      "name": "Alex Koumpas",
+      "display_name": "Alex Koumpas",
+      "handle": "@alexkoumpas",
+      "views": 1029,
+      "views_label": "1,029",
+      "url": "https://x.com/alexkoumpas/status/2123231695860281554",
+      "created_at": "2026-11-19T01:47:38.000Z",
+      "posted_at": "2026-11-19T01:47:38.000Z",
+      "text": "i’ve had 12 people ask me if Claude Fable 5.2 will replace diffusion models like Seedance 2.5 or H3 Max.\n\ni made this video to explain where each approach works best.\n\nmy bet: diffusion for realistic appearance + code for precise control - a hybrid system that uses both.\n\nwhere do you think coding models will outperform diffusion first?",
+      "original_en": "i’ve had 12 people ask me if Claude Fable 5.2 will replace diffusion models like Seedance 2.5 or H3 Max.\n\ni made this video to explain where each approach works best.\n\nmy bet: diffusion for realistic appearance + code for precise control - a hybrid system that uses both.\n\nwhere do you think coding models will outperform diffusion first?",
+      "lang": "en",
+      "hook": "Explainer: will Claude Fable 5.2 replace diffusion models like Seedance 2.5 or H3 Max? Bet on a hybrid - 1.0K views from 550 followers.",
+      "video_tip": "Skip; the code-vs-diffusion debate is loud this week but niche for your audience.",
+      "media": "video",
+      "followers_count": 550,
+      "likes": 26,
+      "reposts": 4,
+      "bookmarks": 8,
+      "replies": 5,
+      "quotes": 0,
+      "self_quote": false,
+      "board_rank": 20
+    },
+    {
+      "id": "2123080986154180798",
+      "name": "0xKuriyama",
+      "display_name": "0xKuriyama",
+      "handle": "@Kuriyama890",
+      "views": 697,
+      "views_label": "697",
+      "url": "https://x.com/Kuriyama890/status/2123080986154180798",
+      "created_at": "2026-11-18T15:48:46.000Z",
+      "posted_at": "2026-11-18T15:48:46.000Z",
+      "text": "This 4K AI movies is amazing !!🔥🔥\n\n\"No more waiting at the gates of our own empire.\"\n\nTHE SEVEN HILLS — a sci-fi Roman short.\nMade fully with 4K Seedance inside CapCut Video Studio. 🔥\n@capcutapp \n#capcutseedance25 #capcutdraft #capcutcpp https://t.co/4CG3eqnYnp",
+      "original_en": "This 4K AI movies is amazing !!🔥🔥\n\n\"No more waiting at the gates of our own empire.\"\n\nTHE SEVEN HILLS — a sci-fi Roman short.\nMade fully with 4K Seedance inside CapCut Video Studio. 🔥\n@capcutapp \n#capcutseedance25 #capcutdraft #capcutcpp https://t.co/4CG3eqnYnp",
+      "lang": "en",
+      "hook": "'THE SEVEN HILLS' - a sci-fi Roman short made fully with 4K Seedance inside CapCut Video Studio - 697 views (CapCut challenge entry).",
+      "video_tip": "Closest to your niche: sci-fi history mashups. Imperial Rome is already a 40K visual cousin - a 'gates of the Imperium' teaser fits your style.",
+      "media": "video",
+      "followers_count": 2477,
+      "likes": 26,
+      "reposts": 3,
+      "bookmarks": 2,
+      "replies": 12,
+      "quotes": 0,
+      "self_quote": false,
+      "board_rank": 21
+    }
+  ],
+  "outsiders_count": 20,
+  "virals": [
+    {
+      "id": "2123127584342921652",
+      "name": "Pika",
+      "display_name": "Pika",
+      "handle": "@pika_labs",
+      "views": 409703,
+      "views_label": "409,703",
+      "url": "https://x.com/pika_labs/status/2123127584342921652",
+      "created_at": "2026-11-18T18:53:56.000Z",
+      "posted_at": "2026-11-18T18:53:56.000Z",
+      "text": "Today, we’re excited to share Enact, a research preview of scenes that respond to you.\n\nEnact represents a new way of making AI video, one that’s designed to mimic the experience of directing on set. Built on Pika H3 Flex, it allows a creator to interact with “actors,” manually re-stage a scene, and manipulate the camera—all in real time.\n\nWe think this is the beginning of a new paradigm for creation. Read more and reach out for a demo below.",
+      "original_en": "Today, we’re excited to share Enact, a research preview of scenes that respond to you.\n\nEnact represents a new way of making AI video, one that’s designed to mimic the experience of directing on set. Built on Pika H3 Flex, it allows a creator to interact with “actors,” manually re-stage a scene, and manipulate the camera—all in real time.\n\nWe think this is the beginning of a new paradigm for creation. Read more and reach out for a demo below.",
+      "lang": "en",
+      "hook": "Launch: Pika Enact, a research preview where you direct AI 'actors', re-stage a scene and move the camera in real time (Pika H3 Flex) - 409.7K views, 1,385 likes, 1,013 bookmarks; reach looks boosted (0.3% like rate) and was echoed by a wave of near-identical creator posts.",
+      "video_tip": "Act it out yourself: a 20s 'directing' skit where you shout notes at a Space Marine who keeps misreading them - the 'directing AI actors' idea is the hook of the week.",
+      "media": "video",
+      "followers_count": 152094,
+      "likes": 1385,
+      "reposts": 189,
+      "bookmarks": 1013,
+      "replies": 198,
+      "quotes": 192,
+      "self_quote": false,
+      "board_rank": 1,
+      "draft_en": "Pika Enact is out as a research preview, and it treats AI video like a film set instead of a prompt box.\n\nYou talk to the \"actors\", move people around the scene yourself and steer the camera while it all runs live. Under the hood sits Pika H3 Flex.\n\nIf this works, AI filmmaking starts to feel like directing. Details and demo requests are linked below.",
+      "draft_keywords": [
+        "Pika Enact",
+        "AI video",
+        "AI filmmaking"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.0,
+        "word_overlap": 0.375,
+        "max_copied_run": 3
+      },
+      "top10_rank": 1,
+      "why_hit": {
+        "trend_match": 35,
+        "verdict": "visual",
+        "matched_keywords": [
+          "AI video"
+        ],
+        "media": "video",
+        "note": "",
+        "topic": "Directing, not prompting"
+      }
+    },
+    {
+      "id": "2123079065360126339",
+      "name": "Dreamina AI",
+      "display_name": "Dreamina AI",
+      "handle": "@dreamina_ai",
+      "views": 306573,
+      "views_label": "306,573",
+      "url": "https://x.com/dreamina_ai/status/2123079065360126339",
+      "created_at": "2026-11-18T15:41:08.000Z",
+      "posted_at": "2026-11-18T15:41:08.000Z",
+      "text": "Dreamina Black Friday Sale is Live!\n\n🔒 Unlock UNLIMITED access to our video and image models.\n\n🎬 Unlimited Video Generation\n> Flagship Seedance 2.5: up to 30 days\n> Seedance 2.0 series: up to 30 days\n> Unlimited generation of videos up to 30 sec at 1080p\n\n🖼️ Unlimited Image Generation\n> Seedream 5.5: up to 60 days\n> GPT Image and Nano Banana series: up to 60 days\n> Seedream 5.0 Flash: up to 365 days\n\n🔥 Bonus:\n📣 Credit Purchase Sale: up to 83% off - best deal of the year.\n🕒 Limited-time offer. Stock up for a full year.\n\n🎁 Special Giveaway: 30 lucky winners will each win a one-year Advanced Plan!\nHow to Enter:\n1. Repost and follow @dreamina_ai.\n2. Comment below and share your experience using our features (motion studio, marketing studio, drama studio... )\nDon't miss out. Explore our latest features and create more with Dreamina!\n\n#DreaminaAI #DreaminaSeedance2_5 #blackfriday #DreaminaSeedream5_5",
+      "original_en": "Dreamina Black Friday Sale is Live!\n\n🔒 Unlock UNLIMITED access to our video and image models.\n\n🎬 Unlimited Video Generation\n> Flagship Seedance 2.5: up to 30 days\n> Seedance 2.0 series: up to 30 days\n> Unlimited generation of videos up to 30 sec at 1080p\n\n🖼️ Unlimited Image Generation\n> Seedream 5.5: up to 60 days\n> GPT Image and Nano Banana series: up to 60 days\n> Seedream 5.0 Flash: up to 365 days\n\n🔥 Bonus:\n📣 Credit Purchase Sale: up to 83% off - best deal of the year.\n🕒 Limited-time offer. Stock up for a full year.\n\n🎁 Special Giveaway: 30 lucky winners will each win a one-year Advanced Plan!\nHow to Enter:\n1. Repost and follow @dreamina_ai.\n2. Comment below and share your experience using our features (motion studio, marketing studio, drama studio... )\nDon't miss out. Explore our latest features and create more with Dreamina!\n\n#DreaminaAI #DreaminaSeedance2_5 #blackfriday #DreaminaSeedream5_5",
+      "lang": "en",
+      "hook": "Dreamina Black Friday sale: unlimited Seedance 2.5 (up to 30 days) and Seedream 5.5 (up to 60 days) plus a giveaway - 306.6K views but 632 likes (promoted-looking).",
+      "video_tip": "Skip the sale angle; if you buy unlimited Seedance time, post a 'what I made with 30 days unlimited' 40K montage later in the week.",
+      "media": "photo",
+      "followers_count": 31460,
+      "likes": 632,
+      "reposts": 194,
+      "bookmarks": 505,
+      "replies": 224,
+      "quotes": 66,
+      "self_quote": false,
+      "board_rank": 2,
+      "draft_en": "Dreamina just switched on its Black Friday Sale, and the headline is unlimited generation.\n\nVideo: flagship Seedance 2.5 and the Seedance 2.0 series stay unlimited for as long as 30 days, with clips of up to 30 sec at 1080p.\nImages: Seedream 5.5 plus the GPT Image and Nano Banana series run as long as 60 days, and Seedream 5.0 Flash goes to 365 days.\n\nCredit packs are cut by up to 83% as well, and 30 people will win a one-year Advanced Plan. Limited time only.",
+      "draft_keywords": [
+        "Black Friday Sale",
+        "Seedance 2.5",
+        "Seedream 5.5",
+        "Nano Banana",
+        "Flash"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.095,
+        "word_overlap": 0.683,
+        "max_copied_run": 6
+      },
+      "top10_rank": 2,
+      "why_hit": {
+        "trend_match": 83,
+        "verdict": "trend",
+        "matched_keywords": [
+          "Seedance 2.5",
+          "models",
+          "Black Friday Sale",
+          "Nano Banana",
+          "Flash"
+        ],
+        "media": "image",
+        "note": "",
+        "topic": "Previs-first Seedance workflows"
+      }
+    },
+    {
+      "id": "2122916879824306422",
+      "name": "Vini",
+      "display_name": "Vini",
+      "handle": "@Viniai_",
+      "views": 75870,
+      "views_label": "75,870",
+      "url": "https://x.com/Viniai_/status/2122916879824306422",
+      "created_at": "2026-11-18T04:56:40.000Z",
+      "posted_at": "2026-11-18T04:56:40.000Z",
+      "text": "This AI video is an Absolute Masterpiece🔥\n\nMade by Fable 5.2 + Seedance 2.5 is unbelievable\n\nPrompt below: https://t.co/l9MBLeazBc",
+      "original_en": "This AI video is an Absolute Masterpiece🔥\n\nMade by Fable 5.2 + Seedance 2.5 is unbelievable\n\nPrompt below: https://t.co/l9MBLeazBc",
+      "lang": "en",
+      "hook": "Big-claim caption ('Absolute Masterpiece') on a Fable 5.2 + Seedance 2.5 video with 'prompt below' - 75.9K views, 1,175 likes, 733 bookmarks from 12.5K followers.",
+      "video_tip": "Post one 30-45s Seedance 2.5 40K battle clip with a two-line caption naming the tools and put the full prompt in the first reply - prompt-below posts pull bookmarks.",
+      "media": "video",
+      "followers_count": 12472,
+      "likes": 1175,
+      "reposts": 131,
+      "bookmarks": 733,
+      "replies": 174,
+      "quotes": 19,
+      "self_quote": false,
+      "board_rank": 3,
+      "draft_en": "Fable 5.2 paired with Seedance 2.5 just produced an AI video I can't stop rewatching.\n\nThe full prompt is waiting in the reply below.",
+      "draft_keywords": [
+        "Fable 5.2",
+        "Seedance 2.5",
+        "AI video"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.0,
+        "word_overlap": 0.462,
+        "max_copied_run": 2
+      },
+      "top10_rank": 3,
+      "why_hit": {
+        "trend_match": 73,
+        "verdict": "trend",
+        "matched_keywords": [
+          "Seedance 2.5",
+          "Fable 5.2",
+          "AI video"
+        ],
+        "media": "video",
+        "note": "",
+        "topic": "Directing, not prompting"
+      }
+    },
+    {
+      "id": "2122783998921642347",
+      "name": "omid",
+      "display_name": "omid",
+      "handle": "@omidaziz",
+      "views": 57266,
+      "views_label": "57,266",
+      "url": "https://x.com/omidaziz/status/2122783998921642347",
+      "created_at": "2026-11-17T20:08:39.000Z",
+      "posted_at": "2026-11-17T20:08:39.000Z",
+      "text": "Every AI video model I’m testing still struggles with opening a can.\n\nSeedance 2.5 gets close but the interaction looks awkward.\n\nKling 4 and Omni 1.2 Flash both have major physics hallucinations. https://t.co/BBZxHo1V90",
+      "original_en": "Every AI video model I’m testing still struggles with opening a can.\n\nSeedance 2.5 gets close but the interaction looks awkward.\n\nKling 4 and Omni 1.2 Flash both have major physics hallucinations. https://t.co/BBZxHo1V90",
+      "lang": "en",
+      "hook": "Honest failure test: 'every AI video model still struggles with opening a can' - Seedance 2.5 close, Kling 4 and Omni 1.2 Flash hallucinate physics - 57.3K views from 1.5K followers (still climbing from yesterday).",
+      "video_tip": "Do a 40K version: a Space Marine trying to open a ration tin across three models, side by side - small everyday physics fails travel well.",
+      "media": "video",
+      "followers_count": 1550,
+      "likes": 200,
+      "reposts": 2,
+      "bookmarks": 66,
+      "replies": 26,
+      "quotes": 0,
+      "self_quote": false,
+      "board_rank": 4,
+      "draft_en": "Simple test for any AI video model: open a can.\n\nNone of them pass yet. Seedance 2.5 comes closest, but the hand-on-can contact still looks clumsy. Kling 4 and Omni 1.2 Flash fall apart with serious physics hallucinations.",
+      "draft_keywords": [
+        "AI video model",
+        "Seedance 2.5",
+        "Kling 4",
+        "Flash"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.086,
+        "word_overlap": 0.44,
+        "max_copied_run": 6
+      },
+      "top10_rank": 4,
+      "why_hit": {
+        "trend_match": 83,
+        "verdict": "trend",
+        "matched_keywords": [
+          "Seedance 2.5",
+          "AI video",
+          "AI video model",
+          "Kling 4",
+          "Flash"
+        ],
+        "media": "video",
+        "note": "",
+        "topic": "Directing, not prompting"
+      }
+    },
+    {
+      "id": "2123155980213166173",
+      "name": "Harry Pro",
+      "display_name": "Harry Pro",
+      "handle": "@ProCreatorHarry",
+      "views": 44230,
+      "views_label": "44,230",
+      "url": "https://x.com/ProCreatorHarry/status/2123155980213166173",
+      "created_at": "2026-11-18T20:46:46.000Z",
+      "posted_at": "2026-11-18T20:46:46.000Z",
+      "text": "Beyond prompts, into real-time direction.\n\nPika Enact lets you direct AI actors, shape dialogue, emotions, and movements through conversation. Call “Action” to turn rehearsal into a continuous take.\n\nAn exciting step for AI filmmaking. @pika_labs\n\nhttps://t.co/M8DNmoL2xs https://t.co/fTnX8gHeOz https://t.co/aXZip0LZm3",
+      "original_en": "Beyond prompts, into real-time direction.\n\nPika Enact lets you direct AI actors, shape dialogue, emotions, and movements through conversation. Call “Action” to turn rehearsal into a continuous take.\n\nAn exciting step for AI filmmaking. @pika_labs\n\nhttps://t.co/M8DNmoL2xs https://t.co/fTnX8gHeOz https://t.co/aXZip0LZm3",
+      "lang": "en",
+      "hook": "Creator quote-post of Pika Enact ('Beyond prompts, into real-time direction') - 44.2K views, 301 likes, 0 bookmarks; part of a coordinated launch wave (likely paid).",
+      "video_tip": "No action needed; note the phrase 'directing, not prompting' as the week's buzz line.",
+      "media": "video",
+      "followers_count": 39990,
+      "likes": 301,
+      "reposts": 0,
+      "bookmarks": 0,
+      "replies": 2,
+      "quotes": 0,
+      "self_quote": false,
+      "board_rank": 6,
+      "draft_en": "Prompting is turning into directing.\n\nWith Pika Enact you rehearse with AI actors by chatting with them - their lines, their feelings, where they move. Say \"Action\" and the rehearsal rolls straight into one unbroken take.\n\nA real step forward for AI filmmaking. @pika_labs",
+      "draft_keywords": [
+        "Pika Enact",
+        "AI filmmaking"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.049,
+        "word_overlap": 0.391,
+        "max_copied_run": 5
+      },
+      "top10_rank": 6,
+      "why_hit": {
+        "trend_match": 35,
+        "verdict": "visual",
+        "matched_keywords": [
+          "Pika Enact"
+        ],
+        "media": "video",
+        "note": "",
+        "topic": "Directing, not prompting"
+      }
+    },
+    {
+      "id": "2123138921022595509",
+      "name": "Kuria | AI",
+      "display_name": "Kuria | AI",
+      "handle": "@I_amShiti",
+      "views": 30648,
+      "views_label": "30,648",
+      "url": "https://x.com/I_amShiti/status/2123138921022595509",
+      "created_at": "2026-11-18T19:38:59.000Z",
+      "posted_at": "2026-11-18T19:38:59.000Z",
+      "text": "AI video creation is moving beyond prompts. We're getting closer to actually directing scenes.\n\nPika Enact introduces a new way to interact with AI-generated videos. You can reposition actors and objects while the scene is playing, talk to actors and direct their dialogue or https://t.co/nHRWRyDEZZ https://t.co/kJxpVkPicG",
+      "original_en": "AI video creation is moving beyond prompts. We're getting closer to actually directing scenes.\n\nPika Enact introduces a new way to interact with AI-generated videos. You can reposition actors and objects while the scene is playing, talk to actors and direct their dialogue or https://t.co/nHRWRyDEZZ https://t.co/kJxpVkPicG",
+      "lang": "en",
+      "hook": "Another Pika Enact explainer quote-post ('moving beyond prompts... actually directing scenes') - 30.6K views, 104 likes (campaign-style reach).",
+      "video_tip": "Same lesson: 'direct, don't prompt' framing is everywhere this week - use it in a caption over a behind-the-scenes clip of how you stage a 40K shot.",
+      "media": "video",
+      "followers_count": 101801,
+      "likes": 104,
+      "reposts": 67,
+      "bookmarks": 2,
+      "replies": 43,
+      "quotes": 0,
+      "self_quote": false,
+      "board_rank": 7,
+      "draft_en": "Directing, not just prompting - that is where AI video is heading.\n\nPika Enact lets you step into a generated scene while it plays: drag actors and props to new spots, chat with the cast and steer what they say.",
+      "draft_keywords": [
+        "AI video",
+        "Pika Enact"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.0,
+        "word_overlap": 0.333,
+        "max_copied_run": 2
+      },
+      "top10_rank": 7,
+      "why_hit": {
+        "trend_match": 58,
+        "verdict": "trend",
+        "matched_keywords": [
+          "AI video",
+          "Pika Enact"
+        ],
+        "media": "video",
+        "note": "",
+        "topic": "Directing, not prompting"
+      }
+    },
+    {
+      "id": "2123124839204663338",
+      "name": "Higgsfield AI 🧩",
+      "display_name": "Higgsfield AI 🧩",
+      "handle": "@higgsfield_ai",
+      "views": 25341,
+      "views_label": "25,341",
+      "url": "https://x.com/higgsfield_ai/status/2123124839204663338",
+      "created_at": "2026-11-18T18:43:02.000Z",
+      "posted_at": "2026-11-18T18:43:02.000Z",
+      "text": "Stop prompting emotions.\n\nThis AI commercial explores five emotions. We didn't prompt any of them.\n\nInstead, we focused on:\n\n&gt; Physical details\n&gt; Camera direction\n&gt; Character motivation\n\nHere’s how we did it 🧵 https://t.co/VaG4GhppFj",
+      "original_en": "Stop prompting emotions.\n\nThis AI commercial explores five emotions. We didn't prompt any of them.\n\nInstead, we focused on:\n\n&gt; Physical details\n&gt; Camera direction\n&gt; Character motivation\n\nHere’s how we did it 🧵 https://t.co/VaG4GhppFj",
+      "lang": "en",
+      "hook": "'Stop prompting emotions' - an AI commercial with five emotions, made by prompting physical details, camera direction and character motivation instead - 25.3K views, 316 bookmarks, thread.",
+      "video_tip": "For your dramatic-dialogue shots: prompt a Guardsman's trembling hands and a slow push-in instead of 'scared', then post the clip with a 3-point 'how' thread.",
+      "media": "video",
+      "followers_count": 257218,
+      "likes": 363,
+      "reposts": 42,
+      "bookmarks": 316,
+      "replies": 36,
+      "quotes": 3,
+      "self_quote": false,
+      "board_rank": 8,
+      "draft_en": "Five emotions in one AI video commercial, and not one of them was written into a prompt.\n\nThe trick is to skip naming the feeling. Describe the physical details, direct the camera, give the character a motivation - the emotion shows up on its own.\n\nFull breakdown in the thread 🧵",
+      "draft_keywords": [
+        "AI video"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.0,
+        "word_overlap": 0.391,
+        "max_copied_run": 2
+      },
+      "top10_rank": 8,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "note": "",
+        "topic": null
+      }
+    },
+    {
+      "id": "2123098732770263485",
+      "name": "Runway",
+      "display_name": "Runway",
+      "handle": "@runwayml",
+      "views": 18865,
+      "views_label": "18,865",
+      "url": "https://x.com/runwayml/status/2123098732770263485",
+      "created_at": "2026-11-18T16:59:17.000Z",
+      "posted_at": "2026-11-18T16:59:17.000Z",
+      "text": "The world’s premier AI Festival returns.\n\nAIF 2027 will once again celebrate the work being made with AI across Film, Design, Fashion, Advertising and Gaming. With gala screenings in New York, Los Angeles and Tokyo.\n\nSubmissions are now open at https://t.co/YgXwT8sUXB https://t.co/e2CvcAkSCO",
+      "original_en": "The world’s premier AI Festival returns.\n\nAIF 2027 will once again celebrate the work being made with AI across Film, Design, Fashion, Advertising and Gaming. With gala screenings in New York, Los Angeles and Tokyo.\n\nSubmissions are now open at https://t.co/YgXwT8sUXB https://t.co/e2CvcAkSCO",
+      "lang": "en",
+      "hook": "Runway opens submissions for AI Festival 2027 (film, design, fashion, ads, gaming; screenings NY, LA, Tokyo) - 18.9K views.",
+      "video_tip": "Worth considering: cut a 2-3 min 40K or sci-fi short as a festival submission and post the 'submitted' trailer - festival framing adds weight.",
+      "media": "video",
+      "followers_count": 297604,
+      "likes": 158,
+      "reposts": 25,
+      "bookmarks": 94,
+      "replies": 24,
+      "quotes": 14,
+      "self_quote": false,
+      "board_rank": 9,
+      "draft_en": "Runway's AI Festival is coming back as AIF 2027.\n\nIt honors AI-made work in film and design, plus fashion, gaming and advertising, and the gala screenings will hit Tokyo, Los Angeles and New York.\n\nGot an AI film ready? Entries are open now: https://t.co/YgXwT8sUXB",
+      "draft_keywords": [
+        "AI film"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.0,
+        "word_overlap": 0.615,
+        "max_copied_run": 3
+      },
+      "top10_rank": 9,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "note": "",
+        "topic": null
+      }
+    },
+    {
+      "id": "2123118145552749015",
+      "name": "Google Labs",
+      "display_name": "Google Labs",
+      "handle": "@GoogleLabs",
+      "views": 16842,
+      "views_label": "16,842",
+      "url": "https://x.com/GoogleLabs/status/2123118145552749015",
+      "created_at": "2026-11-18T18:16:26.000Z",
+      "posted_at": "2026-11-18T18:16:26.000Z",
+      "text": "Create a world from one sentence, then change it while you’re standing inside 🌐\n\nProject Genie now runs on @GoogleDeepMind’s Genie 4. Here’s what’s new:\n— Prompt mid-session to edit your world live\n— Create worlds conversationally with the help of a new agent\n— Explore & remix other users' worlds in the gallery\n\nAvailable now to eligible Google AI Ultra subscribers",
+      "original_en": "Create a world from one sentence, then change it while you’re standing inside 🌐\n\nProject Genie now runs on @GoogleDeepMind’s Genie 4. Here’s what’s new:\n— Prompt mid-session to edit your world live\n— Create worlds conversationally with the help of a new agent\n— Explore & remix other users' worlds in the gallery\n\nAvailable now to eligible Google AI Ultra subscribers",
+      "lang": "en",
+      "hook": "Google Labs: Project Genie now runs on Genie 4 - build a world from one sentence and edit it live while inside it - 16.8K views, 302 likes.",
+      "video_tip": "Make a 'world from one sentence' bit: one line of 40K lore typed on screen, then cut to the generated hive city - show the prompt as part of the video.",
+      "media": "video",
+      "followers_count": 228802,
+      "likes": 302,
+      "reposts": 31,
+      "bookmarks": 69,
+      "replies": 15,
+      "quotes": 6,
+      "self_quote": false,
+      "board_rank": 10,
+      "draft_en": "Project Genie is now powered by Genie 4 from @GoogleDeepMind, one of the most fun world models to play with.\n\nOne sentence builds a world, and you can keep reshaping it from the inside:\n- edit it live with fresh prompts mid-session\n- build worlds by chatting with a new agent\n- browse and remix what others made in the gallery\n\nIf you're on Google AI Ultra and eligible, it's live today.",
+      "draft_keywords": [
+        "models"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.0,
+        "word_overlap": 0.533,
+        "max_copied_run": 3
+      },
+      "top10_rank": 10,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "note": "",
+        "topic": null
+      }
+    },
+    {
+      "id": "2123083834355007970",
+      "name": "Krea",
+      "display_name": "Krea",
+      "handle": "@krea_ai",
+      "views": 7568,
+      "views_label": "7,568",
+      "url": "https://x.com/krea_ai/status/2123083834355007970",
+      "created_at": "2026-11-18T16:00:05.000Z",
+      "posted_at": "2026-11-18T16:00:05.000Z",
+      "text": "introducing the Krea Black Friday sale - the absolute best prices in generative AI.\n\n• 75% less for Seedance 2.5\n• 62% less for Nano Banana Pro\n• 45% less for Kling 4\n\nget it before Nov 30 👇 https://t.co/T139mRidoq",
+      "original_en": "introducing the Krea Black Friday sale - the absolute best prices in generative AI.\n\n• 75% less for Seedance 2.5\n• 62% less for Nano Banana Pro\n• 45% less for Kling 4\n\nget it before Nov 30 👇 https://t.co/T139mRidoq",
+      "lang": "en",
+      "hook": "Krea Black Friday sale: 75% less for Seedance 2.5, 62% for Nano Banana Pro, 45% for Kling 4 - 7.6K views, 87 likes.",
+      "video_tip": "Price drops = good week to batch-render Seedance 2.5 shots; no post needed.",
+      "media": "video",
+      "followers_count": 126020,
+      "likes": 87,
+      "reposts": 14,
+      "bookmarks": 34,
+      "replies": 14,
+      "quotes": 3,
+      "self_quote": false,
+      "board_rank": 11,
+      "why_hit": {
+        "trend_match": 74,
+        "verdict": "trend",
+        "matched_keywords": [
+          "Seedance 2.5",
+          "Black Friday Sale",
+          "Nano Banana",
+          "Kling 4"
+        ],
+        "media": "video",
+        "note": "",
+        "topic": "Previs-first Seedance workflows"
+      }
+    },
+    {
+      "id": "2122856162689491233",
+      "name": "ImagineArt",
+      "display_name": "ImagineArt",
+      "handle": "@ImagineArt_X",
+      "views": 6614,
+      "views_label": "6,614",
+      "url": "https://x.com/ImagineArt_X/status/2122856162689491233",
+      "created_at": "2026-11-18T00:55:24.000Z",
+      "posted_at": "2026-11-18T00:55:24.000Z",
+      "text": "there is a GTA 6 mod for AI video models: Imagine MCP x @claudeai's Fable 5.2.\n\nhear us out. gameplay videos are hard to recreate, even with Seedance 2.5. why? unlike AI models, NPCs are not strictly physics-faithful.\n\nthe fix? absurdly simple: throw Blender in between Fable 5.2 and Imagine MCP.\n\nand type one prompt: \"grey mannequin previz, canned game animations, synced idle loops, physics glitches, smooth game camera.\"\n\nvoilà, consistent glitchy bad-physics gameplay.",
+      "original_en": "there is a GTA 6 mod for AI video models: Imagine MCP x @claudeai's Fable 5.2.\n\nhear us out. gameplay videos are hard to recreate, even with Seedance 2.5. why? unlike AI models, NPCs are not strictly physics-faithful.\n\nthe fix? absurdly simple: throw Blender in between Fable 5.2 and Imagine MCP.\n\nand type one prompt: \"grey mannequin previz, canned game animations, synced idle loops, physics glitches, smooth game camera.\"\n\nvoilà, consistent glitchy bad-physics gameplay.",
+      "lang": "en",
+      "hook": "'GTA 6 mod for AI video': Fable 5.2 + Blender previz in the middle + one prompt gives glitchy game-physics footage - 6.6K views.",
+      "video_tip": "Fake a 40K 'video game' clip: grey-mannequin previz, game HUD, canned animation loops - 'Warhammer game that doesn't exist' is a proven format.",
+      "media": "video",
+      "followers_count": 23430,
+      "likes": 27,
+      "reposts": 3,
+      "bookmarks": 2,
+      "replies": 11,
+      "quotes": 0,
+      "self_quote": false,
+      "board_rank": 12,
+      "why_hit": {
+        "trend_match": 91,
+        "verdict": "trend",
+        "matched_keywords": [
+          "Seedance 2.5",
+          "Fable 5.2",
+          "AI video",
+          "models",
+          "AI video model",
+          "Blender"
+        ],
+        "media": "video",
+        "note": "",
+        "topic": "Directing, not prompting"
+      }
+    },
+    {
+      "id": "2123070353215803529",
+      "name": "Raven Morgoth",
+      "display_name": "Raven Morgoth",
+      "handle": "@morgoth_raven",
+      "views": 5803,
+      "views_label": "5,803",
+      "url": "https://x.com/morgoth_raven/status/2123070353215803529",
+      "created_at": "2026-11-18T15:06:31.000Z",
+      "posted_at": "2026-11-18T15:06:31.000Z",
+      "text": "If you’re struggling with continuous fails from Seedance 2.5 while animating complex scenes, try blocking them in Blender first. I just started working with Claude Fable 5.2 and Blender, and the results have completely changed my workflow. Simple 3D blocking with the right Seedance instructions produces shots I couldn’t get through prompting alone (SD failed almost every time)\nBlender previs and Seedance 2.5 gives you beautiful photorealistic output. I’m absolutely blown away by this approach",
+      "original_en": "If you’re struggling with continuous fails from Seedance 2.5 while animating complex scenes, try blocking them in Blender first. I just started working with Claude Fable 5.2 and Blender, and the results have completely changed my workflow. Simple 3D blocking with the right Seedance instructions produces shots I couldn’t get through prompting alone (SD failed almost every time)\nBlender previs and Seedance 2.5 gives you beautiful photorealistic output. I’m absolutely blown away by this approach",
+      "lang": "en",
+      "hook": "Workflow tip: block complex scenes in Blender (with Claude Fable 5.2) before Seedance 2.5 - 5.8K views, 151 likes, 120 bookmarks from 7K followers.",
+      "video_tip": "Show a 10s split: grey Blender blocking on the left, finished Seedance 2.5 40K shot on the right - previs-to-final comparisons earn bookmarks.",
+      "media": "video",
+      "followers_count": 7079,
+      "likes": 151,
+      "reposts": 16,
+      "bookmarks": 120,
+      "replies": 16,
+      "quotes": 1,
+      "self_quote": false,
+      "board_rank": 13,
+      "why_hit": {
+        "trend_match": 79,
+        "verdict": "trend",
+        "matched_keywords": [
+          "Seedance 2.5",
+          "Fable 5.2",
+          "Claude Fable 5.2",
+          "Blender"
+        ],
+        "media": "video",
+        "note": "",
+        "topic": "Previs-first Seedance workflows"
+      }
+    },
+    {
+      "id": "2122805280861782085",
+      "name": "Cortex",
+      "display_name": "Cortex",
+      "handle": "@0xCortexq",
+      "views": 5333,
+      "views_label": "5,333",
+      "url": "https://x.com/0xCortexq/status/2122805280861782085",
+      "created_at": "2026-11-17T21:33:13.000Z",
+      "posted_at": "2026-11-17T21:33:13.000Z",
+      "text": "chatgpt 6.2 goes straight to the whale. claude fable 5.2 stays on the swan\n\neach wrote one prompt for seedance 2.5: one unbroken shot, snake out of a persian rug, becomes a swan, dives into the sea, becomes a whale\n\none run each, no fixes. chatgpt side ran on 6.2 early access\n\ntop: whale arrives about 2/3 in\nbottom: swan over a stormy sea, whale only in the last 2 seconds\n\n@Inomsxbt wrote that the \"winner\" depends on which chart you look at. here it depends on what you want from the shot\n\nwhich ending works better for you?",
+      "original_en": "chatgpt 6.2 goes straight to the whale. claude fable 5.2 stays on the swan\n\neach wrote one prompt for seedance 2.5: one unbroken shot, snake out of a persian rug, becomes a swan, dives into the sea, becomes a whale\n\none run each, no fixes. chatgpt side ran on 6.2 early access\n\ntop: whale arrives about 2/3 in\nbottom: swan over a stormy sea, whale only in the last 2 seconds\n\n@Inomsxbt wrote that the \"winner\" depends on which chart you look at. here it depends on what you want from the shot\n\nwhich ending works better for you?",
+      "lang": "en",
+      "hook": "Same one-shot prompt, two LLM directors (ChatGPT 6.2 vs Claude Fable 5.2) writing for Seedance 2.5: rug-snake to swan to whale - 5.3K views from 29 followers.",
+      "video_tip": "Run a two-director test on a 40K transformation shot (servo-skull to Thunderhawk) and ask 'which ending works better?'",
+      "media": "video",
+      "followers_count": 29,
+      "likes": 11,
+      "reposts": 6,
+      "bookmarks": 8,
+      "replies": 5,
+      "quotes": 2,
+      "self_quote": false,
+      "board_rank": 14,
+      "why_hit": {
+        "trend_match": 73,
+        "verdict": "trend",
+        "matched_keywords": [
+          "Seedance 2.5",
+          "Fable 5.2",
+          "Claude Fable 5.2"
+        ],
+        "media": "video",
+        "note": "",
+        "topic": "Previs-first Seedance workflows"
+      }
+    },
+    {
+      "id": "2123043238785556801",
+      "name": "Kling AI",
+      "display_name": "Kling AI",
+      "handle": "@Kling_ai",
+      "views": 4432,
+      "views_label": "4,432",
+      "url": "https://x.com/Kling_ai/status/2123043238785556801",
+      "created_at": "2026-11-18T13:18:47.000Z",
+      "posted_at": "2026-11-18T13:18:47.000Z",
+      "text": "Bring your ideas to life with Kling Image 4.0. #KlingAI #KlingImage4\n\nNow live on @eachlabs https://t.co/hmpeDpDTBO",
+      "original_en": "Bring your ideas to life with Kling Image 4.0. #KlingAI #KlingImage4\n\nNow live on @eachlabs https://t.co/hmpeDpDTBO",
+      "lang": "en",
+      "hook": "Kling Image 4.0 platform rollout post ('now live on eachlabs') - 4.4K views, 32 likes; one of many Kling 4.0 distribution posts.",
+      "video_tip": "Low priority; Kling Image 4.0 is still the image-model news of the week if you want to test 8K character sheets.",
+      "media": "text",
+      "followers_count": 139504,
+      "likes": 32,
+      "reposts": 1,
+      "bookmarks": 6,
+      "replies": 3,
+      "quotes": 0,
+      "self_quote": false,
+      "board_rank": 15,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "author/audience",
+        "matched_keywords": [],
+        "media": "text",
+        "note": "",
+        "topic": null
+      }
+    },
+    {
+      "id": "2122910953717260596",
+      "name": "BGKuaci",
+      "display_name": "BGKuaci",
+      "handle": "@BGKuaci",
+      "views": 2989,
+      "views_label": "2,989",
+      "url": "https://x.com/BGKuaci/status/2122910953717260596",
+      "created_at": "2026-11-18T04:33:07.000Z",
+      "posted_at": "2026-11-18T04:33:07.000Z",
+      "text": "A 12-meter crocodile smashed their canoe… then they swam right into the nest of a 15-meter electric eel \nOne shock killed the crocodile. Now it’s coming onto land\n “Next time… we walk home.”\n\nCinematic AI video generated with @AkoolInc\n\nJoin the AKOOL AI FILM CHALLENGE! 🎬 Win https://t.co/MhXqyb9jhw",
+      "original_en": "A 12-meter crocodile smashed their canoe… then they swam right into the nest of a 15-meter electric eel \nOne shock killed the crocodile. Now it’s coming onto land\n “Next time… we walk home.”\n\nCinematic AI video generated with @AkoolInc\n\nJoin the AKOOL AI FILM CHALLENGE! 🎬 Win https://t.co/MhXqyb9jhw",
+      "lang": "en",
+      "hook": "Creature-feature AI short (12m crocodile vs 15m electric eel) for the Akool AI film challenge - 3.0K views.",
+      "video_tip": "Monster-escalation loglines work: 'a Carnifex smashed the Chimera... then it walked into a Ripper swarm nest'.",
+      "media": "video",
+      "followers_count": 12101,
+      "likes": 25,
+      "reposts": 2,
+      "bookmarks": 3,
+      "replies": 4,
+      "quotes": 0,
+      "self_quote": false,
+      "board_rank": 16,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "note": "",
+        "topic": "Directing, not prompting"
+      }
+    },
+    {
+      "id": "2123189519143096556",
+      "name": "latent moss",
+      "display_name": "latent moss",
+      "handle": "@latentmoss",
+      "views": 2060,
+      "views_label": "2,060",
+      "url": "https://x.com/latentmoss/status/2123189519143096556",
+      "created_at": "2026-11-18T23:00:02.000Z",
+      "posted_at": "2026-11-18T23:00:02.000Z",
+      "text": "told fable 5.2 to make a short film out of some midjourney image, using blender.\nthere isn't a deeper meaning (that I know of). https://t.co/mfBcdWMbUq",
+      "original_en": "told fable 5.2 to make a short film out of some midjourney image, using blender.\nthere isn't a deeper meaning (that I know of). https://t.co/mfBcdWMbUq",
+      "lang": "en",
+      "hook": "Low-key 'told Fable 5.2 to make a short film out of a Midjourney image, using Blender' - 2.1K views from 1.4K followers.",
+      "video_tip": "Try it on one of your Midjourney 40K stills: let a code model build the Blender scene, then post the odd result with a deadpan one-liner.",
+      "media": "video",
+      "followers_count": 1445,
+      "likes": 54,
+      "reposts": 3,
+      "bookmarks": 18,
+      "replies": 3,
+      "quotes": 1,
+      "self_quote": false,
+      "board_rank": 17,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "note": "",
+        "topic": "Previs-first Seedance workflows"
+      }
+    },
+    {
+      "id": "2123120254398472578",
+      "name": "Ryan Lightbourn",
+      "display_name": "Ryan Lightbourn",
+      "handle": "@ryanlightbourn",
+      "views": 1964,
+      "views_label": "1,964",
+      "url": "https://x.com/ryanlightbourn/status/2123120254398472578",
+      "created_at": "2026-11-18T18:24:48.000Z",
+      "posted_at": "2026-11-18T18:24:48.000Z",
+      "text": "Goblin team walks us through the future of cinema.\n\nThe \"Gods Don't Give Gifts\" prologue at Lumara was spectacular.\n\nSo hyped to watch this on the big screen ❤️\nhttps://t.co/b89rrFhRMG",
+      "original_en": "Goblin team walks us through the future of cinema.\n\nThe \"Gods Don't Give Gifts\" prologue at Lumara was spectacular.\n\nSo hyped to watch this on the big screen ❤️\nhttps://t.co/b89rrFhRMG",
+      "lang": "en",
+      "hook": "Quote of Gossip_Goblin's BTS doc: the 'Gods Don't Give Gifts' prologue at Lumara was spectacular - 2.0K views.",
+      "video_tip": "Shows the halo around Goblin's doc - quoting a big creator's release with a personal reaction is easy borrowed reach.",
+      "media": "text",
+      "followers_count": 15900,
+      "likes": 63,
+      "reposts": 2,
+      "bookmarks": 16,
+      "replies": 5,
+      "quotes": 0,
+      "self_quote": false,
+      "board_rank": 18,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "coincidence/other",
+        "matched_keywords": [],
+        "media": "text",
+        "note": "",
+        "topic": "Human craft behind AI film"
+      }
+    },
+    {
+      "id": "2123115809094750502",
+      "name": "Eliott Mogenet",
+      "display_name": "Eliott Mogenet",
+      "handle": "@eliott__mogenet",
+      "views": 1961,
+      "views_label": "1,961",
+      "url": "https://x.com/eliott__mogenet/status/2123115809094750502",
+      "created_at": "2026-11-18T18:07:09.000Z",
+      "posted_at": "2026-11-18T18:07:09.000Z",
+      "text": "This documentary should be required viewing for anyone who thinks AI filmmaking is \"pushing a button.\" \n\nBehind every great AI film: hours of human craft.  \n\nAI isn't replacing teams of specialists. It's just one more skill they have to master. https://t.co/T1lOO3UAzY",
+      "original_en": "This documentary should be required viewing for anyone who thinks AI filmmaking is \"pushing a button.\" \n\nBehind every great AI film: hours of human craft.  \n\nAI isn't replacing teams of specialists. It's just one more skill they have to master. https://t.co/T1lOO3UAzY",
+      "lang": "en",
+      "hook": "Quote of the same doc: 'required viewing for anyone who thinks AI filmmaking is pushing a button... hours of human craft' - 2.0K views.",
+      "video_tip": "Post your own 60s 'this is not pushing a button' BTS: prompt notes, rejected takes, edit timeline of one 40K short.",
+      "media": "text",
+      "followers_count": 1165,
+      "likes": 39,
+      "reposts": 3,
+      "bookmarks": 16,
+      "replies": 7,
+      "quotes": 0,
+      "self_quote": false,
+      "board_rank": 19,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "coincidence/other",
+        "matched_keywords": [],
+        "media": "text",
+        "note": "",
+        "topic": "Directing, not prompting"
+      }
+    },
+    {
+      "id": "2123231695860281554",
+      "name": "Alex Koumpas",
+      "display_name": "Alex Koumpas",
+      "handle": "@alexkoumpas",
+      "views": 1029,
+      "views_label": "1,029",
+      "url": "https://x.com/alexkoumpas/status/2123231695860281554",
+      "created_at": "2026-11-19T01:47:38.000Z",
+      "posted_at": "2026-11-19T01:47:38.000Z",
+      "text": "i’ve had 12 people ask me if Claude Fable 5.2 will replace diffusion models like Seedance 2.5 or H3 Max.\n\ni made this video to explain where each approach works best.\n\nmy bet: diffusion for realistic appearance + code for precise control - a hybrid system that uses both.\n\nwhere do you think coding models will outperform diffusion first?",
+      "original_en": "i’ve had 12 people ask me if Claude Fable 5.2 will replace diffusion models like Seedance 2.5 or H3 Max.\n\ni made this video to explain where each approach works best.\n\nmy bet: diffusion for realistic appearance + code for precise control - a hybrid system that uses both.\n\nwhere do you think coding models will outperform diffusion first?",
+      "lang": "en",
+      "hook": "Explainer: will Claude Fable 5.2 replace diffusion models like Seedance 2.5 or H3 Max? Bet on a hybrid - 1.0K views from 550 followers.",
+      "video_tip": "Skip; the code-vs-diffusion debate is loud this week but niche for your audience.",
+      "media": "video",
+      "followers_count": 550,
+      "likes": 26,
+      "reposts": 4,
+      "bookmarks": 8,
+      "replies": 5,
+      "quotes": 0,
+      "self_quote": false,
+      "board_rank": 20,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "note": "",
+        "topic": "Previs-first Seedance workflows"
+      }
+    },
+    {
+      "id": "2123080986154180798",
+      "name": "0xKuriyama",
+      "display_name": "0xKuriyama",
+      "handle": "@Kuriyama890",
+      "views": 697,
+      "views_label": "697",
+      "url": "https://x.com/Kuriyama890/status/2123080986154180798",
+      "created_at": "2026-11-18T15:48:46.000Z",
+      "posted_at": "2026-11-18T15:48:46.000Z",
+      "text": "This 4K AI movies is amazing !!🔥🔥\n\n\"No more waiting at the gates of our own empire.\"\n\nTHE SEVEN HILLS — a sci-fi Roman short.\nMade fully with 4K Seedance inside CapCut Video Studio. 🔥\n@capcutapp \n#capcutseedance25 #capcutdraft #capcutcpp https://t.co/4CG3eqnYnp",
+      "original_en": "This 4K AI movies is amazing !!🔥🔥\n\n\"No more waiting at the gates of our own empire.\"\n\nTHE SEVEN HILLS — a sci-fi Roman short.\nMade fully with 4K Seedance inside CapCut Video Studio. 🔥\n@capcutapp \n#capcutseedance25 #capcutdraft #capcutcpp https://t.co/4CG3eqnYnp",
+      "lang": "en",
+      "hook": "'THE SEVEN HILLS' - a sci-fi Roman short made fully with 4K Seedance inside CapCut Video Studio - 697 views (CapCut challenge entry).",
+      "video_tip": "Closest to your niche: sci-fi history mashups. Imperial Rome is already a 40K visual cousin - a 'gates of the Imperium' teaser fits your style.",
+      "media": "video",
+      "followers_count": 2477,
+      "likes": 26,
+      "reposts": 3,
+      "bookmarks": 2,
+      "replies": 12,
+      "quotes": 0,
+      "self_quote": false,
+      "board_rank": 21,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "note": "",
+        "topic": null
+      }
+    }
+  ],
+  "virals_target": 20,
+  "virals_window": "last ~48h",
+  "virals_narrative": "Outsider lane on 18.11 led by @pika_labs at 409,703 views (the Pika Enact launch). Also clearing: @dreamina_ai 306,573, @Viniai_ 75,870, @omidaziz 57,266, @ProCreatorHarry 44,230",
+  "patterns": [
+    "Watchlist on 18.11: 1 hit, a star - Gossip_Goblin's 21:51 behind-the-scenes mini-doc for Gods Don't Give Gifts at 56.8K views, 411 bookmarks; framed as 'the huge human effort' plus sold-out screening news",
+    "Gossip_Goblin's fourth straight day with a star, but the format flipped from bare-title films to a long BTS doc - the 'human craft behind AI film' angle was quoted by outsiders the same day",
+    "Near misses: LudovicCreator 'QT Your Winter Art' community prompt 1,956; ChrisGwinnLA Giallo Girl short casting post (Seedream 5.5) 1,167; billywoodward dark fantasy sitcom origin story 906; pixelbouncer 'Rebuild' 371",
+    "andresvandal posted only replies on 18.11 (no originals)",
+    "Bogdan's best was 'Battle Sister in Chaos!' (Midjourney + SeeDream 5.5) at 1,065 (110 likes), then the 1970s Giallo coffee post 938 and Shogun/Anjin images 330 - rank 4 of 7",
+    "Outsider lane: Pika Enact launch 409.7K (boosted-looking) plus a coordinated creator wave; Black Friday sales (Dreamina 306.6K promoted-looking, Krea, Kling); organic craft posts - Higgsfield 'stop prompting emotions', Blender blocking before Seedance 2.5, LLM-director tests with Claude Fable 5.2"
+  ],
+  "no_hits": [
+    {
+      "handle": "@pixelbouncer",
+      "reason": "3 original posts on 2026-11-18; none reached 5,000 views (best 371).",
+      "max_views": 371
+    },
+    {
+      "handle": "@andresvandal",
+      "reason": "0 original posts on 2026-11-18 (only replies/reposts that day).",
+      "max_views": 0
+    },
+    {
+      "handle": "@LudovicCreator",
+      "reason": "5 original posts on 2026-11-18; none reached 5,000 views (best 1,956).",
+      "max_views": 1956
+    },
+    {
+      "handle": "@ChrisGwinnLA",
+      "reason": "2 original posts on 2026-11-18; none reached 5,000 views (best 1,167).",
+      "max_views": 1167
+    },
+    {
+      "handle": "@billywoodward",
+      "reason": "1 original posts on 2026-11-18; none reached 5,000 views (best 906).",
+      "max_views": 906
+    }
+  ],
+  "day_roster": [
+    {
+      "handle": "@Gossip_Goblin",
+      "name": "Gossip Goblin",
+      "views": 56768,
+      "total_views": 56768,
+      "hit": true,
+      "posts": 1,
+      "best_url": "https://x.com/Gossip_Goblin/status/2123095356506325436"
+    },
+    {
+      "handle": "@LudovicCreator",
+      "name": "LudovicCreator",
+      "views": 1956,
+      "total_views": 6880,
+      "hit": false,
+      "posts": 5,
+      "best_url": "https://x.com/LudovicCreator/status/2123212171265937561"
+    },
+    {
+      "handle": "@ChrisGwinnLA",
+      "name": "Christopher Gwinn | Grindhouse Glitch",
+      "views": 1167,
+      "total_views": 1975,
+      "hit": false,
+      "posts": 2,
+      "best_url": "https://x.com/ChrisGwinnLA/status/2122922297116025337"
+    },
+    {
+      "handle": "@billywoodward",
+      "name": "Billy Woodward",
+      "views": 906,
+      "total_views": 906,
+      "hit": false,
+      "posts": 1,
+      "best_url": "https://x.com/billywoodward/status/2123074699999764923"
+    },
+    {
+      "handle": "@pixelbouncer",
+      "name": "Ƥ!ЖΣLƁΘUNCΣR",
+      "views": 371,
+      "total_views": 855,
+      "hit": false,
+      "posts": 3,
+      "best_url": "https://x.com/pixelbouncer/status/2123116816381640878"
+    },
+    {
+      "handle": "@andresvandal",
+      "name": "Andres Vandal",
+      "views": 0,
+      "total_views": 0,
+      "hit": false,
+      "posts": 0,
+      "best_url": null
+    }
+  ],
+  "you_rank": {
+    "best_views": 1065,
+    "total_views": 2333,
+    "best_url": "https://x.com/SMKP_Films/status/2123123241732747307",
+    "posts": 3,
+    "vs_5k": "pending",
+    "vs_10k": "pending",
+    "rank_among_watchlist": 4,
+    "total_accounts": 7
+  },
+  "narrative_synthesis": "The 48h outsider lane was a launch-and-sale week. Pika's Enact research preview (direct AI \"actors\", re-stage scenes and move the camera in real time) topped it at 409.7K, and a wave of near-identical creator posts pushed the same \"direct, don't prompt\" line at 10-44K each with very few bookmarks, which looks like a paid campaign. Black Friday deals (Dreamina 306.6K with only 632 likes, Krea, Kling) and Kling Image 4.0 rollout posts filled the rest of the top. The organic signal was craft talk: Higgsfield's \"stop prompting emotions\" thread (316 bookmarks), Blender blocking before Seedance 2.5 (120 bookmarks from a 7K account), Claude Fable 5.2 vs ChatGPT 6.2 \"LLM director\" tests, and the honest can-opening physics test still climbing at 57.3K. Gossip_Goblin's behind-the-scenes doc set the cultural tone: people quoted it as proof that AI filmmaking is human craft, not button-pushing.",
+  "trend_input_only": [],
+  "trend_input_only_posts": [],
+  "leaderboards": {
+    "as_of": "2026-11-18",
+    "tracking_start": "2026-11-04",
+    "days_included": [
+      "2026-11-12",
+      "2026-11-13",
+      "2026-11-14",
+      "2026-11-15",
+      "2026-11-16",
+      "2026-11-17",
+      "2026-11-18"
+    ],
+    "month_days_included": [
+      "2026-11-04",
+      "2026-11-05",
+      "2026-11-06",
+      "2026-11-07",
+      "2026-11-08",
+      "2026-11-09",
+      "2026-11-10",
+      "2026-11-11",
+      "2026-11-12",
+      "2026-11-13",
+      "2026-11-14",
+      "2026-11-15",
+      "2026-11-16",
+      "2026-11-17",
+      "2026-11-18"
+    ],
+    "week": {
+      "label": "Rolling week · Nov 12–Nov 18",
+      "range": [
+        "2026-11-12",
+        "2026-11-18"
+      ],
+      "entries": [
+        {
+          "handle": "@Gossip_Goblin",
+          "name": "Gossip Goblin",
+          "hits": 5,
+          "days": 5,
+          "views": 357933,
+          "best": 144051,
+          "best_url": "https://x.com/Gossip_Goblin/status/2122733440886075599"
+        },
+        {
+          "handle": "@LudovicCreator",
+          "name": "LudovicCreator",
+          "hits": 2,
+          "days": 2,
+          "views": 102520,
+          "best": 94784,
+          "best_url": "https://x.com/LudovicCreator/status/2121267626655588481"
+        },
+        {
+          "handle": "@ChrisGwinnLA",
+          "name": "Christopher Gwinn | Grindhouse Glitch",
+          "hits": 3,
+          "days": 3,
+          "views": 42906,
+          "best": 23566,
+          "best_url": "https://x.com/ChrisGwinnLA/status/2121834058267156701"
+        },
+        {
+          "handle": "@andresvandal",
+          "name": "Andres Vandal",
+          "hits": 1,
+          "days": 1,
+          "views": 15859,
+          "best": 15859,
+          "best_url": "https://x.com/andresvandal/status/2120763498250822082"
+        }
+      ]
+    },
+    "month": {
+      "label": "November 2026 · from Nov 4",
+      "range": [
+        "2026-11-04",
+        "2026-11-18"
+      ],
+      "entries": [
+        {
+          "handle": "@Gossip_Goblin",
+          "name": "Gossip Goblin",
+          "hits": 17,
+          "days": 10,
+          "views": 877666,
+          "best": 144051,
+          "best_url": "https://x.com/Gossip_Goblin/status/2122733440886075599"
+        },
+        {
+          "handle": "@LudovicCreator",
+          "name": "LudovicCreator",
+          "hits": 3,
+          "days": 3,
+          "views": 236446,
+          "best": 133926,
+          "best_url": "https://x.com/LudovicCreator/status/2120592485437350268"
+        },
+        {
+          "handle": "@ChrisGwinnLA",
+          "name": "Christopher Gwinn | Grindhouse Glitch",
+          "hits": 5,
+          "days": 5,
+          "views": 60919,
+          "best": 23566,
+          "best_url": "https://x.com/ChrisGwinnLA/status/2121834058267156701"
+        },
+        {
+          "handle": "@andresvandal",
+          "name": "Andres Vandal",
+          "hits": 2,
+          "days": 2,
+          "views": 21164,
+          "best": 15859,
+          "best_url": "https://x.com/andresvandal/status/2120763498250822082"
+        }
+      ]
+    }
+  },
+  "drafts_top10": [
+    {
+      "rank": 1,
+      "id": "2123127584342921652",
+      "handle": "@pika_labs",
+      "views": 409703,
+      "lane": "outsider"
+    },
+    {
+      "rank": 2,
+      "id": "2123079065360126339",
+      "handle": "@dreamina_ai",
+      "views": 306573,
+      "lane": "outsider"
+    },
+    {
+      "rank": 3,
+      "id": "2122916879824306422",
+      "handle": "@Viniai_",
+      "views": 75870,
+      "lane": "outsider"
+    },
+    {
+      "rank": 4,
+      "id": "2122783998921642347",
+      "handle": "@omidaziz",
+      "views": 57266,
+      "lane": "outsider"
+    },
+    {
+      "rank": 5,
+      "id": "2123095356506325436",
+      "handle": "@Gossip_Goblin",
+      "views": 56768,
+      "lane": "watchlist"
+    },
+    {
+      "rank": 6,
+      "id": "2123155980213166173",
+      "handle": "@ProCreatorHarry",
+      "views": 44230,
+      "lane": "outsider"
+    },
+    {
+      "rank": 7,
+      "id": "2123138921022595509",
+      "handle": "@I_amShiti",
+      "views": 30648,
+      "lane": "outsider"
+    },
+    {
+      "rank": 8,
+      "id": "2123124839204663338",
+      "handle": "@higgsfield_ai",
+      "views": 25341,
+      "lane": "outsider"
+    },
+    {
+      "rank": 9,
+      "id": "2123098732770263485",
+      "handle": "@runwayml",
+      "views": 18865,
+      "lane": "outsider"
+    },
+    {
+      "rank": 10,
+      "id": "2123118145552749015",
+      "handle": "@GoogleLabs",
+      "views": 16842,
+      "lane": "outsider"
+    }
+  ],
+  "trend_keywords": {
+    "date": "2026-11-18",
+    "window": "day D board posts + last-24h posts >= min_views + outsiders + trend-input accounts + pattern brief",
+    "method": "sum(log10 views) over distinct posts x author spread x phrase length x entity/brief bonus; >=2 authors",
+    "keywords": [
+      {
+        "keyword": "Seedance 2.5",
+        "rank": 1,
+        "score": 242.9,
+        "posts": 8,
+        "authors": 8
+      },
+      {
+        "keyword": "Fable 5.2",
+        "rank": 2,
+        "score": 130.8,
+        "posts": 6,
+        "authors": 6
+      },
+      {
+        "keyword": "AI video",
+        "rank": 3,
+        "score": 120.8,
+        "posts": 6,
+        "authors": 6
+      },
+      {
+        "keyword": "Claude Fable 5.2",
+        "rank": 4,
+        "score": 46.4,
+        "posts": 3,
+        "authors": 3
+      },
+      {
+        "keyword": "models",
+        "rank": 5,
+        "score": 35.0,
+        "posts": 4,
+        "authors": 4
+      },
+      {
+        "keyword": "Black Friday Sale",
+        "rank": 6,
+        "score": 32.9,
+        "posts": 2,
+        "authors": 2
+      },
+      {
+        "keyword": "Gods",
+        "rank": 7,
+        "score": 26.0,
+        "posts": 3,
+        "authors": 2
+      },
+      {
+        "keyword": "Gifts",
+        "rank": 8,
+        "score": 26.0,
+        "posts": 3,
+        "authors": 2
+      },
+      {
+        "keyword": "Pika Enact",
+        "rank": 9,
+        "score": 26.0,
+        "posts": 2,
+        "authors": 2
+      },
+      {
+        "keyword": "AI video model",
+        "rank": 10,
+        "score": 23.2,
+        "posts": 2,
+        "authors": 2
+      },
+      {
+        "keyword": "Nano Banana",
+        "rank": 11,
+        "score": 20.5,
+        "posts": 2,
+        "authors": 2
+      },
+      {
+        "keyword": "Image",
+        "rank": 12,
+        "score": 20.0,
+        "posts": 2,
+        "authors": 2
+      },
+      {
+        "keyword": "AI film",
+        "rank": 13,
+        "score": 19.3,
+        "posts": 2,
+        "authors": 2
+      },
+      {
+        "keyword": "Kling 4",
+        "rank": 14,
+        "score": 18.9,
+        "posts": 2,
+        "authors": 2
+      },
+      {
+        "keyword": "Behind",
+        "rank": 15,
+        "score": 17.7,
+        "posts": 2,
+        "authors": 2
+      },
+      {
+        "keyword": "AI filmmaking",
+        "rank": 16,
+        "score": 17.4,
+        "posts": 2,
+        "authors": 2
+      },
+      {
+        "keyword": "Flash",
+        "rank": 17,
+        "score": 17.3,
+        "posts": 2,
+        "authors": 2
+      },
+      {
+        "keyword": "Blender",
+        "rank": 18,
+        "score": 16.6,
+        "posts": 2,
+        "authors": 2
+      },
+      {
+        "keyword": "Seedream 5.5",
+        "rank": 19,
+        "score": 11.6,
+        "posts": 1,
+        "authors": 1
+      }
+    ]
+  },
+  "trend_radar": {
+    "date": "2026-11-18",
+    "title": "Trends and post ideas",
+    "window": {
+      "end": "2026-11-19T10:34:10-05:00",
+      "label24": "18.11 10:34 - 19.11 10:34 UTC",
+      "label48": "17.11 10:34 - 19.11 10:34 UTC"
+    },
+    "corpus": {
+      "posts": 15,
+      "min_views": 5000,
+      "lanes": {
+        "watchlist": 1,
+        "outsider": 13,
+        "24h": 1,
+        "trend_input": 0
+      }
+    },
+    "summary": {
+      "top10_line": "TOP-10: 4/10 (40%) matched trends · visual 6, trend 4",
+      "headline": "8 of 21 board hits (38%) matched 24-48 h trends. Median views: trend 19.1K vs non-trend 4.4K (mean 62.0K vs 45.1K). Watchlist: 0/1 on trend. 17 hits with video, median 16.8K vs 3.2K without.",
+      "takeaway": "Process and direction were the signals of the day: show the human work behind a 40K short, and frame AI video as directing, not prompting.",
+      "stats": {
+        "all": {
+          "n": 21,
+          "trend_n": 8,
+          "trend_pct": 38,
+          "avg_trend": 61959,
+          "avg_other": 45145,
+          "median_trend": 19108,
+          "median_other": 4432,
+          "verdicts": {
+            "trend": 8,
+            "visual": 10,
+            "author/audience": 1,
+            "coincidence/other": 2
+          }
+        },
+        "watchlist": {
+          "n": 1,
+          "trend_n": 0,
+          "trend_pct": 0,
+          "avg_trend": null,
+          "avg_other": 56768,
+          "median_trend": null,
+          "median_other": 56768,
+          "verdicts": {
+            "trend": 0,
+            "visual": 1,
+            "author/audience": 0,
+            "coincidence/other": 0
+          }
+        },
+        "outsiders": {
+          "n": 20,
+          "trend_n": 8,
+          "trend_pct": 40,
+          "avg_trend": 61959,
+          "avg_other": 44176,
+          "median_trend": 19108,
+          "median_other": 3710,
+          "verdicts": {
+            "trend": 8,
+            "visual": 9,
+            "author/audience": 1,
+            "coincidence/other": 2
+          }
+        },
+        "top10": {
+          "n": 10,
+          "trend_n": 4,
+          "trend_pct": 40,
+          "avg_trend": 117589,
+          "avg_other": 95292,
+          "median_trend": 66568,
+          "median_other": 34786,
+          "verdicts": {
+            "trend": 4,
+            "visual": 6,
+            "author/audience": 0,
+            "coincidence/other": 0
+          }
+        },
+        "media": {
+          "video_n": 17,
+          "median_video": 16842,
+          "other_n": 4,
+          "median_other": 3198
+        }
+      }
+    },
+    "topics": [
+      {
+        "name": "Directing, not prompting",
+        "keywords": [
+          "AI video",
+          "Pika Enact",
+          "AI filmmaking"
+        ],
+        "posts_24h": 3,
+        "posts_48h": 6,
+        "views_24h": 484581,
+        "views_prev24h": 139750,
+        "views_48h": 624331,
+        "momentum": "steady x1.10",
+        "heat_raw": 21.47,
+        "evidence": [
+          {
+            "handle": "@pika_labs",
+            "views": 409703,
+            "url": "https://x.com/pika_labs/status/2123127584342921652",
+            "hook": "Launch: Pika Enact, a research preview where you direct AI 'actors', re-stage a scene and move the camera in real time (Pika H3 Flex) - 409.7K views, 1,385 like",
+            "lane": "outsider"
+          },
+          {
+            "handle": "@Viniai_",
+            "views": 75870,
+            "url": "https://x.com/Viniai_/status/2122916879824306422",
+            "hook": "Big-claim caption ('Absolute Masterpiece') on a Fable 5.2 + Seedance 2.5 video with 'prompt below' - 75.9K views, 1,175 likes, 733 bookmarks from 12.5K follower",
+            "lane": "outsider"
+          },
+          {
+            "handle": "@omidaziz",
+            "views": 57266,
+            "url": "https://x.com/omidaziz/status/2122783998921642347",
+            "hook": "Honest failure test: 'every AI video model still struggles with opening a can' - Seedance 2.5 close, Kling 4 and Omni 1.2 Flash hallucinate physics - 57.3K view",
+            "lane": "outsider"
+          }
+        ],
+        "heat": 100
+      },
+      {
+        "name": "Previs-first Seedance workflows",
+        "keywords": [
+          "Seedance 2.5",
+          "Fable 5.2",
+          "Blender"
+        ],
+        "posts_24h": 2,
+        "posts_48h": 7,
+        "views_24h": 314141,
+        "views_prev24h": 150886,
+        "views_48h": 465027,
+        "momentum": "cooling x0.45",
+        "heat_raw": 19.84,
+        "evidence": [
+          {
+            "handle": "@dreamina_ai",
+            "views": 306573,
+            "url": "https://x.com/dreamina_ai/status/2123079065360126339",
+            "hook": "Dreamina Black Friday sale: unlimited Seedance 2.5 (up to 30 days) and Seedream 5.5 (up to 60 days) plus a giveaway - 306.6K views but 632 likes (promoted-looki",
+            "lane": "outsider"
+          },
+          {
+            "handle": "@Viniai_",
+            "views": 75870,
+            "url": "https://x.com/Viniai_/status/2122916879824306422",
+            "hook": "Big-claim caption ('Absolute Masterpiece') on a Fable 5.2 + Seedance 2.5 video with 'prompt below' - 75.9K views, 1,175 likes, 733 bookmarks from 12.5K follower",
+            "lane": "outsider"
+          },
+          {
+            "handle": "@omidaziz",
+            "views": 57266,
+            "url": "https://x.com/omidaziz/status/2122783998921642347",
+            "hook": "Honest failure test: 'every AI video model still struggles with opening a can' - Seedance 2.5 close, Kling 4 and Omni 1.2 Flash hallucinate physics - 57.3K view",
+            "lane": "outsider"
+          }
+        ],
+        "heat": 92
+      },
+      {
+        "name": "Black Friday tool sales",
+        "keywords": [
+          "Nano Banana",
+          "Kling 4",
+          "Black Friday Sale"
+        ],
+        "posts_24h": 2,
+        "posts_48h": 3,
+        "views_24h": 314141,
+        "views_prev24h": 57266,
+        "views_48h": 371407,
+        "momentum": "up x1.97",
+        "heat_raw": 11.74,
+        "evidence": [
+          {
+            "handle": "@dreamina_ai",
+            "views": 306573,
+            "url": "https://x.com/dreamina_ai/status/2123079065360126339",
+            "hook": "Dreamina Black Friday sale: unlimited Seedance 2.5 (up to 30 days) and Seedream 5.5 (up to 60 days) plus a giveaway - 306.6K views but 632 likes (promoted-looki",
+            "lane": "outsider"
+          },
+          {
+            "handle": "@omidaziz",
+            "views": 57266,
+            "url": "https://x.com/omidaziz/status/2122783998921642347",
+            "hook": "Honest failure test: 'every AI video model still struggles with opening a can' - Seedance 2.5 close, Kling 4 and Omni 1.2 Flash hallucinate physics - 57.3K view",
+            "lane": "outsider"
+          },
+          {
+            "handle": "@krea_ai",
+            "views": 7568,
+            "url": "https://x.com/krea_ai/status/2123083834355007970",
+            "hook": "Krea Black Friday sale: 75% less for Seedance 2.5, 62% for Nano Banana Pro, 45% for Kling 4 - 7.6K views, 87 likes.",
+            "lane": "outsider"
+          }
+        ],
+        "heat": 55
+      },
+      {
+        "name": "Human craft behind AI film",
+        "keywords": [
+          "Gods",
+          "Behind"
+        ],
+        "posts_24h": 2,
+        "posts_48h": 2,
+        "views_24h": 63311,
+        "views_prev24h": 0,
+        "views_48h": 63311,
+        "momentum": "new · 24 h only",
+        "heat_raw": 8.57,
+        "evidence": [
+          {
+            "handle": "@Gossip_Goblin",
+            "views": 56768,
+            "url": "https://x.com/Gossip_Goblin/status/2123095356506325436",
+            "hook": "Behind-the-scenes mini-doc (21:51 native video) for his feature Gods Don't Give Gifts, framed as \"the huge human effort\" plus sold-out screening news - 56.8K vi",
+            "lane": "watchlist"
+          },
+          {
+            "handle": "@gossip_goblin",
+            "views": 6543,
+            "url": null,
+            "hook": "Want to make sure Gods Don't Give Gifts comes to your city?  Submit your vote to request a screening in your area!",
+            "lane": "24h"
+          }
+        ],
+        "heat": 40
+      }
+    ],
+    "ideas": [
+      {
+        "title": "Prompt the body, not the emotion",
+        "topic": "Higgsfield",
+        "keywords": [
+          "Higgsfield",
+          "text to video"
+        ],
+        "format": "video",
+        "visual_type": "video",
+        "visual": "Two 8s clips of the same Guardsman: one prompted 'scared', one prompted with trembling hands, shallow breath and a slow push-in.",
+        "angle": "Higgsfield's 'stop prompting emotions' thread (316 bookmarks) fits Bogdan's push for naturalistic dramatic performances.",
+        "hook_en": "Left: I typed 'scared'. Right: I described his hands, his breath and the camera. Text to video emotion comes from details, not adjectives.",
+        "why": "higgsfield_ai 25,341 views, 316 bookmarks; Higgsfield #1 and text to video up x8.66 in the X keyword sample.",
+        "x_keywords": [
+          "Higgsfield",
+          "text to video"
+        ],
+        "x_rank": 1,
+        "source": "x-keywords"
+      },
+      {
+        "title": "Ration tin physics test",
+        "topic": "Kling",
+        "keywords": [
+          "Kling",
+          "Seedance",
+          "image to video"
+        ],
+        "format": "video",
+        "visual_type": "video",
+        "visual": "3-panel video: the same Space Marine image animated opening a ration tin in Kling, Seedance and a third model, labelled.",
+        "angle": "omidaziz's 'every model still struggles with opening a can' kept climbing to 57.3K from 1.5K followers; honest fail tests travel.",
+        "hook_en": "Same image to video prompt, three models: can a Space Marine open a ration tin? Kling, Seedance, and one more. None of them nailed it.",
+        "why": "omidaziz 57,266 views; Kling #2 in the X keyword sample.",
+        "x_keywords": [
+          "Kling",
+          "Seedance",
+          "image to video"
+        ],
+        "x_rank": 2,
+        "source": "x-keywords"
+      },
+      {
+        "title": "Behind the scenes of a 40K short",
+        "topic": "AI filmmaking",
+        "keywords": [
+          "AI filmmaking",
+          "AI video"
+        ],
+        "format": "video",
+        "visual_type": "video",
+        "visual": "2-4 min native video: finished 40K shot first, then rejected takes, prompt notes, the edit timeline and Bogdan at the desk.",
+        "angle": "Gossip_Goblin's behind-the-scenes mini-doc was the only watchlist hit and outsiders quoted it as proof AI filmmaking is human craft.",
+        "hook_en": "People think AI filmmaking is pushing a button. Here is what one 40K AI video shot actually took - every failed take included.",
+        "why": "Gossip_Goblin BTS mini-doc 56,768 views, 411 bookmarks; AI filmmaking up x3.96 in the X keyword sample.",
+        "x_keywords": [
+          "AI filmmaking",
+          "AI video"
+        ],
+        "x_rank": 3,
+        "source": "x-keywords"
+      },
+      {
+        "title": "Directing a Space Marine who won't listen",
+        "topic": "AI video",
+        "keywords": [
+          "AI video",
+          "AI filmmaking"
+        ],
+        "format": "video",
+        "visual_type": "video",
+        "visual": "20-30s sci-fi skit: an off-screen director gives notes to a Space Marine 'actor' who keeps misreading them, each take worse.",
+        "angle": "Pika Enact made 'directing AI actors' the phrase of the week; a comedy skit rides the topic without being an ad.",
+        "hook_en": "Everyone says AI video is directing now, and AI filmmaking means talking to your actors. I tried directing a Space Marine. Take 7 did not go well.",
+        "why": "pika_labs Enact 409,703 views plus a wave of 10-44K creator posts; AI video up x4.61 in the X keyword sample.",
+        "x_keywords": [
+          "AI video",
+          "AI filmmaking"
+        ],
+        "x_rank": 3,
+        "source": "x-keywords"
+      },
+      {
+        "title": "One sentence of 40K lore, one world",
+        "topic": "AI video",
+        "keywords": [
+          "AI video",
+          "short film"
+        ],
+        "format": "video",
+        "visual_type": "video",
+        "visual": "15s: one line of 40K lore typed on screen, hard cut to the generated hive city flythrough.",
+        "angle": "Google's Project Genie 'world from one sentence' pitch makes prompt-on-screen reveals timely.",
+        "hook_en": "One sentence: 'A hive city that has not seen the sun in ten thousand years.' Here is the AI video it became - the opening of my next short film.",
+        "why": "GoogleLabs Project Genie 16,842 views; AI video #5 in the X keyword sample.",
+        "x_keywords": [
+          "AI video",
+          "short film"
+        ],
+        "x_rank": 5,
+        "source": "x-keywords"
+      },
+      {
+        "title": "Blender blocking to Seedance 40K shot",
+        "topic": "Seedance",
+        "keywords": [
+          "Seedance",
+          "AI animation"
+        ],
+        "format": "video",
+        "visual_type": "video",
+        "visual": "10-15s split screen: grey Blender blocking on the left, finished Seedance 40K battle shot on the right, synced.",
+        "angle": "morgoth_raven's Blender-first workflow pulled 120 bookmarks from a 7K account; previs-to-final comparisons are bookmark bait.",
+        "hook_en": "Seedance kept failing my complex 40K battle shot. Then I blocked it in Blender first. Left: grey boxes. Right: the final AI animation.",
+        "why": "morgoth_raven 5,803 views, 120 bookmarks; Seedance 2.5 is #1 in the day's trend keywords.",
+        "x_keywords": [
+          "Seedance",
+          "AI animation"
+        ],
+        "x_rank": 6,
+        "source": "x-keywords"
+      }
+    ],
+    "articles": [
+      {
+        "title": "AI filmmaking is not pushing a button",
+        "thesis": "The week's biggest watchlist post was a behind-the-scenes doc, and the reaction shows audiences reward visible craft.",
+        "outline": [
+          "What Gossip Goblin's mini-doc showed",
+          "Why outsiders quoted it",
+          "The real hours behind one 40K short",
+          "How to show process without giving away prompts"
+        ],
+        "keywords": [
+          "AI filmmaking",
+          "AI video"
+        ],
+        "visual": "Cover: a frame from a 40K short beside the messy edit timeline that made it.",
+        "why": "Gossip_Goblin 56,768 views and 411 bookmarks; eliott__mogenet and ryanlightbourn quote-posts.",
+        "x_keywords": [
+          "AI filmmaking",
+          "AI video"
+        ]
+      },
+      {
+        "title": "From prompting to directing: what Pika Enact means for small creators",
+        "thesis": "Real-time direction of AI actors could change how performance-driven shorts are made, but the launch noise looks paid.",
+        "outline": [
+          "What Enact claims",
+          "The creator-post wave and how to read it",
+          "What directing tools could mean for dialogue scenes",
+          "What to test first"
+        ],
+        "keywords": [
+          "AI video",
+          "Kling",
+          "Higgsfield"
+        ],
+        "visual": "Cover: a split image of a film set and a prompt box; inline: before/after of a dialogue shot.",
+        "why": "pika_labs 409,703 views; ProCreatorHarry 44,230 with 0 bookmarks.",
+        "x_keywords": [
+          "AI video",
+          "Kling",
+          "Higgsfield"
+        ]
+      }
+    ],
+    "why_hit": [
+      {
+        "id": "2123095356506325436",
+        "handle": "@Gossip_Goblin",
+        "lane": "watchlist",
+        "views": 56768,
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "followers": 125432,
+        "topic": "Human craft behind AI film",
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2123127584342921652",
+        "handle": "@pika_labs",
+        "lane": "outsider",
+        "views": 409703,
+        "trend_match": 35,
+        "verdict": "visual",
+        "matched_keywords": [
+          "AI video"
+        ],
+        "media": "video",
+        "followers": 152094,
+        "topic": "Directing, not prompting",
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2123079065360126339",
+        "handle": "@dreamina_ai",
+        "lane": "outsider",
+        "views": 306573,
+        "trend_match": 83,
+        "verdict": "trend",
+        "matched_keywords": [
+          "Seedance 2.5",
+          "models",
+          "Black Friday Sale",
+          "Nano Banana",
+          "Flash"
+        ],
+        "media": "image",
+        "followers": 31460,
+        "topic": "Previs-first Seedance workflows",
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2122916879824306422",
+        "handle": "@Viniai_",
+        "lane": "outsider",
+        "views": 75870,
+        "trend_match": 73,
+        "verdict": "trend",
+        "matched_keywords": [
+          "Seedance 2.5",
+          "Fable 5.2",
+          "AI video"
+        ],
+        "media": "video",
+        "followers": 12472,
+        "topic": "Directing, not prompting",
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2122783998921642347",
+        "handle": "@omidaziz",
+        "lane": "outsider",
+        "views": 57266,
+        "trend_match": 83,
+        "verdict": "trend",
+        "matched_keywords": [
+          "Seedance 2.5",
+          "AI video",
+          "AI video model",
+          "Kling 4",
+          "Flash"
+        ],
+        "media": "video",
+        "followers": 1550,
+        "topic": "Directing, not prompting",
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2123155980213166173",
+        "handle": "@ProCreatorHarry",
+        "lane": "outsider",
+        "views": 44230,
+        "trend_match": 35,
+        "verdict": "visual",
+        "matched_keywords": [
+          "Pika Enact"
+        ],
+        "media": "video",
+        "followers": 39990,
+        "topic": "Directing, not prompting",
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2123138921022595509",
+        "handle": "@I_amShiti",
+        "lane": "outsider",
+        "views": 30648,
+        "trend_match": 58,
+        "verdict": "trend",
+        "matched_keywords": [
+          "AI video",
+          "Pika Enact"
+        ],
+        "media": "video",
+        "followers": 101801,
+        "topic": "Directing, not prompting",
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2123124839204663338",
+        "handle": "@higgsfield_ai",
+        "lane": "outsider",
+        "views": 25341,
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "followers": 257218,
+        "topic": null,
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2123098732770263485",
+        "handle": "@runwayml",
+        "lane": "outsider",
+        "views": 18865,
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "followers": 297604,
+        "topic": null,
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2123118145552749015",
+        "handle": "@GoogleLabs",
+        "lane": "outsider",
+        "views": 16842,
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "followers": 228802,
+        "topic": null,
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2123083834355007970",
+        "handle": "@krea_ai",
+        "lane": "outsider",
+        "views": 7568,
+        "trend_match": 74,
+        "verdict": "trend",
+        "matched_keywords": [
+          "Seedance 2.5",
+          "Black Friday Sale",
+          "Nano Banana",
+          "Kling 4"
+        ],
+        "media": "video",
+        "followers": 126020,
+        "topic": "Previs-first Seedance workflows",
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2122856162689491233",
+        "handle": "@ImagineArt_X",
+        "lane": "outsider",
+        "views": 6614,
+        "trend_match": 91,
+        "verdict": "trend",
+        "matched_keywords": [
+          "Seedance 2.5",
+          "Fable 5.2",
+          "AI video",
+          "models",
+          "AI video model",
+          "Blender"
+        ],
+        "media": "video",
+        "followers": 23430,
+        "topic": "Directing, not prompting",
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2123070353215803529",
+        "handle": "@morgoth_raven",
+        "lane": "outsider",
+        "views": 5803,
+        "trend_match": 79,
+        "verdict": "trend",
+        "matched_keywords": [
+          "Seedance 2.5",
+          "Fable 5.2",
+          "Claude Fable 5.2",
+          "Blender"
+        ],
+        "media": "video",
+        "followers": 7079,
+        "topic": "Previs-first Seedance workflows",
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2122805280861782085",
+        "handle": "@0xCortexq",
+        "lane": "outsider",
+        "views": 5333,
+        "trend_match": 73,
+        "verdict": "trend",
+        "matched_keywords": [
+          "Seedance 2.5",
+          "Fable 5.2",
+          "Claude Fable 5.2"
+        ],
+        "media": "video",
+        "followers": 29,
+        "topic": "Previs-first Seedance workflows",
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2123043238785556801",
+        "handle": "@Kling_ai",
+        "lane": "outsider",
+        "views": 4432,
+        "trend_match": 0,
+        "verdict": "author/audience",
+        "matched_keywords": [],
+        "media": "text",
+        "followers": 139504,
+        "topic": null,
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2122910953717260596",
+        "handle": "@BGKuaci",
+        "lane": "outsider",
+        "views": 2989,
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "followers": 12101,
+        "topic": "Directing, not prompting",
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2123189519143096556",
+        "handle": "@latentmoss",
+        "lane": "outsider",
+        "views": 2060,
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "followers": 1445,
+        "topic": "Previs-first Seedance workflows",
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2123120254398472578",
+        "handle": "@ryanlightbourn",
+        "lane": "outsider",
+        "views": 1964,
+        "trend_match": 0,
+        "verdict": "coincidence/other",
+        "matched_keywords": [],
+        "media": "text",
+        "followers": 15900,
+        "topic": "Human craft behind AI film",
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2123115809094750502",
+        "handle": "@eliott__mogenet",
+        "lane": "outsider",
+        "views": 1961,
+        "trend_match": 0,
+        "verdict": "coincidence/other",
+        "matched_keywords": [],
+        "media": "text",
+        "followers": 1165,
+        "topic": "Directing, not prompting",
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2123231695860281554",
+        "handle": "@alexkoumpas",
+        "lane": "outsider",
+        "views": 1029,
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "followers": 550,
+        "topic": "Previs-first Seedance workflows",
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2123080986154180798",
+        "handle": "@Kuriyama890",
+        "lane": "outsider",
+        "views": 697,
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "followers": 2477,
+        "topic": null,
+        "self_quote": false,
+        "note": ""
+      }
+    ],
+    "labels": {
+      "trend": "trend",
+      "visual": "visual",
+      "author": "author/audience",
+      "other": "coincidence/other",
+      "nontrend": "non-trend",
+      "self_quote": "self-quote",
+      "no_data": "no data"
+    },
+    "x_keywords": {
+      "fetched_at": "2026-11-19T15:34:00+00:00",
+      "window_start": "2026-11-17T15:34:00Z",
+      "calls": 32,
+      "method": "Read-only x MCP search_posts_all, 2 calls per keyword: last 24 h and previous 24 h (24-48 h ago); lang:en, no retweets/replies, sort=relevancy, up to 25 posts per window. This is a SAMPLE of top-relevance posts, not every post on X. Views = impression_count at fetch time. Rank = sum of sampled 24 h views; 48 h = both windows; trend = 24 h sum / previous 24 h sum (up >=1.3, down <=0.7). Fresh posts are still gaining views, so 'up' is understated. Top-post share > 70% means one viral post carries the keyword.",
+      "missing": [],
+      "sample": true,
+      "sample_size_per_call": 25,
+      "keywords": [
+        {
+          "keyword": "Higgsfield",
+          "query": "\"Higgsfield\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 25,
+            "total": 144540,
+            "median": 63,
+            "top": {
+              "views": 129810,
+              "url": "https://x.com/jpcreatesAI/status/2123170888497701237",
+              "handle": "@jpcreatesAI",
+              "text": "This is a small glimpse of my first AI horror film, created with Higgsfield! We’re entering an era where any idea can be"
+            }
+          },
+          "prev24": {
+            "n": 25,
+            "total": 236038,
+            "median": 28,
+            "top": {
+              "views": 223630,
+              "url": "https://x.com/higgsfield_ai/status/2122751206187802945",
+              "handle": "@higgsfield_ai",
+              "text": "GPT-6.2 Astra is LIVE on Higgsfield. OpenAI’s new frontier model for your most demanding projects. With Higgsfield plugi"
+            }
+          },
+          "w48": {
+            "n": 50,
+            "total": 380578,
+            "top": {
+              "views": 223630,
+              "url": "https://x.com/higgsfield_ai/status/2122751206187802945",
+              "handle": "@higgsfield_ai",
+              "text": "GPT-6.2 Astra is LIVE on Higgsfield. OpenAI’s new frontier model for your most demanding projects. With Higgsfield plugi"
+            }
+          },
+          "change": 0.61,
+          "trend": "down",
+          "partial": false,
+          "top_share": 0.9,
+          "rank": 1
+        },
+        {
+          "keyword": "Kling",
+          "query": "\"Kling\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 25,
+            "total": 131089,
+            "median": 38,
+            "top": {
+              "views": 41364,
+              "url": "https://x.com/AIwithArsalan/status/2123079426808438969",
+              "handle": "@AIwithArsalan",
+              "text": "Okay, I wasn't expecting to see this comparison today. Kling Image 4.0 is ranked ahead of Nano Banana on Artificial Anal"
+            }
+          },
+          "prev24": {
+            "n": 25,
+            "total": 119025,
+            "median": 95,
+            "top": {
+              "views": 79502,
+              "url": "https://x.com/CharaspowerAI/status/2122718728983118234",
+              "handle": "@CharaspowerAI",
+              "text": "Okay… AI image generation is getting SCARY realistic. 🤯🔥 I just pushed Kling Image 4.0 through a series of real-world cr"
+            }
+          },
+          "w48": {
+            "n": 50,
+            "total": 250114,
+            "top": {
+              "views": 79502,
+              "url": "https://x.com/CharaspowerAI/status/2122718728983118234",
+              "handle": "@CharaspowerAI",
+              "text": "Okay… AI image generation is getting SCARY realistic. 🤯🔥 I just pushed Kling Image 4.0 through a series of real-world cr"
+            }
+          },
+          "change": 1.1,
+          "trend": "flat",
+          "partial": false,
+          "top_share": 0.32,
+          "rank": 2
+        },
+        {
+          "keyword": "AI filmmaking",
+          "query": "\"AI filmmaking\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 25,
+            "total": 90627,
+            "median": 140,
+            "top": {
+              "views": 30515,
+              "url": "https://x.com/jji1jj/status/2123149933431959799",
+              "handle": "@jji1jj",
+              "text": "This is an interesting direction for AI filmmaking. Instead of generating a scene and accepting the result, creators can"
+            }
+          },
+          "prev24": {
+            "n": 25,
+            "total": 22870,
+            "median": 80,
+            "top": {
+              "views": 15049,
+              "url": "https://x.com/billboard/status/2122771806146711569",
+              "handle": "@billboard",
+              "text": "Suno Moves Into AI Filmmaking With New Product ‘Visuals’ https://t.co/eTVtglbTnz"
+            }
+          },
+          "w48": {
+            "n": 50,
+            "total": 113497,
+            "top": {
+              "views": 30515,
+              "url": "https://x.com/jji1jj/status/2123149933431959799",
+              "handle": "@jji1jj",
+              "text": "This is an interesting direction for AI filmmaking. Instead of generating a scene and accepting the result, creators can"
+            }
+          },
+          "change": 3.96,
+          "trend": "up",
+          "partial": false,
+          "top_share": 0.34,
+          "rank": 3
+        },
+        {
+          "keyword": "text to video",
+          "query": "\"text to video\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 25,
+            "total": 64418,
+            "median": 32,
+            "top": {
+              "views": 48209,
+              "url": "https://x.com/nahid_pro09/status/2123097167275622684",
+              "handle": "@nahid_pro09",
+              "text": "minimax h3 just got a 148mb nsfw lora that unlocks uncensored video 😳 its free, no gate, 76k downloads -lora for minimax"
+            }
+          },
+          "prev24": {
+            "n": 25,
+            "total": 7438,
+            "median": 145,
+            "top": {
+              "views": 1468,
+              "url": "https://x.com/aitrackerbot/status/2122812449153753283",
+              "handle": "@aitrackerbot",
+              "text": "Apple just released FastFrames, open video models built for interactive speed 🍎 • FastFrames-S (1.3B) and FastFrames-L ("
+            }
+          },
+          "w48": {
+            "n": 50,
+            "total": 71856,
+            "top": {
+              "views": 48209,
+              "url": "https://x.com/nahid_pro09/status/2123097167275622684",
+              "handle": "@nahid_pro09",
+              "text": "minimax h3 just got a 148mb nsfw lora that unlocks uncensored video 😳 its free, no gate, 76k downloads -lora for minimax"
+            }
+          },
+          "change": 8.66,
+          "trend": "up",
+          "partial": false,
+          "top_share": 0.75,
+          "rank": 4
+        },
+        {
+          "keyword": "AI video",
+          "query": "\"AI video\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 25,
+            "total": 56842,
+            "median": 88,
+            "top": {
+              "views": 37848,
+              "url": "https://x.com/AlexM12jx/status/2123150863401455840",
+              "handle": "@AlexM12jx",
+              "text": "The future of AI video isn't just about better visuals. It's about creative control. Pika Enact is exploring exactly tha"
+            }
+          },
+          "prev24": {
+            "n": 24,
+            "total": 12330,
+            "median": 21,
+            "top": {
+              "views": 3920,
+              "url": "https://x.com/Info_sam_ai/status/2122728076140556491",
+              "handle": "@Info_sam_ai",
+              "text": "🔥 Creators deserve affordable AI video generation! No more overpriced tools. YouArt is making AI video creation more acc"
+            }
+          },
+          "w48": {
+            "n": 49,
+            "total": 69172,
+            "top": {
+              "views": 37848,
+              "url": "https://x.com/AlexM12jx/status/2123150863401455840",
+              "handle": "@AlexM12jx",
+              "text": "The future of AI video isn't just about better visuals. It's about creative control. Pika Enact is exploring exactly tha"
+            }
+          },
+          "change": 4.61,
+          "trend": "up",
+          "partial": false,
+          "top_share": 0.67,
+          "rank": 5
+        },
+        {
+          "keyword": "AI animation",
+          "query": "\"AI animation\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 24,
+            "total": 11062,
+            "median": 72,
+            "top": {
+              "views": 2462,
+              "url": "https://x.com/xmliisu/status/2123341647366979889",
+              "handle": "@xmliisu",
+              "text": "This AI Animation is absolutely amazing 🔥 Seedance 2.5 https://t.co/PCcSYXt7nc"
+            }
+          },
+          "prev24": {
+            "n": 25,
+            "total": 1089078,
+            "median": 126,
+            "top": {
+              "views": 1036160,
+              "url": "https://x.com/xmliisu/status/2122996500355850310",
+              "handle": "@xmliisu",
+              "text": "This AI animation is better than Disney 🔥 Seedance 2.5 https://t.co/TSvzMwhCtK"
+            }
+          },
+          "w48": {
+            "n": 49,
+            "total": 1100140,
+            "top": {
+              "views": 1036160,
+              "url": "https://x.com/xmliisu/status/2122996500355850310",
+              "handle": "@xmliisu",
+              "text": "This AI animation is better than Disney 🔥 Seedance 2.5 https://t.co/TSvzMwhCtK"
+            }
+          },
+          "change": 0.01,
+          "trend": "down",
+          "partial": false,
+          "top_share": 0.22,
+          "rank": 6
+        },
+        {
+          "keyword": "Runway",
+          "query": "\"Runway\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 25,
+            "total": 7225,
+            "median": 54,
+            "top": {
+              "views": 2330,
+              "url": "https://x.com/OnDisasters/status/2123310841579643383",
+              "handle": "@OnDisasters",
+              "text": "The only fatality in TAP´s history November 17 1977: TAP Flight 425, a B-727, crashes in Madeira (Portugal); 131 of 164 "
+            }
+          },
+          "prev24": {
+            "n": 25,
+            "total": 150839,
+            "median": 58,
+            "top": {
+              "views": 142370,
+              "url": "https://x.com/TripppleSeven7/status/2122740562407350574",
+              "handle": "@TripppleSeven7",
+              "text": "Turn and burn, 757 style 🔥✈️ A turn and burn is when a pilot lines up on the runway and applies takeoff power straight a"
+            }
+          },
+          "w48": {
+            "n": 50,
+            "total": 158064,
+            "top": {
+              "views": 142370,
+              "url": "https://x.com/TripppleSeven7/status/2122740562407350574",
+              "handle": "@TripppleSeven7",
+              "text": "Turn and burn, 757 style 🔥✈️ A turn and burn is when a pilot lines up on the runway and applies takeoff power straight a"
+            }
+          },
+          "change": 0.05,
+          "trend": "down",
+          "partial": false,
+          "top_share": 0.32,
+          "rank": 7
+        },
+        {
+          "keyword": "Sora",
+          "query": "\"Sora\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 25,
+            "total": 6568,
+            "median": 90,
+            "top": {
+              "views": 1551,
+              "url": "https://x.com/soralure/status/2123253998664794593",
+              "handle": "@soralure",
+              "text": "I’ll leave you with my main dancer, who is just incredibly perfect! My Sora, I love you! ♡ #SORA #소라 #A2OSOUL https://t."
+            }
+          },
+          "prev24": {
+            "n": 25,
+            "total": 14013,
+            "median": 159,
+            "top": {
+              "views": 3480,
+              "url": "https://x.com/lovedrive_/status/2122986469027389529",
+              "handle": "@lovedrive_",
+              "text": "Pirate sora wip im not finishing #sora https://t.co/9CHmlLoGYK"
+            }
+          },
+          "w48": {
+            "n": 50,
+            "total": 20581,
+            "top": {
+              "views": 3480,
+              "url": "https://x.com/lovedrive_/status/2122986469027389529",
+              "handle": "@lovedrive_",
+              "text": "Pirate sora wip im not finishing #sora https://t.co/9CHmlLoGYK"
+            }
+          },
+          "change": 0.47,
+          "trend": "down",
+          "partial": false,
+          "top_share": 0.24,
+          "rank": 8
+        },
+        {
+          "keyword": "image to video",
+          "query": "\"image to video\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 25,
+            "total": 3691,
+            "median": 39,
+            "top": {
+              "views": 792,
+              "url": "https://x.com/JohnMayeructi/status/2123330238788837619",
+              "handle": "@JohnMayeructi",
+              "text": "image to video: Jenna Ortega Generate your own AI GF/undress/porn on Picmuse AI. Check out my bio for link 😈 #boobs #nsf"
+            }
+          },
+          "prev24": {
+            "n": 25,
+            "total": 43018,
+            "median": 86,
+            "top": {
+              "views": 29589,
+              "url": "https://x.com/PapaIVRazzi/status/2122733516911714358",
+              "handle": "@PapaIVRazzi",
+              "text": "Try now our bot: NEW SCENE FULL SEX 3.0 Upload your girl’s face. Ai nsfw video generator. Undress your girl or swap face"
+            }
+          },
+          "w48": {
+            "n": 50,
+            "total": 46709,
+            "top": {
+              "views": 29589,
+              "url": "https://x.com/PapaIVRazzi/status/2122733516911714358",
+              "handle": "@PapaIVRazzi",
+              "text": "Try now our bot: NEW SCENE FULL SEX 3.0 Upload your girl’s face. Ai nsfw video generator. Undress your girl or swap face"
+            }
+          },
+          "change": 0.09,
+          "trend": "down",
+          "partial": false,
+          "top_share": 0.21,
+          "rank": 9
+        },
+        {
+          "keyword": "Seedance",
+          "query": "\"Seedance\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 25,
+            "total": 3161,
+            "median": 21,
+            "top": {
+              "views": 1091,
+              "url": "https://x.com/claire44/status/2123281204266848596",
+              "handle": "@claire44",
+              "text": "This AI video is a masterpiece. The level of creativity, realism, and detail is simply incredible. Seedance 2.5 keeps pu"
+            }
+          },
+          "prev24": {
+            "n": 25,
+            "total": 1305202,
+            "median": 50,
+            "top": {
+              "views": 1297010,
+              "url": "https://x.com/Deevid_AI/status/2122893725512958428",
+              "handle": "@Deevid_AI",
+              "text": "He thought the tentacle was a snack. The octopus had other plans. 🦦🐙 Developed with GPT-6.2 Astra. Animated with Seedanc"
+            }
+          },
+          "w48": {
+            "n": 50,
+            "total": 1308363,
+            "top": {
+              "views": 1297010,
+              "url": "https://x.com/Deevid_AI/status/2122893725512958428",
+              "handle": "@Deevid_AI",
+              "text": "He thought the tentacle was a snack. The octopus had other plans. 🦦🐙 Developed with GPT-6.2 Astra. Animated with Seedanc"
+            }
+          },
+          "change": 0.0,
+          "trend": "down",
+          "partial": false,
+          "top_share": 0.35,
+          "rank": 10
+        },
+        {
+          "keyword": "short film",
+          "query": "\"short film\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 25,
+            "total": 2923,
+            "median": 13,
+            "top": {
+              "views": 1010,
+              "url": "https://x.com/RoxaHQ/status/2123268468426625495",
+              "handle": "@RoxaHQ",
+              "text": "The Root and the Flame | Dark Fantasy Short Film https://t.co/iP89zTW5Cx"
+            }
+          },
+          "prev24": {
+            "n": 25,
+            "total": 7807,
+            "median": 84,
+            "top": {
+              "views": 2947,
+              "url": "https://x.com/hud20raj/status/2122828406119182597",
+              "handle": "@hud20raj",
+              "text": "still my favorite short film https://t.co/7RvVJmlPOb"
+            }
+          },
+          "w48": {
+            "n": 50,
+            "total": 10730,
+            "top": {
+              "views": 2947,
+              "url": "https://x.com/hud20raj/status/2122828406119182597",
+              "handle": "@hud20raj",
+              "text": "still my favorite short film https://t.co/7RvVJmlPOb"
+            }
+          },
+          "change": 0.37,
+          "trend": "down",
+          "partial": false,
+          "top_share": 0.35,
+          "rank": 11
+        },
+        {
+          "keyword": "anime",
+          "query": "\"anime\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 25,
+            "total": 2920,
+            "median": 63,
+            "top": {
+              "views": 516,
+              "url": "https://x.com/animeexpochibi/status/2123189619613168076",
+              "handle": "@animeexpochibi",
+              "text": "🎨✨ Applications for anime expo chibi 2027 Artist Alley and 18+ Artist Alley are NOW OPEN! 🎉 Ready to showcase your creat"
+            }
+          },
+          "prev24": {
+            "n": 25,
+            "total": 16539,
+            "median": 97,
+            "top": {
+              "views": 7056,
+              "url": "https://x.com/itsawful911/status/2123028500722716804",
+              "handle": "@itsawful911",
+              "text": "FOUND ANOTHER FREE ANIME STREAMING WEBSITE. 👀 Meet AniSakura a platform for watching anime online without a subscription"
+            }
+          },
+          "w48": {
+            "n": 50,
+            "total": 19459,
+            "top": {
+              "views": 7056,
+              "url": "https://x.com/itsawful911/status/2123028500722716804",
+              "handle": "@itsawful911",
+              "text": "FOUND ANOTHER FREE ANIME STREAMING WEBSITE. 👀 Meet AniSakura a platform for watching anime online without a subscription"
+            }
+          },
+          "change": 0.18,
+          "trend": "down",
+          "partial": false,
+          "top_share": 0.18,
+          "rank": 12
+        },
+        {
+          "keyword": "ComfyUI",
+          "query": "\"ComfyUI\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 25,
+            "total": 2658,
+            "median": 42,
+            "top": {
+              "views": 511,
+              "url": "https://x.com/ou_zhen599/status/2123125814137127179",
+              "handle": "@ou_zhen599",
+              "text": "Made with Krea 2 +MiniMax-H3 ComfyUI 🏷️I tried using two language models to guide my work, and as I went along, I realiz"
+            }
+          },
+          "prev24": {
+            "n": 25,
+            "total": 5193,
+            "median": 89,
+            "top": {
+              "views": 2978,
+              "url": "https://x.com/SD_Tutorial/status/2122963146868740315",
+              "handle": "@SD_Tutorial",
+              "text": "MiniMax-H3 🙂Image (AdaLN-pruned) EntroPack Pre-Quantized Models -Use them with ComfyUI through DiffSynth-ComfyUI node -c"
+            }
+          },
+          "w48": {
+            "n": 50,
+            "total": 7851,
+            "top": {
+              "views": 2978,
+              "url": "https://x.com/SD_Tutorial/status/2122963146868740315",
+              "handle": "@SD_Tutorial",
+              "text": "MiniMax-H3 🙂Image (AdaLN-pruned) EntroPack Pre-Quantized Models -Use them with ComfyUI through DiffSynth-ComfyUI node -c"
+            }
+          },
+          "change": 0.51,
+          "trend": "down",
+          "partial": false,
+          "top_share": 0.19,
+          "rank": 13
+        },
+        {
+          "keyword": "Grok Imagine",
+          "query": "\"Grok Imagine\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 25,
+            "total": 2531,
+            "median": 31,
+            "top": {
+              "views": 1083,
+              "url": "https://x.com/thesimaximalist/status/2123107772602744851",
+              "handle": "@thesimaximalist",
+              "text": "AGI and Anthropic’s IPO can wait. Even Dario is playing GTA 6 tomorrow.😂🎮 ANOTHER GTA BANGER 🔥 Made with Grok Imagine. @"
+            }
+          },
+          "prev24": {
+            "n": 25,
+            "total": 5284,
+            "median": 35,
+            "top": {
+              "views": 4205,
+              "url": "https://x.com/KnightWorlds/status/2122884247539376535",
+              "handle": "@KnightWorlds",
+              "text": "In the past, doing this probably required hours of work and a team of many people, but you can create a video of this qu"
+            }
+          },
+          "w48": {
+            "n": 50,
+            "total": 7815,
+            "top": {
+              "views": 4205,
+              "url": "https://x.com/KnightWorlds/status/2122884247539376535",
+              "handle": "@KnightWorlds",
+              "text": "In the past, doing this probably required hours of work and a team of many people, but you can create a video of this qu"
+            }
+          },
+          "change": 0.48,
+          "trend": "down",
+          "partial": false,
+          "top_share": 0.43,
+          "rank": 14
+        },
+        {
+          "keyword": "Veo",
+          "query": "\"Veo\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 25,
+            "total": 2254,
+            "median": 33,
+            "top": {
+              "views": 503,
+              "url": "https://x.com/ScotAmFA/status/2123430145977471236",
+              "handle": "@ScotAmFA",
+              "text": "We're delighted to share we're partnered up with Veo to bring our clubs some extra special offers! - Free Veo Cam - 3 ex"
+            }
+          },
+          "prev24": {
+            "n": 25,
+            "total": 3277,
+            "median": 69,
+            "top": {
+              "views": 452,
+              "url": "https://x.com/themockingbel/status/2122922030349631670",
+              "handle": "@themockingbel",
+              "text": "HOY VEO SUNRISE ON THE REAPING https://t.co/tESK0KlNju"
+            }
+          },
+          "w48": {
+            "n": 50,
+            "total": 5531,
+            "top": {
+              "views": 503,
+              "url": "https://x.com/ScotAmFA/status/2123430145977471236",
+              "handle": "@ScotAmFA",
+              "text": "We're delighted to share we're partnered up with Veo to bring our clubs some extra special offers! - Free Veo Cam - 3 ex"
+            }
+          },
+          "change": 0.69,
+          "trend": "down",
+          "partial": false,
+          "top_share": 0.22,
+          "rank": 15
+        },
+        {
+          "keyword": "Midjourney",
+          "query": "\"Midjourney\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 25,
+            "total": 1589,
+            "median": 20,
+            "top": {
+              "views": 326,
+              "url": "https://x.com/DigitalDaizy/status/2123396916084150476",
+              "handle": "@DigitalDaizy",
+              "text": "The Spark✨ #midjourney #grok #interiordesign #digitalart https://t.co/pnK6MJZ9e4"
+            }
+          },
+          "prev24": {
+            "n": 25,
+            "total": 7393,
+            "median": 163,
+            "top": {
+              "views": 3116,
+              "url": "https://x.com/ingi_erlingsson/status/2122775690940477476",
+              "handle": "@ingi_erlingsson",
+              "text": "is it cake? 🍰 Midjourney + Wan 2.2 I2V https://t.co/PQAXYOpSEN"
+            }
+          },
+          "w48": {
+            "n": 50,
+            "total": 8982,
+            "top": {
+              "views": 3116,
+              "url": "https://x.com/ingi_erlingsson/status/2122775690940477476",
+              "handle": "@ingi_erlingsson",
+              "text": "is it cake? 🍰 Midjourney + Wan 2.2 I2V https://t.co/PQAXYOpSEN"
+            }
+          },
+          "change": 0.21,
+          "trend": "down",
+          "partial": false,
+          "top_share": 0.21,
+          "rank": 16
+        }
+      ]
+    },
+    "legend": "Trend match 0-100% = 1 - prod(1 - w) over matched 24 h keywords that another author also used in the 48 h window (w: rank 1-10 0.35, 11-25 0.22, 26-40 0.12, curated 0.20). Verdict: >= 50% -> trend; else video/image in the post data -> visual; else >= 100K followers (outsiders without follower data: >= 500K views, estimate) -> author/audience; else coincidence/other. Missing data shows as 'no data'. Heat = sum log10(views) of topic posts (24 h x1, 24-48 h x0.5), scaled to 100. Momentum = log-views last 24 h / previous 24 h. Trend-input-only accounts feed the corpus but are never shown as hits."
+  }
+}

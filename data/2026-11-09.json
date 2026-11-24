@@ -1,0 +1,3215 @@
+{
+  "title": "X Virality Score · 2026-11-09",
+  "brand_title": "Grok Bot X Virality Score",
+  "brand_handle": "@SMKP_Films",
+  "operator": {
+    "handle": "SMKP_Films",
+    "name": "Bogdan Orlic",
+    "profile_url": "https://x.com/SMKP_Films"
+  },
+  "timezone": "America/Toronto",
+  "date": "2026-11-09",
+  "updated": "2026-11-10T10:46:34-05:00",
+  "ui": {
+    "default_theme": "night"
+  },
+  "board_features": {
+    "count_up": true,
+    "live_pulse": true,
+    "theme_toggle": true,
+    "themes": [
+      "night",
+      "day"
+    ],
+    "grok_ambient": true,
+    "week_month_boards": true,
+    "day_roster_best_total": true,
+    "day_compare_chart": true,
+    "week_strip": true,
+    "no_hits_reasons": true,
+    "marker_class": "xvs-dash-2026",
+    "top10_drafts_v4": true,
+    "trend_keywords": true,
+    "trend_radar": true,
+    "x_keyword_table": true,
+    "experiment": true,
+    "self_quote_badge": true
+  },
+  "previous_day": {
+    "date": "2026-11-08",
+    "hits_count": 2,
+    "total_views": 79792,
+    "stars": 2,
+    "x_score": 51,
+    "top_hit": {
+      "handle": "@Gossip_Goblin",
+      "views": 67212,
+      "text": "Nameless Beings https://t.co/48c20TPax9"
+    }
+  },
+  "hits": [],
+  "hits_count": 0,
+  "outsiders": [
+    {
+      "id": "2119739717550035360",
+      "name": "Ima Studio",
+      "display_name": "Ima Studio",
+      "handle": "@ImaStudio_ai",
+      "views": 47730,
+      "views_label": "47,730",
+      "url": "https://x.com/ImaStudio_ai/status/2119739717550035360",
+      "created_at": "2026-11-09T10:31:46.000Z",
+      "posted_at": "2026-11-09T10:31:46.000Z",
+      "text": "MiniMax H3 vs Seedance 2.5 vs Original 👀\nSame reference. AI outfit swap. Surprisingly close results.\n💰 MiniMax H3 — $0 (local)\n💰 Seedance 2.5 — $0.77\nThe quality gap is smaller than the price gap. Open-source is catching up! 🔥\n\nTry both on Ima Studio 👇\nMiniMax H3 👉 https://t.co/L1z0CaSbUT",
+      "original_en": "MiniMax H3 vs Seedance 2.5 vs Original 👀\nSame reference. AI outfit swap. Surprisingly close results.\n💰 MiniMax H3 — $0 (local)\n💰 Seedance 2.5 — $0.77\nThe quality gap is smaller than the price gap. Open-source is catching up! 🔥\n\nTry both on Ima Studio 👇\nMiniMax H3 👉 https://t.co/L1z0CaSbUT",
+      "lang": "en",
+      "hook": "Three-way split: MiniMax H3 vs Seedance 2.5 vs the original, with a price per model.",
+      "video_tip": "Run one reference through two models plus the original in a three-panel split and put the cost of each in the caption.",
+      "media": "video",
+      "followers_count": 2700,
+      "likes": 170,
+      "reposts": 16,
+      "bookmarks": 167,
+      "replies": 11,
+      "quotes": 2,
+      "board_rank": 1,
+      "draft_en": "Same reference, outfit swapped by two AI video tools, with the original right beside them.\n\nMiniMax H3 runs local for $0. Seedance 2.5 costs $0.77. The results land surprisingly close - the price gap is far wider than the quality gap.\n\nOpen-source keeps closing in. Which side would you pick?",
+      "draft_keywords": [
+        "AI video",
+        "MiniMax H3",
+        "Seedance 2.5"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.0,
+        "word_overlap": 0.536,
+        "max_copied_run": 3
+      },
+      "top10_rank": 1
+    },
+    {
+      "id": "2119529497212915895",
+      "name": "Alps",
+      "display_name": "Alps",
+      "handle": "@FossaFreak",
+      "views": 8503,
+      "views_label": "8,503",
+      "url": "https://x.com/FossaFreak/status/2119529497212915895",
+      "created_at": "2026-11-08T20:36:25.000Z",
+      "posted_at": "2026-11-08T20:36:25.000Z",
+      "text": "What if a furry Twitter personality was actually made with AI?  \n\nAI Tools: Midjourney V8.2 + Nano Banana 2.1 + Kling 4.0\n\nNote:  This was just an experiment, light years away from the masterclass that is the future of AI generated fursuit content https://t.co/XhlBCMFhkJ",
+      "original_en": "What if a furry Twitter personality was actually made with AI?  \n\nAI Tools: Midjourney V8.2 + Nano Banana 2.1 + Kling 4.0\n\nNote:  This was just an experiment, light years away from the masterclass that is the future of AI generated fursuit content https://t.co/XhlBCMFhkJ",
+      "lang": "en",
+      "hook": "'What if X was made with AI?' premise with the tool stack listed.",
+      "video_tip": "Open with a 'what if' question about a familiar internet figure or fandom, then list the three tools in one line.",
+      "media": "photo",
+      "followers_count": 2785,
+      "likes": 114,
+      "reposts": 4,
+      "bookmarks": 42,
+      "replies": 2,
+      "quotes": 1,
+      "board_rank": 2,
+      "draft_en": "Experiment: picture a furry Twitter personality who turns out to be fully AI-generated.\n\nStack behind it: Midjourney V8.2, then Nano Banana 2.1, then Kling 4.0.\n\nJust a test - nowhere near where AI fursuit content is heading.",
+      "draft_keywords": [
+        "AI-generated",
+        "Midjourney",
+        "Kling 4.0"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.03,
+        "word_overlap": 0.565,
+        "max_copied_run": 4
+      },
+      "top10_rank": 2
+    },
+    {
+      "id": "2119682025426964482",
+      "name": "Beginnersblog",
+      "display_name": "Beginnersblog",
+      "handle": "@beginnersblog1",
+      "views": 6552,
+      "views_label": "6,552",
+      "url": "https://x.com/beginnersblog1/status/2119682025426964482",
+      "created_at": "2026-11-09T06:42:31.000Z",
+      "posted_at": "2026-11-09T06:42:31.000Z",
+      "text": "Most people start AI filmmaking in the wrong place.\n\nThey open a video model, write a huge prompt, generate 10 clips, and then wonder why the character, lighting, location and story keep changing.\n\nA better workflow is:\n→ Write a one-line premise\n→ Break it into 5–8 shots\n→ https://t.co/NUnl73Ey0B",
+      "original_en": "Most people start AI filmmaking in the wrong place.\n\nThey open a video model, write a huge prompt, generate 10 clips, and then wonder why the character, lighting, location and story keep changing.\n\nA better workflow is:\n→ Write a one-line premise\n→ Break it into 5–8 shots\n→ https://t.co/NUnl73Ey0B",
+      "lang": "en",
+      "hook": "Contrarian workflow post: you're starting AI filmmaking in the wrong place.",
+      "video_tip": "Show your premise line and shot list on screen before the first generated clip appears.",
+      "media": "photo",
+      "followers_count": 29914,
+      "likes": 160,
+      "reposts": 24,
+      "bookmarks": 225,
+      "replies": 16,
+      "quotes": 2,
+      "board_rank": 3,
+      "draft_en": "AI filmmaking usually goes wrong at step one.\n\nThe common move: jump straight into a video model, write one giant prompt, roll 10 clips, then wonder why the character, the light, the location and the story drift every time.\n\nFlip the order instead:\n- start from a premise you can say in one line\n- split it into 5-8 shots",
+      "draft_keywords": [
+        "video",
+        "model"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.055,
+        "word_overlap": 0.438,
+        "max_copied_run": 5
+      },
+      "top10_rank": 3
+    },
+    {
+      "id": "2119850409829261437",
+      "name": "Monique Pryce",
+      "display_name": "Monique Pryce",
+      "handle": "@second_bassoon",
+      "views": 5327,
+      "views_label": "5,327",
+      "url": "https://x.com/second_bassoon/status/2119850409829261437",
+      "created_at": "2026-11-09T17:51:37.000Z",
+      "posted_at": "2026-11-09T17:51:37.000Z",
+      "text": "Time to give y'all an updated AI toolstack!\n\nHere's what I use on the regular as of Q4 2026:\n\n-ˋˏ IMAGES ˎˊ-\n\nNBP - Still my go-to for environment references / character outfit changes. Also, i've been using the 4k option for upscaling (I've largely stopped using the legacy",
+      "original_en": "Time to give y'all an updated AI toolstack!\n\nHere's what I use on the regular as of Q4 2026:\n\n-ˋˏ IMAGES ˎˊ-\n\nNBP - Still my go-to for environment references / character outfit changes. Also, i've been using the 4k option for upscaling (I've largely stopped using the legacy",
+      "lang": "en",
+      "hook": "Personal quarterly toolstack list, sorted by job (images, video, upscaling).",
+      "video_tip": "Turn your own toolstack into a 20s reel: one shot per tool with its name on screen.",
+      "media": "text",
+      "followers_count": 3876,
+      "likes": 150,
+      "reposts": 8,
+      "bookmarks": 223,
+      "replies": 29,
+      "quotes": 0,
+      "board_rank": 4,
+      "draft_en": "A creator's Q4 2026 AI toolstack is worth stealing from.\n\nImages: NBP is still the go-to for environment references and for changing a character's outfit, and its 4k option now handles upscaling duty too, replacing older upscalers.\n\nWhich image model sits at the top of your stack right now?",
+      "draft_keywords": [
+        "model"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.022,
+        "word_overlap": 0.4,
+        "max_copied_run": 4
+      },
+      "top10_rank": 4
+    },
+    {
+      "id": "2119463879965081705",
+      "name": "m4lka",
+      "display_name": "m4lka",
+      "handle": "@m4lkxx",
+      "views": 5266,
+      "views_label": "5,266",
+      "url": "https://x.com/m4lkxx/status/2119463879965081705",
+      "created_at": "2026-11-08T16:15:41.000Z",
+      "posted_at": "2026-11-08T16:15:41.000Z",
+      "text": "Opus 5.5 vs Veo 3.1 vs Kling 3.0 Pro vs Grok Imagine\n\nsame prompt. a red supercar rolling out of a dark neon street\n\nGrok Imagine Lite: $0.66 · 2 min\nKling 3.0 Pro: $0.90 · 5 min\nVeo 3.1: $2.40 · 6 min\nOpus 5.5: $2.35 · 12 min\n\nthe generators guess what a car looks like. Opus 5.5 https://t.co/01LQ8TXeGb https://t.co/u0plUT3dCW",
+      "original_en": "Opus 5.5 vs Veo 3.1 vs Kling 3.0 Pro vs Grok Imagine\n\nsame prompt. a red supercar rolling out of a dark neon street\n\nGrok Imagine Lite: $0.66 · 2 min\nKling 3.0 Pro: $0.90 · 5 min\nVeo 3.1: $2.40 · 6 min\nOpus 5.5: $2.35 · 12 min\n\nthe generators guess what a car looks like. Opus 5.5 https://t.co/01LQ8TXeGb https://t.co/u0plUT3dCW",
+      "lang": "en",
+      "hook": "Four-model same-prompt test with price and render time per model.",
+      "video_tip": "Label every panel with model, price and minutes; a cost-and-speed table on the clip gets bookmarks.",
+      "media": "video",
+      "followers_count": 8301,
+      "likes": 99,
+      "reposts": 4,
+      "bookmarks": 75,
+      "replies": 11,
+      "quotes": 0,
+      "board_rank": 5,
+      "draft_en": "One prompt, four tools: a red supercar easing out of a dark neon street.\n\nRender time and price per model:\n- Grok Imagine Lite - 2 min, $0.66\n- Kling 3.0 Pro - 5 min, $0.90\n- Veo 3.1 - 6 min, $2.40\n- Opus 5.5 - 12 min, $2.35\n\nThe video generators are basically guessing what a car looks like.",
+      "draft_keywords": [
+        "Grok Imagine",
+        "Opus 5.5",
+        "model",
+        "video"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.1,
+        "word_overlap": 0.727,
+        "max_copied_run": 6
+      },
+      "top10_rank": 5
+    },
+    {
+      "id": "2119726694169006173",
+      "name": "ImagineArt",
+      "display_name": "ImagineArt",
+      "handle": "@ImagineArt_X",
+      "views": 4822,
+      "views_label": "4,822",
+      "url": "https://x.com/ImagineArt_X/status/2119726694169006173",
+      "created_at": "2026-11-09T09:40:01.000Z",
+      "posted_at": "2026-11-09T09:40:01.000Z",
+      "text": "here are some of the Chinese models you can faithfully explore on our platform:\n\n→ Seedance 2.0 & 2.5 (ByteDance)\n→ Seedream v5 Pro (ByteDance)\n→ Kling 4.0 (Kuaishou)\n→ MiniMax Hailuo H3 Max\n→ Wan 2.6 (Alibaba)\n→ Qwen Image (Alibaba)\n→ PixVerse\n\nno espionage required.",
+      "original_en": "here are some of the Chinese models you can faithfully explore on our platform:\n\n→ Seedance 2.0 & 2.5 (ByteDance)\n→ Seedream v5 Pro (ByteDance)\n→ Kling 4.0 (Kuaishou)\n→ MiniMax Hailuo H3 Max\n→ Wan 2.6 (Alibaba)\n→ Qwen Image (Alibaba)\n→ PixVerse\n\nno espionage required.",
+      "lang": "en",
+      "hook": "Brand list of Chinese video and image models with a one-line joke closer.",
+      "video_tip": "A list post lands harder with a dry punchline at the end; pair it with a 4-up grid of renders.",
+      "media": "text",
+      "followers_count": 23386,
+      "likes": 101,
+      "reposts": 8,
+      "bookmarks": 15,
+      "replies": 28,
+      "quotes": 2,
+      "board_rank": 6,
+      "draft_en": "ImagineArt is listing a whole shelf of Chinese video and image models on one platform:\n\nByteDance - Seedance 2.0 and 2.5, plus Seedream v5 Pro\nKuaishou - Kling 4.0\nAlibaba - Wan 2.6 and Qwen Image\nAlso MiniMax Hailuo H3 Max and PixVerse\n\nZero espionage involved.",
+      "draft_keywords": [
+        "ByteDance",
+        "Kling 4.0",
+        "MiniMax",
+        "Seedream"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.025,
+        "word_overlap": 0.733,
+        "max_copied_run": 4
+      },
+      "top10_rank": 6
+    },
+    {
+      "id": "2119889493037649946",
+      "name": "JSFILMZ",
+      "display_name": "JSFILMZ",
+      "handle": "@JSFILMZ0412",
+      "views": 4108,
+      "views_label": "4,108",
+      "url": "https://x.com/JSFILMZ0412/status/2119889493037649946",
+      "created_at": "2026-11-09T20:26:55.000Z",
+      "posted_at": "2026-11-09T20:26:55.000Z",
+      "text": "Seedream 5.5 vs Minimax H3 Image.\n\nI will give Bytedance chained edits but @MiniMax_AI  cooked with realistic people. This video was first created using Minimax H3 Image then animated using Minimax H3 video start frame with a little bit of post. \n\nOriginal frame and Seedream 5.5 https://t.co/WisyoGv9Av https://t.co/wXrNzER5Fd",
+      "original_en": "Seedream 5.5 vs Minimax H3 Image.\n\nI will give Bytedance chained edits but @MiniMax_AI  cooked with realistic people. This video was first created using Minimax H3 Image then animated using Minimax H3 video start frame with a little bit of post. \n\nOriginal frame and Seedream 5.5 https://t.co/WisyoGv9Av https://t.co/wXrNzER5Fd",
+      "lang": "en",
+      "hook": "Fresh image model face-off (Seedream 5.5 vs MiniMax H3 Image) with a clear verdict.",
+      "video_tip": "Give a one-line verdict per model, then show the winning still animated as a start frame.",
+      "media": "video",
+      "followers_count": 12571,
+      "likes": 39,
+      "reposts": 3,
+      "bookmarks": 19,
+      "replies": 7,
+      "quotes": 0,
+      "board_rank": 7,
+      "draft_en": "Seedream 5.5 or Minimax H3 Image?\n\nOne creator's verdict: ByteDance takes chained edits, MiniMax takes realistic people.\n\nThe test clip started as a Minimax H3 Image still, got animated from that start frame with MiniMax H3 video, then a light pass of post. The original frame and the Seedream 5.5 version are there for comparison.",
+      "draft_keywords": [
+        "Seedream 5.5",
+        "Minimax H3 Image",
+        "ByteDance",
+        "MiniMax",
+        "video"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.0,
+        "word_overlap": 0.583,
+        "max_copied_run": 3
+      },
+      "top10_rank": 7
+    },
+    {
+      "id": "2120048937235267950",
+      "name": "Shelley",
+      "display_name": "Shelley",
+      "handle": "@shelleymaeph",
+      "views": 3819,
+      "views_label": "3,819",
+      "url": "https://x.com/shelleymaeph/status/2120048937235267950",
+      "created_at": "2026-11-10T07:00:29.000Z",
+      "posted_at": "2026-11-10T07:00:29.000Z",
+      "text": "17 Ai Creator Contests for this week PT.5\n\nGossip Goblin x Showrunner Competition\n$20,000\nhttps://t.co/V3Y4Sxj1Qa\n\nNEXTALE AI Short Drama Award\n$3,000\nhttps://t.co/3xdVnsfG6g\n\nPixel Dojo Go Viral\n$2,450\nhttps://t.co/DeQ4IIFFkF\n\nFairground Animation Imagination\n$15,000 https://t.co/Otux3vjtVe https://t.co/hMewWLRU6X",
+      "original_en": "17 Ai Creator Contests for this week PT.5\n\nGossip Goblin x Showrunner Competition\n$20,000\nhttps://t.co/V3Y4Sxj1Qa\n\nNEXTALE AI Short Drama Award\n$3,000\nhttps://t.co/3xdVnsfG6g\n\nPixel Dojo Go Viral\n$2,450\nhttps://t.co/DeQ4IIFFkF\n\nFairground Animation Imagination\n$15,000 https://t.co/Otux3vjtVe https://t.co/hMewWLRU6X",
+      "lang": "en",
+      "hook": "Weekly roundup of AI creator contests with prize amounts (Gossip Goblin x Showrunner $20K on top).",
+      "video_tip": "Contest roundups get bookmarked; if you enter one, post your entry with the contest name and prize in line one.",
+      "media": "photo",
+      "followers_count": 13318,
+      "likes": 45,
+      "reposts": 3,
+      "bookmarks": 96,
+      "replies": 13,
+      "quotes": 2,
+      "board_rank": 8,
+      "draft_en": "Ai Creator Contests worth a look this week, from part 5 of a 17-contest roundup:\n\n- $20,000 - Gossip Goblin x Showrunner Competition\n- $15,000 - Fairground Animation Imagination\n- $3,000 - NEXTALE AI Short Drama Award\n- $2,450 - Pixel Dojo Go Viral\n\nPick one and ship something.",
+      "draft_keywords": [
+        "Ai Creator Contests",
+        "Gossip Goblin",
+        "Showrunner Competition",
+        "AI Short Drama",
+        "Pixel Dojo"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.143,
+        "word_overlap": 0.72,
+        "max_copied_run": 6
+      },
+      "top10_rank": 8
+    },
+    {
+      "id": "2119896452520632773",
+      "name": "SOFIA",
+      "display_name": "SOFIA",
+      "handle": "@SofiaTachExpert",
+      "views": 3643,
+      "views_label": "3,643",
+      "url": "https://x.com/SofiaTachExpert/status/2119896452520632773",
+      "created_at": "2026-11-09T20:54:34.000Z",
+      "posted_at": "2026-11-09T20:54:34.000Z",
+      "text": "AI CAN NOW MAKE DISNEY-LEVEL 3D ANIMATION, AND ONE PERSON CAN RUN THE WHOLE PIPELINE\n\nthis clip got 3.2M views on X in 2 days. a platypus, a crocodile, a snowy hill, a penguin sled ride. two years ago a short like this needed a studio and a render farm.\n\nwhat the one-person https://t.co/8xOqWEDYAS https://t.co/Jl26ncCFJd",
+      "original_en": "AI CAN NOW MAKE DISNEY-LEVEL 3D ANIMATION, AND ONE PERSON CAN RUN THE WHOLE PIPELINE\n\nthis clip got 3.2M views on X in 2 days. a platypus, a crocodile, a snowy hill, a penguin sled ride. two years ago a short like this needed a studio and a render farm.\n\nwhat the one-person https://t.co/8xOqWEDYAS https://t.co/Jl26ncCFJd",
+      "lang": "en",
+      "hook": "All-caps claim about one-person 3D animation, riding another clip's view count.",
+      "video_tip": "Show a one-person pipeline as a 4-step screen recording; claims need proof on screen.",
+      "media": "video",
+      "followers_count": 120283,
+      "likes": 19,
+      "reposts": 1,
+      "bookmarks": 10,
+      "replies": 8,
+      "quotes": 2,
+      "board_rank": 9,
+      "draft_en": "A platypus, a crocodile, a penguin on a sled and a snowy hill. In 2 days on X, that cast pulled 3.2M views.\n\nA couple of years back, a short like this meant a studio plus a render farm. Now the claim is Disney-level 3D animation with one person running the entire pipeline.",
+      "draft_keywords": [
+        "animation"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.06,
+        "word_overlap": 0.68,
+        "max_copied_run": 5
+      },
+      "top10_rank": 9
+    },
+    {
+      "id": "2120080819079307533",
+      "name": "ALITA✨️",
+      "display_name": "ALITA✨️",
+      "handle": "@AlitaIntel",
+      "views": 2274,
+      "views_label": "2,274",
+      "url": "https://x.com/AlitaIntel/status/2120080819079307533",
+      "created_at": "2026-11-10T09:07:11.000Z",
+      "posted_at": "2026-11-10T09:07:11.000Z",
+      "text": "20 AI Creator Contests\n$1,000,000+ in prizes\n\n$100K contest \nLast date 15th dec\n5000 free credits \nhttps://t.co/Guw10uB7a0\n\nGossip Goblin x Showrunner Competition\n$20,000\nhttps://t.co/8SChwpDS6c\n\nNEXTALE AI Short Drama Award\n$3,000\nhttps://t.co/q3U634AwdO\n\nPixel Dojo Go Viral https://t.co/iB3uT56FvI https://t.co/2EpbihmSvV",
+      "original_en": "20 AI Creator Contests\n$1,000,000+ in prizes\n\n$100K contest \nLast date 15th dec\n5000 free credits \nhttps://t.co/Guw10uB7a0\n\nGossip Goblin x Showrunner Competition\n$20,000\nhttps://t.co/8SChwpDS6c\n\nNEXTALE AI Short Drama Award\n$3,000\nhttps://t.co/q3U634AwdO\n\nPixel Dojo Go Viral https://t.co/iB3uT56FvI https://t.co/2EpbihmSvV",
+      "lang": "en",
+      "hook": "Second contest roundup with a headline prize total.",
+      "video_tip": "A big total in line two pulls bookmarks; keep each contest to name, prize, link.",
+      "media": "photo",
+      "followers_count": 2146,
+      "likes": 61,
+      "reposts": 4,
+      "bookmarks": 103,
+      "replies": 11,
+      "quotes": 0,
+      "board_rank": 10,
+      "draft_en": "Over $1,000,000 in prizes across 20 Ai Creator Contests right now.\n\nBiggest one: a $100K contest that closes 15th dec and adds 5000 free credits.\nAlso open: the Gossip Goblin x Showrunner Competition at $20,000, the NEXTALE AI Short Drama Award at $3,000, and Pixel Dojo Go Viral.\n\nBookmark it and pick your shot.",
+      "draft_keywords": [
+        "Ai Creator Contests",
+        "Gossip Goblin",
+        "Showrunner Competition",
+        "AI Short Drama",
+        "Pixel Dojo"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.109,
+        "word_overlap": 0.733,
+        "max_copied_run": 5
+      },
+      "top10_rank": 10
+    },
+    {
+      "id": "2119819451289723021",
+      "name": "Ewan Morrison",
+      "display_name": "Ewan Morrison",
+      "handle": "@MrEwanMorrison",
+      "views": 1464,
+      "views_label": "1,464",
+      "url": "https://x.com/MrEwanMorrison/status/2119819451289723021",
+      "created_at": "2026-11-09T15:48:36.000Z",
+      "posted_at": "2026-11-09T15:48:36.000Z",
+      "text": "A darkly satirical short essay of mine, which Spotify seem to have taken as inspiration as they are now offering exactly the AI remix service that I satirised as arriving in 2035.\n\n\"In this year 2035, 176 million short films have been made, 292 million AI-written books, 363",
+      "original_en": "A darkly satirical short essay of mine, which Spotify seem to have taken as inspiration as they are now offering exactly the AI remix service that I satirised as arriving in 2035.\n\n\"In this year 2035, 176 million short films have been made, 292 million AI-written books, 363",
+      "lang": "en",
+      "hook": "Novelist's satire about AI content volume colliding with a real Spotify AI remix service.",
+      "video_tip": "Culture posts about AI volume travel; answer them with one carefully made piece, not quantity.",
+      "media": "photo",
+      "followers_count": 33666,
+      "likes": 70,
+      "reposts": 11,
+      "bookmarks": 12,
+      "replies": 4,
+      "quotes": 0,
+      "board_rank": 11
+    },
+    {
+      "id": "2120030559535783987",
+      "name": "dojihi",
+      "display_name": "dojihi",
+      "handle": "@dojihivj",
+      "views": 1442,
+      "views_label": "1,442",
+      "url": "https://x.com/dojihivj/status/2120030559535783987",
+      "created_at": "2026-11-10T05:47:28.000Z",
+      "posted_at": "2026-11-10T05:47:28.000Z",
+      "text": "Hello everyone. This time, I’m bringing you a timelapse video. Recently, someone sent me a message on Pixiv saying that my artwork looks similar to AI-generated images, and suggested that I release my work process to put people’s minds at ease. Honestly, while I might not be as",
+      "original_en": "Hello everyone. This time, I’m bringing you a timelapse video. Recently, someone sent me a message on Pixiv saying that my artwork looks similar to AI-generated images, and suggested that I release my work process to put people’s minds at ease. Honestly, while I might not be as",
+      "lang": "en",
+      "hook": "Illustrator posts a timelapse to prove the art isn't AI-generated.",
+      "video_tip": "Process timelapses earn trust; a short behind-the-scenes of your AI pipeline (refs, sheets, edits) does the same.",
+      "media": "video",
+      "followers_count": 2647,
+      "likes": 120,
+      "reposts": 8,
+      "bookmarks": 38,
+      "replies": 7,
+      "quotes": 0,
+      "board_rank": 12
+    },
+    {
+      "id": "2119862349997994325",
+      "name": "BGKuaci",
+      "display_name": "BGKuaci",
+      "handle": "@BGKuaci",
+      "views": 1344,
+      "views_label": "1,344",
+      "url": "https://x.com/BGKuaci/status/2119862349997994325",
+      "created_at": "2026-11-09T18:39:04.000Z",
+      "posted_at": "2026-11-09T18:39:04.000Z",
+      "text": "Five goblins on monster boars chased Cantika through the jungle… and they weren’t very smart\nThen their chief showed up on a giant boar\nOne kick later: “And STAY out of my jungle!!”\n\nCinematic AI video generated with @akoolinc\n\nJoin the AKOOL AI FILM CHALLENGE! Win your share of",
+      "original_en": "Five goblins on monster boars chased Cantika through the jungle… and they weren’t very smart\nThen their chief showed up on a giant boar\nOne kick later: “And STAY out of my jungle!!”\n\nCinematic AI video generated with @akoolinc\n\nJoin the AKOOL AI FILM CHALLENGE! Win your share of",
+      "lang": "en",
+      "hook": "Three-beat story caption (chase, twist, punchline) on a contest entry.",
+      "video_tip": "Write the caption as three beats that mirror the edit; end on the spoken punchline.",
+      "media": "video",
+      "followers_count": 11738,
+      "likes": 25,
+      "reposts": 2,
+      "bookmarks": 4,
+      "replies": 1,
+      "quotes": 0,
+      "board_rank": 13
+    },
+    {
+      "id": "2120065982462841269",
+      "name": "jack Chen",
+      "display_name": "jack Chen",
+      "handle": "@jckchenn",
+      "views": 1212,
+      "views_label": "1,212",
+      "url": "https://x.com/jckchenn/status/2120065982462841269",
+      "created_at": "2026-11-10T08:08:13.000Z",
+      "posted_at": "2026-11-10T08:08:13.000Z",
+      "text": "💰Hiring: Senior AI Video Editor | AI Drama & Meta Ads\n\nWe are looking for a highly experienced Senior AI Video Editor to join our team for a long-term, remote collaboration.\n\nThe ideal candidate specializes in producing realistic AI-generated drama films, compelling long-form",
+      "original_en": "💰Hiring: Senior AI Video Editor | AI Drama & Meta Ads\n\nWe are looking for a highly experienced Senior AI Video Editor to join our team for a long-term, remote collaboration.\n\nThe ideal candidate specializes in producing realistic AI-generated drama films, compelling long-form",
+      "lang": "en",
+      "hook": "Job post for a senior AI video editor in AI drama and ads.",
+      "video_tip": "Signal that realistic AI drama is a paid skill; a dialogue-scene showreel is worth pinning.",
+      "media": "text",
+      "followers_count": 17,
+      "likes": 34,
+      "reposts": 2,
+      "bookmarks": 21,
+      "replies": 16,
+      "quotes": 0,
+      "board_rank": 14
+    },
+    {
+      "id": "2119821629119516995",
+      "name": "ChatSEO",
+      "display_name": "ChatSEO",
+      "handle": "@ChatSEO_app",
+      "views": 937,
+      "views_label": "937",
+      "url": "https://x.com/ChatSEO_app/status/2119821629119516995",
+      "created_at": "2026-11-09T15:57:15.000Z",
+      "posted_at": "2026-11-09T15:57:15.000Z",
+      "text": "Higgsfield, a $5.4B AI video company, grew its Google top 10 rankings 9.7x in JUST 12 months\n\nhere's the SEO system behind it:\n\n1. They built one page for the biggest search in their category\n\n-> /ai-video is #2 on Google for \"ai video generator\" (246,000 searches a month)\n\n->",
+      "original_en": "Higgsfield, a $5.4B AI video company, grew its Google top 10 rankings 9.7x in JUST 12 months\n\nhere's the SEO system behind it:\n\n1. They built one page for the biggest search in their category\n\n-> /ai-video is #2 on Google for \"ai video generator\" (246,000 searches a month)\n\n->",
+      "lang": "en",
+      "hook": "Business breakdown of how Higgsfield grew search traffic.",
+      "video_tip": "Industry breakdowns are text-heavy; if you riff on one, add a single clip so it isn't text-only.",
+      "media": "photo",
+      "followers_count": 728,
+      "likes": 8,
+      "reposts": 0,
+      "bookmarks": 8,
+      "replies": 3,
+      "quotes": 0,
+      "board_rank": 15
+    },
+    {
+      "id": "2119786828077170836",
+      "name": "Terra Gatsuki",
+      "display_name": "Terra Gatsuki",
+      "handle": "@terra_gatsuki",
+      "views": 899,
+      "views_label": "899",
+      "url": "https://x.com/terra_gatsuki/status/2119786828077170836",
+      "created_at": "2026-11-09T13:38:58.000Z",
+      "posted_at": "2026-11-09T13:38:58.000Z",
+      "text": "GitHub is full of free AI video tools almost nobody is using yet.\nThe 9 repos blowing up right now, from easiest to most technical:\n\nstuff anyone can use\n\n1. 𝘀𝗵𝗶𝘀𝗲𝗶 (476 ⭐)\n\nA free CC0 library of 250+ mannequin poses, each drawn as line art from 5 angles. Use them to guide",
+      "original_en": "GitHub is full of free AI video tools almost nobody is using yet.\nThe 9 repos blowing up right now, from easiest to most technical:\n\nstuff anyone can use\n\n1. 𝘀𝗵𝗶𝘀𝗲𝗶 (476 ⭐)\n\nA free CC0 library of 250+ mannequin poses, each drawn as line art from 5 angles. Use them to guide",
+      "lang": "en",
+      "hook": "Free GitHub AI video tools list, easiest first.",
+      "video_tip": "List threads do best with one demo clip per item; show a pose library guiding a character shot.",
+      "media": "video",
+      "followers_count": 25368,
+      "likes": 3,
+      "reposts": 1,
+      "bookmarks": 3,
+      "replies": 5,
+      "quotes": 0,
+      "board_rank": 16
+    },
+    {
+      "id": "2119808775955886359",
+      "name": "Mike Miller",
+      "display_name": "Mike Miller",
+      "handle": "@pt5films",
+      "views": 746,
+      "views_label": "746",
+      "url": "https://x.com/pt5films/status/2119808775955886359",
+      "created_at": "2026-11-09T15:06:10.000Z",
+      "posted_at": "2026-11-09T15:06:10.000Z",
+      "text": "FRODO\n\nDirected by Mike Miller\n\nMade with Midjourney and @dreamina_ai #dreaminacreators\n\nSong \"Day Tripper\" by The Beatles\n\nFan AI animation inspired by the characters of The Lord of the Rings\n\n#lordoftherings #frodo #samwise #aianimation #pt5films",
+      "original_en": "FRODO\n\nDirected by Mike Miller\n\nMade with Midjourney and @dreamina_ai #dreaminacreators\n\nSong \"Day Tripper\" by The Beatles\n\nFan AI animation inspired by the characters of The Lord of the Rings\n\n#lordoftherings #frodo #samwise #aianimation #pt5films",
+      "lang": "en",
+      "hook": "One-word title plus famous IP and a classic song for a fan AI animation.",
+      "video_tip": "Fan pieces travel on the character name alone; title card first, credits after.",
+      "media": "video",
+      "followers_count": 1305,
+      "likes": 26,
+      "reposts": 3,
+      "bookmarks": 3,
+      "replies": 5,
+      "quotes": 0,
+      "board_rank": 17
+    },
+    {
+      "id": "2119626866105397755",
+      "name": "SubX.News®",
+      "display_name": "SubX.News®",
+      "handle": "@SubxNews",
+      "views": 735,
+      "views_label": "735",
+      "url": "https://x.com/SubxNews/status/2119626866105397755",
+      "created_at": "2026-11-09T03:03:20.000Z",
+      "posted_at": "2026-11-09T03:03:20.000Z",
+      "text": "Cyberpunk Motorcycle Rider Goes Full Throttle in AI Anime\n\nAI-generated motorcycle animation by @swordspeed\n\n#Cyberpunk #AIAnimation #Motorcycle\n\nSource @swordspeed\nhttps://t.co/69eNgY6i4V\n #TBvsCHI https://t.co/46jSs7vs2b",
+      "original_en": "Cyberpunk Motorcycle Rider Goes Full Throttle in AI Anime\n\nAI-generated motorcycle animation by @swordspeed\n\n#Cyberpunk #AIAnimation #Motorcycle\n\nSource @swordspeed\nhttps://t.co/69eNgY6i4V\n #TBvsCHI https://t.co/46jSs7vs2b",
+      "lang": "en",
+      "hook": "Aggregator repost of a cyberpunk AI anime motorcycle clip.",
+      "video_tip": "Speed plus neon reads instantly; a 5s anime chase loop is a strong cold open.",
+      "media": "video",
+      "followers_count": 69568,
+      "likes": 4,
+      "reposts": 0,
+      "bookmarks": 1,
+      "replies": 0,
+      "quotes": 0,
+      "board_rank": 18
+    },
+    {
+      "id": "2119839219426468128",
+      "name": "BlockRunAI",
+      "display_name": "BlockRunAI",
+      "handle": "@BlockRunAI",
+      "views": 596,
+      "views_label": "596",
+      "url": "https://x.com/BlockRunAI/status/2119839219426468128",
+      "created_at": "2026-11-09T17:07:09.000Z",
+      "posted_at": "2026-11-09T17:07:09.000Z",
+      "text": "What's new at BlockRun 🧵\n\nTL;DR\n01 · Meta's Muse Spark 1.3 and Muse Wonder 1.0\n02 · Free MiniMax M3.1 Flash and Nemotron 3.5 Bolt\n03 · Grok Imagine Video 1.5: choose how your video starts and ends\n04 · Claude Opus 5.5, GPT-6.1 Sol and more on Arc\n\nDetails below 👇",
+      "original_en": "What's new at BlockRun 🧵\n\nTL;DR\n01 · Meta's Muse Spark 1.3 and Muse Wonder 1.0\n02 · Free MiniMax M3.1 Flash and Nemotron 3.5 Bolt\n03 · Grok Imagine Video 1.5: choose how your video starts and ends\n04 · Claude Opus 5.5, GPT-6.1 Sol and more on Arc\n\nDetails below 👇",
+      "lang": "en",
+      "hook": "Release roundup noting Grok Imagine Video 1.5 start and end frame control.",
+      "video_tip": "Test start-and-end-frame control with two of your own stills and show the in-between.",
+      "media": "photo",
+      "followers_count": 4672,
+      "likes": 7,
+      "reposts": 4,
+      "bookmarks": 1,
+      "replies": 3,
+      "quotes": 0,
+      "board_rank": 19
+    },
+    {
+      "id": "2120172278667227639",
+      "name": "S 🫧",
+      "display_name": "S 🫧",
+      "handle": "@dyfwsammy",
+      "views": 510,
+      "views_label": "510",
+      "url": "https://x.com/dyfwsammy/status/2120172278667227639",
+      "created_at": "2026-11-10T15:10:36.000Z",
+      "posted_at": "2026-11-10T15:10:36.000Z",
+      "text": "THIS IS F**KING GOLD.\n\nA 20 YEAR OLD IS REPORTEDLY MAKING $30,000 A MONTH PRODUCING CHILDREN’S CARTOONS.\n\nNo animators. No drawing skills. No production team.\n\nShe’s running a media empire straight from her bedroom.\n\nHer secret? YouTube automation powered by AI.\n\nShe targets the",
+      "original_en": "THIS IS F**KING GOLD.\n\nA 20 YEAR OLD IS REPORTEDLY MAKING $30,000 A MONTH PRODUCING CHILDREN’S CARTOONS.\n\nNo animators. No drawing skills. No production team.\n\nShe’s running a media empire straight from her bedroom.\n\nHer secret? YouTube automation powered by AI.\n\nShe targets the",
+      "lang": "en",
+      "hook": "All-caps money-claim hook about AI kids cartoons (reported, unverified).",
+      "video_tip": "Money-claim hooks spread fast but cost trust; if you talk earnings, use your own real numbers.",
+      "media": "video",
+      "followers_count": 13404,
+      "likes": 14,
+      "reposts": 3,
+      "bookmarks": 7,
+      "replies": 3,
+      "quotes": 0,
+      "board_rank": 20
+    }
+  ],
+  "outsiders_count": 20,
+  "virals": [
+    {
+      "id": "2119739717550035360",
+      "name": "Ima Studio",
+      "display_name": "Ima Studio",
+      "handle": "@ImaStudio_ai",
+      "views": 47730,
+      "views_label": "47,730",
+      "url": "https://x.com/ImaStudio_ai/status/2119739717550035360",
+      "created_at": "2026-11-09T10:31:46.000Z",
+      "posted_at": "2026-11-09T10:31:46.000Z",
+      "text": "MiniMax H3 vs Seedance 2.5 vs Original 👀\nSame reference. AI outfit swap. Surprisingly close results.\n💰 MiniMax H3 — $0 (local)\n💰 Seedance 2.5 — $0.77\nThe quality gap is smaller than the price gap. Open-source is catching up! 🔥\n\nTry both on Ima Studio 👇\nMiniMax H3 👉 https://t.co/L1z0CaSbUT",
+      "original_en": "MiniMax H3 vs Seedance 2.5 vs Original 👀\nSame reference. AI outfit swap. Surprisingly close results.\n💰 MiniMax H3 — $0 (local)\n💰 Seedance 2.5 — $0.77\nThe quality gap is smaller than the price gap. Open-source is catching up! 🔥\n\nTry both on Ima Studio 👇\nMiniMax H3 👉 https://t.co/L1z0CaSbUT",
+      "lang": "en",
+      "hook": "Three-way split: MiniMax H3 vs Seedance 2.5 vs the original, with a price per model.",
+      "video_tip": "Run one reference through two models plus the original in a three-panel split and put the cost of each in the caption.",
+      "media": "video",
+      "followers_count": 2700,
+      "likes": 170,
+      "reposts": 16,
+      "bookmarks": 167,
+      "replies": 11,
+      "quotes": 2,
+      "board_rank": 1,
+      "draft_en": "Same reference, outfit swapped by two AI video tools, with the original right beside them.\n\nMiniMax H3 runs local for $0. Seedance 2.5 costs $0.77. The results land surprisingly close - the price gap is far wider than the quality gap.\n\nOpen-source keeps closing in. Which side would you pick?",
+      "draft_keywords": [
+        "AI video",
+        "MiniMax H3",
+        "Seedance 2.5"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.0,
+        "word_overlap": 0.536,
+        "max_copied_run": 3
+      },
+      "top10_rank": 1,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "note": "",
+        "topic": "Open vs paid model showdowns"
+      }
+    },
+    {
+      "id": "2119529497212915895",
+      "name": "Alps",
+      "display_name": "Alps",
+      "handle": "@FossaFreak",
+      "views": 8503,
+      "views_label": "8,503",
+      "url": "https://x.com/FossaFreak/status/2119529497212915895",
+      "created_at": "2026-11-08T20:36:25.000Z",
+      "posted_at": "2026-11-08T20:36:25.000Z",
+      "text": "What if a furry Twitter personality was actually made with AI?  \n\nAI Tools: Midjourney V8.2 + Nano Banana 2.1 + Kling 4.0\n\nNote:  This was just an experiment, light years away from the masterclass that is the future of AI generated fursuit content https://t.co/XhlBCMFhkJ",
+      "original_en": "What if a furry Twitter personality was actually made with AI?  \n\nAI Tools: Midjourney V8.2 + Nano Banana 2.1 + Kling 4.0\n\nNote:  This was just an experiment, light years away from the masterclass that is the future of AI generated fursuit content https://t.co/XhlBCMFhkJ",
+      "lang": "en",
+      "hook": "'What if X was made with AI?' premise with the tool stack listed.",
+      "video_tip": "Open with a 'what if' question about a familiar internet figure or fandom, then list the three tools in one line.",
+      "media": "photo",
+      "followers_count": 2785,
+      "likes": 114,
+      "reposts": 4,
+      "bookmarks": 42,
+      "replies": 2,
+      "quotes": 1,
+      "board_rank": 2,
+      "draft_en": "Experiment: picture a furry Twitter personality who turns out to be fully AI-generated.\n\nStack behind it: Midjourney V8.2, then Nano Banana 2.1, then Kling 4.0.\n\nJust a test - nowhere near where AI fursuit content is heading.",
+      "draft_keywords": [
+        "AI-generated",
+        "Midjourney",
+        "Kling 4.0"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.03,
+        "word_overlap": 0.565,
+        "max_copied_run": 4
+      },
+      "top10_rank": 2,
+      "why_hit": {
+        "trend_match": 20,
+        "verdict": "visual",
+        "matched_keywords": [
+          "Kling"
+        ],
+        "media": "image",
+        "note": "",
+        "topic": null
+      }
+    },
+    {
+      "id": "2119682025426964482",
+      "name": "Beginnersblog",
+      "display_name": "Beginnersblog",
+      "handle": "@beginnersblog1",
+      "views": 6552,
+      "views_label": "6,552",
+      "url": "https://x.com/beginnersblog1/status/2119682025426964482",
+      "created_at": "2026-11-09T06:42:31.000Z",
+      "posted_at": "2026-11-09T06:42:31.000Z",
+      "text": "Most people start AI filmmaking in the wrong place.\n\nThey open a video model, write a huge prompt, generate 10 clips, and then wonder why the character, lighting, location and story keep changing.\n\nA better workflow is:\n→ Write a one-line premise\n→ Break it into 5–8 shots\n→ https://t.co/NUnl73Ey0B",
+      "original_en": "Most people start AI filmmaking in the wrong place.\n\nThey open a video model, write a huge prompt, generate 10 clips, and then wonder why the character, lighting, location and story keep changing.\n\nA better workflow is:\n→ Write a one-line premise\n→ Break it into 5–8 shots\n→ https://t.co/NUnl73Ey0B",
+      "lang": "en",
+      "hook": "Contrarian workflow post: you're starting AI filmmaking in the wrong place.",
+      "video_tip": "Show your premise line and shot list on screen before the first generated clip appears.",
+      "media": "photo",
+      "followers_count": 29914,
+      "likes": 160,
+      "reposts": 24,
+      "bookmarks": 225,
+      "replies": 16,
+      "quotes": 2,
+      "board_rank": 3,
+      "draft_en": "AI filmmaking usually goes wrong at step one.\n\nThe common move: jump straight into a video model, write one giant prompt, roll 10 clips, then wonder why the character, the light, the location and the story drift every time.\n\nFlip the order instead:\n- start from a premise you can say in one line\n- split it into 5-8 shots",
+      "draft_keywords": [
+        "video",
+        "model"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.055,
+        "word_overlap": 0.438,
+        "max_copied_run": 5
+      },
+      "top10_rank": 3,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "image",
+        "note": "",
+        "topic": "AI filmmaking workflow"
+      }
+    },
+    {
+      "id": "2119850409829261437",
+      "name": "Monique Pryce",
+      "display_name": "Monique Pryce",
+      "handle": "@second_bassoon",
+      "views": 5327,
+      "views_label": "5,327",
+      "url": "https://x.com/second_bassoon/status/2119850409829261437",
+      "created_at": "2026-11-09T17:51:37.000Z",
+      "posted_at": "2026-11-09T17:51:37.000Z",
+      "text": "Time to give y'all an updated AI toolstack!\n\nHere's what I use on the regular as of Q4 2026:\n\n-ˋˏ IMAGES ˎˊ-\n\nNBP - Still my go-to for environment references / character outfit changes. Also, i've been using the 4k option for upscaling (I've largely stopped using the legacy",
+      "original_en": "Time to give y'all an updated AI toolstack!\n\nHere's what I use on the regular as of Q4 2026:\n\n-ˋˏ IMAGES ˎˊ-\n\nNBP - Still my go-to for environment references / character outfit changes. Also, i've been using the 4k option for upscaling (I've largely stopped using the legacy",
+      "lang": "en",
+      "hook": "Personal quarterly toolstack list, sorted by job (images, video, upscaling).",
+      "video_tip": "Turn your own toolstack into a 20s reel: one shot per tool with its name on screen.",
+      "media": "text",
+      "followers_count": 3876,
+      "likes": 150,
+      "reposts": 8,
+      "bookmarks": 223,
+      "replies": 29,
+      "quotes": 0,
+      "board_rank": 4,
+      "draft_en": "A creator's Q4 2026 AI toolstack is worth stealing from.\n\nImages: NBP is still the go-to for environment references and for changing a character's outfit, and its 4k option now handles upscaling duty too, replacing older upscalers.\n\nWhich image model sits at the top of your stack right now?",
+      "draft_keywords": [
+        "model"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.022,
+        "word_overlap": 0.4,
+        "max_copied_run": 4
+      },
+      "top10_rank": 4,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "coincidence/other",
+        "matched_keywords": [],
+        "media": "text",
+        "note": "",
+        "topic": null
+      }
+    },
+    {
+      "id": "2119463879965081705",
+      "name": "m4lka",
+      "display_name": "m4lka",
+      "handle": "@m4lkxx",
+      "views": 5266,
+      "views_label": "5,266",
+      "url": "https://x.com/m4lkxx/status/2119463879965081705",
+      "created_at": "2026-11-08T16:15:41.000Z",
+      "posted_at": "2026-11-08T16:15:41.000Z",
+      "text": "Opus 5.5 vs Veo 3.1 vs Kling 3.0 Pro vs Grok Imagine\n\nsame prompt. a red supercar rolling out of a dark neon street\n\nGrok Imagine Lite: $0.66 · 2 min\nKling 3.0 Pro: $0.90 · 5 min\nVeo 3.1: $2.40 · 6 min\nOpus 5.5: $2.35 · 12 min\n\nthe generators guess what a car looks like. Opus 5.5 https://t.co/01LQ8TXeGb https://t.co/u0plUT3dCW",
+      "original_en": "Opus 5.5 vs Veo 3.1 vs Kling 3.0 Pro vs Grok Imagine\n\nsame prompt. a red supercar rolling out of a dark neon street\n\nGrok Imagine Lite: $0.66 · 2 min\nKling 3.0 Pro: $0.90 · 5 min\nVeo 3.1: $2.40 · 6 min\nOpus 5.5: $2.35 · 12 min\n\nthe generators guess what a car looks like. Opus 5.5 https://t.co/01LQ8TXeGb https://t.co/u0plUT3dCW",
+      "lang": "en",
+      "hook": "Four-model same-prompt test with price and render time per model.",
+      "video_tip": "Label every panel with model, price and minutes; a cost-and-speed table on the clip gets bookmarks.",
+      "media": "video",
+      "followers_count": 8301,
+      "likes": 99,
+      "reposts": 4,
+      "bookmarks": 75,
+      "replies": 11,
+      "quotes": 0,
+      "board_rank": 5,
+      "draft_en": "One prompt, four tools: a red supercar easing out of a dark neon street.\n\nRender time and price per model:\n- Grok Imagine Lite - 2 min, $0.66\n- Kling 3.0 Pro - 5 min, $0.90\n- Veo 3.1 - 6 min, $2.40\n- Opus 5.5 - 12 min, $2.35\n\nThe video generators are basically guessing what a car looks like.",
+      "draft_keywords": [
+        "Grok Imagine",
+        "Opus 5.5",
+        "model",
+        "video"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.1,
+        "word_overlap": 0.727,
+        "max_copied_run": 6
+      },
+      "top10_rank": 5,
+      "why_hit": {
+        "trend_match": 20,
+        "verdict": "visual",
+        "matched_keywords": [
+          "Kling"
+        ],
+        "media": "video",
+        "note": "",
+        "topic": "Open vs paid model showdowns"
+      }
+    },
+    {
+      "id": "2119726694169006173",
+      "name": "ImagineArt",
+      "display_name": "ImagineArt",
+      "handle": "@ImagineArt_X",
+      "views": 4822,
+      "views_label": "4,822",
+      "url": "https://x.com/ImagineArt_X/status/2119726694169006173",
+      "created_at": "2026-11-09T09:40:01.000Z",
+      "posted_at": "2026-11-09T09:40:01.000Z",
+      "text": "here are some of the Chinese models you can faithfully explore on our platform:\n\n→ Seedance 2.0 & 2.5 (ByteDance)\n→ Seedream v5 Pro (ByteDance)\n→ Kling 4.0 (Kuaishou)\n→ MiniMax Hailuo H3 Max\n→ Wan 2.6 (Alibaba)\n→ Qwen Image (Alibaba)\n→ PixVerse\n\nno espionage required.",
+      "original_en": "here are some of the Chinese models you can faithfully explore on our platform:\n\n→ Seedance 2.0 & 2.5 (ByteDance)\n→ Seedream v5 Pro (ByteDance)\n→ Kling 4.0 (Kuaishou)\n→ MiniMax Hailuo H3 Max\n→ Wan 2.6 (Alibaba)\n→ Qwen Image (Alibaba)\n→ PixVerse\n\nno espionage required.",
+      "lang": "en",
+      "hook": "Brand list of Chinese video and image models with a one-line joke closer.",
+      "video_tip": "A list post lands harder with a dry punchline at the end; pair it with a 4-up grid of renders.",
+      "media": "text",
+      "followers_count": 23386,
+      "likes": 101,
+      "reposts": 8,
+      "bookmarks": 15,
+      "replies": 28,
+      "quotes": 2,
+      "board_rank": 6,
+      "draft_en": "ImagineArt is listing a whole shelf of Chinese video and image models on one platform:\n\nByteDance - Seedance 2.0 and 2.5, plus Seedream v5 Pro\nKuaishou - Kling 4.0\nAlibaba - Wan 2.6 and Qwen Image\nAlso MiniMax Hailuo H3 Max and PixVerse\n\nZero espionage involved.",
+      "draft_keywords": [
+        "ByteDance",
+        "Kling 4.0",
+        "MiniMax",
+        "Seedream"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.025,
+        "word_overlap": 0.733,
+        "max_copied_run": 4
+      },
+      "top10_rank": 6,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "coincidence/other",
+        "matched_keywords": [],
+        "media": "text",
+        "note": "",
+        "topic": "AI filmmaking workflow"
+      }
+    },
+    {
+      "id": "2119889493037649946",
+      "name": "JSFILMZ",
+      "display_name": "JSFILMZ",
+      "handle": "@JSFILMZ0412",
+      "views": 4108,
+      "views_label": "4,108",
+      "url": "https://x.com/JSFILMZ0412/status/2119889493037649946",
+      "created_at": "2026-11-09T20:26:55.000Z",
+      "posted_at": "2026-11-09T20:26:55.000Z",
+      "text": "Seedream 5.5 vs Minimax H3 Image.\n\nI will give Bytedance chained edits but @MiniMax_AI  cooked with realistic people. This video was first created using Minimax H3 Image then animated using Minimax H3 video start frame with a little bit of post. \n\nOriginal frame and Seedream 5.5 https://t.co/WisyoGv9Av https://t.co/wXrNzER5Fd",
+      "original_en": "Seedream 5.5 vs Minimax H3 Image.\n\nI will give Bytedance chained edits but @MiniMax_AI  cooked with realistic people. This video was first created using Minimax H3 Image then animated using Minimax H3 video start frame with a little bit of post. \n\nOriginal frame and Seedream 5.5 https://t.co/WisyoGv9Av https://t.co/wXrNzER5Fd",
+      "lang": "en",
+      "hook": "Fresh image model face-off (Seedream 5.5 vs MiniMax H3 Image) with a clear verdict.",
+      "video_tip": "Give a one-line verdict per model, then show the winning still animated as a start frame.",
+      "media": "video",
+      "followers_count": 12571,
+      "likes": 39,
+      "reposts": 3,
+      "bookmarks": 19,
+      "replies": 7,
+      "quotes": 0,
+      "board_rank": 7,
+      "draft_en": "Seedream 5.5 or Minimax H3 Image?\n\nOne creator's verdict: ByteDance takes chained edits, MiniMax takes realistic people.\n\nThe test clip started as a Minimax H3 Image still, got animated from that start frame with MiniMax H3 video, then a light pass of post. The original frame and the Seedream 5.5 version are there for comparison.",
+      "draft_keywords": [
+        "Seedream 5.5",
+        "Minimax H3 Image",
+        "ByteDance",
+        "MiniMax",
+        "video"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.0,
+        "word_overlap": 0.583,
+        "max_copied_run": 3
+      },
+      "top10_rank": 7,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "note": "",
+        "topic": "Open vs paid model showdowns"
+      }
+    },
+    {
+      "id": "2120048937235267950",
+      "name": "Shelley",
+      "display_name": "Shelley",
+      "handle": "@shelleymaeph",
+      "views": 3819,
+      "views_label": "3,819",
+      "url": "https://x.com/shelleymaeph/status/2120048937235267950",
+      "created_at": "2026-11-10T07:00:29.000Z",
+      "posted_at": "2026-11-10T07:00:29.000Z",
+      "text": "17 Ai Creator Contests for this week PT.5\n\nGossip Goblin x Showrunner Competition\n$20,000\nhttps://t.co/V3Y4Sxj1Qa\n\nNEXTALE AI Short Drama Award\n$3,000\nhttps://t.co/3xdVnsfG6g\n\nPixel Dojo Go Viral\n$2,450\nhttps://t.co/DeQ4IIFFkF\n\nFairground Animation Imagination\n$15,000 https://t.co/Otux3vjtVe https://t.co/hMewWLRU6X",
+      "original_en": "17 Ai Creator Contests for this week PT.5\n\nGossip Goblin x Showrunner Competition\n$20,000\nhttps://t.co/V3Y4Sxj1Qa\n\nNEXTALE AI Short Drama Award\n$3,000\nhttps://t.co/3xdVnsfG6g\n\nPixel Dojo Go Viral\n$2,450\nhttps://t.co/DeQ4IIFFkF\n\nFairground Animation Imagination\n$15,000 https://t.co/Otux3vjtVe https://t.co/hMewWLRU6X",
+      "lang": "en",
+      "hook": "Weekly roundup of AI creator contests with prize amounts (Gossip Goblin x Showrunner $20K on top).",
+      "video_tip": "Contest roundups get bookmarked; if you enter one, post your entry with the contest name and prize in line one.",
+      "media": "photo",
+      "followers_count": 13318,
+      "likes": 45,
+      "reposts": 3,
+      "bookmarks": 96,
+      "replies": 13,
+      "quotes": 2,
+      "board_rank": 8,
+      "draft_en": "Ai Creator Contests worth a look this week, from part 5 of a 17-contest roundup:\n\n- $20,000 - Gossip Goblin x Showrunner Competition\n- $15,000 - Fairground Animation Imagination\n- $3,000 - NEXTALE AI Short Drama Award\n- $2,450 - Pixel Dojo Go Viral\n\nPick one and ship something.",
+      "draft_keywords": [
+        "Ai Creator Contests",
+        "Gossip Goblin",
+        "Showrunner Competition",
+        "AI Short Drama",
+        "Pixel Dojo"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.143,
+        "word_overlap": 0.72,
+        "max_copied_run": 6
+      },
+      "top10_rank": 8,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "image",
+        "note": "",
+        "topic": null
+      }
+    },
+    {
+      "id": "2119896452520632773",
+      "name": "SOFIA",
+      "display_name": "SOFIA",
+      "handle": "@SofiaTachExpert",
+      "views": 3643,
+      "views_label": "3,643",
+      "url": "https://x.com/SofiaTachExpert/status/2119896452520632773",
+      "created_at": "2026-11-09T20:54:34.000Z",
+      "posted_at": "2026-11-09T20:54:34.000Z",
+      "text": "AI CAN NOW MAKE DISNEY-LEVEL 3D ANIMATION, AND ONE PERSON CAN RUN THE WHOLE PIPELINE\n\nthis clip got 3.2M views on X in 2 days. a platypus, a crocodile, a snowy hill, a penguin sled ride. two years ago a short like this needed a studio and a render farm.\n\nwhat the one-person https://t.co/8xOqWEDYAS https://t.co/Jl26ncCFJd",
+      "original_en": "AI CAN NOW MAKE DISNEY-LEVEL 3D ANIMATION, AND ONE PERSON CAN RUN THE WHOLE PIPELINE\n\nthis clip got 3.2M views on X in 2 days. a platypus, a crocodile, a snowy hill, a penguin sled ride. two years ago a short like this needed a studio and a render farm.\n\nwhat the one-person https://t.co/8xOqWEDYAS https://t.co/Jl26ncCFJd",
+      "lang": "en",
+      "hook": "All-caps claim about one-person 3D animation, riding another clip's view count.",
+      "video_tip": "Show a one-person pipeline as a 4-step screen recording; claims need proof on screen.",
+      "media": "video",
+      "followers_count": 120283,
+      "likes": 19,
+      "reposts": 1,
+      "bookmarks": 10,
+      "replies": 8,
+      "quotes": 2,
+      "board_rank": 9,
+      "draft_en": "A platypus, a crocodile, a penguin on a sled and a snowy hill. In 2 days on X, that cast pulled 3.2M views.\n\nA couple of years back, a short like this meant a studio plus a render farm. Now the claim is Disney-level 3D animation with one person running the entire pipeline.",
+      "draft_keywords": [
+        "animation"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.06,
+        "word_overlap": 0.68,
+        "max_copied_run": 5
+      },
+      "top10_rank": 9,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "note": "",
+        "topic": null
+      }
+    },
+    {
+      "id": "2120080819079307533",
+      "name": "ALITA✨️",
+      "display_name": "ALITA✨️",
+      "handle": "@AlitaIntel",
+      "views": 2274,
+      "views_label": "2,274",
+      "url": "https://x.com/AlitaIntel/status/2120080819079307533",
+      "created_at": "2026-11-10T09:07:11.000Z",
+      "posted_at": "2026-11-10T09:07:11.000Z",
+      "text": "20 AI Creator Contests\n$1,000,000+ in prizes\n\n$100K contest \nLast date 15th dec\n5000 free credits \nhttps://t.co/Guw10uB7a0\n\nGossip Goblin x Showrunner Competition\n$20,000\nhttps://t.co/8SChwpDS6c\n\nNEXTALE AI Short Drama Award\n$3,000\nhttps://t.co/q3U634AwdO\n\nPixel Dojo Go Viral https://t.co/iB3uT56FvI https://t.co/2EpbihmSvV",
+      "original_en": "20 AI Creator Contests\n$1,000,000+ in prizes\n\n$100K contest \nLast date 15th dec\n5000 free credits \nhttps://t.co/Guw10uB7a0\n\nGossip Goblin x Showrunner Competition\n$20,000\nhttps://t.co/8SChwpDS6c\n\nNEXTALE AI Short Drama Award\n$3,000\nhttps://t.co/q3U634AwdO\n\nPixel Dojo Go Viral https://t.co/iB3uT56FvI https://t.co/2EpbihmSvV",
+      "lang": "en",
+      "hook": "Second contest roundup with a headline prize total.",
+      "video_tip": "A big total in line two pulls bookmarks; keep each contest to name, prize, link.",
+      "media": "photo",
+      "followers_count": 2146,
+      "likes": 61,
+      "reposts": 4,
+      "bookmarks": 103,
+      "replies": 11,
+      "quotes": 0,
+      "board_rank": 10,
+      "draft_en": "Over $1,000,000 in prizes across 20 Ai Creator Contests right now.\n\nBiggest one: a $100K contest that closes 15th dec and adds 5000 free credits.\nAlso open: the Gossip Goblin x Showrunner Competition at $20,000, the NEXTALE AI Short Drama Award at $3,000, and Pixel Dojo Go Viral.\n\nBookmark it and pick your shot.",
+      "draft_keywords": [
+        "Ai Creator Contests",
+        "Gossip Goblin",
+        "Showrunner Competition",
+        "AI Short Drama",
+        "Pixel Dojo"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.109,
+        "word_overlap": 0.733,
+        "max_copied_run": 5
+      },
+      "top10_rank": 10,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "image",
+        "note": "",
+        "topic": null
+      }
+    },
+    {
+      "id": "2119819451289723021",
+      "name": "Ewan Morrison",
+      "display_name": "Ewan Morrison",
+      "handle": "@MrEwanMorrison",
+      "views": 1464,
+      "views_label": "1,464",
+      "url": "https://x.com/MrEwanMorrison/status/2119819451289723021",
+      "created_at": "2026-11-09T15:48:36.000Z",
+      "posted_at": "2026-11-09T15:48:36.000Z",
+      "text": "A darkly satirical short essay of mine, which Spotify seem to have taken as inspiration as they are now offering exactly the AI remix service that I satirised as arriving in 2035.\n\n\"In this year 2035, 176 million short films have been made, 292 million AI-written books, 363",
+      "original_en": "A darkly satirical short essay of mine, which Spotify seem to have taken as inspiration as they are now offering exactly the AI remix service that I satirised as arriving in 2035.\n\n\"In this year 2035, 176 million short films have been made, 292 million AI-written books, 363",
+      "lang": "en",
+      "hook": "Novelist's satire about AI content volume colliding with a real Spotify AI remix service.",
+      "video_tip": "Culture posts about AI volume travel; answer them with one carefully made piece, not quantity.",
+      "media": "photo",
+      "followers_count": 33666,
+      "likes": 70,
+      "reposts": 11,
+      "bookmarks": 12,
+      "replies": 4,
+      "quotes": 0,
+      "board_rank": 11,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "image",
+        "note": "",
+        "topic": null
+      }
+    },
+    {
+      "id": "2120030559535783987",
+      "name": "dojihi",
+      "display_name": "dojihi",
+      "handle": "@dojihivj",
+      "views": 1442,
+      "views_label": "1,442",
+      "url": "https://x.com/dojihivj/status/2120030559535783987",
+      "created_at": "2026-11-10T05:47:28.000Z",
+      "posted_at": "2026-11-10T05:47:28.000Z",
+      "text": "Hello everyone. This time, I’m bringing you a timelapse video. Recently, someone sent me a message on Pixiv saying that my artwork looks similar to AI-generated images, and suggested that I release my work process to put people’s minds at ease. Honestly, while I might not be as",
+      "original_en": "Hello everyone. This time, I’m bringing you a timelapse video. Recently, someone sent me a message on Pixiv saying that my artwork looks similar to AI-generated images, and suggested that I release my work process to put people’s minds at ease. Honestly, while I might not be as",
+      "lang": "en",
+      "hook": "Illustrator posts a timelapse to prove the art isn't AI-generated.",
+      "video_tip": "Process timelapses earn trust; a short behind-the-scenes of your AI pipeline (refs, sheets, edits) does the same.",
+      "media": "video",
+      "followers_count": 2647,
+      "likes": 120,
+      "reposts": 8,
+      "bookmarks": 38,
+      "replies": 7,
+      "quotes": 0,
+      "board_rank": 12,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "note": "",
+        "topic": null
+      }
+    },
+    {
+      "id": "2119862349997994325",
+      "name": "BGKuaci",
+      "display_name": "BGKuaci",
+      "handle": "@BGKuaci",
+      "views": 1344,
+      "views_label": "1,344",
+      "url": "https://x.com/BGKuaci/status/2119862349997994325",
+      "created_at": "2026-11-09T18:39:04.000Z",
+      "posted_at": "2026-11-09T18:39:04.000Z",
+      "text": "Five goblins on monster boars chased Cantika through the jungle… and they weren’t very smart\nThen their chief showed up on a giant boar\nOne kick later: “And STAY out of my jungle!!”\n\nCinematic AI video generated with @akoolinc\n\nJoin the AKOOL AI FILM CHALLENGE! Win your share of",
+      "original_en": "Five goblins on monster boars chased Cantika through the jungle… and they weren’t very smart\nThen their chief showed up on a giant boar\nOne kick later: “And STAY out of my jungle!!”\n\nCinematic AI video generated with @akoolinc\n\nJoin the AKOOL AI FILM CHALLENGE! Win your share of",
+      "lang": "en",
+      "hook": "Three-beat story caption (chase, twist, punchline) on a contest entry.",
+      "video_tip": "Write the caption as three beats that mirror the edit; end on the spoken punchline.",
+      "media": "video",
+      "followers_count": 11738,
+      "likes": 25,
+      "reposts": 2,
+      "bookmarks": 4,
+      "replies": 1,
+      "quotes": 0,
+      "board_rank": 13,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "note": "",
+        "topic": null
+      }
+    },
+    {
+      "id": "2120065982462841269",
+      "name": "jack Chen",
+      "display_name": "jack Chen",
+      "handle": "@jckchenn",
+      "views": 1212,
+      "views_label": "1,212",
+      "url": "https://x.com/jckchenn/status/2120065982462841269",
+      "created_at": "2026-11-10T08:08:13.000Z",
+      "posted_at": "2026-11-10T08:08:13.000Z",
+      "text": "💰Hiring: Senior AI Video Editor | AI Drama & Meta Ads\n\nWe are looking for a highly experienced Senior AI Video Editor to join our team for a long-term, remote collaboration.\n\nThe ideal candidate specializes in producing realistic AI-generated drama films, compelling long-form",
+      "original_en": "💰Hiring: Senior AI Video Editor | AI Drama & Meta Ads\n\nWe are looking for a highly experienced Senior AI Video Editor to join our team for a long-term, remote collaboration.\n\nThe ideal candidate specializes in producing realistic AI-generated drama films, compelling long-form",
+      "lang": "en",
+      "hook": "Job post for a senior AI video editor in AI drama and ads.",
+      "video_tip": "Signal that realistic AI drama is a paid skill; a dialogue-scene showreel is worth pinning.",
+      "media": "text",
+      "followers_count": 17,
+      "likes": 34,
+      "reposts": 2,
+      "bookmarks": 21,
+      "replies": 16,
+      "quotes": 0,
+      "board_rank": 14,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "coincidence/other",
+        "matched_keywords": [],
+        "media": "text",
+        "note": "",
+        "topic": null
+      }
+    },
+    {
+      "id": "2119821629119516995",
+      "name": "ChatSEO",
+      "display_name": "ChatSEO",
+      "handle": "@ChatSEO_app",
+      "views": 937,
+      "views_label": "937",
+      "url": "https://x.com/ChatSEO_app/status/2119821629119516995",
+      "created_at": "2026-11-09T15:57:15.000Z",
+      "posted_at": "2026-11-09T15:57:15.000Z",
+      "text": "Higgsfield, a $5.4B AI video company, grew its Google top 10 rankings 9.7x in JUST 12 months\n\nhere's the SEO system behind it:\n\n1. They built one page for the biggest search in their category\n\n-> /ai-video is #2 on Google for \"ai video generator\" (246,000 searches a month)\n\n->",
+      "original_en": "Higgsfield, a $5.4B AI video company, grew its Google top 10 rankings 9.7x in JUST 12 months\n\nhere's the SEO system behind it:\n\n1. They built one page for the biggest search in their category\n\n-> /ai-video is #2 on Google for \"ai video generator\" (246,000 searches a month)\n\n->",
+      "lang": "en",
+      "hook": "Business breakdown of how Higgsfield grew search traffic.",
+      "video_tip": "Industry breakdowns are text-heavy; if you riff on one, add a single clip so it isn't text-only.",
+      "media": "photo",
+      "followers_count": 728,
+      "likes": 8,
+      "reposts": 0,
+      "bookmarks": 8,
+      "replies": 3,
+      "quotes": 0,
+      "board_rank": 15,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "image",
+        "note": "",
+        "topic": null
+      }
+    },
+    {
+      "id": "2119786828077170836",
+      "name": "Terra Gatsuki",
+      "display_name": "Terra Gatsuki",
+      "handle": "@terra_gatsuki",
+      "views": 899,
+      "views_label": "899",
+      "url": "https://x.com/terra_gatsuki/status/2119786828077170836",
+      "created_at": "2026-11-09T13:38:58.000Z",
+      "posted_at": "2026-11-09T13:38:58.000Z",
+      "text": "GitHub is full of free AI video tools almost nobody is using yet.\nThe 9 repos blowing up right now, from easiest to most technical:\n\nstuff anyone can use\n\n1. 𝘀𝗵𝗶𝘀𝗲𝗶 (476 ⭐)\n\nA free CC0 library of 250+ mannequin poses, each drawn as line art from 5 angles. Use them to guide",
+      "original_en": "GitHub is full of free AI video tools almost nobody is using yet.\nThe 9 repos blowing up right now, from easiest to most technical:\n\nstuff anyone can use\n\n1. 𝘀𝗵𝗶𝘀𝗲𝗶 (476 ⭐)\n\nA free CC0 library of 250+ mannequin poses, each drawn as line art from 5 angles. Use them to guide",
+      "lang": "en",
+      "hook": "Free GitHub AI video tools list, easiest first.",
+      "video_tip": "List threads do best with one demo clip per item; show a pose library guiding a character shot.",
+      "media": "video",
+      "followers_count": 25368,
+      "likes": 3,
+      "reposts": 1,
+      "bookmarks": 3,
+      "replies": 5,
+      "quotes": 0,
+      "board_rank": 16,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "note": "",
+        "topic": null
+      }
+    },
+    {
+      "id": "2119808775955886359",
+      "name": "Mike Miller",
+      "display_name": "Mike Miller",
+      "handle": "@pt5films",
+      "views": 746,
+      "views_label": "746",
+      "url": "https://x.com/pt5films/status/2119808775955886359",
+      "created_at": "2026-11-09T15:06:10.000Z",
+      "posted_at": "2026-11-09T15:06:10.000Z",
+      "text": "FRODO\n\nDirected by Mike Miller\n\nMade with Midjourney and @dreamina_ai #dreaminacreators\n\nSong \"Day Tripper\" by The Beatles\n\nFan AI animation inspired by the characters of The Lord of the Rings\n\n#lordoftherings #frodo #samwise #aianimation #pt5films",
+      "original_en": "FRODO\n\nDirected by Mike Miller\n\nMade with Midjourney and @dreamina_ai #dreaminacreators\n\nSong \"Day Tripper\" by The Beatles\n\nFan AI animation inspired by the characters of The Lord of the Rings\n\n#lordoftherings #frodo #samwise #aianimation #pt5films",
+      "lang": "en",
+      "hook": "One-word title plus famous IP and a classic song for a fan AI animation.",
+      "video_tip": "Fan pieces travel on the character name alone; title card first, credits after.",
+      "media": "video",
+      "followers_count": 1305,
+      "likes": 26,
+      "reposts": 3,
+      "bookmarks": 3,
+      "replies": 5,
+      "quotes": 0,
+      "board_rank": 17,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "note": "",
+        "topic": null
+      }
+    },
+    {
+      "id": "2119626866105397755",
+      "name": "SubX.News®",
+      "display_name": "SubX.News®",
+      "handle": "@SubxNews",
+      "views": 735,
+      "views_label": "735",
+      "url": "https://x.com/SubxNews/status/2119626866105397755",
+      "created_at": "2026-11-09T03:03:20.000Z",
+      "posted_at": "2026-11-09T03:03:20.000Z",
+      "text": "Cyberpunk Motorcycle Rider Goes Full Throttle in AI Anime\n\nAI-generated motorcycle animation by @swordspeed\n\n#Cyberpunk #AIAnimation #Motorcycle\n\nSource @swordspeed\nhttps://t.co/69eNgY6i4V\n #TBvsCHI https://t.co/46jSs7vs2b",
+      "original_en": "Cyberpunk Motorcycle Rider Goes Full Throttle in AI Anime\n\nAI-generated motorcycle animation by @swordspeed\n\n#Cyberpunk #AIAnimation #Motorcycle\n\nSource @swordspeed\nhttps://t.co/69eNgY6i4V\n #TBvsCHI https://t.co/46jSs7vs2b",
+      "lang": "en",
+      "hook": "Aggregator repost of a cyberpunk AI anime motorcycle clip.",
+      "video_tip": "Speed plus neon reads instantly; a 5s anime chase loop is a strong cold open.",
+      "media": "video",
+      "followers_count": 69568,
+      "likes": 4,
+      "reposts": 0,
+      "bookmarks": 1,
+      "replies": 0,
+      "quotes": 0,
+      "board_rank": 18,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "note": "",
+        "topic": null
+      }
+    },
+    {
+      "id": "2119839219426468128",
+      "name": "BlockRunAI",
+      "display_name": "BlockRunAI",
+      "handle": "@BlockRunAI",
+      "views": 596,
+      "views_label": "596",
+      "url": "https://x.com/BlockRunAI/status/2119839219426468128",
+      "created_at": "2026-11-09T17:07:09.000Z",
+      "posted_at": "2026-11-09T17:07:09.000Z",
+      "text": "What's new at BlockRun 🧵\n\nTL;DR\n01 · Meta's Muse Spark 1.3 and Muse Wonder 1.0\n02 · Free MiniMax M3.1 Flash and Nemotron 3.5 Bolt\n03 · Grok Imagine Video 1.5: choose how your video starts and ends\n04 · Claude Opus 5.5, GPT-6.1 Sol and more on Arc\n\nDetails below 👇",
+      "original_en": "What's new at BlockRun 🧵\n\nTL;DR\n01 · Meta's Muse Spark 1.3 and Muse Wonder 1.0\n02 · Free MiniMax M3.1 Flash and Nemotron 3.5 Bolt\n03 · Grok Imagine Video 1.5: choose how your video starts and ends\n04 · Claude Opus 5.5, GPT-6.1 Sol and more on Arc\n\nDetails below 👇",
+      "lang": "en",
+      "hook": "Release roundup noting Grok Imagine Video 1.5 start and end frame control.",
+      "video_tip": "Test start-and-end-frame control with two of your own stills and show the in-between.",
+      "media": "photo",
+      "followers_count": 4672,
+      "likes": 7,
+      "reposts": 4,
+      "bookmarks": 1,
+      "replies": 3,
+      "quotes": 0,
+      "board_rank": 19,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "image",
+        "note": "",
+        "topic": "Open vs paid model showdowns"
+      }
+    },
+    {
+      "id": "2120172278667227639",
+      "name": "S 🫧",
+      "display_name": "S 🫧",
+      "handle": "@dyfwsammy",
+      "views": 510,
+      "views_label": "510",
+      "url": "https://x.com/dyfwsammy/status/2120172278667227639",
+      "created_at": "2026-11-10T15:10:36.000Z",
+      "posted_at": "2026-11-10T15:10:36.000Z",
+      "text": "THIS IS F**KING GOLD.\n\nA 20 YEAR OLD IS REPORTEDLY MAKING $30,000 A MONTH PRODUCING CHILDREN’S CARTOONS.\n\nNo animators. No drawing skills. No production team.\n\nShe’s running a media empire straight from her bedroom.\n\nHer secret? YouTube automation powered by AI.\n\nShe targets the",
+      "original_en": "THIS IS F**KING GOLD.\n\nA 20 YEAR OLD IS REPORTEDLY MAKING $30,000 A MONTH PRODUCING CHILDREN’S CARTOONS.\n\nNo animators. No drawing skills. No production team.\n\nShe’s running a media empire straight from her bedroom.\n\nHer secret? YouTube automation powered by AI.\n\nShe targets the",
+      "lang": "en",
+      "hook": "All-caps money-claim hook about AI kids cartoons (reported, unverified).",
+      "video_tip": "Money-claim hooks spread fast but cost trust; if you talk earnings, use your own real numbers.",
+      "media": "video",
+      "followers_count": 13404,
+      "likes": 14,
+      "reposts": 3,
+      "bookmarks": 7,
+      "replies": 3,
+      "quotes": 0,
+      "board_rank": 20,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "note": "",
+        "topic": null
+      }
+    }
+  ],
+  "virals_target": 20,
+  "virals_window": "last ~48h",
+  "virals_narrative": "Outsider lane on 09.11 led by @ImaStudio_ai at 47,730 views (MiniMax H3 vs Seedance 2.5 outfit swap with prices). Also clearing: @FossaFreak 8,503, @beginnersblog1 6,552, @second_bassoon 5,327, @m4lkxx 5,266",
+  "patterns": [
+    "Watchlist on 09.11: 0 hits - nobody cleared 5,000 views with an original post",
+    "Gossip_Goblin posted no originals (one reply only) after two strong days; andresvandal only reposted Higgsfield and Claude Fable 5.2 news",
+    "Closest calls were new-model tests: LudovicCreator's Glitch Matrix Decoding prompt post at 2,940 and ChrisGwinnLA's Seedream 5.5 and MiniMax H3 Image vintage stills at 2,875 and 2,611",
+    "Bogdan's Ultramarines vs. Tyranids (Warhammer 40K) reached 495, his best of 5 originals on 09.11",
+    "Outsider lane: MiniMax H3 vs Seedance 2.5 price-gap showdown at 47.7K, Seedream 5.5 vs MiniMax H3 Image tests, toolstack and workflow lists, and AI creator contest roundups led by the Gossip Goblin x Showrunner $20K"
+  ],
+  "no_hits": [
+    {
+      "handle": "@Gossip_Goblin",
+      "reason": "0 original posts on 2026-11-09 (one reply only, 2,428 views; replies don't count).",
+      "max_views": 0
+    },
+    {
+      "handle": "@pixelbouncer",
+      "reason": "7 original posts on 2026-11-09; none reached 5,000 views (best 614).",
+      "max_views": 614
+    },
+    {
+      "handle": "@andresvandal",
+      "reason": "0 original posts on 2026-11-09 (4 reposts only).",
+      "max_views": 0
+    },
+    {
+      "handle": "@LudovicCreator",
+      "reason": "7 original posts on 2026-11-09; none reached 5,000 views (best 2,940).",
+      "max_views": 2940
+    },
+    {
+      "handle": "@ChrisGwinnLA",
+      "reason": "2 original posts on 2026-11-09; none reached 5,000 views (best 2,875).",
+      "max_views": 2875
+    },
+    {
+      "handle": "@billywoodward",
+      "reason": "0 original posts on 2026-11-09.",
+      "max_views": 0
+    }
+  ],
+  "day_roster": [
+    {
+      "handle": "@LudovicCreator",
+      "name": "LudovicCreator",
+      "views": 2940,
+      "total_views": 10287,
+      "hit": false,
+      "posts": 7,
+      "best_url": "https://x.com/LudovicCreator/status/2119792264796856511"
+    },
+    {
+      "handle": "@ChrisGwinnLA",
+      "name": "Christopher Gwinn | Grindhouse Glitch",
+      "views": 2875,
+      "total_views": 5486,
+      "hit": false,
+      "posts": 2,
+      "best_url": "https://x.com/ChrisGwinnLA/status/2119979699464286506"
+    },
+    {
+      "handle": "@pixelbouncer",
+      "name": "Ƥ!ЖΣLƁΘUNCΣR",
+      "views": 614,
+      "total_views": 2026,
+      "hit": false,
+      "posts": 7,
+      "best_url": "https://x.com/pixelbouncer/status/2119888591228952679"
+    },
+    {
+      "handle": "@Gossip_Goblin",
+      "name": "Gossip Goblin",
+      "views": 0,
+      "total_views": 0,
+      "hit": false,
+      "posts": 0,
+      "best_url": null
+    },
+    {
+      "handle": "@andresvandal",
+      "name": "Andres Vandal",
+      "views": 0,
+      "total_views": 0,
+      "hit": false,
+      "posts": 0,
+      "best_url": null
+    },
+    {
+      "handle": "@billywoodward",
+      "name": "Billy Woodward",
+      "views": 0,
+      "total_views": 0,
+      "hit": false,
+      "posts": 0,
+      "best_url": null
+    }
+  ],
+  "you_rank": {
+    "best_views": 495,
+    "total_views": 1233,
+    "best_url": "https://x.com/SMKP_Films/status/2119907623797416159",
+    "posts": 5,
+    "vs_5k": "pending",
+    "vs_10k": "pending",
+    "rank_among_watchlist": 4,
+    "total_accounts": 7
+  },
+  "narrative_synthesis": "Content day 2026-11-09 was a blank for the watchlist: no original post from the six accounts reached 5,000 views. Gossip_Goblin only replied (2,428 views on a reply) and andresvandal only reposted Higgsfield and Claude Fable 5.2 news. The near misses were all new-model tests. LudovicCreator's Glitch Matrix Decoding prompt post reached 2,940, and ChrisGwinnLA tested Seedream 5.5 (2,875) and MiniMax H3 Image (2,611) on vintage cinematic stills. Bogdan posted five originals, led by Ultramarines vs. Tyranids at 495 views. Outside the watchlist, the day belonged to fresh image and video model comparisons: Ima Studio's MiniMax H3 vs Seedance 2.5 outfit swap with prices hit 47,730 views, and JSFILMZ compared Seedream 5.5 with MiniMax H3 Image. Toolstack lists, a 'you're starting AI filmmaking in the wrong place' workflow post, and roundups of AI creator contests (the Gossip Goblin x Showrunner $20,000 prize leading) also kept getting bookmarks.",
+  "trend_input_only": [],
+  "trend_input_only_posts": [],
+  "leaderboards": {
+    "as_of": "2026-11-09",
+    "tracking_start": "2026-11-04",
+    "days_included": [
+      "2026-11-04",
+      "2026-11-05",
+      "2026-11-06",
+      "2026-11-07",
+      "2026-11-08",
+      "2026-11-09"
+    ],
+    "month_days_included": [
+      "2026-11-04",
+      "2026-11-05",
+      "2026-11-06",
+      "2026-11-07",
+      "2026-11-08",
+      "2026-11-09"
+    ],
+    "week": {
+      "label": "Rolling week · Nov 4–Nov 9",
+      "range": [
+        "2026-11-04",
+        "2026-11-09"
+      ],
+      "entries": [
+        {
+          "handle": "@Gossip_Goblin",
+          "name": "Gossip Goblin",
+          "hits": 11,
+          "days": 4,
+          "views": 458728,
+          "best": 139184,
+          "best_url": "https://x.com/Gossip_Goblin/status/2118396958289346810"
+        },
+        {
+          "handle": "@andresvandal",
+          "name": "Andres Vandal",
+          "hits": 1,
+          "days": 1,
+          "views": 5305,
+          "best": 5305,
+          "best_url": "https://x.com/andresvandal/status/2118881380150976546"
+        },
+        {
+          "handle": "@ChrisGwinnLA",
+          "name": "Christopher Gwinn | Grindhouse Glitch",
+          "hits": 1,
+          "days": 1,
+          "views": 5241,
+          "best": 5241,
+          "best_url": "https://x.com/ChrisGwinnLA/status/2119112594036605131"
+        }
+      ]
+    },
+    "month": {
+      "label": "November 2026 · from Nov 4",
+      "range": [
+        "2026-11-04",
+        "2026-11-09"
+      ],
+      "entries": [
+        {
+          "handle": "@Gossip_Goblin",
+          "name": "Gossip Goblin",
+          "hits": 11,
+          "days": 4,
+          "views": 458728,
+          "best": 139184,
+          "best_url": "https://x.com/Gossip_Goblin/status/2118396958289346810"
+        },
+        {
+          "handle": "@andresvandal",
+          "name": "Andres Vandal",
+          "hits": 1,
+          "days": 1,
+          "views": 5305,
+          "best": 5305,
+          "best_url": "https://x.com/andresvandal/status/2118881380150976546"
+        },
+        {
+          "handle": "@ChrisGwinnLA",
+          "name": "Christopher Gwinn | Grindhouse Glitch",
+          "hits": 1,
+          "days": 1,
+          "views": 5241,
+          "best": 5241,
+          "best_url": "https://x.com/ChrisGwinnLA/status/2119112594036605131"
+        }
+      ]
+    }
+  },
+  "drafts_top10": [
+    {
+      "rank": 1,
+      "id": "2119739717550035360",
+      "handle": "@ImaStudio_ai",
+      "views": 47730,
+      "lane": "outsider"
+    },
+    {
+      "rank": 2,
+      "id": "2119529497212915895",
+      "handle": "@FossaFreak",
+      "views": 8503,
+      "lane": "outsider"
+    },
+    {
+      "rank": 3,
+      "id": "2119682025426964482",
+      "handle": "@beginnersblog1",
+      "views": 6552,
+      "lane": "outsider"
+    },
+    {
+      "rank": 4,
+      "id": "2119850409829261437",
+      "handle": "@second_bassoon",
+      "views": 5327,
+      "lane": "outsider"
+    },
+    {
+      "rank": 5,
+      "id": "2119463879965081705",
+      "handle": "@m4lkxx",
+      "views": 5266,
+      "lane": "outsider"
+    },
+    {
+      "rank": 6,
+      "id": "2119726694169006173",
+      "handle": "@ImagineArt_X",
+      "views": 4822,
+      "lane": "outsider"
+    },
+    {
+      "rank": 7,
+      "id": "2119889493037649946",
+      "handle": "@JSFILMZ0412",
+      "views": 4108,
+      "lane": "outsider"
+    },
+    {
+      "rank": 8,
+      "id": "2120048937235267950",
+      "handle": "@shelleymaeph",
+      "views": 3819,
+      "lane": "outsider"
+    },
+    {
+      "rank": 9,
+      "id": "2119896452520632773",
+      "handle": "@SofiaTachExpert",
+      "views": 3643,
+      "lane": "outsider"
+    },
+    {
+      "rank": 10,
+      "id": "2120080819079307533",
+      "handle": "@AlitaIntel",
+      "views": 2274,
+      "lane": "outsider"
+    }
+  ],
+  "trend_keywords": {
+    "date": "2026-11-09",
+    "window": "day D board posts + last-24h posts >= min_views + outsiders + trend-input accounts + pattern brief",
+    "method": "sum(log10 views) over distinct posts x author spread x phrase length x entity/brief bonus; >=2 authors",
+    "keywords": [
+      {
+        "keyword": "video",
+        "rank": 1,
+        "score": 89.0,
+        "posts": 8,
+        "authors": 8
+      },
+      {
+        "keyword": "MiniMax",
+        "rank": 2,
+        "score": 49.9,
+        "posts": 4,
+        "authors": 4
+      },
+      {
+        "keyword": "AI video",
+        "rank": 3,
+        "score": 40.7,
+        "posts": 4,
+        "authors": 4
+      },
+      {
+        "keyword": "animation",
+        "rank": 4,
+        "score": 26.9,
+        "posts": 4,
+        "authors": 4
+      },
+      {
+        "keyword": "Ai Creator Contests",
+        "rank": 5,
+        "score": 24.4,
+        "posts": 2,
+        "authors": 2
+      },
+      {
+        "keyword": "MiniMax H3",
+        "rank": 6,
+        "score": 23.6,
+        "posts": 2,
+        "authors": 2
+      },
+      {
+        "keyword": "Gossip Goblin",
+        "rank": 7,
+        "score": 19.8,
+        "posts": 2,
+        "authors": 2
+      },
+      {
+        "keyword": "AI-generated",
+        "rank": 8,
+        "score": 19.6,
+        "posts": 3,
+        "authors": 3
+      },
+      {
+        "keyword": "AI Short Drama",
+        "rank": 9,
+        "score": 18.7,
+        "posts": 2,
+        "authors": 2
+      },
+      {
+        "keyword": "Seedance",
+        "rank": 10,
+        "score": 18.3,
+        "posts": 2,
+        "authors": 2
+      },
+      {
+        "keyword": "Kling 4.0",
+        "rank": 11,
+        "score": 16.7,
+        "posts": 2,
+        "authors": 2
+      },
+      {
+        "keyword": "Seedream",
+        "rank": 12,
+        "score": 16.0,
+        "posts": 2,
+        "authors": 2
+      },
+      {
+        "keyword": "Showrunner Competition",
+        "rank": 13,
+        "score": 15.2,
+        "posts": 2,
+        "authors": 2
+      },
+      {
+        "keyword": "Pixel Dojo",
+        "rank": 14,
+        "score": 15.2,
+        "posts": 2,
+        "authors": 2
+      },
+      {
+        "keyword": "Opus 5.5",
+        "rank": 15,
+        "score": 14.7,
+        "posts": 2,
+        "authors": 2
+      },
+      {
+        "keyword": "Grok Imagine",
+        "rank": 16,
+        "score": 14.7,
+        "posts": 2,
+        "authors": 2
+      },
+      {
+        "keyword": "model",
+        "rank": 17,
+        "score": 13.2,
+        "posts": 2,
+        "authors": 2
+      },
+      {
+        "keyword": "ByteDance",
+        "rank": 18,
+        "score": 12.3,
+        "posts": 2,
+        "authors": 2
+      },
+      {
+        "keyword": "Midjourney",
+        "rank": 19,
+        "score": 11.7,
+        "posts": 2,
+        "authors": 2
+      },
+      {
+        "keyword": "Award",
+        "rank": 20,
+        "score": 11.7,
+        "posts": 2,
+        "authors": 2
+      },
+      {
+        "keyword": "Seedance 2.5",
+        "rank": 21,
+        "score": 9.9,
+        "posts": 1,
+        "authors": 1
+      },
+      {
+        "keyword": "Minimax H3 Image",
+        "rank": 22,
+        "score": 9.4,
+        "posts": 1,
+        "authors": 1
+      },
+      {
+        "keyword": "Seedream 5.5",
+        "rank": 23,
+        "score": 7.6,
+        "posts": 1,
+        "authors": 1
+      },
+      {
+        "keyword": "AI filmmaking",
+        "rank": 24,
+        "curated": true
+      },
+      {
+        "keyword": "Showrunner",
+        "rank": 25,
+        "curated": true
+      },
+      {
+        "keyword": "Kling",
+        "rank": 26,
+        "curated": true
+      },
+      {
+        "keyword": "AI toolstack",
+        "rank": 27,
+        "curated": true
+      },
+      {
+        "keyword": "workflow",
+        "rank": 28,
+        "curated": true
+      },
+      {
+        "keyword": "Veo 3.1",
+        "rank": 29,
+        "curated": true
+      },
+      {
+        "keyword": "Grok Imagine Video 1.5",
+        "rank": 30,
+        "curated": true
+      },
+      {
+        "keyword": "3D animation",
+        "rank": 31,
+        "curated": true
+      },
+      {
+        "keyword": "AI anime",
+        "rank": 32,
+        "curated": true
+      },
+      {
+        "keyword": "AI short film",
+        "rank": 33,
+        "curated": true
+      }
+    ]
+  },
+  "trend_radar": {
+    "date": "2026-11-09",
+    "title": "Trends and post ideas",
+    "window": {
+      "end": "2026-11-10T11:10:00-05:00",
+      "label24": "09.11 11:10 - 10.11 11:10 UTC",
+      "label48": "08.11 11:10 - 10.11 11:10 UTC"
+    },
+    "corpus": {
+      "posts": 5,
+      "min_views": 5000,
+      "lanes": {
+        "watchlist": 0,
+        "outsider": 5,
+        "24h": 0,
+        "trend_input": 0
+      }
+    },
+    "summary": {
+      "top10_line": "TOP-10: 0/10 (0%) matched trends · visual 8, coincidence/other 2",
+      "headline": "0 of 20 board hits (0%) matched 24-48 h trends. Median views: trend - vs non-trend 1.9K (mean - vs 5.1K). Watchlist: 0/0 on trend. 10 hits with video, median 1.4K vs 3.0K without.",
+      "takeaway": "Neither trend nor video decided it alone: keep the top radar topic, bet on a strong hook and usefulness (Open vs paid model showdowns).",
+      "stats": {
+        "all": {
+          "n": 20,
+          "trend_n": 0,
+          "trend_pct": 0,
+          "avg_trend": null,
+          "avg_other": 5096,
+          "median_trend": null,
+          "median_other": 1869,
+          "verdicts": {
+            "trend": 0,
+            "visual": 17,
+            "author/audience": 0,
+            "coincidence/other": 3
+          }
+        },
+        "watchlist": {
+          "n": 0,
+          "trend_n": 0,
+          "trend_pct": 0,
+          "avg_trend": null,
+          "avg_other": null,
+          "median_trend": null,
+          "median_other": null,
+          "verdicts": {
+            "trend": 0,
+            "visual": 0,
+            "author/audience": 0,
+            "coincidence/other": 0
+          }
+        },
+        "outsiders": {
+          "n": 20,
+          "trend_n": 0,
+          "trend_pct": 0,
+          "avg_trend": null,
+          "avg_other": 5096,
+          "median_trend": null,
+          "median_other": 1869,
+          "verdicts": {
+            "trend": 0,
+            "visual": 17,
+            "author/audience": 0,
+            "coincidence/other": 3
+          }
+        },
+        "top10": {
+          "n": 10,
+          "trend_n": 0,
+          "trend_pct": 0,
+          "avg_trend": null,
+          "avg_other": 9204,
+          "median_trend": null,
+          "median_other": 5044,
+          "verdicts": {
+            "trend": 0,
+            "visual": 8,
+            "author/audience": 0,
+            "coincidence/other": 2
+          }
+        },
+        "media": {
+          "video_n": 10,
+          "median_video": 1393,
+          "other_n": 10,
+          "median_other": 3046
+        }
+      }
+    },
+    "topics": [
+      {
+        "name": "Open vs paid model showdowns",
+        "keywords": [
+          "Grok Imagine",
+          "MiniMax H3",
+          "Seedance 2.5"
+        ],
+        "posts_24h": 0,
+        "posts_48h": 2,
+        "views_24h": 0,
+        "views_prev24h": 52996,
+        "views_48h": 52996,
+        "momentum": "down · previous 24 h only",
+        "heat_raw": 4.2,
+        "evidence": [
+          {
+            "handle": "@ImaStudio_ai",
+            "views": 47730,
+            "url": "https://x.com/ImaStudio_ai/status/2119739717550035360",
+            "hook": "Three-way split: MiniMax H3 vs Seedance 2.5 vs the original, with a price per model.",
+            "lane": "outsider"
+          },
+          {
+            "handle": "@m4lkxx",
+            "views": 5266,
+            "url": "https://x.com/m4lkxx/status/2119463879965081705",
+            "hook": "Four-model same-prompt test with price and render time per model.",
+            "lane": "outsider"
+          }
+        ],
+        "heat": 100
+      },
+      {
+        "name": "AI filmmaking workflow",
+        "keywords": [
+          "model",
+          "AI filmmaking"
+        ],
+        "posts_24h": 0,
+        "posts_48h": 1,
+        "views_24h": 0,
+        "views_prev24h": 6552,
+        "views_48h": 6552,
+        "momentum": "down · previous 24 h only",
+        "heat_raw": 1.91,
+        "evidence": [
+          {
+            "handle": "@beginnersblog1",
+            "views": 6552,
+            "url": "https://x.com/beginnersblog1/status/2119682025426964482",
+            "hook": "Contrarian workflow post: you're starting AI filmmaking in the wrong place.",
+            "lane": "outsider"
+          }
+        ],
+        "heat": 45
+      }
+    ],
+    "ideas": [
+      {
+        "title": "Shot list before prompts",
+        "topic": "AI filmmaking workflow",
+        "keywords": [
+          "AI filmmaking",
+          "AI video"
+        ],
+        "format": "carousel",
+        "visual_type": "carousel",
+        "visual": "Carousel: one-line premise, then the shot cards, then the finished frames from your last short.",
+        "angle": "Show your actual planning for a 40K short as an AI filmmaking lesson: premise, shots, then generation.",
+        "hook_en": "Most AI filmmaking fails before the first render. Here is the shot list I write before I touch an AI video tool.",
+        "why": "beginnersblog1's step-one AI filmmaking post reached 6,552 views; AI filmmaking was up x2.95 in the X keyword sample.",
+        "x_keywords": [
+          "AI filmmaking",
+          "AI video"
+        ],
+        "x_rank": 2,
+        "source": "x-keywords"
+      },
+      {
+        "title": "Render-time and price table for one prompt",
+        "topic": "Open vs paid model showdowns",
+        "keywords": [
+          "Grok Imagine",
+          "AI video",
+          "Kling 4.0"
+        ],
+        "format": "video",
+        "visual_type": "video",
+        "visual": "Four-panel grid of one Tyranid swarm prompt, each panel labelled with tool, minutes and cost.",
+        "angle": "Copy m4lkxx's one-prompt test with your own 40K scene and list time and cost for Grok Imagine, Kling 4.0 and your usual tool.",
+        "hook_en": "One Tyranid prompt, several AI video tools, real render times and prices. Grok Imagine vs Kling 4.0 vs my usual pick.",
+        "why": "m4lkxx's four-tool cost test reached 5,266 views; Grok Imagine was up x4.69 in the X keyword sample.",
+        "x_keywords": [
+          "Grok Imagine",
+          "AI video"
+        ],
+        "x_rank": 3,
+        "source": "x-keywords"
+      },
+      {
+        "title": "Free local model vs paid model on one 40K shot",
+        "topic": "Open vs paid model showdowns",
+        "keywords": [
+          "AI video",
+          "MiniMax H3",
+          "Seedance 2.5"
+        ],
+        "format": "video",
+        "visual_type": "video",
+        "visual": "Side-by-side of the same Space Marine reference, cost burned into each half, original reference in a corner.",
+        "angle": "Run one Warhammer character swap through MiniMax H3 locally and Seedance 2.5, show the price under each AI video result.",
+        "hook_en": "Same Space Marine, two AI video tools. MiniMax H3 ran locally on the left, Seedance 2.5 on the right. Can you spot the paid one?",
+        "why": "ImaStudio_ai's MiniMax H3 vs Seedance 2.5 price comparison was the top outsider at 47,730 views.",
+        "x_keywords": [
+          "AI video"
+        ],
+        "x_rank": 4,
+        "source": "x-keywords"
+      },
+      {
+        "title": "My AI video stack screencast",
+        "topic": "AI filmmaking workflow",
+        "keywords": [
+          "AI video",
+          "model"
+        ],
+        "format": "screencast",
+        "visual_type": "screencast",
+        "visual": "Quick screen tour of each tool in your pipeline with one finished frame per step.",
+        "angle": "Share the actual stack behind your Warhammer shorts, one model per job.",
+        "hook_en": "The AI video stack behind my Warhammer shorts, one model per job, no fluff.",
+        "why": "second_bassoon's Q4 toolstack post reached 5,327 views.",
+        "x_keywords": [
+          "AI video"
+        ],
+        "x_rank": 4,
+        "source": "x-keywords"
+      },
+      {
+        "title": "Image first, then animate",
+        "topic": "AI filmmaking workflow",
+        "keywords": [
+          "image to video",
+          "Seedream 5.5",
+          "Minimax H3 Image"
+        ],
+        "format": "video",
+        "visual_type": "video",
+        "visual": "Still from Seedream 5.5 and Minimax H3 Image side by side, then each animated from its start frame.",
+        "angle": "Generate the same 40K character still in Seedream 5.5 and Minimax H3 Image, then push both through image to video.",
+        "hook_en": "Seedream 5.5 or Minimax H3 Image for the start frame? Same Space Wolf, both stills, both pushed through image to video.",
+        "why": "JSFILMZ0412's Seedream 5.5 vs Minimax H3 Image test reached 4,108 views; image to video was up x6.36 in the X keyword sample.",
+        "x_keywords": [
+          "image to video"
+        ],
+        "x_rank": 11,
+        "source": "x-keywords"
+      },
+      {
+        "title": "Contest entry announcement",
+        "topic": "AI filmmaking workflow",
+        "keywords": [
+          "Ai Creator Contests",
+          "Showrunner Competition",
+          "Gossip Goblin"
+        ],
+        "format": "video",
+        "visual_type": "video",
+        "visual": "15s teaser cut from a new 40K short with an 'entry' end card.",
+        "angle": "If you enter, announce your Gossip Goblin x Showrunner Competition entry with a teaser clip.",
+        "hook_en": "Entering the Gossip Goblin x Showrunner Competition with a Warhammer short. First 15 seconds below - Ai Creator Contests season is on.",
+        "why": "Contest roundups by shelleymaeph (3,819) and AlitaIntel (2,274) both led with the $20,000 Gossip Goblin x Showrunner Competition.",
+        "x_keywords": [],
+        "x_rank": null,
+        "source": "watchlist-virals"
+      }
+    ],
+    "articles": [
+      {
+        "title": "Free local models are closing the gap",
+        "thesis": "Open models like MiniMax H3 now land close to paid tools on simple edits, which changes how small creators budget.",
+        "outline": [
+          "The ImaStudio comparison",
+          "Where paid tools still win",
+          "A cheap test you can run",
+          "When to pay"
+        ],
+        "keywords": [
+          "MiniMax H3",
+          "Seedance 2.5",
+          "AI video"
+        ],
+        "visual": "Cover: side-by-side render of the same reference with $0 and $0.77 labels; inline: setup screenshots.",
+        "why": "ImaStudio_ai's MiniMax H3 vs Seedance 2.5 comparison was the top outsider at 47,730 views.",
+        "x_keywords": [
+          "AI video"
+        ]
+      },
+      {
+        "title": "Plan the shots, then prompt",
+        "thesis": "Consistency problems in AI filmmaking mostly come from skipping the shot list.",
+        "outline": [
+          "The one-giant-prompt trap",
+          "Premise in one line",
+          "Breaking it into shots",
+          "Generating against the list"
+        ],
+        "keywords": [
+          "AI filmmaking",
+          "AI video"
+        ],
+        "visual": "Cover: shot-list cards next to finished frames; inline: before/after drift examples.",
+        "why": "beginnersblog1's step-one AI filmmaking post reached 6,552 views; AI filmmaking was up x2.95 in the X keyword sample.",
+        "x_keywords": [
+          "AI filmmaking",
+          "AI video"
+        ]
+      }
+    ],
+    "why_hit": [
+      {
+        "id": "2119739717550035360",
+        "handle": "@ImaStudio_ai",
+        "lane": "outsider",
+        "views": 47730,
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "followers": 2700,
+        "topic": "Open vs paid model showdowns",
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2119529497212915895",
+        "handle": "@FossaFreak",
+        "lane": "outsider",
+        "views": 8503,
+        "trend_match": 20,
+        "verdict": "visual",
+        "matched_keywords": [
+          "Kling"
+        ],
+        "media": "image",
+        "followers": 2785,
+        "topic": null,
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2119682025426964482",
+        "handle": "@beginnersblog1",
+        "lane": "outsider",
+        "views": 6552,
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "image",
+        "followers": 29914,
+        "topic": "AI filmmaking workflow",
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2119850409829261437",
+        "handle": "@second_bassoon",
+        "lane": "outsider",
+        "views": 5327,
+        "trend_match": 0,
+        "verdict": "coincidence/other",
+        "matched_keywords": [],
+        "media": "text",
+        "followers": 3876,
+        "topic": null,
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2119463879965081705",
+        "handle": "@m4lkxx",
+        "lane": "outsider",
+        "views": 5266,
+        "trend_match": 20,
+        "verdict": "visual",
+        "matched_keywords": [
+          "Kling"
+        ],
+        "media": "video",
+        "followers": 8301,
+        "topic": "Open vs paid model showdowns",
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2119726694169006173",
+        "handle": "@ImagineArt_X",
+        "lane": "outsider",
+        "views": 4822,
+        "trend_match": 0,
+        "verdict": "coincidence/other",
+        "matched_keywords": [],
+        "media": "text",
+        "followers": 23386,
+        "topic": "AI filmmaking workflow",
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2119889493037649946",
+        "handle": "@JSFILMZ0412",
+        "lane": "outsider",
+        "views": 4108,
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "followers": 12571,
+        "topic": "Open vs paid model showdowns",
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2120048937235267950",
+        "handle": "@shelleymaeph",
+        "lane": "outsider",
+        "views": 3819,
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "image",
+        "followers": 13318,
+        "topic": null,
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2119896452520632773",
+        "handle": "@SofiaTachExpert",
+        "lane": "outsider",
+        "views": 3643,
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "followers": 120283,
+        "topic": null,
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2120080819079307533",
+        "handle": "@AlitaIntel",
+        "lane": "outsider",
+        "views": 2274,
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "image",
+        "followers": 2146,
+        "topic": null,
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2119819451289723021",
+        "handle": "@MrEwanMorrison",
+        "lane": "outsider",
+        "views": 1464,
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "image",
+        "followers": 33666,
+        "topic": null,
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2120030559535783987",
+        "handle": "@dojihivj",
+        "lane": "outsider",
+        "views": 1442,
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "followers": 2647,
+        "topic": null,
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2119862349997994325",
+        "handle": "@BGKuaci",
+        "lane": "outsider",
+        "views": 1344,
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "followers": 11738,
+        "topic": null,
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2120065982462841269",
+        "handle": "@jckchenn",
+        "lane": "outsider",
+        "views": 1212,
+        "trend_match": 0,
+        "verdict": "coincidence/other",
+        "matched_keywords": [],
+        "media": "text",
+        "followers": 17,
+        "topic": null,
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2119821629119516995",
+        "handle": "@ChatSEO_app",
+        "lane": "outsider",
+        "views": 937,
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "image",
+        "followers": 728,
+        "topic": null,
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2119786828077170836",
+        "handle": "@terra_gatsuki",
+        "lane": "outsider",
+        "views": 899,
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "followers": 25368,
+        "topic": null,
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2119808775955886359",
+        "handle": "@pt5films",
+        "lane": "outsider",
+        "views": 746,
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "followers": 1305,
+        "topic": null,
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2119626866105397755",
+        "handle": "@SubxNews",
+        "lane": "outsider",
+        "views": 735,
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "followers": 69568,
+        "topic": null,
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2119839219426468128",
+        "handle": "@BlockRunAI",
+        "lane": "outsider",
+        "views": 596,
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "image",
+        "followers": 4672,
+        "topic": "Open vs paid model showdowns",
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2120172278667227639",
+        "handle": "@dyfwsammy",
+        "lane": "outsider",
+        "views": 510,
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "followers": 13404,
+        "topic": null,
+        "self_quote": false,
+        "note": ""
+      }
+    ],
+    "labels": {
+      "trend": "trend",
+      "visual": "visual",
+      "author": "author/audience",
+      "other": "coincidence/other",
+      "nontrend": "non-trend",
+      "self_quote": "self-quote",
+      "no_data": "no data"
+    },
+    "x_keywords": {
+      "fetched_at": "2026-11-10T15:42:00+00:00",
+      "window_start": "2026-11-08T15:42:00Z",
+      "calls": 32,
+      "method": "Read-only x MCP search_posts_all, 2 calls per keyword: last 24 h and previous 24 h (24-48 h ago); lang:en, no retweets/replies, sort=relevancy, up to 25 posts per window. This is a SAMPLE of top-relevance posts, not every post on X. Views = impression_count at fetch time. Rank = sum of sampled 24 h views; 48 h = both windows; trend = 24 h sum / previous 24 h sum (up >=1.3, down <=0.7). Fresh posts are still gaining views, so 'up' is understated. Top-post share > 70% means one viral post carries the keyword.",
+      "missing": [],
+      "sample": true,
+      "sample_size_per_call": 25,
+      "keywords": [
+        {
+          "keyword": "Runway",
+          "query": "\"Runway\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 10,
+            "total": 14375,
+            "median": 352,
+            "top": {
+              "views": 8467,
+              "url": "https://x.com/fl360aero/status/2120136198710509895",
+              "handle": "@fl360aero",
+              "text": "airport runway closed noise"
+            }
+          },
+          "prev24": {
+            "n": 10,
+            "total": 18298,
+            "median": 378,
+            "top": {
+              "views": 6385,
+              "url": "https://x.com/theightday/status/2119529814465909118",
+              "handle": "@theightday",
+              "text": "music streams noise"
+            }
+          },
+          "w48": {
+            "n": 20,
+            "total": 32673,
+            "top": {
+              "views": 8467,
+              "url": "https://x.com/fl360aero/status/2120136198710509895",
+              "handle": "@fl360aero",
+              "text": "airport runway closed noise"
+            }
+          },
+          "change": 0.79,
+          "trend": "flat",
+          "partial": false,
+          "top_share": 0.59,
+          "rank": 1
+        },
+        {
+          "keyword": "AI filmmaking",
+          "query": "\"AI filmmaking\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 10,
+            "total": 8495,
+            "median": 284,
+            "top": {
+              "views": 4260,
+              "url": "https://x.com/sKadir309/status/2120142125279146397",
+              "handle": "@sKadir309",
+              "text": "Who is Emily? Pruna AI P-Video-2-Pro"
+            }
+          },
+          "prev24": {
+            "n": 10,
+            "total": 2878,
+            "median": 47,
+            "top": {
+              "views": 2020,
+              "url": "https://x.com/ZephyraLeigh/status/2119761911311187991",
+              "handle": "@ZephyraLeigh",
+              "text": "AI filmmaking new era Seedance 2.5 on Higgsfield"
+            }
+          },
+          "w48": {
+            "n": 20,
+            "total": 11373,
+            "top": {
+              "views": 4260,
+              "url": "https://x.com/sKadir309/status/2120142125279146397",
+              "handle": "@sKadir309",
+              "text": "Who is Emily? Pruna AI P-Video-2-Pro"
+            }
+          },
+          "change": 2.95,
+          "trend": "up",
+          "partial": false,
+          "top_share": 0.5,
+          "rank": 2
+        },
+        {
+          "keyword": "Grok Imagine",
+          "query": "\"Grok Imagine\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 10,
+            "total": 5426,
+            "median": 67,
+            "top": {
+              "views": 3803,
+              "url": "https://x.com/0xmani/status/2120087835676123487",
+              "handle": "@0xmani",
+              "text": "x free creator academy incl grok imagine guides"
+            }
+          },
+          "prev24": {
+            "n": 10,
+            "total": 1157,
+            "median": 20,
+            "top": {
+              "views": 893,
+              "url": "https://x.com/maplewashere_/status/2119520602948300940",
+              "handle": "@maplewashere_",
+              "text": "Big game Starlink ad with Grok Imagine"
+            }
+          },
+          "w48": {
+            "n": 20,
+            "total": 6583,
+            "top": {
+              "views": 3803,
+              "url": "https://x.com/0xmani/status/2120087835676123487",
+              "handle": "@0xmani",
+              "text": "x free creator academy incl grok imagine guides"
+            }
+          },
+          "change": 4.69,
+          "trend": "up",
+          "partial": false,
+          "top_share": 0.7,
+          "rank": 3
+        },
+        {
+          "keyword": "AI video",
+          "query": "\"AI video\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 10,
+            "total": 3510,
+            "median": 10,
+            "top": {
+              "views": 3177,
+              "url": "https://x.com/aiedge_/status/2120003520992624851",
+              "handle": "@aiedge_",
+              "text": "This is THE Jev moment for AI video"
+            }
+          },
+          "prev24": {
+            "n": 10,
+            "total": 1672,
+            "median": 20,
+            "top": {
+              "views": 1005,
+              "url": "https://x.com/videoeditjobs/status/2119814748191576166",
+              "handle": "@videoeditjobs",
+              "text": "hiring Senior Direct Response AI Video Editor"
+            }
+          },
+          "w48": {
+            "n": 20,
+            "total": 5182,
+            "top": {
+              "views": 3177,
+              "url": "https://x.com/aiedge_/status/2120003520992624851",
+              "handle": "@aiedge_",
+              "text": "This is THE Jev moment for AI video"
+            }
+          },
+          "change": 2.1,
+          "trend": "up",
+          "partial": false,
+          "top_share": 0.91,
+          "rank": 4
+        },
+        {
+          "keyword": "Higgsfield",
+          "query": "\"Higgsfield\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 10,
+            "total": 3332,
+            "median": 26,
+            "top": {
+              "views": 1298,
+              "url": "https://x.com/Yumzlef/status/2120132038971789521",
+              "handle": "@Yumzlef",
+              "text": "Fable 5.2 + Higgsfield integration"
+            }
+          },
+          "prev24": {
+            "n": 10,
+            "total": 59724,
+            "median": 100,
+            "top": {
+              "views": 56122,
+              "url": "https://x.com/higgsfield_ai/status/2119788636917191046",
+              "handle": "@higgsfield_ai",
+              "text": "Introducing Higgsfield Drama Ads"
+            }
+          },
+          "w48": {
+            "n": 20,
+            "total": 63056,
+            "top": {
+              "views": 56122,
+              "url": "https://x.com/higgsfield_ai/status/2119788636917191046",
+              "handle": "@higgsfield_ai",
+              "text": "Introducing Higgsfield Drama Ads"
+            }
+          },
+          "change": 0.06,
+          "trend": "down",
+          "partial": false,
+          "top_share": 0.39,
+          "rank": 5
+        },
+        {
+          "keyword": "Veo",
+          "query": "\"Veo\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 10,
+            "total": 2776,
+            "median": 84,
+            "top": {
+              "views": 1019,
+              "url": "https://x.com/abs_crea8or/status/2120042278278336942",
+              "handle": "@abs_crea8or",
+              "text": "aesthetic instant camera made with Google veo"
+            }
+          },
+          "prev24": {
+            "n": 10,
+            "total": 534,
+            "median": 15,
+            "top": {
+              "views": 191,
+              "url": "https://x.com/psjbutler/status/2119566633857638647",
+              "handle": "@psjbutler",
+              "text": "VEO camera for football"
+            }
+          },
+          "w48": {
+            "n": 20,
+            "total": 3310,
+            "top": {
+              "views": 1019,
+              "url": "https://x.com/abs_crea8or/status/2120042278278336942",
+              "handle": "@abs_crea8or",
+              "text": "aesthetic instant camera made with Google veo"
+            }
+          },
+          "change": 5.2,
+          "trend": "up",
+          "partial": false,
+          "top_share": 0.37,
+          "rank": 6
+        },
+        {
+          "keyword": "Sora",
+          "query": "\"Sora\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 10,
+            "total": 2347,
+            "median": 40,
+            "top": {
+              "views": 1028,
+              "url": "https://x.com/Sorasora_idol/status/2120030342287647029",
+              "handle": "@Sorasora_idol",
+              "text": "idol live"
+            }
+          },
+          "prev24": {
+            "n": 10,
+            "total": 2709,
+            "median": 159,
+            "top": {
+              "views": 1632,
+              "url": "https://x.com/Renlovebot_/status/2119628935759798769",
+              "handle": "@Renlovebot_",
+              "text": "Kingdom Hearts soriku"
+            }
+          },
+          "w48": {
+            "n": 20,
+            "total": 5056,
+            "top": {
+              "views": 1632,
+              "url": "https://x.com/Renlovebot_/status/2119628935759798769",
+              "handle": "@Renlovebot_",
+              "text": "Kingdom Hearts soriku"
+            }
+          },
+          "change": 0.87,
+          "trend": "flat",
+          "partial": false,
+          "top_share": 0.44,
+          "rank": 7
+        },
+        {
+          "keyword": "Seedance",
+          "query": "\"Seedance\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 10,
+            "total": 2061,
+            "median": 129,
+            "top": {
+              "views": 719,
+              "url": "https://x.com/ZoyaCreates/status/2120105358316486850",
+              "handle": "@ZoyaCreates",
+              "text": "Not a K-drama. Just Seedance 2.5"
+            }
+          },
+          "prev24": {
+            "n": 10,
+            "total": 48756,
+            "median": 73,
+            "top": {
+              "views": 47894,
+              "url": "https://x.com/ImaStudio_ai/status/2119739717550035360",
+              "handle": "@ImaStudio_ai",
+              "text": "MiniMax H3 vs Seedance 2.5 vs Original"
+            }
+          },
+          "w48": {
+            "n": 20,
+            "total": 50817,
+            "top": {
+              "views": 47894,
+              "url": "https://x.com/ImaStudio_ai/status/2119739717550035360",
+              "handle": "@ImaStudio_ai",
+              "text": "MiniMax H3 vs Seedance 2.5 vs Original"
+            }
+          },
+          "change": 0.04,
+          "trend": "down",
+          "partial": false,
+          "top_share": 0.35,
+          "rank": 8
+        },
+        {
+          "keyword": "AI animation",
+          "query": "\"AI animation\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 10,
+            "total": 1706,
+            "median": 5,
+            "top": {
+              "views": 993,
+              "url": "https://x.com/Mairaa_804/status/2120005472736477392",
+              "handle": "@Mairaa_804",
+              "text": "masterpiece Seedance 2.5"
+            }
+          },
+          "prev24": {
+            "n": 10,
+            "total": 9586,
+            "median": 38,
+            "top": {
+              "views": 7716,
+              "url": "https://x.com/wiliam_web3/status/2119538556473618555",
+              "handle": "@wiliam_web3",
+              "text": "AI Animation masterpiece Seedance 2.5"
+            }
+          },
+          "w48": {
+            "n": 20,
+            "total": 11292,
+            "top": {
+              "views": 7716,
+              "url": "https://x.com/wiliam_web3/status/2119538556473618555",
+              "handle": "@wiliam_web3",
+              "text": "AI Animation masterpiece Seedance 2.5"
+            }
+          },
+          "change": 0.18,
+          "trend": "down",
+          "partial": false,
+          "top_share": 0.58,
+          "rank": 9
+        },
+        {
+          "keyword": "text to video",
+          "query": "\"text to video\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 10,
+            "total": 1346,
+            "median": 28,
+            "top": {
+              "views": 978,
+              "url": "https://x.com/liluocheng13/status/2119977736257319274",
+              "handle": "@liluocheng13",
+              "text": "Pure text-to-video Wan 3.0"
+            }
+          },
+          "prev24": {
+            "n": 10,
+            "total": 1066,
+            "median": 9,
+            "top": {
+              "views": 728,
+              "url": "https://x.com/Dheepanratnam/status/2119805671478890595",
+              "handle": "@Dheepanratnam",
+              "text": "UI variations Opus 5.5 + Omni Flash"
+            }
+          },
+          "w48": {
+            "n": 20,
+            "total": 2412,
+            "top": {
+              "views": 978,
+              "url": "https://x.com/liluocheng13/status/2119977736257319274",
+              "handle": "@liluocheng13",
+              "text": "Pure text-to-video Wan 3.0"
+            }
+          },
+          "change": 1.26,
+          "trend": "flat",
+          "partial": false,
+          "top_share": 0.73,
+          "rank": 10
+        },
+        {
+          "keyword": "image to video",
+          "query": "\"image to video\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 10,
+            "total": 1177,
+            "median": 9,
+            "top": {
+              "views": 694,
+              "url": "https://x.com/Kyum_Tsukasa/status/2119967244285354389",
+              "handle": "@Kyum_Tsukasa",
+              "text": "nsfw promo"
+            }
+          },
+          "prev24": {
+            "n": 10,
+            "total": 185,
+            "median": 5,
+            "top": {
+              "views": 63,
+              "url": "https://x.com/AIKSK9527/status/2119728969247511026",
+              "handle": "@AIKSK9527",
+              "text": "ANIMA 2.9B ComfyUI"
+            }
+          },
+          "w48": {
+            "n": 20,
+            "total": 1362,
+            "top": {
+              "views": 694,
+              "url": "https://x.com/Kyum_Tsukasa/status/2119967244285354389",
+              "handle": "@Kyum_Tsukasa",
+              "text": "nsfw promo"
+            }
+          },
+          "change": 6.36,
+          "trend": "up",
+          "partial": false,
+          "top_share": 0.59,
+          "rank": 11
+        },
+        {
+          "keyword": "Midjourney",
+          "query": "\"Midjourney\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 10,
+            "total": 987,
+            "median": 16,
+            "top": {
+              "views": 857,
+              "url": "https://x.com/ai_artworkgen/status/2119935226075853062",
+              "handle": "@ai_artworkgen",
+              "text": "Midjourney Colour Grade PDF"
+            }
+          },
+          "prev24": {
+            "n": 10,
+            "total": 2100,
+            "median": 116,
+            "top": {
+              "views": 765,
+              "url": "https://x.com/liluocheng13/status/2119679114647077306",
+              "handle": "@liluocheng13",
+              "text": "grok imagine + Midjourney"
+            }
+          },
+          "w48": {
+            "n": 20,
+            "total": 3087,
+            "top": {
+              "views": 857,
+              "url": "https://x.com/ai_artworkgen/status/2119935226075853062",
+              "handle": "@ai_artworkgen",
+              "text": "Midjourney Colour Grade PDF"
+            }
+          },
+          "change": 0.47,
+          "trend": "down",
+          "partial": false,
+          "top_share": 0.87,
+          "rank": 12
+        },
+        {
+          "keyword": "ComfyUI",
+          "query": "\"ComfyUI\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 10,
+            "total": 900,
+            "median": 77,
+            "top": {
+              "views": 254,
+              "url": "https://x.com/cutetoxicguy/status/2120029756787716430",
+              "handle": "@cutetoxicguy",
+              "text": "Freefield Higgsfield-style catalog in ComfyUI"
+            }
+          },
+          "prev24": {
+            "n": 10,
+            "total": 11486,
+            "median": 186,
+            "top": {
+              "views": 9750,
+              "url": "https://x.com/wildmindai/status/2119757199165603952",
+              "handle": "@wildmindai",
+              "text": "Open-H3-Regenerate-2K-IC nodes"
+            }
+          },
+          "w48": {
+            "n": 20,
+            "total": 12386,
+            "top": {
+              "views": 9750,
+              "url": "https://x.com/wildmindai/status/2119757199165603952",
+              "handle": "@wildmindai",
+              "text": "Open-H3-Regenerate-2K-IC nodes"
+            }
+          },
+          "change": 0.08,
+          "trend": "down",
+          "partial": false,
+          "top_share": 0.28,
+          "rank": 13
+        },
+        {
+          "keyword": "anime",
+          "query": "\"anime\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 10,
+            "total": 712,
+            "median": 42,
+            "top": {
+              "views": 281,
+              "url": "https://x.com/MangaP3ak/status/2120093455628288180",
+              "handle": "@MangaP3ak",
+              "text": "need more rom-com anime"
+            }
+          },
+          "prev24": {
+            "n": 10,
+            "total": 8623,
+            "median": 32,
+            "top": {
+              "views": 6111,
+              "url": "https://x.com/Forhanvv/status/2119650359992070354",
+              "handle": "@Forhanvv",
+              "text": "Anikura release schedule"
+            }
+          },
+          "w48": {
+            "n": 20,
+            "total": 9335,
+            "top": {
+              "views": 6111,
+              "url": "https://x.com/Forhanvv/status/2119650359992070354",
+              "handle": "@Forhanvv",
+              "text": "Anikura release schedule"
+            }
+          },
+          "change": 0.08,
+          "trend": "down",
+          "partial": false,
+          "top_share": 0.39,
+          "rank": 14
+        },
+        {
+          "keyword": "Kling",
+          "query": "\"Kling\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 10,
+            "total": 542,
+            "median": 9,
+            "top": {
+              "views": 332,
+              "url": "https://x.com/SparkfulArt/status/2119961912490557726",
+              "handle": "@SparkfulArt",
+              "text": "Seedance 2.5 vs Kling 4 anime pizza"
+            }
+          },
+          "prev24": {
+            "n": 10,
+            "total": 11163,
+            "median": 15,
+            "top": {
+              "views": 8027,
+              "url": "https://x.com/OiiOii_AI/status/2119807221991178351",
+              "handle": "@OiiOii_AI",
+              "text": "OiiOii x Kling 4.0 Creative Contest"
+            }
+          },
+          "w48": {
+            "n": 20,
+            "total": 11705,
+            "top": {
+              "views": 8027,
+              "url": "https://x.com/OiiOii_AI/status/2119807221991178351",
+              "handle": "@OiiOii_AI",
+              "text": "OiiOii x Kling 4.0 Creative Contest"
+            }
+          },
+          "change": 0.05,
+          "trend": "down",
+          "partial": false,
+          "top_share": 0.61,
+          "rank": 15
+        },
+        {
+          "keyword": "short film",
+          "query": "\"short film\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 10,
+            "total": 533,
+            "median": 11,
+            "top": {
+              "views": 278,
+              "url": "https://x.com/iamdinnesh/status/2120126704014532628",
+              "handle": "@iamdinnesh",
+              "text": "poster design"
+            }
+          },
+          "prev24": {
+            "n": 10,
+            "total": 9569,
+            "median": 305,
+            "top": {
+              "views": 5867,
+              "url": "https://x.com/eroticco_mag2/status/2119521085477842969",
+              "handle": "@eroticco_mag2",
+              "text": "adult magazine noise"
+            }
+          },
+          "w48": {
+            "n": 20,
+            "total": 10102,
+            "top": {
+              "views": 5867,
+              "url": "https://x.com/eroticco_mag2/status/2119521085477842969",
+              "handle": "@eroticco_mag2",
+              "text": "adult magazine noise"
+            }
+          },
+          "change": 0.06,
+          "trend": "down",
+          "partial": false,
+          "top_share": 0.52,
+          "rank": 16
+        }
+      ]
+    },
+    "legend": "Trend match 0-100% = 1 - prod(1 - w) over matched 24 h keywords that another author also used in the 48 h window (w: rank 1-10 0.35, 11-25 0.22, 26-40 0.12, curated 0.20). Verdict: >= 50% -> trend; else video/image in the post data -> visual; else >= 100K followers (outsiders without follower data: >= 500K views, estimate) -> author/audience; else coincidence/other. Missing data shows as 'no data'. Heat = sum log10(views) of topic posts (24 h x1, 24-48 h x0.5), scaled to 100. Momentum = log-views last 24 h / previous 24 h. Trend-input-only accounts feed the corpus but are never shown as hits."
+  }
+}

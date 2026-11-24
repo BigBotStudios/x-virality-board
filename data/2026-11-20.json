@@ -1,0 +1,3416 @@
+{
+  "title": "X Virality Score · 2026-11-20",
+  "brand_title": "Grok Bot X Virality Score",
+  "brand_handle": "@SMKP_Films",
+  "operator": {
+    "handle": "SMKP_Films",
+    "name": "Bogdan Orlic",
+    "profile_url": "https://x.com/SMKP_Films"
+  },
+  "timezone": "America/Toronto",
+  "date": "2026-11-20",
+  "updated": "2026-11-21T10:43:44-05:00",
+  "ui": {
+    "default_theme": "night"
+  },
+  "board_features": {
+    "count_up": true,
+    "live_pulse": true,
+    "theme_toggle": true,
+    "themes": [
+      "night",
+      "day"
+    ],
+    "grok_ambient": true,
+    "week_month_boards": true,
+    "day_roster_best_total": true,
+    "day_compare_chart": true,
+    "week_strip": true,
+    "no_hits_reasons": true,
+    "marker_class": "xvs-dash-2026",
+    "top10_drafts_v4": true,
+    "trend_keywords": true,
+    "trend_radar": true,
+    "x_keyword_table": true,
+    "experiment": true,
+    "self_quote_badge": true
+  },
+  "previous_day": {
+    "date": "2026-11-19",
+    "hits_count": 2,
+    "total_views": 16078,
+    "stars": 0,
+    "x_score": 16,
+    "top_hit": null
+  },
+  "hits": [
+    {
+      "id": "2123815371606012104",
+      "name": "Gossip Goblin",
+      "display_name": "Gossip Goblin",
+      "handle": "@Gossip_Goblin",
+      "views": 174301,
+      "views_label": "174,301",
+      "url": "https://x.com/Gossip_Goblin/status/2123815371606012104",
+      "created_at": "2026-11-20T16:26:57.000Z",
+      "posted_at": "2026-11-20T16:26:57.000Z",
+      "highlight": true,
+      "text": "An important broadcast that you should certainly not skip. https://t.co/lvHMSYC5Ie",
+      "original_en": "An important broadcast that you should certainly not skip. https://t.co/lvHMSYC5Ie",
+      "lang": "en",
+      "media": "video",
+      "likes": 3299,
+      "reposts": 206,
+      "bookmarks": 747,
+      "replies": 84,
+      "quotes": 18,
+      "followers_count": 125840,
+      "self_quote": false,
+      "hook": "One deadpan line - \"An important broadcast that you should certainly not skip.\" - over a 2:29 video: 174.3K views, 3,299 likes, 747 bookmarks, 84 replies. Mock-serious framing, zero context, the video does the work.",
+      "video_tip": "Cut a 60-150s in-universe \"Imperial broadcast\" for 40K: a propaganda newsreel or vox-caster bulletin, played completely straight. Caption it like an official order, one dry sentence, no hashtags, no explanation.",
+      "board_rank": 2,
+      "draft_en": "Stop scrolling. This video is a broadcast you really should not miss.",
+      "draft_keywords": [
+        "video"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.0,
+        "word_overlap": 0.2,
+        "max_copied_run": 1
+      },
+      "top10_rank": 2,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "note": "",
+        "topic": null
+      }
+    },
+    {
+      "id": "2123876139617956129",
+      "name": "Gossip Goblin",
+      "display_name": "Gossip Goblin",
+      "handle": "@Gossip_Goblin",
+      "views": 7976,
+      "views_label": "7,976",
+      "url": "https://x.com/Gossip_Goblin/status/2123876139617956129",
+      "created_at": "2026-11-20T20:28:26.000Z",
+      "posted_at": "2026-11-20T20:28:26.000Z",
+      "highlight": false,
+      "text": "Had a chance to chat with Dani from Artist And The Machine (where I'll be speaking on Dec 2nd) -- worth a listen if you want to learn more about gossip goblin and goblin-adjacent things! https://t.co/Bq2xrZRIMU",
+      "original_en": "Had a chance to chat with Dani from Artist And The Machine (where I'll be speaking on Dec 2nd) -- worth a listen if you want to learn more about gossip goblin and goblin-adjacent things! https://t.co/Bq2xrZRIMU",
+      "lang": "en",
+      "media": "text",
+      "likes": 152,
+      "reposts": 20,
+      "bookmarks": 26,
+      "replies": 10,
+      "quotes": 1,
+      "followers_count": 125840,
+      "self_quote": false,
+      "hook": "Quote-post of a podcast chat with Dani from Artist And The Machine, where he speaks on Dec 2nd - 8.0K views, 152 likes, 26 bookmarks. Personal-brand / behind-the-maker post riding his bigger video.",
+      "video_tip": "Record a 30-45s talking-head or screen-capture \"how I make my 40K shorts in Seedance\" clip and post it the day after your best video, while people are curious about the maker.",
+      "board_rank": 8,
+      "draft_en": "Gossip Goblin sat down for a chat with Dani of Artist And The Machine, where he speaks on Dec 2nd.\n\nIf you are into AI filmmaking and want the story behind the goblin and all things goblin-adjacent, give it a listen.",
+      "draft_keywords": [
+        "AI filmmaking"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.053,
+        "word_overlap": 0.647,
+        "max_copied_run": 5
+      },
+      "top10_rank": 8,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "author/audience",
+        "matched_keywords": [],
+        "media": "text",
+        "note": "",
+        "topic": null
+      }
+    }
+  ],
+  "hits_count": 2,
+  "outsiders": [
+    {
+      "id": "2123446229065662954",
+      "name": "Krea",
+      "display_name": "Krea",
+      "handle": "@krea_ai",
+      "views": 2318713,
+      "views_label": "2,318,713",
+      "url": "https://x.com/krea_ai/status/2123446229065662954",
+      "created_at": "2026-11-19T16:00:07.000Z",
+      "posted_at": "2026-11-19T16:00:07.000Z",
+      "text": "we got over 50,000 applications for the Krea Bots beta.\n\ntoday, we’re inviting a new batch of testers with $100 in credits to play with their new creative crew.\n\ncheck your email or get into the waitlist 👇 https://t.co/DCWJjcZNpb",
+      "original_en": "we got over 50,000 applications for the Krea Bots beta.\n\ntoday, we’re inviting a new batch of testers with $100 in credits to play with their new creative crew.\n\ncheck your email or get into the waitlist 👇 https://t.co/DCWJjcZNpb",
+      "lang": "en",
+      "hook": "Krea Bots beta (from 19.11, still climbing): 50,000+ applications, a new batch of testers gets $100 in credits for a 'creative crew' of bots - now 2.32M views but only 1,295 likes (0.06% like rate); reach looks promoted.",
+      "video_tip": "Borrow the 'crew' idea, not the waitlist: a 30s skit where a squad of servo-skulls each run one department on your 40K shoot and bicker about it.",
+      "media": "video",
+      "followers_count": 126484,
+      "likes": 1295,
+      "reposts": 134,
+      "bookmarks": 1284,
+      "replies": 93,
+      "quotes": 56,
+      "self_quote": false,
+      "board_rank": 1,
+      "draft_en": "More than 50,000 people applied for the Krea Bots beta.\n\nA new group of testers gets in today, each with $100 in credits to experiment with a full creative crew of bots.\n\nCheck your inbox, or hop on the waitlist below 👇",
+      "draft_keywords": [
+        "Krea Bots beta"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.103,
+        "word_overlap": 0.611,
+        "max_copied_run": 5
+      },
+      "top10_rank": 1
+    },
+    {
+      "id": "2123905539063336984",
+      "name": "Higgsfield AI 🧩",
+      "display_name": "Higgsfield AI 🧩",
+      "handle": "@higgsfield_ai",
+      "views": 71706,
+      "views_label": "71,706",
+      "url": "https://x.com/higgsfield_ai/status/2123905539063336984",
+      "created_at": "2026-11-20T22:25:15.000Z",
+      "posted_at": "2026-11-20T22:25:15.000Z",
+      "text": "Claude built a Miami-style town in Blender with 2,538 assets.\n\nRendered in Unreal Engine on Higgsfield GPU Harness in 74 minutes.\n\nHere's how: https://t.co/Hyj5MpChB6 https://t.co/O2P3RiULON",
+      "original_en": "Claude built a Miami-style town in Blender with 2,538 assets.\n\nRendered in Unreal Engine on Higgsfield GPU Harness in 74 minutes.\n\nHere's how: https://t.co/Hyj5MpChB6 https://t.co/O2P3RiULON",
+      "lang": "en",
+      "hook": "Higgsfield GPU Harness push: 'Claude built a Miami-style town in Blender with 2,538 assets', rendered in Unreal in 74 minutes - 71.7K views, 615 bookmarks (strong save rate for a brand post).",
+      "video_tip": "Number-first opener: start your next 40K clip with one hard on-screen fact ('1 prompt, 40 Space Marines, 12 seconds') then show the shot.",
+      "media": "video",
+      "followers_count": 257587,
+      "likes": 989,
+      "reposts": 245,
+      "bookmarks": 615,
+      "replies": 35,
+      "quotes": 9,
+      "self_quote": false,
+      "board_rank": 3,
+      "draft_en": "2,538 assets, one Miami-style town, all put together in Blender by Claude.\n\nThe Unreal Engine render took 74 minutes on Higgsfield GPU Harness.\n\nFull breakdown below:",
+      "draft_keywords": [
+        "Blender",
+        "Claude",
+        "Higgsfield GPU Harness"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.042,
+        "word_overlap": 0.667,
+        "max_copied_run": 4
+      },
+      "top10_rank": 3
+    },
+    {
+      "id": "2123515658290024532",
+      "name": "Higgsfield AI 🧩",
+      "display_name": "Higgsfield AI 🧩",
+      "handle": "@higgsfield_ai",
+      "views": 47826,
+      "views_label": "47,826",
+      "url": "https://x.com/higgsfield_ai/status/2123515658290024532",
+      "created_at": "2026-11-19T20:36:00.000Z",
+      "posted_at": "2026-11-19T20:36:00.000Z",
+      "text": "Your next game is on us.\n\nGet a $100 gift card for PlayStation or Xbox with your Higgsfield Ultra subscription. Now at up to 64% OFF.\n\nOnly 10,000 gift cards. Claim yours now at https://t.co/CnTqxFTTPT https://t.co/vo5JdS8rlz",
+      "original_en": "Your next game is on us.\n\nGet a $100 gift card for PlayStation or Xbox with your Higgsfield Ultra subscription. Now at up to 64% OFF.\n\nOnly 10,000 gift cards. Claim yours now at https://t.co/CnTqxFTTPT https://t.co/vo5JdS8rlz",
+      "lang": "en",
+      "hook": "Higgsfield Black Friday: $100 PlayStation/Xbox gift card with Ultra, up to 64% off, 'only 10,000 gift cards' - 47.8K views, 58 bookmarks (promo, promoted-looking).",
+      "video_tip": "Nothing to copy beyond 'lead with the offer'; skip for content.",
+      "media": "video",
+      "followers_count": 257587,
+      "likes": 394,
+      "reposts": 231,
+      "bookmarks": 58,
+      "replies": 47,
+      "quotes": 6,
+      "self_quote": false,
+      "board_rank": 4,
+      "draft_en": "Take the Higgsfield Ultra plan and your next game is covered: a $100 PlayStation or Xbox gift card comes with it, and the plan itself is up to 64% off right now.\n\nOnly 10,000 cards exist. Grab one here:",
+      "draft_keywords": [
+        "Higgsfield"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.054,
+        "word_overlap": 0.625,
+        "max_copied_run": 4
+      },
+      "top10_rank": 4
+    },
+    {
+      "id": "2123844366234177788",
+      "name": "Higgsfield AI 🧩",
+      "display_name": "Higgsfield AI 🧩",
+      "handle": "@higgsfield_ai",
+      "views": 36278,
+      "views_label": "36,278",
+      "url": "https://x.com/higgsfield_ai/status/2123844366234177788",
+      "created_at": "2026-11-20T18:22:10.000Z",
+      "posted_at": "2026-11-20T18:22:10.000Z",
+      "text": "We built Shibuya Crossing in Blender with Claude.\n\nIt has 9,662 people, about 2,200 vehicles and 4,261 buildings from the real street map.\n\nRendered on Higgsfield GPU Harness. Here's how: https://t.co/T6VUhdNR7I https://t.co/paz86z7hVk",
+      "original_en": "We built Shibuya Crossing in Blender with Claude.\n\nIt has 9,662 people, about 2,200 vehicles and 4,261 buildings from the real street map.\n\nRendered on Higgsfield GPU Harness. Here's how: https://t.co/T6VUhdNR7I https://t.co/paz86z7hVk",
+      "lang": "en",
+      "hook": "'We built Shibuya Crossing in Blender with Claude': 9,662 people, ~2,200 vehicles, 4,261 buildings from the real street map - 36.3K views, 137 bookmarks.",
+      "video_tip": "Scale reveal: open tight on one Guardsman, then pull back to a hive-city crowd shot in Seedance - let the scale be the hook.",
+      "media": "video",
+      "followers_count": 257587,
+      "likes": 455,
+      "reposts": 191,
+      "bookmarks": 137,
+      "replies": 16,
+      "quotes": 3,
+      "self_quote": false,
+      "board_rank": 5,
+      "draft_en": "Claude recreated Shibuya Crossing inside Blender, using the actual street map as its guide.\n\nThe count: 4,261 buildings, roughly 2,200 cars and buses, and 9,662 pedestrians.\n\nRendering happened on Higgsfield GPU Harness. How it was done:",
+      "draft_keywords": [
+        "Blender",
+        "Claude",
+        "Higgsfield GPU Harness"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.028,
+        "word_overlap": 0.52,
+        "max_copied_run": 4
+      },
+      "top10_rank": 5
+    },
+    {
+      "id": "2124067874872627630",
+      "name": "TechHalla",
+      "display_name": "TechHalla",
+      "handle": "@techhalla",
+      "views": 19846,
+      "views_label": "19,846",
+      "url": "https://x.com/techhalla/status/2124067874872627630",
+      "created_at": "2026-11-21T09:10:19.000Z",
+      "posted_at": "2026-11-21T09:10:19.000Z",
+      "text": "Matrix but it's 1981 😎 https://t.co/KIIeZj09YL",
+      "original_en": "Matrix but it's 1981 😎 https://t.co/KIIeZj09YL",
+      "lang": "en",
+      "hook": "TechHalla 'Matrix but it's 1981' - a retro re-imagining clip with a five-word caption; 19.8K views, 605 likes, 128 bookmarks in ~6h (pure concept hook, no tool talk).",
+      "video_tip": "Do 'Warhammer 40K but it's a 1981 VHS trailer': grainy film look, synth score, 20-30s, caption under six words.",
+      "media": "video",
+      "followers_count": 103957,
+      "likes": 605,
+      "reposts": 75,
+      "bookmarks": 128,
+      "replies": 23,
+      "quotes": 10,
+      "self_quote": false,
+      "board_rank": 6,
+      "draft_en": "What if The Matrix had dropped in 1981? This video imagines it 😎",
+      "draft_keywords": [
+        "video"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.0,
+        "word_overlap": 0.4,
+        "max_copied_run": 1
+      },
+      "top10_rank": 6
+    },
+    {
+      "id": "2123565871817687095",
+      "name": "Matt Jarbo",
+      "display_name": "Matt Jarbo",
+      "handle": "@mjarbo",
+      "views": 16159,
+      "views_label": "16,159",
+      "url": "https://x.com/mjarbo/status/2123565871817687095",
+      "created_at": "2026-11-19T23:55:32.000Z",
+      "posted_at": "2026-11-19T23:55:32.000Z",
+      "text": "Apparently David Fincher used generative AI in THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH, and somehow that's made me MORE interested in seeing it.\n\nNext Best Picture calls the AI an \"eyesore,\" but doesn't identify a single scene or explain how they determined it was AI. And despite that criticism, the reviewer still gave the movie a 7/10.\n\nNetflix just spent $587 MILLION buying Ben Affleck's AI filmmaking company, InterPositive. I don't know if that technology was used here, but I'm genuinely curious how someone as meticulous as Fincher might incorporate generative AI into recreating 1970s Hollywood, especially following Tarantino's love letter to that era.\n\nIf the effects look like shit, criticize them! That's completely fair. But remember when CGI was so obvious you could spot it a mile away? Now it's everywhere, and half the time nobody notices.\n\nI'd rather see what Fincher actually did before joining another round of AI panic.",
+      "original_en": "Apparently David Fincher used generative AI in THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH, and somehow that's made me MORE interested in seeing it.\n\nNext Best Picture calls the AI an \"eyesore,\" but doesn't identify a single scene or explain how they determined it was AI. And despite that criticism, the reviewer still gave the movie a 7/10.\n\nNetflix just spent $587 MILLION buying Ben Affleck's AI filmmaking company, InterPositive. I don't know if that technology was used here, but I'm genuinely curious how someone as meticulous as Fincher might incorporate generative AI into recreating 1970s Hollywood, especially following Tarantino's love letter to that era.\n\nIf the effects look like shit, criticize them! That's completely fair. But remember when CGI was so obvious you could spot it a mile away? Now it's everywhere, and half the time nobody notices.\n\nI'd rather see what Fincher actually did before joining another round of AI panic.",
+      "lang": "en",
+      "hook": "Matt Jarbo on reports that David Fincher used generative AI in The Further Mis-Adventures of Cliff Booth (plus Netflix's $587M InterPositive buy) - 16.2K views; opinion take on a live news story.",
+      "video_tip": "Ride the Fincher/generative AI debate with a 15s side-by-side: your raw Seedance shot vs the graded final, captioned with your honest take on where AI belongs in a film.",
+      "media": "2 photos",
+      "followers_count": 20812,
+      "likes": 98,
+      "reposts": 9,
+      "bookmarks": 26,
+      "replies": 15,
+      "quotes": 2,
+      "self_quote": false,
+      "board_rank": 7,
+      "draft_en": "So David Fincher reportedly put generative AI into his new one, The Further Mis-Adventures of Cliff Booth. Weirdly, that makes me want to see it more.\n\nNext Best Picture called the AI an \"eyesore\" yet never pointed to a scene or said how they could tell - and still scored the film 7/10.\n\nNetflix also just paid $587 MILLION for InterPositive, the AI filmmaking company Ben Affleck started. No idea if that tech is in here, but I want to know how a director as precise as Fincher would use generative AI to rebuild 1970s Hollywood, right after Tarantino's own tribute to that era.\n\nBad effects deserve criticism, fair enough. But CGI used to stick out a mile away, and now it is everywhere and mostly invisible.\n\nI will wait to see what Fincher really did before signing up for the next wave of AI panic.",
+      "draft_keywords": [
+        "David",
+        "generative AI",
+        "Cliff Booth",
+        "AI filmmaking"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.028,
+        "word_overlap": 0.508,
+        "max_copied_run": 6
+      },
+      "top10_rank": 7
+    },
+    {
+      "id": "2123875791566168423",
+      "name": "Runway",
+      "display_name": "Runway",
+      "handle": "@runwayml",
+      "views": 7976,
+      "views_label": "7,976",
+      "url": "https://x.com/runwayml/status/2123875791566168423",
+      "created_at": "2026-11-20T20:27:03.000Z",
+      "posted_at": "2026-11-20T20:27:03.000Z",
+      "text": "Since the start of October, agents have written nearly every pull request we’ve merged into Runway App Studio.\n\nOur latest engineering post explains how we built a system that reviews those changes, tests them in a browser and brings in an engineer for high-risk decisions.\nhttps://t.co/BZ1xyoagKc",
+      "original_en": "Since the start of October, agents have written nearly every pull request we’ve merged into Runway App Studio.\n\nOur latest engineering post explains how we built a system that reviews those changes, tests them in a browser and brings in an engineer for high-risk decisions.\nhttps://t.co/BZ1xyoagKc",
+      "lang": "en",
+      "hook": "Runway: since October, agents have written nearly every PR merged into Runway App Studio; engineering post on how they review and test them - 8.0K views, text-only.",
+      "video_tip": "Not a video lesson; signals Runway leaning into agentic tooling. Skip for content.",
+      "media": "text",
+      "followers_count": 297762,
+      "likes": 47,
+      "reposts": 8,
+      "bookmarks": 11,
+      "replies": 25,
+      "quotes": 6,
+      "self_quote": false,
+      "board_rank": 9,
+      "draft_en": "Nearly every pull request merged into Runway App Studio since October was written by agents.\n\nTheir new engineering post walks through the system behind it: each change gets reviewed, tested in a browser, and an engineer steps in when the call is high-risk.",
+      "draft_keywords": [
+        "Runway",
+        "agents"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.1,
+        "word_overlap": 0.68,
+        "max_copied_run": 5
+      },
+      "top10_rank": 9
+    },
+    {
+      "id": "2123967886678991128",
+      "name": "awesome_visuals",
+      "display_name": "awesome_visuals",
+      "handle": "@awesome_visuals",
+      "views": 6632,
+      "views_label": "6,632",
+      "url": "https://x.com/awesome_visuals/status/2123967886678991128",
+      "created_at": "2026-11-21T02:33:00.000Z",
+      "posted_at": "2026-11-21T02:33:00.000Z",
+      "text": "https://t.co/lyzWm3UKiG",
+      "original_en": "https://t.co/lyzWm3UKiG",
+      "lang": "en",
+      "hook": "awesome_visuals 8-image AI art carousel with no caption - 6.6K views, 524 likes, 84 bookmarks (image-only curation still pulls saves).",
+      "video_tip": "Post an 8-frame 40K still carousel (best keyframes from one short) with zero caption text and a link to the full video in the first reply.",
+      "media": "8 photos",
+      "followers_count": 218611,
+      "likes": 524,
+      "reposts": 76,
+      "bookmarks": 84,
+      "replies": 6,
+      "quotes": 1,
+      "self_quote": false,
+      "board_rank": 10,
+      "draft_en": "Image after image, no caption needed. Swipe through all of them.",
+      "draft_keywords": [
+        "Image"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.0,
+        "word_overlap": 0.0,
+        "max_copied_run": 0
+      },
+      "top10_rank": 10
+    },
+    {
+      "id": "2123547281568010671",
+      "name": "EvanAC",
+      "display_name": "EvanAC",
+      "handle": "@EvanAboutCinema",
+      "views": 6470,
+      "views_label": "6,470",
+      "url": "https://x.com/EvanAboutCinema/status/2123547281568010671",
+      "created_at": "2026-11-19T22:41:40.000Z",
+      "posted_at": "2026-11-19T22:41:40.000Z",
+      "text": "NextBestPicture reports that David Fincher's 'THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH' contains generative AI.\n\n\"What is noticeably distracting is Fincher’s use of generative AI in key moments of the film.\" https://t.co/l4MpmFvZ3V",
+      "original_en": "NextBestPicture reports that David Fincher's 'THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH' contains generative AI.\n\n\"What is noticeably distracting is Fincher’s use of generative AI in key moments of the film.\" https://t.co/l4MpmFvZ3V",
+      "lang": "en",
+      "hook": "EvanAboutCinema relays NextBestPicture: Fincher's Cliff Booth film 'contains generative AI' that is 'noticeably distracting' - 6.5K views; the news seed of the Fincher discourse.",
+      "video_tip": "Same debate angle: a short 'Can you spot the AI shot?' clip mixing real and generated 40K-style footage, answer in replies.",
+      "media": "photo",
+      "followers_count": 10091,
+      "likes": 120,
+      "reposts": 8,
+      "bookmarks": 16,
+      "replies": 14,
+      "quotes": 6,
+      "self_quote": false,
+      "board_rank": 11
+    },
+    {
+      "id": "2124081246628438455",
+      "name": "el.cine",
+      "display_name": "el.cine",
+      "handle": "@EHuanglu",
+      "views": 5362,
+      "views_label": "5,362",
+      "url": "https://x.com/EHuanglu/status/2124081246628438455",
+      "created_at": "2026-11-21T10:03:27.000Z",
+      "posted_at": "2026-11-21T10:03:27.000Z",
+      "text": "crazy.. AI now can accurately remake any film vfx https://t.co/SXh06cX1os",
+      "original_en": "crazy.. AI now can accurately remake any film vfx https://t.co/SXh06cX1os",
+      "lang": "en",
+      "hook": "el.cine (EHuanglu): 'crazy.. AI now can accurately remake any film vfx' with a demo video - 5.4K views, 29 replies.",
+      "video_tip": "Remake one iconic sci-fi VFX beat (a drop-pod landing, a warp breach) shot-for-shot in Seedance and post it as 'I remade this with AI'.",
+      "media": "video",
+      "followers_count": 152932,
+      "likes": 67,
+      "reposts": 5,
+      "bookmarks": 16,
+      "replies": 29,
+      "quotes": 0,
+      "self_quote": false,
+      "board_rank": 12
+    },
+    {
+      "id": "2123611984163938426",
+      "name": "Aldrich Killian",
+      "display_name": "Aldrich Killian",
+      "handle": "@TechByKillian",
+      "views": 5058,
+      "views_label": "5,058",
+      "url": "https://x.com/TechByKillian/status/2123611984163938426",
+      "created_at": "2026-11-20T02:58:46.000Z",
+      "posted_at": "2026-11-20T02:58:46.000Z",
+      "text": "120 AI tools worth knowing in 2026. 🚀\n\nAI, research, coding, design, video, automation, APIs & more.\n\nBookmark this. 🔖\n\n🤖 AI Assistants\n\n1. ChatGPT\n2. Claude\n3. Gemini\n4. Grok\n5. Perplexity\n6. Microsoft Copilot\n7. DeepSeek\n8. Mistral Le Chat\n9. Poe\n10. https://t.co/ZeWMFcWhk4\n\n🔍 Research & Search\n\n11. NotebookLM\n12. Elicit\n13. Consensus\n14. Scite\n15. Semantic Scholar\n16. WolframAlpha\n17. Phind\n18. Exa\n19. Tavily\n20. Perplexity\n\n💻 Coding & Developer Tools\n\n21. Cursor\n22. GitHub Copilot\n23. Claude Code\n24. OpenAI Codex\n25. Windsurf\n26. Replit\n27. Lovable\n28. https://t.co/MPoX3X0nJr\n29. v0\n30. Cline\n\n🌐 Web Data, Scraping & APIs\n\n31. Oxylabs: https://t.co/ycC5BSQgtN…\n32. Bright Data\n33. Decodo\n34. Apify\n35. ScraperAPI\n36. ScrapingBee\n37. ZenRows\n38. Firecrawl\n39. Browserbase\n40. Zyte\n\n🤖 AI Agents & Automation\n\n41. Zapier\n42. Make\n43. n8n\n44. Lindy\n45. Gumloop\n46. Relevance AI\n47. Dify\n48. CrewAI\n49. LangChain\n50. AutoGen\n\n🎨 Image Generation\n\n51. Midjourney\n52. Ideogram\n53. Leonardo AI\n54. Adobe Firefly\n55. Recraft\n56. FLUX\n57. Krea\n58. OpenArt\n59. Playground AI\n60. Freepik AI\n\n🎬 AI Video\n\n61. Runway\n62. Sora\n63. Veo\n64. Kling AI\n65. Pika\n66. Luma\n67. Hailuo AI\n68. Higgsfield\n69. HeyGen\n70. Synthesia\n\n🎙️ Audio & Voice\n\n71. ElevenLabs\n72. Suno\n73. Udio\n74. Descript\n75. Murf\n76. PlayHT\n77. Speechify\n78. Adobe Podcast\n79. https://t.co/6MuifrPnUX\n80. AIVA\n\n✍️ Writing & Content\n\n81. Jasper\n82. https://t.co/ctgWnrpmmv\n83. Writesonic\n84. Grammarly\n85. QuillBot\n86. Wordtune\n87. Rytr\n88. Writer\n89. Anyword\n90. Sudowrite\n\n📊 Productivity\n\n91. Notion AI\n92. ClickUp AI\n93. Motion\n94. Reclaim AI\n95. Mem\n96. Taskade\n97. Granola\n98. Superhuman\n99. Read AI\n100. Gamma\n\n🎨 Design & Presentations\n\n101. Canva\n102. Figma AI\n103. https://t.co/HOP1w7MjxW\n104. Tome\n105. Napkin AI\n106. Pitch\n107. SlidesAI\n108. Microsoft Designer\n109. Visme\n110. https://t.co/yKPl4uyk0m\n\n📈 Marketing, SEO & E-commerce\n\n111. Semrush\n112. Ahrefs\n113. Surfer SEO\n114. Frase\n115. Scalenut\n116. https://t.co/55Ab23kBWe\n117. Omneky\n118. Brand24\n119. HubSpot AI\n120. Klaviyo AI\n\nFollow me:@TechByKillian",
+      "original_en": "120 AI tools worth knowing in 2026. 🚀\n\nAI, research, coding, design, video, automation, APIs & more.\n\nBookmark this. 🔖\n\n🤖 AI Assistants\n\n1. ChatGPT\n2. Claude\n3. Gemini\n4. Grok\n5. Perplexity\n6. Microsoft Copilot\n7. DeepSeek\n8. Mistral Le Chat\n9. Poe\n10. https://t.co/ZeWMFcWhk4\n\n🔍 Research & Search\n\n11. NotebookLM\n12. Elicit\n13. Consensus\n14. Scite\n15. Semantic Scholar\n16. WolframAlpha\n17. Phind\n18. Exa\n19. Tavily\n20. Perplexity\n\n💻 Coding & Developer Tools\n\n21. Cursor\n22. GitHub Copilot\n23. Claude Code\n24. OpenAI Codex\n25. Windsurf\n26. Replit\n27. Lovable\n28. https://t.co/MPoX3X0nJr\n29. v0\n30. Cline\n\n🌐 Web Data, Scraping & APIs\n\n31. Oxylabs: https://t.co/ycC5BSQgtN…\n32. Bright Data\n33. Decodo\n34. Apify\n35. ScraperAPI\n36. ScrapingBee\n37. ZenRows\n38. Firecrawl\n39. Browserbase\n40. Zyte\n\n🤖 AI Agents & Automation\n\n41. Zapier\n42. Make\n43. n8n\n44. Lindy\n45. Gumloop\n46. Relevance AI\n47. Dify\n48. CrewAI\n49. LangChain\n50. AutoGen\n\n🎨 Image Generation\n\n51. Midjourney\n52. Ideogram\n53. Leonardo AI\n54. Adobe Firefly\n55. Recraft\n56. FLUX\n57. Krea\n58. OpenArt\n59. Playground AI\n60. Freepik AI\n\n🎬 AI Video\n\n61. Runway\n62. Sora\n63. Veo\n64. Kling AI\n65. Pika\n66. Luma\n67. Hailuo AI\n68. Higgsfield\n69. HeyGen\n70. Synthesia\n\n🎙️ Audio & Voice\n\n71. ElevenLabs\n72. Suno\n73. Udio\n74. Descript\n75. Murf\n76. PlayHT\n77. Speechify\n78. Adobe Podcast\n79. https://t.co/6MuifrPnUX\n80. AIVA\n\n✍️ Writing & Content\n\n81. Jasper\n82. https://t.co/ctgWnrpmmv\n83. Writesonic\n84. Grammarly\n85. QuillBot\n86. Wordtune\n87. Rytr\n88. Writer\n89. Anyword\n90. Sudowrite\n\n📊 Productivity\n\n91. Notion AI\n92. ClickUp AI\n93. Motion\n94. Reclaim AI\n95. Mem\n96. Taskade\n97. Granola\n98. Superhuman\n99. Read AI\n100. Gamma\n\n🎨 Design & Presentations\n\n101. Canva\n102. Figma AI\n103. https://t.co/HOP1w7MjxW\n104. Tome\n105. Napkin AI\n106. Pitch\n107. SlidesAI\n108. Microsoft Designer\n109. Visme\n110. https://t.co/yKPl4uyk0m\n\n📈 Marketing, SEO & E-commerce\n\n111. Semrush\n112. Ahrefs\n113. Surfer SEO\n114. Frase\n115. Scalenut\n116. https://t.co/55Ab23kBWe\n117. Omneky\n118. Brand24\n119. HubSpot AI\n120. Klaviyo AI\n\nFollow me:@TechByKillian",
+      "lang": "en",
+      "hook": "'120 AI tools worth knowing in 2026' listicle - 5.1K views, 72 reposts (list format, includes video tools).",
+      "video_tip": "Listicles travel but are off-brand; a '5 tools I used for this 40K short' pinned under a clip is the on-brand version.",
+      "media": "photo",
+      "followers_count": 10137,
+      "likes": 112,
+      "reposts": 72,
+      "bookmarks": 19,
+      "replies": 22,
+      "quotes": 1,
+      "self_quote": false,
+      "board_rank": 13
+    },
+    {
+      "id": "2123852779366298045",
+      "name": "Luma",
+      "display_name": "Luma",
+      "handle": "@LumaLabsAI",
+      "views": 4645,
+      "views_label": "4,645",
+      "url": "https://x.com/LumaLabsAI/status/2123852779366298045",
+      "created_at": "2026-11-20T18:55:36.000Z",
+      "posted_at": "2026-11-20T18:55:36.000Z",
+      "text": "\"One Last Change.\" A short film by Ian Lihui Wang featuring increasingly unhinged requests for a water bottle commercial.\n\nMade with Luma MCP.\nNow live in ChatGPT and Claude. https://t.co/KMPNFPDBdN",
+      "original_en": "\"One Last Change.\" A short film by Ian Lihui Wang featuring increasingly unhinged requests for a water bottle commercial.\n\nMade with Luma MCP.\nNow live in ChatGPT and Claude. https://t.co/KMPNFPDBdN",
+      "lang": "en",
+      "hook": "Luma short film 'One Last Change' by Ian Lihui Wang - a client making increasingly unhinged requests for a water bottle commercial; made with Luma MCP - 4.6K views.",
+      "video_tip": "Steal the format for a sci-fi skit: an Inquisitor giving a Techpriest ever-crazier revision notes on a propaganda reel.",
+      "media": "video",
+      "followers_count": 196256,
+      "likes": 28,
+      "reposts": 5,
+      "bookmarks": 3,
+      "replies": 15,
+      "quotes": 1,
+      "self_quote": false,
+      "board_rank": 14
+    },
+    {
+      "id": "2123853885198536899",
+      "name": "Dreamina AI",
+      "display_name": "Dreamina AI",
+      "handle": "@dreamina_ai",
+      "views": 3533,
+      "views_label": "3,533",
+      "url": "https://x.com/dreamina_ai/status/2123853885198536899",
+      "created_at": "2026-11-20T19:00:00.000Z",
+      "posted_at": "2026-11-20T19:00:00.000Z",
+      "text": "Dreamina Seedream 5.5 - A New Level of Realism and Creative Precision!\n\nMore realistic portraits. More precise image editing. Significantly improved text accuracy. And transparent assets come out ready to use.\n\n#DreaminaAI #DreaminaSeedream5_5 https://t.co/4Ogvc3HoQK",
+      "original_en": "Dreamina Seedream 5.5 - A New Level of Realism and Creative Precision!\n\nMore realistic portraits. More precise image editing. Significantly improved text accuracy. And transparent assets come out ready to use.\n\n#DreaminaAI #DreaminaSeedream5_5 https://t.co/4Ogvc3HoQK",
+      "lang": "en",
+      "hook": "Dreamina Seedream 5.5 launch: more realistic portraits, more precise image editing, better text accuracy, transparent assets - 3.5K views.",
+      "video_tip": "Use Seedream 5.5 for model sheets/keyframes, then animate in Seedance; post the still-to-motion side by side.",
+      "media": "video",
+      "followers_count": 31585,
+      "likes": 103,
+      "reposts": 9,
+      "bookmarks": 14,
+      "replies": 15,
+      "quotes": 1,
+      "self_quote": false,
+      "board_rank": 15
+    },
+    {
+      "id": "2123753832593400276",
+      "name": "Mr. Brooks Whale",
+      "display_name": "Mr. Brooks Whale",
+      "handle": "@Nely_Brooks",
+      "views": 3487,
+      "views_label": "3,487",
+      "url": "https://x.com/Nely_Brooks/status/2123753832593400276",
+      "created_at": "2026-11-20T12:22:25.000Z",
+      "posted_at": "2026-11-20T12:22:25.000Z",
+      "text": "The creativity behind this AI video is incredible \n\nGenerated with Seedance 2.5\n\nEvery frame tells a story, but the real magic is in how the tension, emotion, and action come together. 🎬⚡\nThis is the kind of AI cinematic storytelling that makes you forget you're watching a generated video. From dramatic shots to character expressions, the details make all the difference.\nAI filmmaking is getting seriously impressive. 🔥",
+      "original_en": "The creativity behind this AI video is incredible \n\nGenerated with Seedance 2.5\n\nEvery frame tells a story, but the real magic is in how the tension, emotion, and action come together. 🎬⚡\nThis is the kind of AI cinematic storytelling that makes you forget you're watching a generated video. From dramatic shots to character expressions, the details make all the difference.\nAI filmmaking is getting seriously impressive. 🔥",
+      "lang": "en",
+      "hook": "'The creativity behind this AI video is incredible - Generated with Seedance 2.5' praise post - 3.5K views, 72 reposts vs 112 likes (repost-heavy, engagement-pod look).",
+      "video_tip": "Shows a Seedance 2.5 tag still draws clicks; tag the model in your own captions.",
+      "media": "video",
+      "followers_count": 26658,
+      "likes": 112,
+      "reposts": 72,
+      "bookmarks": 18,
+      "replies": 24,
+      "quotes": 0,
+      "self_quote": false,
+      "board_rank": 16
+    },
+    {
+      "id": "2123861477090345370",
+      "name": "Magnific",
+      "display_name": "Magnific",
+      "handle": "@magnific",
+      "views": 3234,
+      "views_label": "3,234",
+      "url": "https://x.com/magnific/status/2123861477090345370",
+      "created_at": "2026-11-20T19:30:10.000Z",
+      "posted_at": "2026-11-20T19:30:10.000Z",
+      "text": "Illusion + Move: one take, five hairstyles\n\n→ Every hairstyle built as a 3D item\n→ Illusion drops it into the original video\n→ Move adds the in-game menu on top\n\nFull tutorial and prompts in the thread 🧵 https://t.co/Z0I2j00Jgr",
+      "original_en": "Illusion + Move: one take, five hairstyles\n\n→ Every hairstyle built as a 3D item\n→ Illusion drops it into the original video\n→ Move adds the in-game menu on top\n\nFull tutorial and prompts in the thread 🧵 https://t.co/Z0I2j00Jgr",
+      "lang": "en",
+      "hook": "Magnific 'Illusion + Move: one take, five hairstyles' tutorial thread - 3.2K views, 17 bookmarks.",
+      "video_tip": "One-take variation trick: same Space Marine shot, five helmet/armour variants swapped in, as a 10s loop.",
+      "media": "video",
+      "followers_count": 92593,
+      "likes": 38,
+      "reposts": 1,
+      "bookmarks": 17,
+      "replies": 4,
+      "quotes": 2,
+      "self_quote": false,
+      "board_rank": 17
+    },
+    {
+      "id": "2123974692440523068",
+      "name": "Kling AI",
+      "display_name": "Kling AI",
+      "handle": "@Kling_ai",
+      "views": 3151,
+      "views_label": "3,151",
+      "url": "https://x.com/Kling_ai/status/2123974692440523068",
+      "created_at": "2026-11-21T03:00:02.000Z",
+      "posted_at": "2026-11-21T03:00:02.000Z",
+      "text": "From November 10 to 12, Kling AI joined Adobe MAX 2026 in Miami, Florida, connecting with global brands, agencies, and creators to explore the role of AI video in professional creative workflows.\n\nUnder the theme \"Bringing AI Video into Professional Creative Workflow\", Kling 4.0 showcased a range of creative applications, highlighting new possibilities for ideation and content production. As model capabilities continue to advance, creative teams can explore more directions and bring more ideas to life.\n\nKling AI will continue working with industry partners around the world to integrate its models more naturally into professional content production and help turn more creative ideas into reality.",
+      "original_en": "From November 10 to 12, Kling AI joined Adobe MAX 2026 in Miami, Florida, connecting with global brands, agencies, and creators to explore the role of AI video in professional creative workflows.\n\nUnder the theme \"Bringing AI Video into Professional Creative Workflow\", Kling 4.0 showcased a range of creative applications, highlighting new possibilities for ideation and content production. As model capabilities continue to advance, creative teams can explore more directions and bring more ideas to life.\n\nKling AI will continue working with industry partners around the world to integrate its models more naturally into professional content production and help turn more creative ideas into reality.",
+      "lang": "en",
+      "hook": "Kling AI recap of Adobe MAX 2026 in Miami, 'Bringing AI Video into Professional Creative Workflow' with Kling 4.0 - 3.2K views, 24 likes (corporate recap).",
+      "video_tip": "Nothing to copy; low engagement shows event recaps don't travel.",
+      "media": "4 photos",
+      "followers_count": 139579,
+      "likes": 24,
+      "reposts": 4,
+      "bookmarks": 1,
+      "replies": 5,
+      "quotes": 2,
+      "self_quote": false,
+      "board_rank": 18
+    },
+    {
+      "id": "2123937747689947473",
+      "name": "Angry Tom",
+      "display_name": "Angry Tom",
+      "handle": "@AngryTomtweets",
+      "views": 2963,
+      "views_label": "2,963",
+      "url": "https://x.com/AngryTomtweets/status/2123937747689947473",
+      "created_at": "2026-11-21T00:33:14.000Z",
+      "posted_at": "2026-11-21T00:33:14.000Z",
+      "text": "I generated content non-stop with this offer.\n\nBecause every eligible generation stayed credit-free.\n\nDreamina’s REAL Unlimited top models are live.\n\n30 days of Seedance 2.5 + 60 days of GPT Image 2.5.\n\nSee what’s included 👇\n\n#DreaminaPartner https://t.co/GXmlDsSiFC",
+      "original_en": "I generated content non-stop with this offer.\n\nBecause every eligible generation stayed credit-free.\n\nDreamina’s REAL Unlimited top models are live.\n\n30 days of Seedance 2.5 + 60 days of GPT Image 2.5.\n\nSee what’s included 👇\n\n#DreaminaPartner https://t.co/GXmlDsSiFC",
+      "lang": "en",
+      "hook": "Angry Tom #DreaminaPartner post: Dreamina 'REAL Unlimited' - 30 days of Seedance 2.5 + 60 days of GPT Image 2.5, credit-free generations - 2.96K views, 15 likes (paid partnership).",
+      "video_tip": "If you take sponsorships, show the actual output first, not the offer; this one barely engaged.",
+      "media": "video",
+      "followers_count": 149747,
+      "likes": 15,
+      "reposts": 3,
+      "bookmarks": 2,
+      "replies": 2,
+      "quotes": 0,
+      "self_quote": false,
+      "board_rank": 19
+    },
+    {
+      "id": "2124148354141798756",
+      "name": "Magnific",
+      "display_name": "Magnific",
+      "handle": "@magnific",
+      "views": 2135,
+      "views_label": "2,135",
+      "url": "https://x.com/magnific/status/2124148354141798756",
+      "created_at": "2026-11-21T14:30:07.000Z",
+      "posted_at": "2026-11-21T14:30:07.000Z",
+      "text": "10 illustration styles using Magnific One\n\nEach piece hides a full scene, but only if you keep swiping\n\nThis is thread full of prompts 🧵 https://t.co/lCoXKBJfqa",
+      "original_en": "10 illustration styles using Magnific One\n\nEach piece hides a full scene, but only if you keep swiping\n\nThis is thread full of prompts 🧵 https://t.co/lCoXKBJfqa",
+      "lang": "en",
+      "hook": "Magnific '10 illustration styles using Magnific One' prompt thread, carousel - 2.1K views, 18 bookmarks.",
+      "video_tip": "Prompt threads earn saves: post your 40K Seedance prompt as a thread under the clip.",
+      "media": "4 photos",
+      "followers_count": 92593,
+      "likes": 33,
+      "reposts": 1,
+      "bookmarks": 18,
+      "replies": 4,
+      "quotes": 2,
+      "self_quote": false,
+      "board_rank": 20
+    },
+    {
+      "id": "2123884091867377713",
+      "name": "Dreamina AI",
+      "display_name": "Dreamina AI",
+      "handle": "@dreamina_ai",
+      "views": 1857,
+      "views_label": "1,857",
+      "url": "https://x.com/dreamina_ai/status/2123884091867377713",
+      "created_at": "2026-11-20T21:00:02.000Z",
+      "posted_at": "2026-11-20T21:00:02.000Z",
+      "text": "The fan is my stylist now.\n\nWatch the tutorial and try it yourself on Dreamina Video Recreator!\n\n#viralreels #dreaminapioneer #DreaminaSeedance25 #DreaminaAI #DreaminaIdeas https://t.co/Y4jUIkEoVE",
+      "original_en": "The fan is my stylist now.\n\nWatch the tutorial and try it yourself on Dreamina Video Recreator!\n\n#viralreels #dreaminapioneer #DreaminaSeedance25 #DreaminaAI #DreaminaIdeas https://t.co/Y4jUIkEoVE",
+      "lang": "en",
+      "hook": "Dreamina 'The fan is my stylist now' Video Recreator tutorial (Seedance 2.5) - 1.9K views.",
+      "video_tip": "Fun physical-gag premise in one line; try a 40K version (a servo-skull as the barber).",
+      "media": "video",
+      "followers_count": 31585,
+      "likes": 32,
+      "reposts": 1,
+      "bookmarks": 3,
+      "replies": 9,
+      "quotes": 0,
+      "self_quote": false,
+      "board_rank": 21
+    },
+    {
+      "id": "2124131718378430767",
+      "name": "𝐄𝐥𝐢𝐳𝐚𝐛𝐞𝐭𝐡 ᴬⁱ",
+      "display_name": "𝐄𝐥𝐢𝐳𝐚𝐛𝐞𝐭𝐡 ᴬⁱ",
+      "handle": "@Biak3_",
+      "views": 1810,
+      "views_label": "1,810",
+      "url": "https://x.com/Biak3_/status/2124131718378430767",
+      "created_at": "2026-11-21T13:24:00.000Z",
+      "posted_at": "2026-11-21T13:24:00.000Z",
+      "text": "Even if this video is AI-generated, the possibility that it could be real broke my heart. Could women really be like this?\n\nMade with Ai ✨️ https://t.co/5x3Lawmmz4",
+      "original_en": "Even if this video is AI-generated, the possibility that it could be real broke my heart. Could women really be like this?\n\nMade with Ai ✨️ https://t.co/5x3Lawmmz4",
+      "lang": "en",
+      "hook": "Biak3_ emotional AI-generated clip, 'Even if this video is AI-generated, the possibility that it could be real broke my heart' - 1.8K views, 21 replies (emotion-bait caption).",
+      "video_tip": "Emotion-first caption over a quiet character beat works; pair a small human moment in 40K (a Guardsman's letter home) with a one-line caption.",
+      "media": "video",
+      "followers_count": 34002,
+      "likes": 27,
+      "reposts": 22,
+      "bookmarks": 18,
+      "replies": 21,
+      "quotes": 1,
+      "self_quote": false,
+      "board_rank": 22
+    }
+  ],
+  "outsiders_count": 20,
+  "virals": [
+    {
+      "id": "2123446229065662954",
+      "name": "Krea",
+      "display_name": "Krea",
+      "handle": "@krea_ai",
+      "views": 2318713,
+      "views_label": "2,318,713",
+      "url": "https://x.com/krea_ai/status/2123446229065662954",
+      "created_at": "2026-11-19T16:00:07.000Z",
+      "posted_at": "2026-11-19T16:00:07.000Z",
+      "text": "we got over 50,000 applications for the Krea Bots beta.\n\ntoday, we’re inviting a new batch of testers with $100 in credits to play with their new creative crew.\n\ncheck your email or get into the waitlist 👇 https://t.co/DCWJjcZNpb",
+      "original_en": "we got over 50,000 applications for the Krea Bots beta.\n\ntoday, we’re inviting a new batch of testers with $100 in credits to play with their new creative crew.\n\ncheck your email or get into the waitlist 👇 https://t.co/DCWJjcZNpb",
+      "lang": "en",
+      "hook": "Krea Bots beta (from 19.11, still climbing): 50,000+ applications, a new batch of testers gets $100 in credits for a 'creative crew' of bots - now 2.32M views but only 1,295 likes (0.06% like rate); reach looks promoted.",
+      "video_tip": "Borrow the 'crew' idea, not the waitlist: a 30s skit where a squad of servo-skulls each run one department on your 40K shoot and bicker about it.",
+      "media": "video",
+      "followers_count": 126484,
+      "likes": 1295,
+      "reposts": 134,
+      "bookmarks": 1284,
+      "replies": 93,
+      "quotes": 56,
+      "self_quote": false,
+      "board_rank": 1,
+      "draft_en": "More than 50,000 people applied for the Krea Bots beta.\n\nA new group of testers gets in today, each with $100 in credits to experiment with a full creative crew of bots.\n\nCheck your inbox, or hop on the waitlist below 👇",
+      "draft_keywords": [
+        "Krea Bots beta"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.103,
+        "word_overlap": 0.611,
+        "max_copied_run": 5
+      },
+      "top10_rank": 1,
+      "why_hit": {
+        "trend_match": 35,
+        "verdict": "visual",
+        "matched_keywords": [
+          "Krea"
+        ],
+        "media": "video",
+        "note": "",
+        "topic": "Launch and promo lane"
+      }
+    },
+    {
+      "id": "2123905539063336984",
+      "name": "Higgsfield AI 🧩",
+      "display_name": "Higgsfield AI 🧩",
+      "handle": "@higgsfield_ai",
+      "views": 71706,
+      "views_label": "71,706",
+      "url": "https://x.com/higgsfield_ai/status/2123905539063336984",
+      "created_at": "2026-11-20T22:25:15.000Z",
+      "posted_at": "2026-11-20T22:25:15.000Z",
+      "text": "Claude built a Miami-style town in Blender with 2,538 assets.\n\nRendered in Unreal Engine on Higgsfield GPU Harness in 74 minutes.\n\nHere's how: https://t.co/Hyj5MpChB6 https://t.co/O2P3RiULON",
+      "original_en": "Claude built a Miami-style town in Blender with 2,538 assets.\n\nRendered in Unreal Engine on Higgsfield GPU Harness in 74 minutes.\n\nHere's how: https://t.co/Hyj5MpChB6 https://t.co/O2P3RiULON",
+      "lang": "en",
+      "hook": "Higgsfield GPU Harness push: 'Claude built a Miami-style town in Blender with 2,538 assets', rendered in Unreal in 74 minutes - 71.7K views, 615 bookmarks (strong save rate for a brand post).",
+      "video_tip": "Number-first opener: start your next 40K clip with one hard on-screen fact ('1 prompt, 40 Space Marines, 12 seconds') then show the shot.",
+      "media": "video",
+      "followers_count": 257587,
+      "likes": 989,
+      "reposts": 245,
+      "bookmarks": 615,
+      "replies": 35,
+      "quotes": 9,
+      "self_quote": false,
+      "board_rank": 3,
+      "draft_en": "2,538 assets, one Miami-style town, all put together in Blender by Claude.\n\nThe Unreal Engine render took 74 minutes on Higgsfield GPU Harness.\n\nFull breakdown below:",
+      "draft_keywords": [
+        "Blender",
+        "Claude",
+        "Higgsfield GPU Harness"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.042,
+        "word_overlap": 0.667,
+        "max_copied_run": 4
+      },
+      "top10_rank": 3,
+      "why_hit": {
+        "trend_match": 58,
+        "verdict": "trend",
+        "matched_keywords": [
+          "Higgsfield",
+          "Claude"
+        ],
+        "media": "video",
+        "note": "",
+        "topic": "Launch and promo lane"
+      }
+    },
+    {
+      "id": "2123515658290024532",
+      "name": "Higgsfield AI 🧩",
+      "display_name": "Higgsfield AI 🧩",
+      "handle": "@higgsfield_ai",
+      "views": 47826,
+      "views_label": "47,826",
+      "url": "https://x.com/higgsfield_ai/status/2123515658290024532",
+      "created_at": "2026-11-19T20:36:00.000Z",
+      "posted_at": "2026-11-19T20:36:00.000Z",
+      "text": "Your next game is on us.\n\nGet a $100 gift card for PlayStation or Xbox with your Higgsfield Ultra subscription. Now at up to 64% OFF.\n\nOnly 10,000 gift cards. Claim yours now at https://t.co/CnTqxFTTPT https://t.co/vo5JdS8rlz",
+      "original_en": "Your next game is on us.\n\nGet a $100 gift card for PlayStation or Xbox with your Higgsfield Ultra subscription. Now at up to 64% OFF.\n\nOnly 10,000 gift cards. Claim yours now at https://t.co/CnTqxFTTPT https://t.co/vo5JdS8rlz",
+      "lang": "en",
+      "hook": "Higgsfield Black Friday: $100 PlayStation/Xbox gift card with Ultra, up to 64% off, 'only 10,000 gift cards' - 47.8K views, 58 bookmarks (promo, promoted-looking).",
+      "video_tip": "Nothing to copy beyond 'lead with the offer'; skip for content.",
+      "media": "video",
+      "followers_count": 257587,
+      "likes": 394,
+      "reposts": 231,
+      "bookmarks": 58,
+      "replies": 47,
+      "quotes": 6,
+      "self_quote": false,
+      "board_rank": 4,
+      "draft_en": "Take the Higgsfield Ultra plan and your next game is covered: a $100 PlayStation or Xbox gift card comes with it, and the plan itself is up to 64% off right now.\n\nOnly 10,000 cards exist. Grab one here:",
+      "draft_keywords": [
+        "Higgsfield"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.054,
+        "word_overlap": 0.625,
+        "max_copied_run": 4
+      },
+      "top10_rank": 4,
+      "why_hit": {
+        "trend_match": 35,
+        "verdict": "visual",
+        "matched_keywords": [
+          "Higgsfield"
+        ],
+        "media": "video",
+        "note": "",
+        "topic": "Launch and promo lane"
+      }
+    },
+    {
+      "id": "2123844366234177788",
+      "name": "Higgsfield AI 🧩",
+      "display_name": "Higgsfield AI 🧩",
+      "handle": "@higgsfield_ai",
+      "views": 36278,
+      "views_label": "36,278",
+      "url": "https://x.com/higgsfield_ai/status/2123844366234177788",
+      "created_at": "2026-11-20T18:22:10.000Z",
+      "posted_at": "2026-11-20T18:22:10.000Z",
+      "text": "We built Shibuya Crossing in Blender with Claude.\n\nIt has 9,662 people, about 2,200 vehicles and 4,261 buildings from the real street map.\n\nRendered on Higgsfield GPU Harness. Here's how: https://t.co/T6VUhdNR7I https://t.co/paz86z7hVk",
+      "original_en": "We built Shibuya Crossing in Blender with Claude.\n\nIt has 9,662 people, about 2,200 vehicles and 4,261 buildings from the real street map.\n\nRendered on Higgsfield GPU Harness. Here's how: https://t.co/T6VUhdNR7I https://t.co/paz86z7hVk",
+      "lang": "en",
+      "hook": "'We built Shibuya Crossing in Blender with Claude': 9,662 people, ~2,200 vehicles, 4,261 buildings from the real street map - 36.3K views, 137 bookmarks.",
+      "video_tip": "Scale reveal: open tight on one Guardsman, then pull back to a hive-city crowd shot in Seedance - let the scale be the hook.",
+      "media": "video",
+      "followers_count": 257587,
+      "likes": 455,
+      "reposts": 191,
+      "bookmarks": 137,
+      "replies": 16,
+      "quotes": 3,
+      "self_quote": false,
+      "board_rank": 5,
+      "draft_en": "Claude recreated Shibuya Crossing inside Blender, using the actual street map as its guide.\n\nThe count: 4,261 buildings, roughly 2,200 cars and buses, and 9,662 pedestrians.\n\nRendering happened on Higgsfield GPU Harness. How it was done:",
+      "draft_keywords": [
+        "Blender",
+        "Claude",
+        "Higgsfield GPU Harness"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.028,
+        "word_overlap": 0.52,
+        "max_copied_run": 4
+      },
+      "top10_rank": 5,
+      "why_hit": {
+        "trend_match": 58,
+        "verdict": "trend",
+        "matched_keywords": [
+          "Higgsfield",
+          "Claude"
+        ],
+        "media": "video",
+        "note": "",
+        "topic": "Launch and promo lane"
+      }
+    },
+    {
+      "id": "2124067874872627630",
+      "name": "TechHalla",
+      "display_name": "TechHalla",
+      "handle": "@techhalla",
+      "views": 19846,
+      "views_label": "19,846",
+      "url": "https://x.com/techhalla/status/2124067874872627630",
+      "created_at": "2026-11-21T09:10:19.000Z",
+      "posted_at": "2026-11-21T09:10:19.000Z",
+      "text": "Matrix but it's 1981 😎 https://t.co/KIIeZj09YL",
+      "original_en": "Matrix but it's 1981 😎 https://t.co/KIIeZj09YL",
+      "lang": "en",
+      "hook": "TechHalla 'Matrix but it's 1981' - a retro re-imagining clip with a five-word caption; 19.8K views, 605 likes, 128 bookmarks in ~6h (pure concept hook, no tool talk).",
+      "video_tip": "Do 'Warhammer 40K but it's a 1981 VHS trailer': grainy film look, synth score, 20-30s, caption under six words.",
+      "media": "video",
+      "followers_count": 103957,
+      "likes": 605,
+      "reposts": 75,
+      "bookmarks": 128,
+      "replies": 23,
+      "quotes": 10,
+      "self_quote": false,
+      "board_rank": 6,
+      "draft_en": "What if The Matrix had dropped in 1981? This video imagines it 😎",
+      "draft_keywords": [
+        "video"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.0,
+        "word_overlap": 0.4,
+        "max_copied_run": 1
+      },
+      "top10_rank": 6,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "note": "",
+        "topic": null
+      }
+    },
+    {
+      "id": "2123565871817687095",
+      "name": "Matt Jarbo",
+      "display_name": "Matt Jarbo",
+      "handle": "@mjarbo",
+      "views": 16159,
+      "views_label": "16,159",
+      "url": "https://x.com/mjarbo/status/2123565871817687095",
+      "created_at": "2026-11-19T23:55:32.000Z",
+      "posted_at": "2026-11-19T23:55:32.000Z",
+      "text": "Apparently David Fincher used generative AI in THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH, and somehow that's made me MORE interested in seeing it.\n\nNext Best Picture calls the AI an \"eyesore,\" but doesn't identify a single scene or explain how they determined it was AI. And despite that criticism, the reviewer still gave the movie a 7/10.\n\nNetflix just spent $587 MILLION buying Ben Affleck's AI filmmaking company, InterPositive. I don't know if that technology was used here, but I'm genuinely curious how someone as meticulous as Fincher might incorporate generative AI into recreating 1970s Hollywood, especially following Tarantino's love letter to that era.\n\nIf the effects look like shit, criticize them! That's completely fair. But remember when CGI was so obvious you could spot it a mile away? Now it's everywhere, and half the time nobody notices.\n\nI'd rather see what Fincher actually did before joining another round of AI panic.",
+      "original_en": "Apparently David Fincher used generative AI in THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH, and somehow that's made me MORE interested in seeing it.\n\nNext Best Picture calls the AI an \"eyesore,\" but doesn't identify a single scene or explain how they determined it was AI. And despite that criticism, the reviewer still gave the movie a 7/10.\n\nNetflix just spent $587 MILLION buying Ben Affleck's AI filmmaking company, InterPositive. I don't know if that technology was used here, but I'm genuinely curious how someone as meticulous as Fincher might incorporate generative AI into recreating 1970s Hollywood, especially following Tarantino's love letter to that era.\n\nIf the effects look like shit, criticize them! That's completely fair. But remember when CGI was so obvious you could spot it a mile away? Now it's everywhere, and half the time nobody notices.\n\nI'd rather see what Fincher actually did before joining another round of AI panic.",
+      "lang": "en",
+      "hook": "Matt Jarbo on reports that David Fincher used generative AI in The Further Mis-Adventures of Cliff Booth (plus Netflix's $587M InterPositive buy) - 16.2K views; opinion take on a live news story.",
+      "video_tip": "Ride the Fincher/generative AI debate with a 15s side-by-side: your raw Seedance shot vs the graded final, captioned with your honest take on where AI belongs in a film.",
+      "media": "2 photos",
+      "followers_count": 20812,
+      "likes": 98,
+      "reposts": 9,
+      "bookmarks": 26,
+      "replies": 15,
+      "quotes": 2,
+      "self_quote": false,
+      "board_rank": 7,
+      "draft_en": "So David Fincher reportedly put generative AI into his new one, The Further Mis-Adventures of Cliff Booth. Weirdly, that makes me want to see it more.\n\nNext Best Picture called the AI an \"eyesore\" yet never pointed to a scene or said how they could tell - and still scored the film 7/10.\n\nNetflix also just paid $587 MILLION for InterPositive, the AI filmmaking company Ben Affleck started. No idea if that tech is in here, but I want to know how a director as precise as Fincher would use generative AI to rebuild 1970s Hollywood, right after Tarantino's own tribute to that era.\n\nBad effects deserve criticism, fair enough. But CGI used to stick out a mile away, and now it is everywhere and mostly invisible.\n\nI will wait to see what Fincher really did before signing up for the next wave of AI panic.",
+      "draft_keywords": [
+        "David",
+        "generative AI",
+        "Cliff Booth",
+        "AI filmmaking"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.028,
+        "word_overlap": 0.508,
+        "max_copied_run": 6
+      },
+      "top10_rank": 7,
+      "why_hit": {
+        "trend_match": 67,
+        "verdict": "trend",
+        "matched_keywords": [
+          "generative AI",
+          "Cliff Booth",
+          "David"
+        ],
+        "media": "image",
+        "note": "",
+        "topic": "Deadpan broadcast videos"
+      }
+    },
+    {
+      "id": "2123875791566168423",
+      "name": "Runway",
+      "display_name": "Runway",
+      "handle": "@runwayml",
+      "views": 7976,
+      "views_label": "7,976",
+      "url": "https://x.com/runwayml/status/2123875791566168423",
+      "created_at": "2026-11-20T20:27:03.000Z",
+      "posted_at": "2026-11-20T20:27:03.000Z",
+      "text": "Since the start of October, agents have written nearly every pull request we’ve merged into Runway App Studio.\n\nOur latest engineering post explains how we built a system that reviews those changes, tests them in a browser and brings in an engineer for high-risk decisions.\nhttps://t.co/BZ1xyoagKc",
+      "original_en": "Since the start of October, agents have written nearly every pull request we’ve merged into Runway App Studio.\n\nOur latest engineering post explains how we built a system that reviews those changes, tests them in a browser and brings in an engineer for high-risk decisions.\nhttps://t.co/BZ1xyoagKc",
+      "lang": "en",
+      "hook": "Runway: since October, agents have written nearly every PR merged into Runway App Studio; engineering post on how they review and test them - 8.0K views, text-only.",
+      "video_tip": "Not a video lesson; signals Runway leaning into agentic tooling. Skip for content.",
+      "media": "text",
+      "followers_count": 297762,
+      "likes": 47,
+      "reposts": 8,
+      "bookmarks": 11,
+      "replies": 25,
+      "quotes": 6,
+      "self_quote": false,
+      "board_rank": 9,
+      "draft_en": "Nearly every pull request merged into Runway App Studio since October was written by agents.\n\nTheir new engineering post walks through the system behind it: each change gets reviewed, tested in a browser, and an engineer steps in when the call is high-risk.",
+      "draft_keywords": [
+        "Runway",
+        "agents"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.1,
+        "word_overlap": 0.68,
+        "max_copied_run": 5
+      },
+      "top10_rank": 9,
+      "why_hit": {
+        "trend_match": 39,
+        "verdict": "author/audience",
+        "matched_keywords": [
+          "Runway",
+          "agents"
+        ],
+        "media": "text",
+        "note": "",
+        "topic": null
+      }
+    },
+    {
+      "id": "2123967886678991128",
+      "name": "awesome_visuals",
+      "display_name": "awesome_visuals",
+      "handle": "@awesome_visuals",
+      "views": 6632,
+      "views_label": "6,632",
+      "url": "https://x.com/awesome_visuals/status/2123967886678991128",
+      "created_at": "2026-11-21T02:33:00.000Z",
+      "posted_at": "2026-11-21T02:33:00.000Z",
+      "text": "https://t.co/lyzWm3UKiG",
+      "original_en": "https://t.co/lyzWm3UKiG",
+      "lang": "en",
+      "hook": "awesome_visuals 8-image AI art carousel with no caption - 6.6K views, 524 likes, 84 bookmarks (image-only curation still pulls saves).",
+      "video_tip": "Post an 8-frame 40K still carousel (best keyframes from one short) with zero caption text and a link to the full video in the first reply.",
+      "media": "8 photos",
+      "followers_count": 218611,
+      "likes": 524,
+      "reposts": 76,
+      "bookmarks": 84,
+      "replies": 6,
+      "quotes": 1,
+      "self_quote": false,
+      "board_rank": 10,
+      "draft_en": "Image after image, no caption needed. Swipe through all of them.",
+      "draft_keywords": [
+        "Image"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.0,
+        "word_overlap": 0.0,
+        "max_copied_run": 0
+      },
+      "top10_rank": 10,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "image",
+        "note": "",
+        "topic": null
+      }
+    },
+    {
+      "id": "2123547281568010671",
+      "name": "EvanAC",
+      "display_name": "EvanAC",
+      "handle": "@EvanAboutCinema",
+      "views": 6470,
+      "views_label": "6,470",
+      "url": "https://x.com/EvanAboutCinema/status/2123547281568010671",
+      "created_at": "2026-11-19T22:41:40.000Z",
+      "posted_at": "2026-11-19T22:41:40.000Z",
+      "text": "NextBestPicture reports that David Fincher's 'THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH' contains generative AI.\n\n\"What is noticeably distracting is Fincher’s use of generative AI in key moments of the film.\" https://t.co/l4MpmFvZ3V",
+      "original_en": "NextBestPicture reports that David Fincher's 'THE FURTHER MIS-ADVENTURES OF CLIFF BOOTH' contains generative AI.\n\n\"What is noticeably distracting is Fincher’s use of generative AI in key moments of the film.\" https://t.co/l4MpmFvZ3V",
+      "lang": "en",
+      "hook": "EvanAboutCinema relays NextBestPicture: Fincher's Cliff Booth film 'contains generative AI' that is 'noticeably distracting' - 6.5K views; the news seed of the Fincher discourse.",
+      "video_tip": "Same debate angle: a short 'Can you spot the AI shot?' clip mixing real and generated 40K-style footage, answer in replies.",
+      "media": "photo",
+      "followers_count": 10091,
+      "likes": 120,
+      "reposts": 8,
+      "bookmarks": 16,
+      "replies": 14,
+      "quotes": 6,
+      "self_quote": false,
+      "board_rank": 11,
+      "why_hit": {
+        "trend_match": 67,
+        "verdict": "trend",
+        "matched_keywords": [
+          "generative AI",
+          "Cliff Booth",
+          "David"
+        ],
+        "media": "image",
+        "note": "",
+        "topic": "Generative AI in Hollywood"
+      }
+    },
+    {
+      "id": "2124081246628438455",
+      "name": "el.cine",
+      "display_name": "el.cine",
+      "handle": "@EHuanglu",
+      "views": 5362,
+      "views_label": "5,362",
+      "url": "https://x.com/EHuanglu/status/2124081246628438455",
+      "created_at": "2026-11-21T10:03:27.000Z",
+      "posted_at": "2026-11-21T10:03:27.000Z",
+      "text": "crazy.. AI now can accurately remake any film vfx https://t.co/SXh06cX1os",
+      "original_en": "crazy.. AI now can accurately remake any film vfx https://t.co/SXh06cX1os",
+      "lang": "en",
+      "hook": "el.cine (EHuanglu): 'crazy.. AI now can accurately remake any film vfx' with a demo video - 5.4K views, 29 replies.",
+      "video_tip": "Remake one iconic sci-fi VFX beat (a drop-pod landing, a warp breach) shot-for-shot in Seedance and post it as 'I remade this with AI'.",
+      "media": "video",
+      "followers_count": 152932,
+      "likes": 67,
+      "reposts": 5,
+      "bookmarks": 16,
+      "replies": 29,
+      "quotes": 0,
+      "self_quote": false,
+      "board_rank": 12,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "note": "",
+        "topic": null
+      }
+    },
+    {
+      "id": "2123611984163938426",
+      "name": "Aldrich Killian",
+      "display_name": "Aldrich Killian",
+      "handle": "@TechByKillian",
+      "views": 5058,
+      "views_label": "5,058",
+      "url": "https://x.com/TechByKillian/status/2123611984163938426",
+      "created_at": "2026-11-20T02:58:46.000Z",
+      "posted_at": "2026-11-20T02:58:46.000Z",
+      "text": "120 AI tools worth knowing in 2026. 🚀\n\nAI, research, coding, design, video, automation, APIs & more.\n\nBookmark this. 🔖\n\n🤖 AI Assistants\n\n1. ChatGPT\n2. Claude\n3. Gemini\n4. Grok\n5. Perplexity\n6. Microsoft Copilot\n7. DeepSeek\n8. Mistral Le Chat\n9. Poe\n10. https://t.co/ZeWMFcWhk4\n\n🔍 Research & Search\n\n11. NotebookLM\n12. Elicit\n13. Consensus\n14. Scite\n15. Semantic Scholar\n16. WolframAlpha\n17. Phind\n18. Exa\n19. Tavily\n20. Perplexity\n\n💻 Coding & Developer Tools\n\n21. Cursor\n22. GitHub Copilot\n23. Claude Code\n24. OpenAI Codex\n25. Windsurf\n26. Replit\n27. Lovable\n28. https://t.co/MPoX3X0nJr\n29. v0\n30. Cline\n\n🌐 Web Data, Scraping & APIs\n\n31. Oxylabs: https://t.co/ycC5BSQgtN…\n32. Bright Data\n33. Decodo\n34. Apify\n35. ScraperAPI\n36. ScrapingBee\n37. ZenRows\n38. Firecrawl\n39. Browserbase\n40. Zyte\n\n🤖 AI Agents & Automation\n\n41. Zapier\n42. Make\n43. n8n\n44. Lindy\n45. Gumloop\n46. Relevance AI\n47. Dify\n48. CrewAI\n49. LangChain\n50. AutoGen\n\n🎨 Image Generation\n\n51. Midjourney\n52. Ideogram\n53. Leonardo AI\n54. Adobe Firefly\n55. Recraft\n56. FLUX\n57. Krea\n58. OpenArt\n59. Playground AI\n60. Freepik AI\n\n🎬 AI Video\n\n61. Runway\n62. Sora\n63. Veo\n64. Kling AI\n65. Pika\n66. Luma\n67. Hailuo AI\n68. Higgsfield\n69. HeyGen\n70. Synthesia\n\n🎙️ Audio & Voice\n\n71. ElevenLabs\n72. Suno\n73. Udio\n74. Descript\n75. Murf\n76. PlayHT\n77. Speechify\n78. Adobe Podcast\n79. https://t.co/6MuifrPnUX\n80. AIVA\n\n✍️ Writing & Content\n\n81. Jasper\n82. https://t.co/ctgWnrpmmv\n83. Writesonic\n84. Grammarly\n85. QuillBot\n86. Wordtune\n87. Rytr\n88. Writer\n89. Anyword\n90. Sudowrite\n\n📊 Productivity\n\n91. Notion AI\n92. ClickUp AI\n93. Motion\n94. Reclaim AI\n95. Mem\n96. Taskade\n97. Granola\n98. Superhuman\n99. Read AI\n100. Gamma\n\n🎨 Design & Presentations\n\n101. Canva\n102. Figma AI\n103. https://t.co/HOP1w7MjxW\n104. Tome\n105. Napkin AI\n106. Pitch\n107. SlidesAI\n108. Microsoft Designer\n109. Visme\n110. https://t.co/yKPl4uyk0m\n\n📈 Marketing, SEO & E-commerce\n\n111. Semrush\n112. Ahrefs\n113. Surfer SEO\n114. Frase\n115. Scalenut\n116. https://t.co/55Ab23kBWe\n117. Omneky\n118. Brand24\n119. HubSpot AI\n120. Klaviyo AI\n\nFollow me:@TechByKillian",
+      "original_en": "120 AI tools worth knowing in 2026. 🚀\n\nAI, research, coding, design, video, automation, APIs & more.\n\nBookmark this. 🔖\n\n🤖 AI Assistants\n\n1. ChatGPT\n2. Claude\n3. Gemini\n4. Grok\n5. Perplexity\n6. Microsoft Copilot\n7. DeepSeek\n8. Mistral Le Chat\n9. Poe\n10. https://t.co/ZeWMFcWhk4\n\n🔍 Research & Search\n\n11. NotebookLM\n12. Elicit\n13. Consensus\n14. Scite\n15. Semantic Scholar\n16. WolframAlpha\n17. Phind\n18. Exa\n19. Tavily\n20. Perplexity\n\n💻 Coding & Developer Tools\n\n21. Cursor\n22. GitHub Copilot\n23. Claude Code\n24. OpenAI Codex\n25. Windsurf\n26. Replit\n27. Lovable\n28. https://t.co/MPoX3X0nJr\n29. v0\n30. Cline\n\n🌐 Web Data, Scraping & APIs\n\n31. Oxylabs: https://t.co/ycC5BSQgtN…\n32. Bright Data\n33. Decodo\n34. Apify\n35. ScraperAPI\n36. ScrapingBee\n37. ZenRows\n38. Firecrawl\n39. Browserbase\n40. Zyte\n\n🤖 AI Agents & Automation\n\n41. Zapier\n42. Make\n43. n8n\n44. Lindy\n45. Gumloop\n46. Relevance AI\n47. Dify\n48. CrewAI\n49. LangChain\n50. AutoGen\n\n🎨 Image Generation\n\n51. Midjourney\n52. Ideogram\n53. Leonardo AI\n54. Adobe Firefly\n55. Recraft\n56. FLUX\n57. Krea\n58. OpenArt\n59. Playground AI\n60. Freepik AI\n\n🎬 AI Video\n\n61. Runway\n62. Sora\n63. Veo\n64. Kling AI\n65. Pika\n66. Luma\n67. Hailuo AI\n68. Higgsfield\n69. HeyGen\n70. Synthesia\n\n🎙️ Audio & Voice\n\n71. ElevenLabs\n72. Suno\n73. Udio\n74. Descript\n75. Murf\n76. PlayHT\n77. Speechify\n78. Adobe Podcast\n79. https://t.co/6MuifrPnUX\n80. AIVA\n\n✍️ Writing & Content\n\n81. Jasper\n82. https://t.co/ctgWnrpmmv\n83. Writesonic\n84. Grammarly\n85. QuillBot\n86. Wordtune\n87. Rytr\n88. Writer\n89. Anyword\n90. Sudowrite\n\n📊 Productivity\n\n91. Notion AI\n92. ClickUp AI\n93. Motion\n94. Reclaim AI\n95. Mem\n96. Taskade\n97. Granola\n98. Superhuman\n99. Read AI\n100. Gamma\n\n🎨 Design & Presentations\n\n101. Canva\n102. Figma AI\n103. https://t.co/HOP1w7MjxW\n104. Tome\n105. Napkin AI\n106. Pitch\n107. SlidesAI\n108. Microsoft Designer\n109. Visme\n110. https://t.co/yKPl4uyk0m\n\n📈 Marketing, SEO & E-commerce\n\n111. Semrush\n112. Ahrefs\n113. Surfer SEO\n114. Frase\n115. Scalenut\n116. https://t.co/55Ab23kBWe\n117. Omneky\n118. Brand24\n119. HubSpot AI\n120. Klaviyo AI\n\nFollow me:@TechByKillian",
+      "lang": "en",
+      "hook": "'120 AI tools worth knowing in 2026' listicle - 5.1K views, 72 reposts (list format, includes video tools).",
+      "video_tip": "Listicles travel but are off-brand; a '5 tools I used for this 40K short' pinned under a clip is the on-brand version.",
+      "media": "photo",
+      "followers_count": 10137,
+      "likes": 112,
+      "reposts": 72,
+      "bookmarks": 19,
+      "replies": 22,
+      "quotes": 1,
+      "self_quote": false,
+      "board_rank": 13,
+      "why_hit": {
+        "trend_match": 83,
+        "verdict": "trend",
+        "matched_keywords": [
+          "Higgsfield",
+          "Claude",
+          "Krea",
+          "Runway",
+          "agents"
+        ],
+        "media": "image",
+        "note": "",
+        "topic": "Launch and promo lane"
+      }
+    },
+    {
+      "id": "2123852779366298045",
+      "name": "Luma",
+      "display_name": "Luma",
+      "handle": "@LumaLabsAI",
+      "views": 4645,
+      "views_label": "4,645",
+      "url": "https://x.com/LumaLabsAI/status/2123852779366298045",
+      "created_at": "2026-11-20T18:55:36.000Z",
+      "posted_at": "2026-11-20T18:55:36.000Z",
+      "text": "\"One Last Change.\" A short film by Ian Lihui Wang featuring increasingly unhinged requests for a water bottle commercial.\n\nMade with Luma MCP.\nNow live in ChatGPT and Claude. https://t.co/KMPNFPDBdN",
+      "original_en": "\"One Last Change.\" A short film by Ian Lihui Wang featuring increasingly unhinged requests for a water bottle commercial.\n\nMade with Luma MCP.\nNow live in ChatGPT and Claude. https://t.co/KMPNFPDBdN",
+      "lang": "en",
+      "hook": "Luma short film 'One Last Change' by Ian Lihui Wang - a client making increasingly unhinged requests for a water bottle commercial; made with Luma MCP - 4.6K views.",
+      "video_tip": "Steal the format for a sci-fi skit: an Inquisitor giving a Techpriest ever-crazier revision notes on a propaganda reel.",
+      "media": "video",
+      "followers_count": 196256,
+      "likes": 28,
+      "reposts": 5,
+      "bookmarks": 3,
+      "replies": 15,
+      "quotes": 1,
+      "self_quote": false,
+      "board_rank": 14,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "note": "",
+        "topic": "Number-first agent builds"
+      }
+    },
+    {
+      "id": "2123853885198536899",
+      "name": "Dreamina AI",
+      "display_name": "Dreamina AI",
+      "handle": "@dreamina_ai",
+      "views": 3533,
+      "views_label": "3,533",
+      "url": "https://x.com/dreamina_ai/status/2123853885198536899",
+      "created_at": "2026-11-20T19:00:00.000Z",
+      "posted_at": "2026-11-20T19:00:00.000Z",
+      "text": "Dreamina Seedream 5.5 - A New Level of Realism and Creative Precision!\n\nMore realistic portraits. More precise image editing. Significantly improved text accuracy. And transparent assets come out ready to use.\n\n#DreaminaAI #DreaminaSeedream5_5 https://t.co/4Ogvc3HoQK",
+      "original_en": "Dreamina Seedream 5.5 - A New Level of Realism and Creative Precision!\n\nMore realistic portraits. More precise image editing. Significantly improved text accuracy. And transparent assets come out ready to use.\n\n#DreaminaAI #DreaminaSeedream5_5 https://t.co/4Ogvc3HoQK",
+      "lang": "en",
+      "hook": "Dreamina Seedream 5.5 launch: more realistic portraits, more precise image editing, better text accuracy, transparent assets - 3.5K views.",
+      "video_tip": "Use Seedream 5.5 for model sheets/keyframes, then animate in Seedance; post the still-to-motion side by side.",
+      "media": "video",
+      "followers_count": 31585,
+      "likes": 103,
+      "reposts": 9,
+      "bookmarks": 14,
+      "replies": 15,
+      "quotes": 1,
+      "self_quote": false,
+      "board_rank": 15,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "note": "",
+        "topic": null
+      }
+    },
+    {
+      "id": "2123753832593400276",
+      "name": "Mr. Brooks Whale",
+      "display_name": "Mr. Brooks Whale",
+      "handle": "@Nely_Brooks",
+      "views": 3487,
+      "views_label": "3,487",
+      "url": "https://x.com/Nely_Brooks/status/2123753832593400276",
+      "created_at": "2026-11-20T12:22:25.000Z",
+      "posted_at": "2026-11-20T12:22:25.000Z",
+      "text": "The creativity behind this AI video is incredible \n\nGenerated with Seedance 2.5\n\nEvery frame tells a story, but the real magic is in how the tension, emotion, and action come together. 🎬⚡\nThis is the kind of AI cinematic storytelling that makes you forget you're watching a generated video. From dramatic shots to character expressions, the details make all the difference.\nAI filmmaking is getting seriously impressive. 🔥",
+      "original_en": "The creativity behind this AI video is incredible \n\nGenerated with Seedance 2.5\n\nEvery frame tells a story, but the real magic is in how the tension, emotion, and action come together. 🎬⚡\nThis is the kind of AI cinematic storytelling that makes you forget you're watching a generated video. From dramatic shots to character expressions, the details make all the difference.\nAI filmmaking is getting seriously impressive. 🔥",
+      "lang": "en",
+      "hook": "'The creativity behind this AI video is incredible - Generated with Seedance 2.5' praise post - 3.5K views, 72 reposts vs 112 likes (repost-heavy, engagement-pod look).",
+      "video_tip": "Shows a Seedance 2.5 tag still draws clicks; tag the model in your own captions.",
+      "media": "video",
+      "followers_count": 26658,
+      "likes": 112,
+      "reposts": 72,
+      "bookmarks": 18,
+      "replies": 24,
+      "quotes": 0,
+      "self_quote": false,
+      "board_rank": 16,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "note": "",
+        "topic": "Deadpan broadcast videos"
+      }
+    },
+    {
+      "id": "2123861477090345370",
+      "name": "Magnific",
+      "display_name": "Magnific",
+      "handle": "@magnific",
+      "views": 3234,
+      "views_label": "3,234",
+      "url": "https://x.com/magnific/status/2123861477090345370",
+      "created_at": "2026-11-20T19:30:10.000Z",
+      "posted_at": "2026-11-20T19:30:10.000Z",
+      "text": "Illusion + Move: one take, five hairstyles\n\n→ Every hairstyle built as a 3D item\n→ Illusion drops it into the original video\n→ Move adds the in-game menu on top\n\nFull tutorial and prompts in the thread 🧵 https://t.co/Z0I2j00Jgr",
+      "original_en": "Illusion + Move: one take, five hairstyles\n\n→ Every hairstyle built as a 3D item\n→ Illusion drops it into the original video\n→ Move adds the in-game menu on top\n\nFull tutorial and prompts in the thread 🧵 https://t.co/Z0I2j00Jgr",
+      "lang": "en",
+      "hook": "Magnific 'Illusion + Move: one take, five hairstyles' tutorial thread - 3.2K views, 17 bookmarks.",
+      "video_tip": "One-take variation trick: same Space Marine shot, five helmet/armour variants swapped in, as a 10s loop.",
+      "media": "video",
+      "followers_count": 92593,
+      "likes": 38,
+      "reposts": 1,
+      "bookmarks": 17,
+      "replies": 4,
+      "quotes": 2,
+      "self_quote": false,
+      "board_rank": 17,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "note": "",
+        "topic": "Deadpan broadcast videos"
+      }
+    },
+    {
+      "id": "2123974692440523068",
+      "name": "Kling AI",
+      "display_name": "Kling AI",
+      "handle": "@Kling_ai",
+      "views": 3151,
+      "views_label": "3,151",
+      "url": "https://x.com/Kling_ai/status/2123974692440523068",
+      "created_at": "2026-11-21T03:00:02.000Z",
+      "posted_at": "2026-11-21T03:00:02.000Z",
+      "text": "From November 10 to 12, Kling AI joined Adobe MAX 2026 in Miami, Florida, connecting with global brands, agencies, and creators to explore the role of AI video in professional creative workflows.\n\nUnder the theme \"Bringing AI Video into Professional Creative Workflow\", Kling 4.0 showcased a range of creative applications, highlighting new possibilities for ideation and content production. As model capabilities continue to advance, creative teams can explore more directions and bring more ideas to life.\n\nKling AI will continue working with industry partners around the world to integrate its models more naturally into professional content production and help turn more creative ideas into reality.",
+      "original_en": "From November 10 to 12, Kling AI joined Adobe MAX 2026 in Miami, Florida, connecting with global brands, agencies, and creators to explore the role of AI video in professional creative workflows.\n\nUnder the theme \"Bringing AI Video into Professional Creative Workflow\", Kling 4.0 showcased a range of creative applications, highlighting new possibilities for ideation and content production. As model capabilities continue to advance, creative teams can explore more directions and bring more ideas to life.\n\nKling AI will continue working with industry partners around the world to integrate its models more naturally into professional content production and help turn more creative ideas into reality.",
+      "lang": "en",
+      "hook": "Kling AI recap of Adobe MAX 2026 in Miami, 'Bringing AI Video into Professional Creative Workflow' with Kling 4.0 - 3.2K views, 24 likes (corporate recap).",
+      "video_tip": "Nothing to copy; low engagement shows event recaps don't travel.",
+      "media": "4 photos",
+      "followers_count": 139579,
+      "likes": 24,
+      "reposts": 4,
+      "bookmarks": 1,
+      "replies": 5,
+      "quotes": 2,
+      "self_quote": false,
+      "board_rank": 18,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "image",
+        "note": "",
+        "topic": "Deadpan broadcast videos"
+      }
+    },
+    {
+      "id": "2123937747689947473",
+      "name": "Angry Tom",
+      "display_name": "Angry Tom",
+      "handle": "@AngryTomtweets",
+      "views": 2963,
+      "views_label": "2,963",
+      "url": "https://x.com/AngryTomtweets/status/2123937747689947473",
+      "created_at": "2026-11-21T00:33:14.000Z",
+      "posted_at": "2026-11-21T00:33:14.000Z",
+      "text": "I generated content non-stop with this offer.\n\nBecause every eligible generation stayed credit-free.\n\nDreamina’s REAL Unlimited top models are live.\n\n30 days of Seedance 2.5 + 60 days of GPT Image 2.5.\n\nSee what’s included 👇\n\n#DreaminaPartner https://t.co/GXmlDsSiFC",
+      "original_en": "I generated content non-stop with this offer.\n\nBecause every eligible generation stayed credit-free.\n\nDreamina’s REAL Unlimited top models are live.\n\n30 days of Seedance 2.5 + 60 days of GPT Image 2.5.\n\nSee what’s included 👇\n\n#DreaminaPartner https://t.co/GXmlDsSiFC",
+      "lang": "en",
+      "hook": "Angry Tom #DreaminaPartner post: Dreamina 'REAL Unlimited' - 30 days of Seedance 2.5 + 60 days of GPT Image 2.5, credit-free generations - 2.96K views, 15 likes (paid partnership).",
+      "video_tip": "If you take sponsorships, show the actual output first, not the offer; this one barely engaged.",
+      "media": "video",
+      "followers_count": 149747,
+      "likes": 15,
+      "reposts": 3,
+      "bookmarks": 2,
+      "replies": 2,
+      "quotes": 0,
+      "self_quote": false,
+      "board_rank": 19,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "note": "",
+        "topic": null
+      }
+    },
+    {
+      "id": "2124148354141798756",
+      "name": "Magnific",
+      "display_name": "Magnific",
+      "handle": "@magnific",
+      "views": 2135,
+      "views_label": "2,135",
+      "url": "https://x.com/magnific/status/2124148354141798756",
+      "created_at": "2026-11-21T14:30:07.000Z",
+      "posted_at": "2026-11-21T14:30:07.000Z",
+      "text": "10 illustration styles using Magnific One\n\nEach piece hides a full scene, but only if you keep swiping\n\nThis is thread full of prompts 🧵 https://t.co/lCoXKBJfqa",
+      "original_en": "10 illustration styles using Magnific One\n\nEach piece hides a full scene, but only if you keep swiping\n\nThis is thread full of prompts 🧵 https://t.co/lCoXKBJfqa",
+      "lang": "en",
+      "hook": "Magnific '10 illustration styles using Magnific One' prompt thread, carousel - 2.1K views, 18 bookmarks.",
+      "video_tip": "Prompt threads earn saves: post your 40K Seedance prompt as a thread under the clip.",
+      "media": "4 photos",
+      "followers_count": 92593,
+      "likes": 33,
+      "reposts": 1,
+      "bookmarks": 18,
+      "replies": 4,
+      "quotes": 2,
+      "self_quote": false,
+      "board_rank": 20,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "image",
+        "note": "",
+        "topic": null
+      }
+    },
+    {
+      "id": "2123884091867377713",
+      "name": "Dreamina AI",
+      "display_name": "Dreamina AI",
+      "handle": "@dreamina_ai",
+      "views": 1857,
+      "views_label": "1,857",
+      "url": "https://x.com/dreamina_ai/status/2123884091867377713",
+      "created_at": "2026-11-20T21:00:02.000Z",
+      "posted_at": "2026-11-20T21:00:02.000Z",
+      "text": "The fan is my stylist now.\n\nWatch the tutorial and try it yourself on Dreamina Video Recreator!\n\n#viralreels #dreaminapioneer #DreaminaSeedance25 #DreaminaAI #DreaminaIdeas https://t.co/Y4jUIkEoVE",
+      "original_en": "The fan is my stylist now.\n\nWatch the tutorial and try it yourself on Dreamina Video Recreator!\n\n#viralreels #dreaminapioneer #DreaminaSeedance25 #DreaminaAI #DreaminaIdeas https://t.co/Y4jUIkEoVE",
+      "lang": "en",
+      "hook": "Dreamina 'The fan is my stylist now' Video Recreator tutorial (Seedance 2.5) - 1.9K views.",
+      "video_tip": "Fun physical-gag premise in one line; try a 40K version (a servo-skull as the barber).",
+      "media": "video",
+      "followers_count": 31585,
+      "likes": 32,
+      "reposts": 1,
+      "bookmarks": 3,
+      "replies": 9,
+      "quotes": 0,
+      "self_quote": false,
+      "board_rank": 21,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "note": "",
+        "topic": "Deadpan broadcast videos"
+      }
+    },
+    {
+      "id": "2124131718378430767",
+      "name": "𝐄𝐥𝐢𝐳𝐚𝐛𝐞𝐭𝐡 ᴬⁱ",
+      "display_name": "𝐄𝐥𝐢𝐳𝐚𝐛𝐞𝐭𝐡 ᴬⁱ",
+      "handle": "@Biak3_",
+      "views": 1810,
+      "views_label": "1,810",
+      "url": "https://x.com/Biak3_/status/2124131718378430767",
+      "created_at": "2026-11-21T13:24:00.000Z",
+      "posted_at": "2026-11-21T13:24:00.000Z",
+      "text": "Even if this video is AI-generated, the possibility that it could be real broke my heart. Could women really be like this?\n\nMade with Ai ✨️ https://t.co/5x3Lawmmz4",
+      "original_en": "Even if this video is AI-generated, the possibility that it could be real broke my heart. Could women really be like this?\n\nMade with Ai ✨️ https://t.co/5x3Lawmmz4",
+      "lang": "en",
+      "hook": "Biak3_ emotional AI-generated clip, 'Even if this video is AI-generated, the possibility that it could be real broke my heart' - 1.8K views, 21 replies (emotion-bait caption).",
+      "video_tip": "Emotion-first caption over a quiet character beat works; pair a small human moment in 40K (a Guardsman's letter home) with a one-line caption.",
+      "media": "video",
+      "followers_count": 34002,
+      "likes": 27,
+      "reposts": 22,
+      "bookmarks": 18,
+      "replies": 21,
+      "quotes": 1,
+      "self_quote": false,
+      "board_rank": 22,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "note": "",
+        "topic": "Deadpan broadcast videos"
+      }
+    }
+  ],
+  "virals_target": 20,
+  "virals_window": "last ~48h",
+  "virals_narrative": "Outsider lane on 20.11 led by @krea_ai at 2,318,713 views (the Krea Bots beta call, promoted-looking). Also clearing: @higgsfield_ai 71,706, @higgsfield_ai 47,826, @higgsfield_ai 36,278, @techhalla 19,846",
+  "patterns": [
+    "Watchlist on 20.11: 2 hits, 1 star - both Gossip_Goblin: 'An important broadcast that you should certainly not skip.' 2:29 video 174,301 (747 bookmarks) and the Artist And The Machine podcast quote 7,976",
+    "Gossip_Goblin's sixth straight day above threshold; the jump back to a finished video (174.3K) after two static screening-vote posts (9.9K/6.2K) confirms video beats calls-to-action for him",
+    "Deadpan, mock-official one-line captions over a long video keep winning on the watchlist (Fur Virus, Carnal Pursuits, now 'important broadcast')",
+    "Near misses: andresvandal 'LA BRUJA Y EL TROLL | DARK FANTASY' (Spanish, 2 videos) 2,060; LudovicCreator 'Share your favorite generation NOT POSTED this week' 1,715; pixelbouncer '2 tone hair' 507",
+    "ChrisGwinnLA and billywoodward posted no originals on 20.11",
+    "Bogdan's best was 'Choas Space Marines! That's the post!' (12-image Seedream 5.5 vs Midjourney carousel) at 3,080, rank 2 of 7 - his best day since 14.11",
+    "Outsider lane: Krea Bots beta 2.32M (promoted-looking), Higgsfield GPU Harness number-first Blender builds (71.7K Miami town, 36.3K Shibuya) + Black Friday promo; organic: TechHalla 'Matrix but it's 1981' 19.8K, Fincher generative-AI discourse (16.2K, 6.5K), el.cine 'AI can remake any film VFX'"
+  ],
+  "no_hits": [
+    {
+      "handle": "@pixelbouncer",
+      "reason": "12 original posts on 2026-11-20; none reached 5,000 views (best 507).",
+      "max_views": 507
+    },
+    {
+      "handle": "@andresvandal",
+      "reason": "1 original posts on 2026-11-20; none reached 5,000 views (best 2,060).",
+      "max_views": 2060
+    },
+    {
+      "handle": "@LudovicCreator",
+      "reason": "5 original posts on 2026-11-20; none reached 5,000 views (best 1,715).",
+      "max_views": 1715
+    },
+    {
+      "handle": "@ChrisGwinnLA",
+      "reason": "0 original posts on 2026-11-20 (only replies/reposts that day).",
+      "max_views": 0
+    },
+    {
+      "handle": "@billywoodward",
+      "reason": "0 original posts on 2026-11-20 (only replies/reposts that day).",
+      "max_views": 0
+    }
+  ],
+  "day_roster": [
+    {
+      "handle": "@Gossip_Goblin",
+      "name": "Gossip Goblin",
+      "views": 174301,
+      "total_views": 182277,
+      "hit": true,
+      "posts": 2,
+      "best_url": "https://x.com/Gossip_Goblin/status/2123815371606012104"
+    },
+    {
+      "handle": "@andresvandal",
+      "name": "Andres Vandal",
+      "views": 2060,
+      "total_views": 2060,
+      "hit": false,
+      "posts": 1,
+      "best_url": "https://x.com/andresvandal/status/2124004625921490954"
+    },
+    {
+      "handle": "@LudovicCreator",
+      "name": "LudovicCreator",
+      "views": 1715,
+      "total_views": 6066,
+      "hit": false,
+      "posts": 5,
+      "best_url": "https://x.com/LudovicCreator/status/2123936935643173120"
+    },
+    {
+      "handle": "@pixelbouncer",
+      "name": "Ƥ!ЖΣLƁΘUNCΣR",
+      "views": 507,
+      "total_views": 3521,
+      "hit": false,
+      "posts": 12,
+      "best_url": "https://x.com/pixelbouncer/status/2123741952675807355"
+    },
+    {
+      "handle": "@ChrisGwinnLA",
+      "name": "Christopher Gwinn | Grindhouse Glitch",
+      "views": 0,
+      "total_views": 0,
+      "hit": false,
+      "posts": 0,
+      "best_url": null
+    },
+    {
+      "handle": "@billywoodward",
+      "name": "Billy Woodward",
+      "views": 0,
+      "total_views": 0,
+      "hit": false,
+      "posts": 0,
+      "best_url": null
+    }
+  ],
+  "you_rank": {
+    "best_views": 3080,
+    "total_views": 6121,
+    "best_url": "https://x.com/SMKP_Films/status/2123785382068142085",
+    "posts": 9,
+    "vs_5k": "pending",
+    "vs_10k": "pending",
+    "rank_among_watchlist": 2,
+    "total_accounts": 7
+  },
+  "narrative_synthesis": "The 48h outsider lane stayed launch-and-campaign heavy. Krea's Bots beta call from 19.11 kept climbing to 2.32M views with only 1,295 likes, the clearest promoted-looking post of the week. Higgsfield owned the middle with its GPU Harness push: \"Claude built a Miami-style town in Blender\" (71.7K, 615 bookmarks) and \"Shibuya Crossing with 9,662 people\" (36.3K) both open on a hard number, next to its Black Friday gift-card promo (47.8K). The organic signals were concept hooks and debate: TechHalla's \"Matrix but it's 1981\" did 19.8K in about six hours on a five-word caption, and the report that David Fincher used generative AI in his Cliff Booth film started a live discourse (Matt Jarbo 16.2K, EvanAboutCinema 6.5K). Craft and tool notes were smaller: el.cine's \"AI can remake any film VFX\", Luma's client-from-hell short \"One Last Change\", Seedream 5.5 and Magnific's one-take variation tutorials. Paid partner posts (Dreamina unlimited Seedance 2.5) barely engaged. On the watchlist, Gossip_Goblin was the whole story: a 2.5-minute \"important broadcast\" video hit 174.3K views and 747 bookmarks, his best since The Fur Virus.",
+  "trend_input_only": [],
+  "trend_input_only_posts": [],
+  "leaderboards": {
+    "as_of": "2026-11-20",
+    "tracking_start": "2026-11-04",
+    "days_included": [
+      "2026-11-14",
+      "2026-11-15",
+      "2026-11-16",
+      "2026-11-17",
+      "2026-11-18",
+      "2026-11-19",
+      "2026-11-20"
+    ],
+    "month_days_included": [
+      "2026-11-04",
+      "2026-11-05",
+      "2026-11-06",
+      "2026-11-07",
+      "2026-11-08",
+      "2026-11-09",
+      "2026-11-10",
+      "2026-11-11",
+      "2026-11-12",
+      "2026-11-13",
+      "2026-11-14",
+      "2026-11-15",
+      "2026-11-16",
+      "2026-11-17",
+      "2026-11-18",
+      "2026-11-19",
+      "2026-11-20"
+    ],
+    "week": {
+      "label": "Rolling week · Nov 14–Nov 20",
+      "range": [
+        "2026-11-14",
+        "2026-11-20"
+      ],
+      "entries": [
+        {
+          "handle": "@Gossip_Goblin",
+          "name": "Gossip Goblin",
+          "hits": 8,
+          "days": 6,
+          "views": 550623,
+          "best": 174301,
+          "best_url": "https://x.com/Gossip_Goblin/status/2123815371606012104"
+        },
+        {
+          "handle": "@ChrisGwinnLA",
+          "name": "Christopher Gwinn | Grindhouse Glitch",
+          "hits": 2,
+          "days": 2,
+          "views": 37737,
+          "best": 23566,
+          "best_url": "https://x.com/ChrisGwinnLA/status/2121834058267156701"
+        }
+      ]
+    },
+    "month": {
+      "label": "November 2026 · from Nov 4",
+      "range": [
+        "2026-11-04",
+        "2026-11-20"
+      ],
+      "entries": [
+        {
+          "handle": "@Gossip_Goblin",
+          "name": "Gossip Goblin",
+          "hits": 21,
+          "days": 12,
+          "views": 1076021,
+          "best": 174301,
+          "best_url": "https://x.com/Gossip_Goblin/status/2123815371606012104"
+        },
+        {
+          "handle": "@LudovicCreator",
+          "name": "LudovicCreator",
+          "hits": 3,
+          "days": 3,
+          "views": 236446,
+          "best": 133926,
+          "best_url": "https://x.com/LudovicCreator/status/2120592485437350268"
+        },
+        {
+          "handle": "@ChrisGwinnLA",
+          "name": "Christopher Gwinn | Grindhouse Glitch",
+          "hits": 5,
+          "days": 5,
+          "views": 60919,
+          "best": 23566,
+          "best_url": "https://x.com/ChrisGwinnLA/status/2121834058267156701"
+        },
+        {
+          "handle": "@andresvandal",
+          "name": "Andres Vandal",
+          "hits": 2,
+          "days": 2,
+          "views": 21164,
+          "best": 15859,
+          "best_url": "https://x.com/andresvandal/status/2120763498250822082"
+        }
+      ]
+    }
+  },
+  "drafts_top10": [
+    {
+      "rank": 1,
+      "id": "2123446229065662954",
+      "handle": "@krea_ai",
+      "views": 2318713,
+      "lane": "outsider"
+    },
+    {
+      "rank": 2,
+      "id": "2123815371606012104",
+      "handle": "@Gossip_Goblin",
+      "views": 174301,
+      "lane": "watchlist"
+    },
+    {
+      "rank": 3,
+      "id": "2123905539063336984",
+      "handle": "@higgsfield_ai",
+      "views": 71706,
+      "lane": "outsider"
+    },
+    {
+      "rank": 4,
+      "id": "2123515658290024532",
+      "handle": "@higgsfield_ai",
+      "views": 47826,
+      "lane": "outsider"
+    },
+    {
+      "rank": 5,
+      "id": "2123844366234177788",
+      "handle": "@higgsfield_ai",
+      "views": 36278,
+      "lane": "outsider"
+    },
+    {
+      "rank": 6,
+      "id": "2124067874872627630",
+      "handle": "@techhalla",
+      "views": 19846,
+      "lane": "outsider"
+    },
+    {
+      "rank": 7,
+      "id": "2123565871817687095",
+      "handle": "@mjarbo",
+      "views": 16159,
+      "lane": "outsider"
+    },
+    {
+      "rank": 8,
+      "id": "2123876139617956129",
+      "handle": "@Gossip_Goblin",
+      "views": 7976,
+      "lane": "watchlist"
+    },
+    {
+      "rank": 9,
+      "id": "2123875791566168423",
+      "handle": "@runwayml",
+      "views": 7976,
+      "lane": "outsider"
+    },
+    {
+      "rank": 10,
+      "id": "2123967886678991128",
+      "handle": "@awesome_visuals",
+      "views": 6632,
+      "lane": "outsider"
+    }
+  ],
+  "trend_keywords": {
+    "date": "2026-11-20",
+    "window": "day D board posts + last-24h posts >= min_views + outsiders + trend-input accounts + pattern brief",
+    "method": "sum(log10 views) over distinct posts x author spread x phrase length x entity/brief bonus; >=2 authors",
+    "keywords": [
+      {
+        "keyword": "video",
+        "rank": 1,
+        "score": 74.3,
+        "posts": 6,
+        "authors": 6
+      },
+      {
+        "keyword": "Higgsfield",
+        "rank": 2,
+        "score": 39.0,
+        "posts": 4,
+        "authors": 2
+      },
+      {
+        "keyword": "Claude",
+        "rank": 3,
+        "score": 35.7,
+        "posts": 4,
+        "authors": 3
+      },
+      {
+        "keyword": "AI video",
+        "rank": 4,
+        "score": 29.7,
+        "posts": 3,
+        "authors": 3
+      },
+      {
+        "keyword": "Higgsfield GPU Harness",
+        "rank": 5,
+        "score": 24.5,
+        "posts": 2,
+        "authors": 1
+      },
+      {
+        "keyword": "Krea",
+        "rank": 6,
+        "score": 22.1,
+        "posts": 2,
+        "authors": 2
+      },
+      {
+        "keyword": "generative AI",
+        "rank": 7,
+        "score": 17.6,
+        "posts": 2,
+        "authors": 2
+      },
+      {
+        "keyword": "Cliff Booth",
+        "rank": 8,
+        "score": 17.6,
+        "posts": 2,
+        "authors": 2
+      },
+      {
+        "keyword": "AI filmmaking",
+        "rank": 9,
+        "score": 17.0,
+        "posts": 2,
+        "authors": 2
+      },
+      {
+        "keyword": "Krea Bots beta",
+        "rank": 10,
+        "score": 16.5,
+        "posts": 1,
+        "authors": 1
+      },
+      {
+        "keyword": "Kling AI",
+        "rank": 11,
+        "score": 15.8,
+        "posts": 2,
+        "authors": 2
+      },
+      {
+        "keyword": "Image",
+        "rank": 12,
+        "score": 15.7,
+        "posts": 2,
+        "authors": 2
+      },
+      {
+        "keyword": "Seedance 2.5",
+        "rank": 13,
+        "score": 15.4,
+        "posts": 2,
+        "authors": 2
+      },
+      {
+        "keyword": "Blender",
+        "rank": 14,
+        "score": 15.3,
+        "posts": 2,
+        "authors": 1
+      },
+      {
+        "keyword": "David",
+        "rank": 15,
+        "score": 13.5,
+        "posts": 2,
+        "authors": 2
+      },
+      {
+        "keyword": "Runway",
+        "rank": 16,
+        "score": 12.8,
+        "posts": 2,
+        "authors": 2
+      },
+      {
+        "keyword": "ChatGPT",
+        "rank": 17,
+        "score": 12.4,
+        "posts": 2,
+        "authors": 2
+      },
+      {
+        "keyword": "Luma",
+        "rank": 18,
+        "score": 12.4,
+        "posts": 2,
+        "authors": 2
+      },
+      {
+        "keyword": "Adobe",
+        "rank": 19,
+        "score": 12.2,
+        "posts": 2,
+        "authors": 2
+      },
+      {
+        "keyword": "agents",
+        "rank": 20,
+        "score": 10.3,
+        "posts": 2,
+        "authors": 2
+      },
+      {
+        "keyword": "model",
+        "rank": 21,
+        "score": 9.4,
+        "posts": 2,
+        "authors": 2
+      },
+      {
+        "keyword": "Dreamina",
+        "rank": 22,
+        "score": 8.5,
+        "posts": 2,
+        "authors": 1
+      },
+      {
+        "keyword": "DreaminaAI",
+        "rank": 23,
+        "score": 8.5,
+        "posts": 2,
+        "authors": 1
+      },
+      {
+        "keyword": "Seedream 5.5",
+        "rank": 24,
+        "score": 7.5,
+        "posts": 1,
+        "authors": 1
+      }
+    ]
+  },
+  "trend_radar": {
+    "date": "2026-11-20",
+    "title": "Trends and post ideas",
+    "window": {
+      "end": "2026-11-21T11:00:00-05:00",
+      "label24": "20.11 11:00 - 21.11 11:00 UTC",
+      "label48": "19.11 11:00 - 21.11 11:00 UTC"
+    },
+    "corpus": {
+      "posts": 13,
+      "min_views": 5000,
+      "lanes": {
+        "watchlist": 2,
+        "outsider": 11,
+        "24h": 0,
+        "trend_input": 0
+      }
+    },
+    "summary": {
+      "top10_line": "TOP-10: 3/10 (30%) matched trends · visual 5, trend 3, author/audience 2",
+      "headline": "5 of 22 board hits (23%) matched 24-48 h trends. Median views: trend 16.2K vs non-trend 4.6K (mean 27.1K vs 153.8K). Watchlist: 0/2 on trend. 14 hits with video, median 5.0K vs 6.6K without.",
+      "takeaway": "Gossip_Goblin's deadpan 'important broadcast' video (174.3K) carried the watchlist; outsiders were Krea's promoted beta call, Higgsfield's number-first Blender builds and the Fincher generative AI debate. Bogdan had his best day since 14.11 (3,080, rank 2 of 7).",
+      "stats": {
+        "all": {
+          "n": 22,
+          "trend_n": 5,
+          "trend_pct": 23,
+          "avg_trend": 27134,
+          "avg_other": 153850,
+          "median_trend": 16159,
+          "median_other": 4645,
+          "verdicts": {
+            "trend": 5,
+            "visual": 15,
+            "author/audience": 2,
+            "coincidence/other": 0
+          }
+        },
+        "watchlist": {
+          "n": 2,
+          "trend_n": 0,
+          "trend_pct": 0,
+          "avg_trend": null,
+          "avg_other": 91138,
+          "median_trend": null,
+          "median_other": 91138,
+          "verdicts": {
+            "trend": 0,
+            "visual": 1,
+            "author/audience": 1,
+            "coincidence/other": 0
+          }
+        },
+        "outsiders": {
+          "n": 20,
+          "trend_n": 5,
+          "trend_pct": 25,
+          "avg_trend": 27134,
+          "avg_other": 162211,
+          "median_trend": 16159,
+          "median_other": 3533,
+          "verdicts": {
+            "trend": 5,
+            "visual": 14,
+            "author/audience": 1,
+            "coincidence/other": 0
+          }
+        },
+        "top10": {
+          "n": 10,
+          "trend_n": 3,
+          "trend_pct": 30,
+          "avg_trend": 41381,
+          "avg_other": 369039,
+          "median_trend": 36278,
+          "median_other": 19846,
+          "verdicts": {
+            "trend": 3,
+            "visual": 5,
+            "author/audience": 2,
+            "coincidence/other": 0
+          }
+        },
+        "media": {
+          "video_n": 14,
+          "median_video": 5004,
+          "other_n": 8,
+          "median_other": 6551
+        }
+      }
+    },
+    "topics": [
+      {
+        "name": "Launch and promo lane",
+        "keywords": [
+          "Higgsfield",
+          "Krea Bots beta"
+        ],
+        "posts_24h": 2,
+        "posts_48h": 5,
+        "views_24h": 107984,
+        "views_prev24h": 2371597,
+        "views_48h": 2479581,
+        "momentum": "cooling x0.64",
+        "heat_raw": 16.79,
+        "evidence": [
+          {
+            "handle": "@krea_ai",
+            "views": 2318713,
+            "url": "https://x.com/krea_ai/status/2123446229065662954",
+            "hook": "Krea Bots beta (from 19.11, still climbing): 50,000+ applications, a new batch of testers gets $100 in credits for a 'creative crew' of bots - now 2.32M views b",
+            "lane": "outsider"
+          },
+          {
+            "handle": "@higgsfield_ai",
+            "views": 71706,
+            "url": "https://x.com/higgsfield_ai/status/2123905539063336984",
+            "hook": "Higgsfield GPU Harness push: 'Claude built a Miami-style town in Blender with 2,538 assets', rendered in Unreal in 74 minutes - 71.7K views, 615 bookmarks (stro",
+            "lane": "outsider"
+          },
+          {
+            "handle": "@higgsfield_ai",
+            "views": 47826,
+            "url": "https://x.com/higgsfield_ai/status/2123515658290024532",
+            "hook": "Higgsfield Black Friday: $100 PlayStation/Xbox gift card with Ultra, up to 64% off, 'only 10,000 gift cards' - 47.8K views, 58 bookmarks (promo, promoted-lookin",
+            "lane": "outsider"
+          }
+        ],
+        "heat": 100
+      },
+      {
+        "name": "Number-first agent builds",
+        "keywords": [
+          "Claude",
+          "Blender",
+          "Higgsfield GPU Harness"
+        ],
+        "posts_24h": 2,
+        "posts_48h": 3,
+        "views_24h": 107984,
+        "views_prev24h": 5058,
+        "views_48h": 113042,
+        "momentum": "up x2.54",
+        "heat_raw": 11.27,
+        "evidence": [
+          {
+            "handle": "@higgsfield_ai",
+            "views": 71706,
+            "url": "https://x.com/higgsfield_ai/status/2123905539063336984",
+            "hook": "Higgsfield GPU Harness push: 'Claude built a Miami-style town in Blender with 2,538 assets', rendered in Unreal in 74 minutes - 71.7K views, 615 bookmarks (stro",
+            "lane": "outsider"
+          },
+          {
+            "handle": "@higgsfield_ai",
+            "views": 36278,
+            "url": "https://x.com/higgsfield_ai/status/2123844366234177788",
+            "hook": "'We built Shibuya Crossing in Blender with Claude': 9,662 people, ~2,200 vehicles, 4,261 buildings from the real street map - 36.3K views, 137 bookmarks.",
+            "lane": "outsider"
+          },
+          {
+            "handle": "@TechByKillian",
+            "views": 5058,
+            "url": "https://x.com/TechByKillian/status/2123611984163938426",
+            "hook": "'120 AI tools worth knowing in 2026' listicle - 5.1K views, 72 reposts (list format, includes video tools).",
+            "lane": "outsider"
+          }
+        ],
+        "heat": 67
+      },
+      {
+        "name": "Deadpan broadcast videos",
+        "keywords": [
+          "video",
+          "AI filmmaking"
+        ],
+        "posts_24h": 0,
+        "posts_48h": 2,
+        "views_24h": 0,
+        "views_prev24h": 21217,
+        "views_48h": 21217,
+        "momentum": "down · previous 24 h only",
+        "heat_raw": 3.96,
+        "evidence": [
+          {
+            "handle": "@mjarbo",
+            "views": 16159,
+            "url": "https://x.com/mjarbo/status/2123565871817687095",
+            "hook": "Matt Jarbo on reports that David Fincher used generative AI in The Further Mis-Adventures of Cliff Booth (plus Netflix's $587M InterPositive buy) - 16.2K views;",
+            "lane": "outsider"
+          },
+          {
+            "handle": "@TechByKillian",
+            "views": 5058,
+            "url": "https://x.com/TechByKillian/status/2123611984163938426",
+            "hook": "'120 AI tools worth knowing in 2026' listicle - 5.1K views, 72 reposts (list format, includes video tools).",
+            "lane": "outsider"
+          }
+        ],
+        "heat": 24
+      },
+      {
+        "name": "Generative AI in Hollywood",
+        "keywords": [
+          "Cliff Booth",
+          "generative AI",
+          "David"
+        ],
+        "posts_24h": 0,
+        "posts_48h": 2,
+        "views_24h": 0,
+        "views_prev24h": 22629,
+        "views_48h": 22629,
+        "momentum": "down · previous 24 h only",
+        "heat_raw": 4.01,
+        "evidence": [
+          {
+            "handle": "@mjarbo",
+            "views": 16159,
+            "url": "https://x.com/mjarbo/status/2123565871817687095",
+            "hook": "Matt Jarbo on reports that David Fincher used generative AI in The Further Mis-Adventures of Cliff Booth (plus Netflix's $587M InterPositive buy) - 16.2K views;",
+            "lane": "outsider"
+          },
+          {
+            "handle": "@EvanAboutCinema",
+            "views": 6470,
+            "url": "https://x.com/EvanAboutCinema/status/2123547281568010671",
+            "hook": "EvanAboutCinema relays NextBestPicture: Fincher's Cliff Booth film 'contains generative AI' that is 'noticeably distracting' - 6.5K views; the news seed of the ",
+            "lane": "outsider"
+          }
+        ],
+        "heat": 24
+      },
+      {
+        "name": "Retro re-imaginings",
+        "keywords": [
+          "video",
+          "AI video"
+        ],
+        "posts_24h": 0,
+        "posts_48h": 1,
+        "views_24h": 0,
+        "views_prev24h": 5058,
+        "views_48h": 5058,
+        "momentum": "down · previous 24 h only",
+        "heat_raw": 1.85,
+        "evidence": [
+          {
+            "handle": "@TechByKillian",
+            "views": 5058,
+            "url": "https://x.com/TechByKillian/status/2123611984163938426",
+            "hook": "'120 AI tools worth knowing in 2026' listicle - 5.1K views, 72 reposts (list format, includes video tools).",
+            "lane": "outsider"
+          }
+        ],
+        "heat": 11
+      }
+    ],
+    "ideas": [
+      {
+        "title": "Hive city by the numbers",
+        "topic": "Higgsfield",
+        "keywords": [
+          "Higgsfield",
+          "AI animation"
+        ],
+        "format": "video",
+        "visual_type": "video",
+        "visual": "12-15s scale reveal: tight on one Guardsman, pull back to a packed hive-city street, on-screen counter of extras and shots.",
+        "angle": "Higgsfield's top two posts both opened on a hard number (2,538 assets; 9,662 people).",
+        "hook_en": "1 prompt. 1 hive city. Count the Guardsmen - AI animation by the numbers, Higgsfield style.",
+        "why": "higgsfield_ai 71,706 and 36,278 views; Higgsfield up x3.97, the top mover in the X keyword sample.",
+        "x_keywords": [
+          "Higgsfield",
+          "AI animation"
+        ],
+        "x_rank": 1,
+        "source": "x-keywords"
+      },
+      {
+        "title": "40K but it's a 1981 VHS trailer",
+        "topic": "Kling",
+        "keywords": [
+          "Kling",
+          "AI filmmaking"
+        ],
+        "format": "video",
+        "visual_type": "video",
+        "visual": "20-30s fake 1981 trailer for a 40K film: film grain, synth score, cheesy title card, generated in Kling or Seedance.",
+        "angle": "TechHalla's 'Matrix but it's 1981' did 19.8K in about six hours on a five-word caption.",
+        "hook_en": "Warhammer 40K, but it came out in 1981. A fake VHS trailer made in Kling - AI filmmaking goes retro.",
+        "why": "techhalla 19,846 views; Kling up x2.68 in the X keyword sample.",
+        "x_keywords": [
+          "Kling",
+          "AI filmmaking"
+        ],
+        "x_rank": 2,
+        "source": "x-keywords"
+      },
+      {
+        "title": "Raw vs final: where AI sits in my film",
+        "topic": "AI filmmaking",
+        "keywords": [
+          "AI filmmaking",
+          "text to video"
+        ],
+        "format": "video",
+        "visual_type": "video",
+        "visual": "15s split screen: raw text to video Seedance shot on the left, graded and edited final on the right.",
+        "angle": "The Fincher generative AI report turned into a live debate; a calm 'here is exactly what AI did' clip rides it without the panic.",
+        "hook_en": "Everyone is arguing about AI in films. Here is exactly what text to video did in mine - AI filmmaking with the raw shots shown.",
+        "why": "mjarbo 16,159 and EvanAboutCinema 6,470 views on the Fincher story; AI filmmaking up x2.53 in the sample.",
+        "x_keywords": [
+          "AI filmmaking",
+          "text to video"
+        ],
+        "x_rank": 3,
+        "source": "x-keywords"
+      },
+      {
+        "title": "Imperial broadcast",
+        "topic": "AI filmmaking",
+        "keywords": [
+          "AI filmmaking",
+          "Seedance"
+        ],
+        "format": "video",
+        "visual_type": "video",
+        "visual": "60-120s in-universe 40K vox-caster bulletin made in Seedance: newsreader servitor, propaganda b-roll, played completely straight.",
+        "angle": "Gossip_Goblin's deadpan 'important broadcast' video was the day's top watchlist post by far.",
+        "hook_en": "An official broadcast from the Imperium, made with Seedance. AI filmmaking, played dead straight - skipping it would be heresy.",
+        "why": "Gossip_Goblin 174,301 views and 747 bookmarks on 20.11; AI filmmaking up x2.53 in the X keyword sample.",
+        "x_keywords": [
+          "AI filmmaking",
+          "Seedance"
+        ],
+        "x_rank": 4,
+        "source": "x-keywords"
+      },
+      {
+        "title": "Inquisitor gives revision notes",
+        "topic": "Grok Imagine",
+        "keywords": [
+          "Grok Imagine",
+          "AI filmmaking"
+        ],
+        "format": "video",
+        "visual_type": "video",
+        "visual": "30s skit: an Inquisitor sends a Techpriest ever-crazier notes on a propaganda reel, each revision rendered worse.",
+        "angle": "Luma's 'One Last Change' client-from-hell short shows the format; swap in 40K characters.",
+        "hook_en": "Just one last change, says the Inquisitor. For the seventh time. A Grok Imagine skit about AI filmmaking revisions.",
+        "why": "Grok Imagine up x2.2 in the X keyword sample; Luma short film 4,645 views.",
+        "x_keywords": [
+          "Grok Imagine",
+          "AI filmmaking"
+        ],
+        "x_rank": 4,
+        "source": "x-keywords"
+      },
+      {
+        "title": "Model sheet to motion",
+        "topic": "ComfyUI",
+        "keywords": [
+          "ComfyUI",
+          "Seedance"
+        ],
+        "format": "carousel",
+        "visual_type": "carousel",
+        "visual": "4-slide carousel: Eisenhorn model sheet, keyframe, motion still, link to the clip.",
+        "angle": "Bogdan's model-sheet and Seedream vs Midjourney posts did his best numbers on 20.11; showing the pipeline earns saves.",
+        "hook_en": "From model sheet to moving Inquisitor in four steps: ComfyUI for the sheet, Seedance for the motion.",
+        "why": "Bogdan's 'Choas Space Marines' carousel 3,080 views; ComfyUI up x2.79 in the X keyword sample.",
+        "x_keywords": [
+          "ComfyUI",
+          "Seedance"
+        ],
+        "x_rank": 6,
+        "source": "x-keywords"
+      }
+    ],
+    "articles": [
+      {
+        "title": "Why deadpan captions win for AI shorts",
+        "thesis": "Gossip_Goblin's biggest posts pair a long video with one dry, mock-official line; context-free framing makes people press play.",
+        "outline": [
+          "The 20.11 broadcast post vs his static screening calls",
+          "Caption length vs views across his week",
+          "How to write a deadpan line for a 40K short",
+          "When it backfires"
+        ],
+        "keywords": [
+          "AI filmmaking",
+          "video"
+        ],
+        "visual": "Cover: a vox-caster screen with the caption; inline: bar chart of his last six days.",
+        "why": "174,301 views on 20.11 vs 9,894 and 6,184 for the static posts on 19.11.",
+        "x_keywords": [
+          "AI filmmaking"
+        ]
+      },
+      {
+        "title": "Fincher, generative AI and the CGI precedent",
+        "thesis": "The Cliff Booth report is the CGI argument again; what indie AI filmmakers should take from it.",
+        "outline": [
+          "What was reported",
+          "The CGI parallel",
+          "Disclosure: show your raw vs final",
+          "What it means for AI shorts"
+        ],
+        "keywords": [
+          "AI filmmaking",
+          "generative AI"
+        ],
+        "visual": "Cover: split frame of a practical shot vs a generated one; inline raw/final pairs from a 40K short.",
+        "why": "mjarbo 16,159, EvanAboutCinema 6,470 views; AI filmmaking up x2.53 in the sample.",
+        "x_keywords": [
+          "AI filmmaking"
+        ]
+      }
+    ],
+    "why_hit": [
+      {
+        "id": "2123815371606012104",
+        "handle": "@Gossip_Goblin",
+        "lane": "watchlist",
+        "views": 174301,
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "followers": 125840,
+        "topic": null,
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2123876139617956129",
+        "handle": "@Gossip_Goblin",
+        "lane": "watchlist",
+        "views": 7976,
+        "trend_match": 0,
+        "verdict": "author/audience",
+        "matched_keywords": [],
+        "media": "text",
+        "followers": 125840,
+        "topic": null,
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2123446229065662954",
+        "handle": "@krea_ai",
+        "lane": "outsider",
+        "views": 2318713,
+        "trend_match": 35,
+        "verdict": "visual",
+        "matched_keywords": [
+          "Krea"
+        ],
+        "media": "video",
+        "followers": 126484,
+        "topic": "Launch and promo lane",
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2123905539063336984",
+        "handle": "@higgsfield_ai",
+        "lane": "outsider",
+        "views": 71706,
+        "trend_match": 58,
+        "verdict": "trend",
+        "matched_keywords": [
+          "Higgsfield",
+          "Claude"
+        ],
+        "media": "video",
+        "followers": 257587,
+        "topic": "Launch and promo lane",
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2123515658290024532",
+        "handle": "@higgsfield_ai",
+        "lane": "outsider",
+        "views": 47826,
+        "trend_match": 35,
+        "verdict": "visual",
+        "matched_keywords": [
+          "Higgsfield"
+        ],
+        "media": "video",
+        "followers": 257587,
+        "topic": "Launch and promo lane",
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2123844366234177788",
+        "handle": "@higgsfield_ai",
+        "lane": "outsider",
+        "views": 36278,
+        "trend_match": 58,
+        "verdict": "trend",
+        "matched_keywords": [
+          "Higgsfield",
+          "Claude"
+        ],
+        "media": "video",
+        "followers": 257587,
+        "topic": "Launch and promo lane",
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2124067874872627630",
+        "handle": "@techhalla",
+        "lane": "outsider",
+        "views": 19846,
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "followers": 103957,
+        "topic": null,
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2123565871817687095",
+        "handle": "@mjarbo",
+        "lane": "outsider",
+        "views": 16159,
+        "trend_match": 67,
+        "verdict": "trend",
+        "matched_keywords": [
+          "generative AI",
+          "Cliff Booth",
+          "David"
+        ],
+        "media": "image",
+        "followers": 20812,
+        "topic": "Deadpan broadcast videos",
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2123875791566168423",
+        "handle": "@runwayml",
+        "lane": "outsider",
+        "views": 7976,
+        "trend_match": 39,
+        "verdict": "author/audience",
+        "matched_keywords": [
+          "Runway",
+          "agents"
+        ],
+        "media": "text",
+        "followers": 297762,
+        "topic": null,
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2123967886678991128",
+        "handle": "@awesome_visuals",
+        "lane": "outsider",
+        "views": 6632,
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "image",
+        "followers": 218611,
+        "topic": null,
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2123547281568010671",
+        "handle": "@EvanAboutCinema",
+        "lane": "outsider",
+        "views": 6470,
+        "trend_match": 67,
+        "verdict": "trend",
+        "matched_keywords": [
+          "generative AI",
+          "Cliff Booth",
+          "David"
+        ],
+        "media": "image",
+        "followers": 10091,
+        "topic": "Generative AI in Hollywood",
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2124081246628438455",
+        "handle": "@EHuanglu",
+        "lane": "outsider",
+        "views": 5362,
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "followers": 152932,
+        "topic": null,
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2123611984163938426",
+        "handle": "@TechByKillian",
+        "lane": "outsider",
+        "views": 5058,
+        "trend_match": 83,
+        "verdict": "trend",
+        "matched_keywords": [
+          "Higgsfield",
+          "Claude",
+          "Krea",
+          "Runway",
+          "agents"
+        ],
+        "media": "image",
+        "followers": 10137,
+        "topic": "Launch and promo lane",
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2123852779366298045",
+        "handle": "@LumaLabsAI",
+        "lane": "outsider",
+        "views": 4645,
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "followers": 196256,
+        "topic": "Number-first agent builds",
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2123853885198536899",
+        "handle": "@dreamina_ai",
+        "lane": "outsider",
+        "views": 3533,
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "followers": 31585,
+        "topic": null,
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2123753832593400276",
+        "handle": "@Nely_Brooks",
+        "lane": "outsider",
+        "views": 3487,
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "followers": 26658,
+        "topic": "Deadpan broadcast videos",
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2123861477090345370",
+        "handle": "@magnific",
+        "lane": "outsider",
+        "views": 3234,
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "followers": 92593,
+        "topic": "Deadpan broadcast videos",
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2123974692440523068",
+        "handle": "@Kling_ai",
+        "lane": "outsider",
+        "views": 3151,
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "image",
+        "followers": 139579,
+        "topic": "Deadpan broadcast videos",
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2123937747689947473",
+        "handle": "@AngryTomtweets",
+        "lane": "outsider",
+        "views": 2963,
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "followers": 149747,
+        "topic": null,
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2124148354141798756",
+        "handle": "@magnific",
+        "lane": "outsider",
+        "views": 2135,
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "image",
+        "followers": 92593,
+        "topic": null,
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2123884091867377713",
+        "handle": "@dreamina_ai",
+        "lane": "outsider",
+        "views": 1857,
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "followers": 31585,
+        "topic": "Deadpan broadcast videos",
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2124131718378430767",
+        "handle": "@Biak3_",
+        "lane": "outsider",
+        "views": 1810,
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "followers": 34002,
+        "topic": "Deadpan broadcast videos",
+        "self_quote": false,
+        "note": ""
+      }
+    ],
+    "labels": {
+      "trend": "trend",
+      "visual": "visual",
+      "author": "author/audience",
+      "other": "coincidence/other",
+      "nontrend": "non-trend",
+      "self_quote": "self-quote",
+      "no_data": "no data"
+    },
+    "x_keywords": {
+      "fetched_at": "2026-11-21T15:40:00+00:00",
+      "window_start": "2026-11-19T15:40:00Z",
+      "calls": 32,
+      "method": "Read-only x MCP search_posts_all, 2 calls per keyword: last 24 h and previous 24 h (24-48 h ago); lang:en, no retweets/replies, sort=relevancy, up to 25 posts per window. This is a SAMPLE of top-relevance posts, not every post on X. Views = impression_count at fetch time. Rank = sum of sampled 24 h views; 48 h = both windows; trend = 24 h sum / previous 24 h sum (up >=1.3, down <=0.7). Fresh posts are still gaining views, so 'up' is understated. Top-post share > 70% means one viral post carries the keyword.",
+      "missing": [],
+      "sample": true,
+      "sample_size_per_call": 25,
+      "keywords": [
+        {
+          "keyword": "Higgsfield",
+          "query": "\"Higgsfield\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 25,
+            "total": 125956,
+            "median": 16,
+            "top": {
+              "views": 114695,
+              "url": "https://x.com/higgsfield_ai/status/2123831379825967126",
+              "handle": "@higgsfield_ai",
+              "text": "Meet Higgsfield GPU Harness in Claude. Rent on-demand GPUs in Claude via Higgsfield MCP to render, run open-weight model"
+            }
+          },
+          "prev24": {
+            "n": 25,
+            "total": 31694,
+            "median": 22,
+            "top": {
+              "views": 20868,
+              "url": "https://x.com/higgsfield_ai/status/2123608280350241070",
+              "handle": "@higgsfield_ai",
+              "text": "A construction worker built entirely in the cloud by Fable 5.2. All it took was Higgsfield MCP in Claude and Higgsfield "
+            }
+          },
+          "w48": {
+            "n": 50,
+            "total": 157650,
+            "top": {
+              "views": 114695,
+              "url": "https://x.com/higgsfield_ai/status/2123831379825967126",
+              "handle": "@higgsfield_ai",
+              "text": "Meet Higgsfield GPU Harness in Claude. Rent on-demand GPUs in Claude via Higgsfield MCP to render, run open-weight model"
+            }
+          },
+          "change": 3.97,
+          "trend": "up",
+          "partial": false,
+          "top_share": 0.91,
+          "rank": 1
+        },
+        {
+          "keyword": "Kling",
+          "query": "\"Kling\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 25,
+            "total": 44115,
+            "median": 49,
+            "top": {
+              "views": 37278,
+              "url": "https://x.com/riyazz_ai/status/2123827104815218732",
+              "handle": "@riyazz_ai",
+              "text": "Would you believe these 4K game environments cost less than $0.10 to generate? MiniMax H3 Image vs. Kling Image 4.0. @Mi"
+            }
+          },
+          "prev24": {
+            "n": 25,
+            "total": 16450,
+            "median": 39,
+            "top": {
+              "views": 10912,
+              "url": "https://x.com/shedoesai/status/2123679184526721263",
+              "handle": "@shedoesai",
+              "text": "Up to 10 keyframes in one AI video. Kling 4.0's Multiple Keyframes lets you guide the important moments instead of leavi"
+            }
+          },
+          "w48": {
+            "n": 50,
+            "total": 60565,
+            "top": {
+              "views": 37278,
+              "url": "https://x.com/riyazz_ai/status/2123827104815218732",
+              "handle": "@riyazz_ai",
+              "text": "Would you believe these 4K game environments cost less than $0.10 to generate? MiniMax H3 Image vs. Kling Image 4.0. @Mi"
+            }
+          },
+          "change": 2.68,
+          "trend": "up",
+          "partial": false,
+          "top_share": 0.85,
+          "rank": 2
+        },
+        {
+          "keyword": "text to video",
+          "query": "\"text to video\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 25,
+            "total": 35230,
+            "median": 83,
+            "top": {
+              "views": 20947,
+              "url": "https://x.com/DanielZambrini/status/2123891957529510012",
+              "handle": "@DanielZambrini",
+              "text": "Gemini 4 Neon vs GPT 6.2 Astra vs Fable 5.2 \"Life in the eyes of a Squirrel\" Despite not being the same price or size, a"
+            }
+          },
+          "prev24": {
+            "n": 25,
+            "total": 62352,
+            "median": 31,
+            "top": {
+              "views": 44637,
+              "url": "https://x.com/zazzy_stardust/status/2123464277336232413",
+              "handle": "@zazzy_stardust",
+              "text": "Uncensored AI videos with sound, free 😳 LTX 2.5 Community Merge &gt; Text-to-video + image-to-video &gt; Audio generatio"
+            }
+          },
+          "w48": {
+            "n": 50,
+            "total": 97582,
+            "top": {
+              "views": 44637,
+              "url": "https://x.com/zazzy_stardust/status/2123464277336232413",
+              "handle": "@zazzy_stardust",
+              "text": "Uncensored AI videos with sound, free 😳 LTX 2.5 Community Merge &gt; Text-to-video + image-to-video &gt; Audio generatio"
+            }
+          },
+          "change": 0.57,
+          "trend": "down",
+          "partial": false,
+          "top_share": 0.59,
+          "rank": 3
+        },
+        {
+          "keyword": "AI filmmaking",
+          "query": "\"AI filmmaking\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 25,
+            "total": 34706,
+            "median": 68,
+            "top": {
+              "views": 10389,
+              "url": "https://x.com/Evelynb7a1/status/2123846004177076405",
+              "handle": "@Evelynb7a1",
+              "text": "One of the biggest challenges in AI filmmaking is maintaining visual consistency across shots. Curious to see how Snowgl"
+            }
+          },
+          "prev24": {
+            "n": 24,
+            "total": 13713,
+            "median": 63,
+            "top": {
+              "views": 10940,
+              "url": "https://x.com/Variety/status/2123461346293395831",
+              "handle": "@Variety",
+              "text": "AI Filmmaking Gets Its Awards Season: The Chroma Awards Return for a Bigger Second Year https://t.co/cP4QMlUy5Q"
+            }
+          },
+          "w48": {
+            "n": 49,
+            "total": 48419,
+            "top": {
+              "views": 10940,
+              "url": "https://x.com/Variety/status/2123461346293395831",
+              "handle": "@Variety",
+              "text": "AI Filmmaking Gets Its Awards Season: The Chroma Awards Return for a Bigger Second Year https://t.co/cP4QMlUy5Q"
+            }
+          },
+          "change": 2.53,
+          "trend": "up",
+          "partial": false,
+          "top_share": 0.3,
+          "rank": 4
+        },
+        {
+          "keyword": "AI animation",
+          "query": "\"AI animation\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 25,
+            "total": 24458,
+            "median": 80,
+            "top": {
+              "views": 19539,
+              "url": "https://x.com/Blazzz27/status/2123933736190226644",
+              "handle": "@Blazzz27",
+              "text": "This AI animation is better than Disney 🔥 Seedance 2.5 https://t.co/GREk5Dm4uo https://t.co/iid5Q8DMZD"
+            }
+          },
+          "prev24": {
+            "n": 24,
+            "total": 38650,
+            "median": 53,
+            "top": {
+              "views": 14821,
+              "url": "https://x.com/imran_hanaf/status/2123667615784792190",
+              "handle": "@imran_hanaf",
+              "text": "This AI animation is better than Disney 🔥 Seedance 2.5 https://t.co/XsDTX68ebF https://t.co/nv0qQff1MW"
+            }
+          },
+          "w48": {
+            "n": 49,
+            "total": 63108,
+            "top": {
+              "views": 19539,
+              "url": "https://x.com/Blazzz27/status/2123933736190226644",
+              "handle": "@Blazzz27",
+              "text": "This AI animation is better than Disney 🔥 Seedance 2.5 https://t.co/GREk5Dm4uo https://t.co/iid5Q8DMZD"
+            }
+          },
+          "change": 0.63,
+          "trend": "down",
+          "partial": false,
+          "top_share": 0.8,
+          "rank": 5
+        },
+        {
+          "keyword": "ComfyUI",
+          "query": "\"ComfyUI\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 25,
+            "total": 17082,
+            "median": 77,
+            "top": {
+              "views": 13228,
+              "url": "https://x.com/ComfyDevs/status/2123909449748512849",
+              "handle": "@ComfyDevs",
+              "text": "We introduced MOSS Image MAX ULTRA HD PRO, the latest post-trained image model from the @ComfyUI research team. MOSS Ima"
+            }
+          },
+          "prev24": {
+            "n": 25,
+            "total": 6132,
+            "median": 43,
+            "top": {
+              "views": 2898,
+              "url": "https://x.com/NO8D_2026/status/2123687074037629193",
+              "handle": "@NO8D_2026",
+              "text": "Test Report : ComfyUI-H3-Image-EasyFix It claims to \"suppress the roughness and blemishes of fine textures on skin, fur,"
+            }
+          },
+          "w48": {
+            "n": 50,
+            "total": 23214,
+            "top": {
+              "views": 13228,
+              "url": "https://x.com/ComfyDevs/status/2123909449748512849",
+              "handle": "@ComfyDevs",
+              "text": "We introduced MOSS Image MAX ULTRA HD PRO, the latest post-trained image model from the @ComfyUI research team. MOSS Ima"
+            }
+          },
+          "change": 2.79,
+          "trend": "up",
+          "partial": false,
+          "top_share": 0.77,
+          "rank": 6
+        },
+        {
+          "keyword": "Runway",
+          "query": "\"Runway\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 25,
+            "total": 16929,
+            "median": 25,
+            "top": {
+              "views": 6191,
+              "url": "https://x.com/PrecisionLabs0/status/2123857912082895158",
+              "handle": "@PrecisionLabs0",
+              "text": "A crosswind landing becomes even more demanding when the runway is surrounded by Alpine terrain and the gusts are pushin"
+            }
+          },
+          "prev24": {
+            "n": 25,
+            "total": 9523,
+            "median": 59,
+            "top": {
+              "views": 4429,
+              "url": "https://x.com/CSMIA_Official/status/2123668519942590968",
+              "handle": "@CSMIA_Official",
+              "text": "#MumbaiAirport successfully concludes its annual post-monsoon runway maintenance. In a calibrated six-hour operation, bo"
+            }
+          },
+          "w48": {
+            "n": 50,
+            "total": 26452,
+            "top": {
+              "views": 6191,
+              "url": "https://x.com/PrecisionLabs0/status/2123857912082895158",
+              "handle": "@PrecisionLabs0",
+              "text": "A crosswind landing becomes even more demanding when the runway is surrounded by Alpine terrain and the gusts are pushin"
+            }
+          },
+          "change": 1.78,
+          "trend": "up",
+          "partial": false,
+          "top_share": 0.37,
+          "rank": 7
+        },
+        {
+          "keyword": "Seedance",
+          "query": "\"Seedance\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 25,
+            "total": 13583,
+            "median": 76,
+            "top": {
+              "views": 10711,
+              "url": "https://x.com/idextratime/status/2124015321728397584",
+              "handle": "@idextratime",
+              "text": "A new angle can change the whole feel of a scene. Dreamina’s Black Friday offer includes unlimited Seedance 2.5 and Seed"
+            }
+          },
+          "prev24": {
+            "n": 25,
+            "total": 11934,
+            "median": 61,
+            "top": {
+              "views": 7431,
+              "url": "https://x.com/TheAlicePatten/status/2123461546299015430",
+              "handle": "@TheAlicePatten",
+              "text": "Working on a product video or a short story? Dreamina’s Black Friday offer includes unlimited Seedance 2.5 and Seedance "
+            }
+          },
+          "w48": {
+            "n": 50,
+            "total": 25517,
+            "top": {
+              "views": 10711,
+              "url": "https://x.com/idextratime/status/2124015321728397584",
+              "handle": "@idextratime",
+              "text": "A new angle can change the whole feel of a scene. Dreamina’s Black Friday offer includes unlimited Seedance 2.5 and Seed"
+            }
+          },
+          "change": 1.14,
+          "trend": "flat",
+          "partial": false,
+          "top_share": 0.79,
+          "rank": 8
+        },
+        {
+          "keyword": "Grok Imagine",
+          "query": "\"Grok Imagine\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 25,
+            "total": 11097,
+            "median": 64,
+            "top": {
+              "views": 6833,
+              "url": "https://x.com/Jason1438282/status/2124056761036329005",
+              "handle": "@Jason1438282",
+              "text": "Generated with @grok imagine https://t.co/08fVT9MIQu"
+            }
+          },
+          "prev24": {
+            "n": 25,
+            "total": 5039,
+            "median": 40,
+            "top": {
+              "views": 1393,
+              "url": "https://x.com/arco0369/status/2123799498509979806",
+              "handle": "@arco0369",
+              "text": "Happy Friday! 🌼 Wishing you an excellent day full of magic✨ We are part of history creating AI art, video and music at t"
+            }
+          },
+          "w48": {
+            "n": 50,
+            "total": 16136,
+            "top": {
+              "views": 6833,
+              "url": "https://x.com/Jason1438282/status/2124056761036329005",
+              "handle": "@Jason1438282",
+              "text": "Generated with @grok imagine https://t.co/08fVT9MIQu"
+            }
+          },
+          "change": 2.2,
+          "trend": "up",
+          "partial": false,
+          "top_share": 0.62,
+          "rank": 9
+        },
+        {
+          "keyword": "image to video",
+          "query": "\"image to video\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 25,
+            "total": 9897,
+            "median": 51,
+            "top": {
+              "views": 4185,
+              "url": "https://x.com/PapaIVRazzi/status/2123839304140996990",
+              "handle": "@PapaIVRazzi",
+              "text": "Try now our app. Amazing telegram bot. Upload your girl’s face. Ai nsfw video generator. Undress your girl or swap face."
+            }
+          },
+          "prev24": {
+            "n": 24,
+            "total": 85134,
+            "median": 48,
+            "top": {
+              "views": 44637,
+              "url": "https://x.com/zazzy_stardust/status/2123464277336232413",
+              "handle": "@zazzy_stardust",
+              "text": "Uncensored AI videos with sound, free 😳 LTX 2.5 Community Merge &gt; Text-to-video + image-to-video &gt; Audio generatio"
+            }
+          },
+          "w48": {
+            "n": 49,
+            "total": 95031,
+            "top": {
+              "views": 44637,
+              "url": "https://x.com/zazzy_stardust/status/2123464277336232413",
+              "handle": "@zazzy_stardust",
+              "text": "Uncensored AI videos with sound, free 😳 LTX 2.5 Community Merge &gt; Text-to-video + image-to-video &gt; Audio generatio"
+            }
+          },
+          "change": 0.12,
+          "trend": "down",
+          "partial": false,
+          "top_share": 0.42,
+          "rank": 10
+        },
+        {
+          "keyword": "short film",
+          "query": "\"short film\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 25,
+            "total": 9722,
+            "median": 19,
+            "top": {
+              "views": 6767,
+              "url": "https://x.com/connorkissy/status/2123881651021529321",
+              "handle": "@connorkissy",
+              "text": "the verizon short film back on the tl always makes me giggle bc my dad is a lifelong verizon employee and he said the sh"
+            }
+          },
+          "prev24": {
+            "n": 25,
+            "total": 181815,
+            "median": 35,
+            "top": {
+              "views": 177393,
+              "url": "https://x.com/DiscussingFilm/status/2123561436173471804",
+              "handle": "@DiscussingFilm",
+              "text": "Joaquin Phoenix stars in a new short film directed by Jonathan Glazer. The short film is for the new line of Intelligent"
+            }
+          },
+          "w48": {
+            "n": 50,
+            "total": 191537,
+            "top": {
+              "views": 177393,
+              "url": "https://x.com/DiscussingFilm/status/2123561436173471804",
+              "handle": "@DiscussingFilm",
+              "text": "Joaquin Phoenix stars in a new short film directed by Jonathan Glazer. The short film is for the new line of Intelligent"
+            }
+          },
+          "change": 0.05,
+          "trend": "down",
+          "partial": false,
+          "top_share": 0.7,
+          "rank": 11
+        },
+        {
+          "keyword": "Sora",
+          "query": "\"Sora\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 25,
+            "total": 8144,
+            "median": 127,
+            "top": {
+              "views": 2417,
+              "url": "https://x.com/dj_baexo/status/2123944366633071099",
+              "handle": "@dj_baexo",
+              "text": "I'm now convinced ZET, ZAI, AYDEN, SORA and TEO are the main dancers of the group. Oh well, what a strong dance line tho"
+            }
+          },
+          "prev24": {
+            "n": 25,
+            "total": 10350,
+            "median": 200,
+            "top": {
+              "views": 2955,
+              "url": "https://x.com/geumkeut/status/2123617441339396482",
+              "handle": "@geumkeut",
+              "text": "Our beautiful Sora 🩵🫂 https://t.co/RYkzQqC2ZZ #西口空良 #에이투오소울 #소라 #A2OSOUL #SORA https://t.co/8gCmgJf5mu"
+            }
+          },
+          "w48": {
+            "n": 50,
+            "total": 18494,
+            "top": {
+              "views": 2955,
+              "url": "https://x.com/geumkeut/status/2123617441339396482",
+              "handle": "@geumkeut",
+              "text": "Our beautiful Sora 🩵🫂 https://t.co/RYkzQqC2ZZ #西口空良 #에이투오소울 #소라 #A2OSOUL #SORA https://t.co/8gCmgJf5mu"
+            }
+          },
+          "change": 0.79,
+          "trend": "flat",
+          "partial": false,
+          "top_share": 0.3,
+          "rank": 12
+        },
+        {
+          "keyword": "anime",
+          "query": "\"anime\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 25,
+            "total": 5353,
+            "median": 34,
+            "top": {
+              "views": 2210,
+              "url": "https://x.com/Niaojirou/status/2124095759016656954",
+              "handle": "@Niaojirou",
+              "text": "It still is lmfao what do you mean😭 Levi/Eren has the most works out of other AoT ships, both on AO3 and pixiv Why are p"
+            }
+          },
+          "prev24": {
+            "n": 25,
+            "total": 46263,
+            "median": 43,
+            "top": {
+              "views": 43106,
+              "url": "https://x.com/itsawful911/status/2123713947157270923",
+              "handle": "@itsawful911",
+              "text": "FOUND ANOTHER FREE ANIME WEBSITE THAT LETS YOU WATCH WITH FRIENDS. 👀😍 Meet KotoPlay an anime streaming platform with mor"
+            }
+          },
+          "w48": {
+            "n": 50,
+            "total": 51616,
+            "top": {
+              "views": 43106,
+              "url": "https://x.com/itsawful911/status/2123713947157270923",
+              "handle": "@itsawful911",
+              "text": "FOUND ANOTHER FREE ANIME WEBSITE THAT LETS YOU WATCH WITH FRIENDS. 👀😍 Meet KotoPlay an anime streaming platform with mor"
+            }
+          },
+          "change": 0.12,
+          "trend": "down",
+          "partial": false,
+          "top_share": 0.41,
+          "rank": 13
+        },
+        {
+          "keyword": "AI video",
+          "query": "\"AI video\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 25,
+            "total": 4380,
+            "median": 24,
+            "top": {
+              "views": 1659,
+              "url": "https://x.com/AyatuAttab55220/status/2123937073606377739",
+              "handle": "@AyatuAttab55220",
+              "text": "The Ai video is more interesting @grok what do you notice about Ai video online? https://t.co/wv6mgZuYLE"
+            }
+          },
+          "prev24": {
+            "n": 25,
+            "total": 14019,
+            "median": 32,
+            "top": {
+              "views": 7474,
+              "url": "https://x.com/Xtep_12/status/2123654283170099272",
+              "handle": "@Xtep_12",
+              "text": "The AI video playground for marketing teams. Arcade turns your idea into polished video in minutes. AI video that looks "
+            }
+          },
+          "w48": {
+            "n": 50,
+            "total": 18399,
+            "top": {
+              "views": 7474,
+              "url": "https://x.com/Xtep_12/status/2123654283170099272",
+              "handle": "@Xtep_12",
+              "text": "The AI video playground for marketing teams. Arcade turns your idea into polished video in minutes. AI video that looks "
+            }
+          },
+          "change": 0.31,
+          "trend": "down",
+          "partial": false,
+          "top_share": 0.38,
+          "rank": 14
+        },
+        {
+          "keyword": "Veo",
+          "query": "\"Veo\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 25,
+            "total": 2043,
+            "median": 17,
+            "top": {
+              "views": 703,
+              "url": "https://x.com/DaniKifi/status/2123980896042991942",
+              "handle": "@DaniKifi",
+              "text": "Los veo en 5min en onlyfans"
+            }
+          },
+          "prev24": {
+            "n": 25,
+            "total": 2455,
+            "median": 30,
+            "top": {
+              "views": 462,
+              "url": "https://x.com/Manchester_FA/status/2123793493009351068",
+              "handle": "@Manchester_FA",
+              "text": "Get a free Veo Cam and save on subscription 📽️ We’ve partnered with Veo to give our members a Black Friday deal with par"
+            }
+          },
+          "w48": {
+            "n": 50,
+            "total": 4498,
+            "top": {
+              "views": 703,
+              "url": "https://x.com/DaniKifi/status/2123980896042991942",
+              "handle": "@DaniKifi",
+              "text": "Los veo en 5min en onlyfans"
+            }
+          },
+          "change": 0.83,
+          "trend": "flat",
+          "partial": false,
+          "top_share": 0.34,
+          "rank": 15
+        },
+        {
+          "keyword": "Midjourney",
+          "query": "\"Midjourney\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 25,
+            "total": 1852,
+            "median": 26,
+            "top": {
+              "views": 284,
+              "url": "https://x.com/DigitalDaizy/status/2124123487610589435",
+              "handle": "@DigitalDaizy",
+              "text": "To Do List✨ #midjourney #grok #thanksgiving #digitalart https://t.co/aCy1FDeXlH"
+            }
+          },
+          "prev24": {
+            "n": 25,
+            "total": 7092,
+            "median": 146,
+            "top": {
+              "views": 1656,
+              "url": "https://x.com/TOX_41/status/2123579122438095223",
+              "handle": "@TOX_41",
+              "text": "Last month, @ciguleva reached out to me, and I'm delighted to share that my artwork will be featured in Issue 42 of Midj"
+            }
+          },
+          "w48": {
+            "n": 50,
+            "total": 8944,
+            "top": {
+              "views": 1656,
+              "url": "https://x.com/TOX_41/status/2123579122438095223",
+              "handle": "@TOX_41",
+              "text": "Last month, @ciguleva reached out to me, and I'm delighted to share that my artwork will be featured in Issue 42 of Midj"
+            }
+          },
+          "change": 0.26,
+          "trend": "down",
+          "partial": false,
+          "top_share": 0.15,
+          "rank": 16
+        }
+      ]
+    },
+    "legend": "Trend match 0-100% = 1 - prod(1 - w) over matched 24 h keywords that another author also used in the 48 h window (w: rank 1-10 0.35, 11-25 0.22, 26-40 0.12, curated 0.20). Verdict: >= 50% -> trend; else video/image in the post data -> visual; else >= 100K followers (outsiders without follower data: >= 500K views, estimate) -> author/audience; else coincidence/other. Missing data shows as 'no data'. Heat = sum log10(views) of topic posts (24 h x1, 24-48 h x0.5), scaled to 100. Momentum = log-views last 24 h / previous 24 h. Trend-input-only accounts feed the corpus but are never shown as hits."
+  }
+}
