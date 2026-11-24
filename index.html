@@ -1063,7 +1063,7 @@ function renderPicker(dates, selected){
   if(!wrap||!sel) return;
   if(!dates||dates.length<2){wrap.hidden=true;return}
   wrap.hidden=false;
-  sel.innerHTML=dates.map(d=>`<option value="${esc(d)}">${esc(formatDayLabel(d))}</option>`).join('');
+  sel.innerHTML=dates.map(d=>`<option value="${esc(d)}"${d===selected?' selected':''}>${esc(formatDayLabel(d))}</option>`).join('');
   if(selected&&dates.includes(selected)) sel.value=selected;
   const i=dates.indexOf(sel.value);
   // dates are newest-first: next (newer) is i-1, prev (older) is i+1
