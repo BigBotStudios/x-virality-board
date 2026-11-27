@@ -1,0 +1,3230 @@
+{
+  "title": "X Virality Score · 2026-11-26",
+  "brand_title": "Grok Bot X Virality Score",
+  "brand_handle": "@SMKP_Films",
+  "operator": {
+    "handle": "SMKP_Films",
+    "name": "Bogdan Orlic",
+    "profile_url": "https://x.com/SMKP_Films"
+  },
+  "timezone": "America/Toronto",
+  "date": "2026-11-26",
+  "updated": "2026-11-27T10:33:56-05:00",
+  "ui": {
+    "default_theme": "night"
+  },
+  "board_features": {
+    "count_up": true,
+    "live_pulse": true,
+    "theme_toggle": true,
+    "themes": [
+      "night",
+      "day"
+    ],
+    "grok_ambient": true,
+    "week_month_boards": true,
+    "day_roster_best_total": true,
+    "day_compare_chart": true,
+    "week_strip": true,
+    "no_hits_reasons": true,
+    "marker_class": "xvs-dash-2026",
+    "top10_drafts_v4": true,
+    "trend_keywords": true,
+    "trend_radar": true,
+    "x_keyword_table": true,
+    "experiment": true,
+    "self_quote_badge": true
+  },
+  "previous_day": {
+    "date": "2026-11-25",
+    "hits_count": 3,
+    "total_views": 49458,
+    "stars": 2,
+    "x_score": 38,
+    "top_hit": null
+  },
+  "hits": [
+    {
+      "id": "2126093452916261082",
+      "name": "Andres Vandal",
+      "display_name": "Andres Vandal",
+      "handle": "@andresvandal",
+      "views": 22698,
+      "views_label": "22,698",
+      "url": "https://x.com/andresvandal/status/2126093452916261082",
+      "created_at": "2026-11-26T23:19:14.000Z",
+      "posted_at": "2026-11-26T23:19:14.000Z",
+      "highlight": true,
+      "text": "Two gold coins for your deepest wish.\nBut the full moon always remembers what you were \n\nMade in Higgsfield\n\n#darkfantasy #fantasia #fairytale #cuentososcuros #AIfilm https://t.co/7nwblnpTtf",
+      "original_en": "Two gold coins for your deepest wish.\nBut the full moon always remembers what you were \n\nMade in Higgsfield\n\n#darkfantasy #fantasia #fairytale #cuentososcuros #AIfilm https://t.co/7nwblnpTtf",
+      "lang": "en",
+      "media": "video 0:56",
+      "likes": 385,
+      "reposts": 31,
+      "bookmarks": 92,
+      "replies": 7,
+      "quotes": 1,
+      "followers_count": 19792,
+      "self_quote": false,
+      "hook": "Dark-fairytale micro-film with a one-line logline hook ('Two gold coins for your deepest wish...') plus 'Made in Higgsfield' and #AIfilm tags - 22,698 views, the watchlist's only hit on a quiet US Thanksgiving day. Story-first caption, not a tool spec.",
+      "video_tip": "Build a 30-45 second dark-fairytale beat: open on a close-up of the bargain object (coins, a ring, a contract), cut to the moonlit consequence, end on one held frame; caption it with a single ominous logline, no specs.",
+      "board_rank": 4,
+      "draft_en": "A wish costs two gold coins. The catch: the full moon never forgets who you used to be.\n\nA dark fairytale from andresvandal, built in Higgsfield - proof an AI short film lives or dies on its logline.",
+      "draft_keywords": [
+        "Higgsfield",
+        "AI short film"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.0,
+        "word_overlap": 0.35,
+        "max_copied_run": 3
+      },
+      "top10_rank": 4,
+      "why_hit": {
+        "trend_match": 35,
+        "verdict": "visual",
+        "matched_keywords": [
+          "Higgsfield"
+        ],
+        "media": "video",
+        "note": "",
+        "topic": "MAGI-2 craft demos on Higgsfield"
+      }
+    }
+  ],
+  "hits_count": 1,
+  "outsiders": [
+    {
+      "id": "2125661388395999651",
+      "name": "Lex",
+      "display_name": "Lex",
+      "handle": "@lexx_aura",
+      "views": 173696,
+      "views_label": "173,696",
+      "url": "https://x.com/lexx_aura/status/2125661388395999651",
+      "created_at": "2026-11-25T18:42:22.000Z",
+      "posted_at": "2026-11-25T18:42:22.000Z",
+      "text": "This AI Animation is absolutely amazing 🔥\n\nSeedance 2.5 https://t.co/CXvuZtGn0t",
+      "original_en": "This AI Animation is absolutely amazing 🔥\n\nSeedance 2.5 https://t.co/CXvuZtGn0t",
+      "lang": "en",
+      "hook": "Copy-paste 'This AI animation is absolutely amazing / better than Disney' + Seedance 2.5 template: 173,696 views, 4,915 likes, 1,555 bookmarks - the same caption ran on several accounts within 48h.",
+      "video_tip": "Post your single strongest 10-20s animated shot with a one-line superlative and the model name; the clip must carry it, so open on motion, not a title card.",
+      "media": "video",
+      "followers_count": 27092,
+      "likes": 4915,
+      "reposts": 573,
+      "bookmarks": 1555,
+      "replies": 79,
+      "quotes": 33,
+      "self_quote": false,
+      "board_rank": 1,
+      "draft_en": "Seedance 2.5 is putting out AI Animation that looks absolutely stunning. Watch this one through and tell me it does not hold up.",
+      "draft_keywords": [
+        "Seedance 2.5",
+        "AI Animation"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.0,
+        "word_overlap": 0.4,
+        "max_copied_run": 2
+      },
+      "top10_rank": 1
+    },
+    {
+      "id": "2125661239884071372",
+      "name": "P̶i̶S̶ Rozwój+4Ever",
+      "display_name": "P̶i̶S̶ Rozwój+4Ever",
+      "handle": "@PiSForever44",
+      "views": 31393,
+      "views_label": "31,393",
+      "url": "https://x.com/PiSForever44/status/2125661239884071372",
+      "created_at": "2026-11-25T18:41:47.000Z",
+      "posted_at": "2026-11-25T18:41:47.000Z",
+      "text": "This AI animation is better than Disney 🔥 \n\nSnussolini 2.5\nhttps://t.co/DRFP0SKC9C https://t.co/875iwMFGIo",
+      "original_en": "This AI animation is better than Disney 🔥 \n\nSnussolini 2.5\nhttps://t.co/DRFP0SKC9C https://t.co/875iwMFGIo",
+      "lang": "en",
+      "hook": "Same 'better than Disney' template, posted one minute after lexx_aura's, on a 1.4K-follower account: 31,393 views. Template wave, not an organic one-off.",
+      "video_tip": "If you ride a caption template, make the clip clearly yours: a 15s character moment from your own world (a 40K servitor, a sci-fi skit lead) instead of a generic showcase.",
+      "media": "video",
+      "followers_count": 1429,
+      "likes": 695,
+      "reposts": 30,
+      "bookmarks": 128,
+      "replies": 2,
+      "quotes": 3,
+      "self_quote": false,
+      "board_rank": 2,
+      "draft_en": "Better than Disney? That is the claim riding on this AI Animation, credited to 'Snussolini 2.5'. Watch the video and judge it yourself.",
+      "draft_keywords": [
+        "AI Animation",
+        "video"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.0,
+        "word_overlap": 0.455,
+        "max_copied_run": 3
+      },
+      "top10_rank": 2
+    },
+    {
+      "id": "2125650920604357103",
+      "name": "K",
+      "display_name": "K",
+      "handle": "@ChillaiKalan__",
+      "views": 29901,
+      "views_label": "29,901",
+      "url": "https://x.com/ChillaiKalan__/status/2125650920604357103",
+      "created_at": "2026-11-25T18:00:46.000Z",
+      "posted_at": "2026-11-25T18:00:46.000Z",
+      "text": "Testing the new MAGI-2 model on Higgsfield, and the video quality is impressive.\n\nWhat makes it even better? High-quality generations at just $0.08/sec, with support for videos up to 30 seconds in 1080p.\n\nDefinitely worth experimenting with.\n\nMade with MAGI-2 on Higgsfield https://t.co/rwr6BY9bB9",
+      "original_en": "Testing the new MAGI-2 model on Higgsfield, and the video quality is impressive.\n\nWhat makes it even better? High-quality generations at just $0.08/sec, with support for videos up to 30 seconds in 1080p.\n\nDefinitely worth experimenting with.\n\nMade with MAGI-2 on Higgsfield https://t.co/rwr6BY9bB9",
+      "lang": "en",
+      "hook": "Paid-partnership MAGI-2 test with the standard spec line ($0.08/sec, up to 30s 1080p): 29,901 views, 221 bookmarks.",
+      "video_tip": "Show one uninterrupted 30-second shot and put the cost per second on screen as a small lower-third; let viewers count the seconds.",
+      "media": "video",
+      "followers_count": 15813,
+      "likes": 273,
+      "reposts": 6,
+      "bookmarks": 221,
+      "replies": 18,
+      "quotes": 0,
+      "self_quote": false,
+      "board_rank": 3,
+      "draft_en": "$0.08/sec for high-quality generations. That is what the new MAGI-2 model costs on Higgsfield, and the video quality in these tests is impressive.\n\nClips run up to 30 seconds, in 1080p.\n\nIf you make AI video, it deserves a few test runs.",
+      "draft_keywords": [
+        "MAGI-2",
+        "model",
+        "Higgsfield",
+        "video"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.179,
+        "word_overlap": 0.611,
+        "max_copied_run": 6
+      },
+      "top10_rank": 3
+    },
+    {
+      "id": "2125719279614222422",
+      "name": "Higgsfield AI 🧩",
+      "display_name": "Higgsfield AI 🧩",
+      "handle": "@higgsfield_ai",
+      "views": 9605,
+      "views_label": "9,605",
+      "url": "https://x.com/higgsfield_ai/status/2125719279614222422",
+      "created_at": "2026-11-25T22:32:24.000Z",
+      "posted_at": "2026-11-25T22:32:24.000Z",
+      "text": "This is how MAGI-2 handles darkness.\n\nMAGI-2 lights this whole short with a single candle and keeps metric depth consistent from extreme close-ups to deep wide shots.\n\nAvailable now exclusively on Higgsfield. https://t.co/wNClIVNEXy https://t.co/IX1kyyzyl3",
+      "original_en": "This is how MAGI-2 handles darkness.\n\nMAGI-2 lights this whole short with a single candle and keeps metric depth consistent from extreme close-ups to deep wide shots.\n\nAvailable now exclusively on Higgsfield. https://t.co/wNClIVNEXy https://t.co/IX1kyyzyl3",
+      "lang": "en",
+      "hook": "Higgsfield's own demo: a short lit by a single candle with consistent depth from close-up to wide - 9,605 views. Lighting challenge as the hook.",
+      "video_tip": "Do a single-light-source test: one candle or one neon sign, three shots (extreme close-up, medium, wide), same lighting logic throughout.",
+      "media": "video",
+      "followers_count": 258508,
+      "likes": 66,
+      "reposts": 4,
+      "bookmarks": 26,
+      "replies": 5,
+      "quotes": 1,
+      "self_quote": false,
+      "board_rank": 5,
+      "draft_en": "One candle. That is the only light in this entire short, and MAGI-2 handles it - depth stays metrically consistent whether the frame is an extreme close-up or a deep wide.\n\nThe model is out now, only on Higgsfield.",
+      "draft_keywords": [
+        "MAGI-2 handles",
+        "MAGI-2",
+        "model",
+        "Higgsfield"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.0,
+        "word_overlap": 0.556,
+        "max_copied_run": 2
+      },
+      "top10_rank": 5
+    },
+    {
+      "id": "2125680049101979836",
+      "name": "Higgsfield AI 🧩",
+      "display_name": "Higgsfield AI 🧩",
+      "handle": "@higgsfield_ai",
+      "views": 8836,
+      "views_label": "8,836",
+      "url": "https://x.com/higgsfield_ai/status/2125680049101979836",
+      "created_at": "2026-11-25T19:56:31.000Z",
+      "posted_at": "2026-11-25T19:56:31.000Z",
+      "text": "Blender previs against the final MAGI-2 shots.\n\nNow you can create high-quality cinematic shots with just Blender and MAGI-2.\n\nTry it on Higgsfield and via Higgsfield API. https://t.co/EUyBBITZDK https://t.co/m78LUfD8JK",
+      "original_en": "Blender previs against the final MAGI-2 shots.\n\nNow you can create high-quality cinematic shots with just Blender and MAGI-2.\n\nTry it on Higgsfield and via Higgsfield API. https://t.co/EUyBBITZDK https://t.co/m78LUfD8JK",
+      "lang": "en",
+      "hook": "Blender previs vs final MAGI-2 shots, brand demo: 8,836 views. The previs-to-final format keeps showing up.",
+      "video_tip": "Split-screen 15-20s: grey blockout or rough storyboard on the left, final render on the right, cut on the same beats.",
+      "media": "video",
+      "followers_count": 258508,
+      "likes": 46,
+      "reposts": 4,
+      "bookmarks": 15,
+      "replies": 7,
+      "quotes": 1,
+      "self_quote": false,
+      "board_rank": 6,
+      "draft_en": "Rough Blender previs on one side, finished MAGI-2 footage on the other. That pairing alone now gets you cinematic, high-quality shots.\n\nAvailable on Higgsfield, and through the Higgsfield API too.",
+      "draft_keywords": [
+        "Blender previs",
+        "MAGI-2",
+        "Higgsfield"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.0,
+        "word_overlap": 0.5,
+        "max_copied_run": 3
+      },
+      "top10_rank": 6
+    },
+    {
+      "id": "2125702616172875872",
+      "name": "Higgsfield AI 🧩",
+      "display_name": "Higgsfield AI 🧩",
+      "handle": "@higgsfield_ai",
+      "views": 8674,
+      "views_label": "8,674",
+      "url": "https://x.com/higgsfield_ai/status/2125702616172875872",
+      "created_at": "2026-11-25T21:26:11.000Z",
+      "posted_at": "2026-11-25T21:26:11.000Z",
+      "text": "With MAGI-2, you can bring your sketches to life as high-quality animation.\n\nDraw the key poses, add your timing notes, and MAGI-2 handles color, light and motion.\n\nTry it now, exclusively on Higgsfield. https://t.co/QndLkWg2p4 https://t.co/IX1kyyzyl3",
+      "original_en": "With MAGI-2, you can bring your sketches to life as high-quality animation.\n\nDraw the key poses, add your timing notes, and MAGI-2 handles color, light and motion.\n\nTry it now, exclusively on Higgsfield. https://t.co/QndLkWg2p4 https://t.co/IX1kyyzyl3",
+      "lang": "en",
+      "hook": "Sketch-to-animation pitch (draw key poses, add timing notes, the model handles color, light, motion): 8,674 views.",
+      "video_tip": "Film your paper keyframes for 3 seconds, then hard-cut to the animated result; repeat for two poses.",
+      "media": "video",
+      "followers_count": 258508,
+      "likes": 69,
+      "reposts": 5,
+      "bookmarks": 21,
+      "replies": 4,
+      "quotes": 1,
+      "self_quote": false,
+      "board_rank": 7,
+      "draft_en": "Sketch the key poses. Jot down your timing notes. MAGI-2 handles the rest - color, light, motion - and turns rough drawings into polished animation.\n\nOnly on Higgsfield, live now.",
+      "draft_keywords": [
+        "MAGI-2 handles",
+        "MAGI-2",
+        "Higgsfield"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.0,
+        "word_overlap": 0.579,
+        "max_copied_run": 3
+      },
+      "top10_rank": 7
+    },
+    {
+      "id": "2126239954049413246",
+      "name": "Stable Diffusion Tutorials",
+      "display_name": "Stable Diffusion Tutorials",
+      "handle": "@SD_Tutorial",
+      "views": 2914,
+      "views_label": "2,914",
+      "url": "https://x.com/SD_Tutorial/status/2126239954049413246",
+      "created_at": "2026-11-27T09:01:23.000Z",
+      "posted_at": "2026-11-27T09:01:23.000Z",
+      "text": "Minimax-H3 😃 Text Encoders PK\n\n-Use modern LLM/VLMs ComfyUI-native text encoders (Qwen 3.5 0.8B/ 2B / 4B / 9B, Qwen 3.8 27B, Gemma 4)\n\n-as conditioning encoder for  (T2VA / Image-to-Video, FL2VA, and Ref2VA) in ComfyUI — zero gradient training, zero LoRA\n\nhttps://t.co/11GJfpgMFJ",
+      "original_en": "Minimax-H3 😃 Text Encoders PK\n\n-Use modern LLM/VLMs ComfyUI-native text encoders (Qwen 3.5 0.8B/ 2B / 4B / 9B, Qwen 3.8 27B, Gemma 4)\n\n-as conditioning encoder for  (T2VA / Image-to-Video, FL2VA, and Ref2VA) in ComfyUI — zero gradient training, zero LoRA\n\nhttps://t.co/11GJfpgMFJ",
+      "lang": "en",
+      "hook": "ComfyUI tooling news (Minimax-H3 with native LLM text encoders, no LoRA training) as a tight bullet post: 2,914 views, 64 bookmarks - more saves than likes.",
+      "video_tip": "Screen-record your node graph for 10s, then show the output it produced; overlay the two settings that mattered.",
+      "media": "text",
+      "followers_count": 13999,
+      "likes": 34,
+      "reposts": 1,
+      "bookmarks": 64,
+      "replies": 1,
+      "quotes": 0,
+      "self_quote": false,
+      "board_rank": 8,
+      "draft_en": "No gradient training, no LoRA. Minimax-H3 Text Encoders PK lets modern LLM and VLM text encoders, native to ComfyUI, act as the conditioning encoder - pick Gemma 4, Qwen 3.8 27B, or the Qwen 3.5 family in 0.8B, 2B, 4B and 9B sizes.\n\nWorks across T2VA, Image-to-Video, FL2VA and Ref2VA video pipelines. Link in the original post.",
+      "draft_keywords": [
+        "ComfyUI",
+        "video"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.057,
+        "word_overlap": 0.588,
+        "max_copied_run": 5
+      },
+      "top10_rank": 8
+    },
+    {
+      "id": "2125897686448840957",
+      "name": "Testlabor",
+      "display_name": "Testlabor",
+      "handle": "@testerlabor",
+      "views": 2699,
+      "views_label": "2,699",
+      "url": "https://x.com/testerlabor/status/2125897686448840957",
+      "created_at": "2026-11-26T10:21:20.000Z",
+      "posted_at": "2026-11-26T10:21:20.000Z",
+      "text": "The last sentence Grok says here about Grok Imagine is very significant: “Resources shifted toward coding tools and agents, but generation still works.” Let's see how long this “still” lasts before Grok Imagine disappears entirely as a standalone tool. https://t.co/75P0TVxJwu",
+      "original_en": "The last sentence Grok says here about Grok Imagine is very significant: “Resources shifted toward coding tools and agents, but generation still works.” Let's see how long this “still” lasts before Grok Imagine disappears entirely as a standalone tool. https://t.co/75P0TVxJwu",
+      "lang": "en",
+      "hook": "Speculation post on Grok Imagine's future, quoting Grok's own reply ('resources shifted toward coding tools and agents, but generation still works'): 2,699 views.",
+      "video_tip": "Keep it text plus one screenshot; if you reply to this topic, add a 10s clip you made in Grok Imagine this week as proof it still works.",
+      "media": "photo",
+      "followers_count": 14756,
+      "likes": 54,
+      "reposts": 4,
+      "bookmarks": 1,
+      "replies": 13,
+      "quotes": 0,
+      "self_quote": false,
+      "board_rank": 9,
+      "draft_en": "Grok's own answer about Grok Imagine ends on a telling line: effort has moved over to coding tools and agents, yet generation keeps working.\n\nWatch that word 'still'. How long before Grok Imagine stops existing as a standalone video tool?",
+      "draft_keywords": [
+        "video"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.027,
+        "word_overlap": 0.375,
+        "max_copied_run": 4
+      },
+      "top10_rank": 9
+    },
+    {
+      "id": "2126034459304583616",
+      "name": "Ingi Erlingsson 🪄",
+      "display_name": "Ingi Erlingsson 🪄",
+      "handle": "@ingi_erlingsson",
+      "views": 1914,
+      "views_label": "1,914",
+      "url": "https://x.com/ingi_erlingsson/status/2126034459304583616",
+      "created_at": "2026-11-26T19:24:49.000Z",
+      "posted_at": "2026-11-26T19:24:49.000Z",
+      "text": "antisocial media\n\nMidjourney / ComfyUI / After Effects / Wan 2.2 / SYSTMS nodes: HUD + MOSH + DELTA + SHIMMER / Claude Code / Suno https://t.co/ejuUYx7Ife",
+      "original_en": "antisocial media\n\nMidjourney / ComfyUI / After Effects / Wan 2.2 / SYSTMS nodes: HUD + MOSH + DELTA + SHIMMER / Claude Code / Suno https://t.co/ejuUYx7Ife",
+      "lang": "en",
+      "hook": "Experimental art piece with the full tool stack listed (Midjourney / ComfyUI / After Effects / Wan 2.2 / Claude Code / Suno): 1,914 views.",
+      "video_tip": "End your clip with a 2-second stack card listing every tool; viewers save stack lists.",
+      "media": "video",
+      "followers_count": 17343,
+      "likes": 65,
+      "reposts": 3,
+      "bookmarks": 19,
+      "replies": 5,
+      "quotes": 1,
+      "self_quote": false,
+      "board_rank": 10,
+      "draft_en": "'antisocial media' - a short video piece from ingi_erlingsson, and the stack is half the story.\n\nThe full list: Midjourney, ComfyUI running SYSTMS nodes (HUD, MOSH, DELTA, SHIMMER), Wan 2.2, After Effects, Claude Code and Suno.",
+      "draft_keywords": [
+        "video",
+        "ComfyUI",
+        "Code"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.091,
+        "word_overlap": 0.593,
+        "max_copied_run": 6
+      },
+      "top10_rank": 10
+    },
+    {
+      "id": "2126297459467198539",
+      "name": "Nelly;",
+      "display_name": "Nelly;",
+      "handle": "@nrqa__",
+      "views": 1757,
+      "views_label": "1,757",
+      "url": "https://x.com/nrqa__/status/2126297459467198539",
+      "created_at": "2026-11-27T12:49:53.000Z",
+      "posted_at": "2026-11-27T12:49:53.000Z",
+      "text": "me: I just want my AI short film to cut together..\n\nthe reroll: new face. different light. the cart's somewhere else now\n\nthis one gets continuity right. close-ups, wides, a top-down at the end, and it still plays like one film..\n\nthat's my bar for AI filmmaking. one good-looking https://t.co/ucld2ErepN https://t.co/NYFeeftOmQ",
+      "original_en": "me: I just want my AI short film to cut together..\n\nthe reroll: new face. different light. the cart's somewhere else now\n\nthis one gets continuity right. close-ups, wides, a top-down at the end, and it still plays like one film..\n\nthat's my bar for AI filmmaking. one good-looking https://t.co/ucld2ErepN https://t.co/NYFeeftOmQ",
+      "lang": "en",
+      "hook": "Relatable reroll pain ('new face, different light, the cart's somewhere else') then a clip that holds continuity across close-ups, wides and a top-down: 1,757 views on a 76K account.",
+      "video_tip": "Cut a 20s sequence with three angles of the same scene and keep character, light and props locked; caption the pain first, the fix second.",
+      "media": "video",
+      "followers_count": 76334,
+      "likes": 96,
+      "reposts": 9,
+      "bookmarks": 34,
+      "replies": 9,
+      "quotes": 7,
+      "self_quote": false,
+      "board_rank": 11
+    },
+    {
+      "id": "2125886174799737153",
+      "name": "E.R. Music",
+      "display_name": "E.R. Music",
+      "handle": "@E_R_music138562",
+      "views": 1493,
+      "views_label": "1,493",
+      "url": "https://x.com/E_R_music138562/status/2125886174799737153",
+      "created_at": "2026-11-26T09:35:35.000Z",
+      "posted_at": "2026-11-26T09:35:35.000Z",
+      "text": "AI Music Video: Slay Ride\nhttps://t.co/QoDi6CGqMO https://t.co/fwSVoxe0im",
+      "original_en": "AI Music Video: Slay Ride\nhttps://t.co/QoDi6CGqMO https://t.co/fwSVoxe0im",
+      "lang": "en",
+      "hook": "Bare 'AI Music Video: Slay Ride' title plus link: 1,493 views, 68 likes from a 1.2K account - seasonal song timing.",
+      "video_tip": "Cut a 15s vertical teaser on the chorus with a holiday visual twist; link the full video in the post.",
+      "media": "video",
+      "followers_count": 1213,
+      "likes": 68,
+      "reposts": 16,
+      "bookmarks": 17,
+      "replies": 4,
+      "quotes": 0,
+      "self_quote": false,
+      "board_rank": 12
+    },
+    {
+      "id": "2125633352246116541",
+      "name": "Jan",
+      "display_name": "Jan",
+      "handle": "@janmexico",
+      "views": 1461,
+      "views_label": "1,461",
+      "url": "https://x.com/janmexico/status/2125633352246116541",
+      "created_at": "2026-11-25T16:50:58.000Z",
+      "posted_at": "2026-11-25T16:50:58.000Z",
+      "text": "Made with MAGI-2 on @Higgsfield #HiggsfieldPartner \nMAGI-2 by @sandai_hq thanks bros @PeterKL87 @Miriann_24 for the amazing workshop ! https://t.co/SUiG6T7NjH",
+      "original_en": "Made with MAGI-2 on @Higgsfield #HiggsfieldPartner \nMAGI-2 by @sandai_hq thanks bros @PeterKL87 @Miriann_24 for the amazing workshop ! https://t.co/SUiG6T7NjH",
+      "lang": "en",
+      "hook": "Partner post crediting a MAGI-2 workshop and collaborators: 1,461 views from a 165K account - low for the size.",
+      "video_tip": "Credits alone do not carry a post; lead with your best 3 seconds and put the thanks in the second line.",
+      "media": "video",
+      "followers_count": 165357,
+      "likes": 29,
+      "reposts": 3,
+      "bookmarks": 4,
+      "replies": 4,
+      "quotes": 1,
+      "self_quote": false,
+      "board_rank": 13
+    },
+    {
+      "id": "2125695232398209523",
+      "name": "Manu",
+      "display_name": "Manu",
+      "handle": "@manushak17",
+      "views": 1207,
+      "views_label": "1,207",
+      "url": "https://x.com/manushak17/status/2125695232398209523",
+      "created_at": "2026-11-25T20:56:51.000Z",
+      "posted_at": "2026-11-25T20:56:51.000Z",
+      "text": "Putting MAGI-2 to the test with fight scenes.\n\nCreated with MAGI-2 at Higgsfield https://t.co/vGF5USxKGr",
+      "original_en": "Putting MAGI-2 to the test with fight scenes.\n\nCreated with MAGI-2 at Higgsfield https://t.co/vGF5USxKGr",
+      "lang": "en",
+      "hook": "MAGI-2 fight-scene stress test (paid partnership): 1,207 views, 72 likes on a 4K account.",
+      "video_tip": "Make a 10-15s fight beat with one clear impact moment; slow it down for the hit, then snap back to speed.",
+      "media": "video",
+      "followers_count": 4177,
+      "likes": 72,
+      "reposts": 7,
+      "bookmarks": 7,
+      "replies": 23,
+      "quotes": 1,
+      "self_quote": false,
+      "board_rank": 14
+    },
+    {
+      "id": "2125960363590177121",
+      "name": "Yanhua",
+      "display_name": "Yanhua",
+      "handle": "@yanhua1010",
+      "views": 1077,
+      "views_label": "1,077",
+      "url": "https://x.com/yanhua1010/status/2125960363590177121",
+      "created_at": "2026-11-26T14:30:23.000Z",
+      "posted_at": "2026-11-26T14:30:23.000Z",
+      "text": "Stop rewatching a Reel 5 times just to write down the hook.\n\nI built ReelToScript：paste any short video link and get every spoken word as a clean, timestamped script in seconds:\n\n• Instagram Reels, TikTok, Shorts, X &amp; FB Ad Library\n• Copy in 1 click or export TXT, SRT &amp; VTT\n• https://t.co/qH4PwRKxvJ",
+      "original_en": "Stop rewatching a Reel 5 times just to write down the hook.\n\nI built ReelToScript：paste any short video link and get every spoken word as a clean, timestamped script in seconds:\n\n• Instagram Reels, TikTok, Shorts, X &amp; FB Ad Library\n• Copy in 1 click or export TXT, SRT &amp; VTT\n• https://t.co/qH4PwRKxvJ",
+      "lang": "en",
+      "hook": "Tool launch for creators (ReelToScript: any short-video link to a timestamped script, SRT/VTT export): 1,077 views.",
+      "video_tip": "Show a 10s screen capture: paste link, script appears, one-click export; no voiceover needed.",
+      "media": "video",
+      "followers_count": 39050,
+      "likes": 7,
+      "reposts": 0,
+      "bookmarks": 1,
+      "replies": 4,
+      "quotes": 0,
+      "self_quote": false,
+      "board_rank": 15
+    },
+    {
+      "id": "2125971144180163042",
+      "name": "delost",
+      "display_name": "delost",
+      "handle": "@thedelost",
+      "views": 1031,
+      "views_label": "1,031",
+      "url": "https://x.com/thedelost/status/2125971144180163042",
+      "created_at": "2026-11-26T15:13:14.000Z",
+      "posted_at": "2026-11-26T15:13:14.000Z",
+      "text": "I cancelled $638 a month of AI subscriptions last week.\n\nHere's the free, open-source stack that replaced every one of them, line by line:\n\nCursor ($20/mo) → Cline\nthe same autonomous coding, free inside VS Code\nhttps://t.co/dUiiktsEJN\n\nChatGPT Plus ($20/mo) → Ollama\nrun the https://t.co/4in4nPesl4 https://t.co/aq0T9BDsJb",
+      "original_en": "I cancelled $638 a month of AI subscriptions last week.\n\nHere's the free, open-source stack that replaced every one of them, line by line:\n\nCursor ($20/mo) → Cline\nthe same autonomous coding, free inside VS Code\nhttps://t.co/dUiiktsEJN\n\nChatGPT Plus ($20/mo) → Ollama\nrun the https://t.co/4in4nPesl4 https://t.co/aq0T9BDsJb",
+      "lang": "en",
+      "hook": "'I cancelled $638/month of AI subscriptions' open-source stack list thread: 1,031 views, 17 bookmarks.",
+      "video_tip": "Make a 20s 'my stack' video: each paid tool on screen for 2s, crossed out, replaced by what you use instead.",
+      "media": "video",
+      "followers_count": 5777,
+      "likes": 23,
+      "reposts": 0,
+      "bookmarks": 17,
+      "replies": 4,
+      "quotes": 0,
+      "self_quote": false,
+      "board_rank": 16
+    },
+    {
+      "id": "2125772237605077065",
+      "name": "©Sky",
+      "display_name": "©Sky",
+      "handle": "@Starkapoo",
+      "views": 965,
+      "views_label": "965",
+      "url": "https://x.com/Starkapoo/status/2125772237605077065",
+      "created_at": "2026-11-26T02:02:51.000Z",
+      "posted_at": "2026-11-26T02:02:51.000Z",
+      "text": "Bending perception with MAGI-2 on Higgsfield. \n\nIntricate optical illusions come alive through fluid transformations, hypnotic motion, and consistent architectural geometry. MAGI-2 brings complex visual patterns into motion while preserving the immersive depth and symmetry of an https://t.co/XIRTK6gWi2",
+      "original_en": "Bending perception with MAGI-2 on Higgsfield. \n\nIntricate optical illusions come alive through fluid transformations, hypnotic motion, and consistent architectural geometry. MAGI-2 brings complex visual patterns into motion while preserving the immersive depth and symmetry of an https://t.co/XIRTK6gWi2",
+      "lang": "en",
+      "hook": "Optical-illusion transformation clip on MAGI-2 (paid partnership): 965 views.",
+      "video_tip": "Do a 10s seamless morph loop where architecture folds into itself; make the last frame match the first.",
+      "media": "video",
+      "followers_count": 5142,
+      "likes": 43,
+      "reposts": 9,
+      "bookmarks": 8,
+      "replies": 2,
+      "quotes": 0,
+      "self_quote": false,
+      "board_rank": 17
+    },
+    {
+      "id": "2126262623058395629",
+      "name": "Anne",
+      "display_name": "Anne",
+      "handle": "@0xAnnee",
+      "views": 782,
+      "views_label": "782",
+      "url": "https://x.com/0xAnnee/status/2126262623058395629",
+      "created_at": "2026-11-27T10:31:28.000Z",
+      "posted_at": "2026-11-27T10:31:28.000Z",
+      "text": "Made this clip with @openclipsai \n\nVeo, Kling, Seedance and Hailuo. All the top AI video models in one place.\n\nNo complicated prompts or waiting around for renders. Just find a clip you love, remix it with your own style and bring your ideas to life.\n\nCreating content has never https://t.co/9JRIMuybSc",
+      "original_en": "Made this clip with @openclipsai \n\nVeo, Kling, Seedance and Hailuo. All the top AI video models in one place.\n\nNo complicated prompts or waiting around for renders. Just find a clip you love, remix it with your own style and bring your ideas to life.\n\nCreating content has never https://t.co/9JRIMuybSc",
+      "lang": "en",
+      "hook": "Clip-remix app pitch (Veo, Kling, Seedance, Hailuo in one place): 782 views.",
+      "video_tip": "If you show a remix, put the original and your remix side by side for 5s each so the change is obvious.",
+      "media": "video",
+      "followers_count": 1523,
+      "likes": 46,
+      "reposts": 1,
+      "bookmarks": 2,
+      "replies": 14,
+      "quotes": 0,
+      "self_quote": false,
+      "board_rank": 18
+    },
+    {
+      "id": "2126095953027326299",
+      "name": "BLACK MAN ♠️",
+      "display_name": "BLACK MAN ♠️",
+      "handle": "@nathe3_io",
+      "views": 742,
+      "views_label": "742",
+      "url": "https://x.com/nathe3_io/status/2126095953027326299",
+      "created_at": "2026-11-26T23:29:10.000Z",
+      "posted_at": "2026-11-26T23:29:10.000Z",
+      "text": "AI animation is getting out of hand. Look at this fight scene! 🤯\n\nCreated with OpenClips AI @openclipsai\n\nTheir Black Friday deal is live as well \n\n#Ai #anime #openclipsai https://t.co/IipjSMpyqm",
+      "original_en": "AI animation is getting out of hand. Look at this fight scene! 🤯\n\nCreated with OpenClips AI @openclipsai\n\nTheir Black Friday deal is live as well \n\n#Ai #anime #openclipsai https://t.co/IipjSMpyqm",
+      "lang": "en",
+      "hook": "'AI animation is getting out of hand' fight scene plus a Black Friday deal mention: 742 views from 442 followers.",
+      "video_tip": "Open on the hardest hit of the fight in the first second, then rewind to show the setup.",
+      "media": "video",
+      "followers_count": 442,
+      "likes": 3,
+      "reposts": 2,
+      "bookmarks": 2,
+      "replies": 0,
+      "quotes": 1,
+      "self_quote": false,
+      "board_rank": 19
+    },
+    {
+      "id": "2126308813582237951",
+      "name": "Miunn Elmatar",
+      "display_name": "Miunn Elmatar",
+      "handle": "@MiunnElmatar",
+      "views": 713,
+      "views_label": "713",
+      "url": "https://x.com/MiunnElmatar/status/2126308813582237951",
+      "created_at": "2026-11-27T13:35:00.000Z",
+      "posted_at": "2026-11-27T13:35:00.000Z",
+      "text": "[NTE] - Lacrimosa\n- Dreaming of someone special\n- Anime-style AI Animation\n#NevernessToEverness https://t.co/zwQIw7QQQ3",
+      "original_en": "[NTE] - Lacrimosa\n- Dreaming of someone special\n- Anime-style AI Animation\n#NevernessToEverness https://t.co/zwQIw7QQQ3",
+      "lang": "en",
+      "hook": "Fandom anime-style AI animation for a game (Neverness to Everness): 713 views, 43 likes from 2K followers.",
+      "video_tip": "Pick a fandom you love, make a 15-20s anime-style character moment set to a quiet track, and tag the fandom's hashtag.",
+      "media": "video",
+      "followers_count": 2030,
+      "likes": 43,
+      "reposts": 2,
+      "bookmarks": 17,
+      "replies": 0,
+      "quotes": 0,
+      "self_quote": false,
+      "board_rank": 20
+    },
+    {
+      "id": "2126004541749596512",
+      "name": "Jeremiah Daws",
+      "display_name": "Jeremiah Daws",
+      "handle": "@JeremiahDaws",
+      "views": 616,
+      "views_label": "616",
+      "url": "https://x.com/JeremiahDaws/status/2126004541749596512",
+      "created_at": "2026-11-26T17:25:56.000Z",
+      "posted_at": "2026-11-26T17:25:56.000Z",
+      "text": "Going live at 12:30 EST. I'm making a 30-second AI short film from scratch, live, start to finish.\n\nThe story: a turkey makes a run for it.",
+      "original_en": "Going live at 12:30 EST. I'm making a 30-second AI short film from scratch, live, start to finish.\n\nThe story: a turkey makes a run for it.",
+      "lang": "en",
+      "hook": "Live-build announcement: a 30-second AI short film made from scratch on stream, story 'a turkey makes a run for it' - Thanksgiving timing, 616 views.",
+      "video_tip": "Run a short live session building one 30s skit; cut a 30s timelapse of prompt to final for the replay post.",
+      "media": "text",
+      "followers_count": 2634,
+      "likes": 17,
+      "reposts": 0,
+      "bookmarks": 1,
+      "replies": 3,
+      "quotes": 0,
+      "self_quote": false,
+      "board_rank": 21
+    }
+  ],
+  "outsiders_count": 20,
+  "virals": [
+    {
+      "id": "2125661388395999651",
+      "name": "Lex",
+      "display_name": "Lex",
+      "handle": "@lexx_aura",
+      "views": 173696,
+      "views_label": "173,696",
+      "url": "https://x.com/lexx_aura/status/2125661388395999651",
+      "created_at": "2026-11-25T18:42:22.000Z",
+      "posted_at": "2026-11-25T18:42:22.000Z",
+      "text": "This AI Animation is absolutely amazing 🔥\n\nSeedance 2.5 https://t.co/CXvuZtGn0t",
+      "original_en": "This AI Animation is absolutely amazing 🔥\n\nSeedance 2.5 https://t.co/CXvuZtGn0t",
+      "lang": "en",
+      "hook": "Copy-paste 'This AI animation is absolutely amazing / better than Disney' + Seedance 2.5 template: 173,696 views, 4,915 likes, 1,555 bookmarks - the same caption ran on several accounts within 48h.",
+      "video_tip": "Post your single strongest 10-20s animated shot with a one-line superlative and the model name; the clip must carry it, so open on motion, not a title card.",
+      "media": "video",
+      "followers_count": 27092,
+      "likes": 4915,
+      "reposts": 573,
+      "bookmarks": 1555,
+      "replies": 79,
+      "quotes": 33,
+      "self_quote": false,
+      "board_rank": 1,
+      "draft_en": "Seedance 2.5 is putting out AI Animation that looks absolutely stunning. Watch this one through and tell me it does not hold up.",
+      "draft_keywords": [
+        "Seedance 2.5",
+        "AI Animation"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.0,
+        "word_overlap": 0.4,
+        "max_copied_run": 2
+      },
+      "top10_rank": 1,
+      "why_hit": {
+        "trend_match": 35,
+        "verdict": "visual",
+        "matched_keywords": [
+          "AI Animation"
+        ],
+        "media": "video",
+        "note": "",
+        "topic": "Copy-paste AI animation wave"
+      }
+    },
+    {
+      "id": "2125661239884071372",
+      "name": "P̶i̶S̶ Rozwój+4Ever",
+      "display_name": "P̶i̶S̶ Rozwój+4Ever",
+      "handle": "@PiSForever44",
+      "views": 31393,
+      "views_label": "31,393",
+      "url": "https://x.com/PiSForever44/status/2125661239884071372",
+      "created_at": "2026-11-25T18:41:47.000Z",
+      "posted_at": "2026-11-25T18:41:47.000Z",
+      "text": "This AI animation is better than Disney 🔥 \n\nSnussolini 2.5\nhttps://t.co/DRFP0SKC9C https://t.co/875iwMFGIo",
+      "original_en": "This AI animation is better than Disney 🔥 \n\nSnussolini 2.5\nhttps://t.co/DRFP0SKC9C https://t.co/875iwMFGIo",
+      "lang": "en",
+      "hook": "Same 'better than Disney' template, posted one minute after lexx_aura's, on a 1.4K-follower account: 31,393 views. Template wave, not an organic one-off.",
+      "video_tip": "If you ride a caption template, make the clip clearly yours: a 15s character moment from your own world (a 40K servitor, a sci-fi skit lead) instead of a generic showcase.",
+      "media": "video",
+      "followers_count": 1429,
+      "likes": 695,
+      "reposts": 30,
+      "bookmarks": 128,
+      "replies": 2,
+      "quotes": 3,
+      "self_quote": false,
+      "board_rank": 2,
+      "draft_en": "Better than Disney? That is the claim riding on this AI Animation, credited to 'Snussolini 2.5'. Watch the video and judge it yourself.",
+      "draft_keywords": [
+        "AI Animation",
+        "video"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.0,
+        "word_overlap": 0.455,
+        "max_copied_run": 3
+      },
+      "top10_rank": 2,
+      "why_hit": {
+        "trend_match": 35,
+        "verdict": "visual",
+        "matched_keywords": [
+          "AI Animation"
+        ],
+        "media": "video",
+        "note": "",
+        "topic": "Copy-paste AI animation wave"
+      }
+    },
+    {
+      "id": "2125650920604357103",
+      "name": "K",
+      "display_name": "K",
+      "handle": "@ChillaiKalan__",
+      "views": 29901,
+      "views_label": "29,901",
+      "url": "https://x.com/ChillaiKalan__/status/2125650920604357103",
+      "created_at": "2026-11-25T18:00:46.000Z",
+      "posted_at": "2026-11-25T18:00:46.000Z",
+      "text": "Testing the new MAGI-2 model on Higgsfield, and the video quality is impressive.\n\nWhat makes it even better? High-quality generations at just $0.08/sec, with support for videos up to 30 seconds in 1080p.\n\nDefinitely worth experimenting with.\n\nMade with MAGI-2 on Higgsfield https://t.co/rwr6BY9bB9",
+      "original_en": "Testing the new MAGI-2 model on Higgsfield, and the video quality is impressive.\n\nWhat makes it even better? High-quality generations at just $0.08/sec, with support for videos up to 30 seconds in 1080p.\n\nDefinitely worth experimenting with.\n\nMade with MAGI-2 on Higgsfield https://t.co/rwr6BY9bB9",
+      "lang": "en",
+      "hook": "Paid-partnership MAGI-2 test with the standard spec line ($0.08/sec, up to 30s 1080p): 29,901 views, 221 bookmarks.",
+      "video_tip": "Show one uninterrupted 30-second shot and put the cost per second on screen as a small lower-third; let viewers count the seconds.",
+      "media": "video",
+      "followers_count": 15813,
+      "likes": 273,
+      "reposts": 6,
+      "bookmarks": 221,
+      "replies": 18,
+      "quotes": 0,
+      "self_quote": false,
+      "board_rank": 3,
+      "draft_en": "$0.08/sec for high-quality generations. That is what the new MAGI-2 model costs on Higgsfield, and the video quality in these tests is impressive.\n\nClips run up to 30 seconds, in 1080p.\n\nIf you make AI video, it deserves a few test runs.",
+      "draft_keywords": [
+        "MAGI-2",
+        "model",
+        "Higgsfield",
+        "video"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.179,
+        "word_overlap": 0.611,
+        "max_copied_run": 6
+      },
+      "top10_rank": 3,
+      "why_hit": {
+        "trend_match": 58,
+        "verdict": "trend",
+        "matched_keywords": [
+          "Higgsfield",
+          "Magi-2"
+        ],
+        "media": "video",
+        "note": "",
+        "topic": "MAGI-2 craft demos on Higgsfield"
+      }
+    },
+    {
+      "id": "2125719279614222422",
+      "name": "Higgsfield AI 🧩",
+      "display_name": "Higgsfield AI 🧩",
+      "handle": "@higgsfield_ai",
+      "views": 9605,
+      "views_label": "9,605",
+      "url": "https://x.com/higgsfield_ai/status/2125719279614222422",
+      "created_at": "2026-11-25T22:32:24.000Z",
+      "posted_at": "2026-11-25T22:32:24.000Z",
+      "text": "This is how MAGI-2 handles darkness.\n\nMAGI-2 lights this whole short with a single candle and keeps metric depth consistent from extreme close-ups to deep wide shots.\n\nAvailable now exclusively on Higgsfield. https://t.co/wNClIVNEXy https://t.co/IX1kyyzyl3",
+      "original_en": "This is how MAGI-2 handles darkness.\n\nMAGI-2 lights this whole short with a single candle and keeps metric depth consistent from extreme close-ups to deep wide shots.\n\nAvailable now exclusively on Higgsfield. https://t.co/wNClIVNEXy https://t.co/IX1kyyzyl3",
+      "lang": "en",
+      "hook": "Higgsfield's own demo: a short lit by a single candle with consistent depth from close-up to wide - 9,605 views. Lighting challenge as the hook.",
+      "video_tip": "Do a single-light-source test: one candle or one neon sign, three shots (extreme close-up, medium, wide), same lighting logic throughout.",
+      "media": "video",
+      "followers_count": 258508,
+      "likes": 66,
+      "reposts": 4,
+      "bookmarks": 26,
+      "replies": 5,
+      "quotes": 1,
+      "self_quote": false,
+      "board_rank": 5,
+      "draft_en": "One candle. That is the only light in this entire short, and MAGI-2 handles it - depth stays metrically consistent whether the frame is an extreme close-up or a deep wide.\n\nThe model is out now, only on Higgsfield.",
+      "draft_keywords": [
+        "MAGI-2 handles",
+        "MAGI-2",
+        "model",
+        "Higgsfield"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.0,
+        "word_overlap": 0.556,
+        "max_copied_run": 2
+      },
+      "top10_rank": 5,
+      "why_hit": {
+        "trend_match": 58,
+        "verdict": "trend",
+        "matched_keywords": [
+          "Higgsfield",
+          "Magi-2"
+        ],
+        "media": "video",
+        "note": "",
+        "topic": "MAGI-2 craft demos on Higgsfield"
+      }
+    },
+    {
+      "id": "2125680049101979836",
+      "name": "Higgsfield AI 🧩",
+      "display_name": "Higgsfield AI 🧩",
+      "handle": "@higgsfield_ai",
+      "views": 8836,
+      "views_label": "8,836",
+      "url": "https://x.com/higgsfield_ai/status/2125680049101979836",
+      "created_at": "2026-11-25T19:56:31.000Z",
+      "posted_at": "2026-11-25T19:56:31.000Z",
+      "text": "Blender previs against the final MAGI-2 shots.\n\nNow you can create high-quality cinematic shots with just Blender and MAGI-2.\n\nTry it on Higgsfield and via Higgsfield API. https://t.co/EUyBBITZDK https://t.co/m78LUfD8JK",
+      "original_en": "Blender previs against the final MAGI-2 shots.\n\nNow you can create high-quality cinematic shots with just Blender and MAGI-2.\n\nTry it on Higgsfield and via Higgsfield API. https://t.co/EUyBBITZDK https://t.co/m78LUfD8JK",
+      "lang": "en",
+      "hook": "Blender previs vs final MAGI-2 shots, brand demo: 8,836 views. The previs-to-final format keeps showing up.",
+      "video_tip": "Split-screen 15-20s: grey blockout or rough storyboard on the left, final render on the right, cut on the same beats.",
+      "media": "video",
+      "followers_count": 258508,
+      "likes": 46,
+      "reposts": 4,
+      "bookmarks": 15,
+      "replies": 7,
+      "quotes": 1,
+      "self_quote": false,
+      "board_rank": 6,
+      "draft_en": "Rough Blender previs on one side, finished MAGI-2 footage on the other. That pairing alone now gets you cinematic, high-quality shots.\n\nAvailable on Higgsfield, and through the Higgsfield API too.",
+      "draft_keywords": [
+        "Blender previs",
+        "MAGI-2",
+        "Higgsfield"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.0,
+        "word_overlap": 0.5,
+        "max_copied_run": 3
+      },
+      "top10_rank": 6,
+      "why_hit": {
+        "trend_match": 58,
+        "verdict": "trend",
+        "matched_keywords": [
+          "Higgsfield",
+          "Magi-2"
+        ],
+        "media": "video",
+        "note": "",
+        "topic": "MAGI-2 craft demos on Higgsfield"
+      }
+    },
+    {
+      "id": "2125702616172875872",
+      "name": "Higgsfield AI 🧩",
+      "display_name": "Higgsfield AI 🧩",
+      "handle": "@higgsfield_ai",
+      "views": 8674,
+      "views_label": "8,674",
+      "url": "https://x.com/higgsfield_ai/status/2125702616172875872",
+      "created_at": "2026-11-25T21:26:11.000Z",
+      "posted_at": "2026-11-25T21:26:11.000Z",
+      "text": "With MAGI-2, you can bring your sketches to life as high-quality animation.\n\nDraw the key poses, add your timing notes, and MAGI-2 handles color, light and motion.\n\nTry it now, exclusively on Higgsfield. https://t.co/QndLkWg2p4 https://t.co/IX1kyyzyl3",
+      "original_en": "With MAGI-2, you can bring your sketches to life as high-quality animation.\n\nDraw the key poses, add your timing notes, and MAGI-2 handles color, light and motion.\n\nTry it now, exclusively on Higgsfield. https://t.co/QndLkWg2p4 https://t.co/IX1kyyzyl3",
+      "lang": "en",
+      "hook": "Sketch-to-animation pitch (draw key poses, add timing notes, the model handles color, light, motion): 8,674 views.",
+      "video_tip": "Film your paper keyframes for 3 seconds, then hard-cut to the animated result; repeat for two poses.",
+      "media": "video",
+      "followers_count": 258508,
+      "likes": 69,
+      "reposts": 5,
+      "bookmarks": 21,
+      "replies": 4,
+      "quotes": 1,
+      "self_quote": false,
+      "board_rank": 7,
+      "draft_en": "Sketch the key poses. Jot down your timing notes. MAGI-2 handles the rest - color, light, motion - and turns rough drawings into polished animation.\n\nOnly on Higgsfield, live now.",
+      "draft_keywords": [
+        "MAGI-2 handles",
+        "MAGI-2",
+        "Higgsfield"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.0,
+        "word_overlap": 0.579,
+        "max_copied_run": 3
+      },
+      "top10_rank": 7,
+      "why_hit": {
+        "trend_match": 58,
+        "verdict": "trend",
+        "matched_keywords": [
+          "Higgsfield",
+          "Magi-2"
+        ],
+        "media": "video",
+        "note": "",
+        "topic": "MAGI-2 craft demos on Higgsfield"
+      }
+    },
+    {
+      "id": "2126239954049413246",
+      "name": "Stable Diffusion Tutorials",
+      "display_name": "Stable Diffusion Tutorials",
+      "handle": "@SD_Tutorial",
+      "views": 2914,
+      "views_label": "2,914",
+      "url": "https://x.com/SD_Tutorial/status/2126239954049413246",
+      "created_at": "2026-11-27T09:01:23.000Z",
+      "posted_at": "2026-11-27T09:01:23.000Z",
+      "text": "Minimax-H3 😃 Text Encoders PK\n\n-Use modern LLM/VLMs ComfyUI-native text encoders (Qwen 3.5 0.8B/ 2B / 4B / 9B, Qwen 3.8 27B, Gemma 4)\n\n-as conditioning encoder for  (T2VA / Image-to-Video, FL2VA, and Ref2VA) in ComfyUI — zero gradient training, zero LoRA\n\nhttps://t.co/11GJfpgMFJ",
+      "original_en": "Minimax-H3 😃 Text Encoders PK\n\n-Use modern LLM/VLMs ComfyUI-native text encoders (Qwen 3.5 0.8B/ 2B / 4B / 9B, Qwen 3.8 27B, Gemma 4)\n\n-as conditioning encoder for  (T2VA / Image-to-Video, FL2VA, and Ref2VA) in ComfyUI — zero gradient training, zero LoRA\n\nhttps://t.co/11GJfpgMFJ",
+      "lang": "en",
+      "hook": "ComfyUI tooling news (Minimax-H3 with native LLM text encoders, no LoRA training) as a tight bullet post: 2,914 views, 64 bookmarks - more saves than likes.",
+      "video_tip": "Screen-record your node graph for 10s, then show the output it produced; overlay the two settings that mattered.",
+      "media": "text",
+      "followers_count": 13999,
+      "likes": 34,
+      "reposts": 1,
+      "bookmarks": 64,
+      "replies": 1,
+      "quotes": 0,
+      "self_quote": false,
+      "board_rank": 8,
+      "draft_en": "No gradient training, no LoRA. Minimax-H3 Text Encoders PK lets modern LLM and VLM text encoders, native to ComfyUI, act as the conditioning encoder - pick Gemma 4, Qwen 3.8 27B, or the Qwen 3.5 family in 0.8B, 2B, 4B and 9B sizes.\n\nWorks across T2VA, Image-to-Video, FL2VA and Ref2VA video pipelines. Link in the original post.",
+      "draft_keywords": [
+        "ComfyUI",
+        "video"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.057,
+        "word_overlap": 0.588,
+        "max_copied_run": 5
+      },
+      "top10_rank": 8,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "coincidence/other",
+        "matched_keywords": [],
+        "media": "text",
+        "note": "",
+        "topic": null
+      }
+    },
+    {
+      "id": "2125897686448840957",
+      "name": "Testlabor",
+      "display_name": "Testlabor",
+      "handle": "@testerlabor",
+      "views": 2699,
+      "views_label": "2,699",
+      "url": "https://x.com/testerlabor/status/2125897686448840957",
+      "created_at": "2026-11-26T10:21:20.000Z",
+      "posted_at": "2026-11-26T10:21:20.000Z",
+      "text": "The last sentence Grok says here about Grok Imagine is very significant: “Resources shifted toward coding tools and agents, but generation still works.” Let's see how long this “still” lasts before Grok Imagine disappears entirely as a standalone tool. https://t.co/75P0TVxJwu",
+      "original_en": "The last sentence Grok says here about Grok Imagine is very significant: “Resources shifted toward coding tools and agents, but generation still works.” Let's see how long this “still” lasts before Grok Imagine disappears entirely as a standalone tool. https://t.co/75P0TVxJwu",
+      "lang": "en",
+      "hook": "Speculation post on Grok Imagine's future, quoting Grok's own reply ('resources shifted toward coding tools and agents, but generation still works'): 2,699 views.",
+      "video_tip": "Keep it text plus one screenshot; if you reply to this topic, add a 10s clip you made in Grok Imagine this week as proof it still works.",
+      "media": "photo",
+      "followers_count": 14756,
+      "likes": 54,
+      "reposts": 4,
+      "bookmarks": 1,
+      "replies": 13,
+      "quotes": 0,
+      "self_quote": false,
+      "board_rank": 9,
+      "draft_en": "Grok's own answer about Grok Imagine ends on a telling line: effort has moved over to coding tools and agents, yet generation keeps working.\n\nWatch that word 'still'. How long before Grok Imagine stops existing as a standalone video tool?",
+      "draft_keywords": [
+        "video"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.027,
+        "word_overlap": 0.375,
+        "max_copied_run": 4
+      },
+      "top10_rank": 9,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "image",
+        "note": "",
+        "topic": null
+      }
+    },
+    {
+      "id": "2126034459304583616",
+      "name": "Ingi Erlingsson 🪄",
+      "display_name": "Ingi Erlingsson 🪄",
+      "handle": "@ingi_erlingsson",
+      "views": 1914,
+      "views_label": "1,914",
+      "url": "https://x.com/ingi_erlingsson/status/2126034459304583616",
+      "created_at": "2026-11-26T19:24:49.000Z",
+      "posted_at": "2026-11-26T19:24:49.000Z",
+      "text": "antisocial media\n\nMidjourney / ComfyUI / After Effects / Wan 2.2 / SYSTMS nodes: HUD + MOSH + DELTA + SHIMMER / Claude Code / Suno https://t.co/ejuUYx7Ife",
+      "original_en": "antisocial media\n\nMidjourney / ComfyUI / After Effects / Wan 2.2 / SYSTMS nodes: HUD + MOSH + DELTA + SHIMMER / Claude Code / Suno https://t.co/ejuUYx7Ife",
+      "lang": "en",
+      "hook": "Experimental art piece with the full tool stack listed (Midjourney / ComfyUI / After Effects / Wan 2.2 / Claude Code / Suno): 1,914 views.",
+      "video_tip": "End your clip with a 2-second stack card listing every tool; viewers save stack lists.",
+      "media": "video",
+      "followers_count": 17343,
+      "likes": 65,
+      "reposts": 3,
+      "bookmarks": 19,
+      "replies": 5,
+      "quotes": 1,
+      "self_quote": false,
+      "board_rank": 10,
+      "draft_en": "'antisocial media' - a short video piece from ingi_erlingsson, and the stack is half the story.\n\nThe full list: Midjourney, ComfyUI running SYSTMS nodes (HUD, MOSH, DELTA, SHIMMER), Wan 2.2, After Effects, Claude Code and Suno.",
+      "draft_keywords": [
+        "video",
+        "ComfyUI",
+        "Code"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.091,
+        "word_overlap": 0.593,
+        "max_copied_run": 6
+      },
+      "top10_rank": 10,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "note": "",
+        "topic": null
+      }
+    },
+    {
+      "id": "2126297459467198539",
+      "name": "Nelly;",
+      "display_name": "Nelly;",
+      "handle": "@nrqa__",
+      "views": 1757,
+      "views_label": "1,757",
+      "url": "https://x.com/nrqa__/status/2126297459467198539",
+      "created_at": "2026-11-27T12:49:53.000Z",
+      "posted_at": "2026-11-27T12:49:53.000Z",
+      "text": "me: I just want my AI short film to cut together..\n\nthe reroll: new face. different light. the cart's somewhere else now\n\nthis one gets continuity right. close-ups, wides, a top-down at the end, and it still plays like one film..\n\nthat's my bar for AI filmmaking. one good-looking https://t.co/ucld2ErepN https://t.co/NYFeeftOmQ",
+      "original_en": "me: I just want my AI short film to cut together..\n\nthe reroll: new face. different light. the cart's somewhere else now\n\nthis one gets continuity right. close-ups, wides, a top-down at the end, and it still plays like one film..\n\nthat's my bar for AI filmmaking. one good-looking https://t.co/ucld2ErepN https://t.co/NYFeeftOmQ",
+      "lang": "en",
+      "hook": "Relatable reroll pain ('new face, different light, the cart's somewhere else') then a clip that holds continuity across close-ups, wides and a top-down: 1,757 views on a 76K account.",
+      "video_tip": "Cut a 20s sequence with three angles of the same scene and keep character, light and props locked; caption the pain first, the fix second.",
+      "media": "video",
+      "followers_count": 76334,
+      "likes": 96,
+      "reposts": 9,
+      "bookmarks": 34,
+      "replies": 9,
+      "quotes": 7,
+      "self_quote": false,
+      "board_rank": 11,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "note": "",
+        "topic": null
+      }
+    },
+    {
+      "id": "2125886174799737153",
+      "name": "E.R. Music",
+      "display_name": "E.R. Music",
+      "handle": "@E_R_music138562",
+      "views": 1493,
+      "views_label": "1,493",
+      "url": "https://x.com/E_R_music138562/status/2125886174799737153",
+      "created_at": "2026-11-26T09:35:35.000Z",
+      "posted_at": "2026-11-26T09:35:35.000Z",
+      "text": "AI Music Video: Slay Ride\nhttps://t.co/QoDi6CGqMO https://t.co/fwSVoxe0im",
+      "original_en": "AI Music Video: Slay Ride\nhttps://t.co/QoDi6CGqMO https://t.co/fwSVoxe0im",
+      "lang": "en",
+      "hook": "Bare 'AI Music Video: Slay Ride' title plus link: 1,493 views, 68 likes from a 1.2K account - seasonal song timing.",
+      "video_tip": "Cut a 15s vertical teaser on the chorus with a holiday visual twist; link the full video in the post.",
+      "media": "video",
+      "followers_count": 1213,
+      "likes": 68,
+      "reposts": 16,
+      "bookmarks": 17,
+      "replies": 4,
+      "quotes": 0,
+      "self_quote": false,
+      "board_rank": 12,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "note": "",
+        "topic": null
+      }
+    },
+    {
+      "id": "2125633352246116541",
+      "name": "Jan",
+      "display_name": "Jan",
+      "handle": "@janmexico",
+      "views": 1461,
+      "views_label": "1,461",
+      "url": "https://x.com/janmexico/status/2125633352246116541",
+      "created_at": "2026-11-25T16:50:58.000Z",
+      "posted_at": "2026-11-25T16:50:58.000Z",
+      "text": "Made with MAGI-2 on @Higgsfield #HiggsfieldPartner \nMAGI-2 by @sandai_hq thanks bros @PeterKL87 @Miriann_24 for the amazing workshop ! https://t.co/SUiG6T7NjH",
+      "original_en": "Made with MAGI-2 on @Higgsfield #HiggsfieldPartner \nMAGI-2 by @sandai_hq thanks bros @PeterKL87 @Miriann_24 for the amazing workshop ! https://t.co/SUiG6T7NjH",
+      "lang": "en",
+      "hook": "Partner post crediting a MAGI-2 workshop and collaborators: 1,461 views from a 165K account - low for the size.",
+      "video_tip": "Credits alone do not carry a post; lead with your best 3 seconds and put the thanks in the second line.",
+      "media": "video",
+      "followers_count": 165357,
+      "likes": 29,
+      "reposts": 3,
+      "bookmarks": 4,
+      "replies": 4,
+      "quotes": 1,
+      "self_quote": false,
+      "board_rank": 13,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "note": "",
+        "topic": "MAGI-2 craft demos on Higgsfield"
+      }
+    },
+    {
+      "id": "2125695232398209523",
+      "name": "Manu",
+      "display_name": "Manu",
+      "handle": "@manushak17",
+      "views": 1207,
+      "views_label": "1,207",
+      "url": "https://x.com/manushak17/status/2125695232398209523",
+      "created_at": "2026-11-25T20:56:51.000Z",
+      "posted_at": "2026-11-25T20:56:51.000Z",
+      "text": "Putting MAGI-2 to the test with fight scenes.\n\nCreated with MAGI-2 at Higgsfield https://t.co/vGF5USxKGr",
+      "original_en": "Putting MAGI-2 to the test with fight scenes.\n\nCreated with MAGI-2 at Higgsfield https://t.co/vGF5USxKGr",
+      "lang": "en",
+      "hook": "MAGI-2 fight-scene stress test (paid partnership): 1,207 views, 72 likes on a 4K account.",
+      "video_tip": "Make a 10-15s fight beat with one clear impact moment; slow it down for the hit, then snap back to speed.",
+      "media": "video",
+      "followers_count": 4177,
+      "likes": 72,
+      "reposts": 7,
+      "bookmarks": 7,
+      "replies": 23,
+      "quotes": 1,
+      "self_quote": false,
+      "board_rank": 14,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "note": "",
+        "topic": "MAGI-2 craft demos on Higgsfield"
+      }
+    },
+    {
+      "id": "2125960363590177121",
+      "name": "Yanhua",
+      "display_name": "Yanhua",
+      "handle": "@yanhua1010",
+      "views": 1077,
+      "views_label": "1,077",
+      "url": "https://x.com/yanhua1010/status/2125960363590177121",
+      "created_at": "2026-11-26T14:30:23.000Z",
+      "posted_at": "2026-11-26T14:30:23.000Z",
+      "text": "Stop rewatching a Reel 5 times just to write down the hook.\n\nI built ReelToScript：paste any short video link and get every spoken word as a clean, timestamped script in seconds:\n\n• Instagram Reels, TikTok, Shorts, X &amp; FB Ad Library\n• Copy in 1 click or export TXT, SRT &amp; VTT\n• https://t.co/qH4PwRKxvJ",
+      "original_en": "Stop rewatching a Reel 5 times just to write down the hook.\n\nI built ReelToScript：paste any short video link and get every spoken word as a clean, timestamped script in seconds:\n\n• Instagram Reels, TikTok, Shorts, X &amp; FB Ad Library\n• Copy in 1 click or export TXT, SRT &amp; VTT\n• https://t.co/qH4PwRKxvJ",
+      "lang": "en",
+      "hook": "Tool launch for creators (ReelToScript: any short-video link to a timestamped script, SRT/VTT export): 1,077 views.",
+      "video_tip": "Show a 10s screen capture: paste link, script appears, one-click export; no voiceover needed.",
+      "media": "video",
+      "followers_count": 39050,
+      "likes": 7,
+      "reposts": 0,
+      "bookmarks": 1,
+      "replies": 4,
+      "quotes": 0,
+      "self_quote": false,
+      "board_rank": 15,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "note": "",
+        "topic": null
+      }
+    },
+    {
+      "id": "2125971144180163042",
+      "name": "delost",
+      "display_name": "delost",
+      "handle": "@thedelost",
+      "views": 1031,
+      "views_label": "1,031",
+      "url": "https://x.com/thedelost/status/2125971144180163042",
+      "created_at": "2026-11-26T15:13:14.000Z",
+      "posted_at": "2026-11-26T15:13:14.000Z",
+      "text": "I cancelled $638 a month of AI subscriptions last week.\n\nHere's the free, open-source stack that replaced every one of them, line by line:\n\nCursor ($20/mo) → Cline\nthe same autonomous coding, free inside VS Code\nhttps://t.co/dUiiktsEJN\n\nChatGPT Plus ($20/mo) → Ollama\nrun the https://t.co/4in4nPesl4 https://t.co/aq0T9BDsJb",
+      "original_en": "I cancelled $638 a month of AI subscriptions last week.\n\nHere's the free, open-source stack that replaced every one of them, line by line:\n\nCursor ($20/mo) → Cline\nthe same autonomous coding, free inside VS Code\nhttps://t.co/dUiiktsEJN\n\nChatGPT Plus ($20/mo) → Ollama\nrun the https://t.co/4in4nPesl4 https://t.co/aq0T9BDsJb",
+      "lang": "en",
+      "hook": "'I cancelled $638/month of AI subscriptions' open-source stack list thread: 1,031 views, 17 bookmarks.",
+      "video_tip": "Make a 20s 'my stack' video: each paid tool on screen for 2s, crossed out, replaced by what you use instead.",
+      "media": "video",
+      "followers_count": 5777,
+      "likes": 23,
+      "reposts": 0,
+      "bookmarks": 17,
+      "replies": 4,
+      "quotes": 0,
+      "self_quote": false,
+      "board_rank": 16,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "note": "",
+        "topic": null
+      }
+    },
+    {
+      "id": "2125772237605077065",
+      "name": "©Sky",
+      "display_name": "©Sky",
+      "handle": "@Starkapoo",
+      "views": 965,
+      "views_label": "965",
+      "url": "https://x.com/Starkapoo/status/2125772237605077065",
+      "created_at": "2026-11-26T02:02:51.000Z",
+      "posted_at": "2026-11-26T02:02:51.000Z",
+      "text": "Bending perception with MAGI-2 on Higgsfield. \n\nIntricate optical illusions come alive through fluid transformations, hypnotic motion, and consistent architectural geometry. MAGI-2 brings complex visual patterns into motion while preserving the immersive depth and symmetry of an https://t.co/XIRTK6gWi2",
+      "original_en": "Bending perception with MAGI-2 on Higgsfield. \n\nIntricate optical illusions come alive through fluid transformations, hypnotic motion, and consistent architectural geometry. MAGI-2 brings complex visual patterns into motion while preserving the immersive depth and symmetry of an https://t.co/XIRTK6gWi2",
+      "lang": "en",
+      "hook": "Optical-illusion transformation clip on MAGI-2 (paid partnership): 965 views.",
+      "video_tip": "Do a 10s seamless morph loop where architecture folds into itself; make the last frame match the first.",
+      "media": "video",
+      "followers_count": 5142,
+      "likes": 43,
+      "reposts": 9,
+      "bookmarks": 8,
+      "replies": 2,
+      "quotes": 0,
+      "self_quote": false,
+      "board_rank": 17,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "note": "",
+        "topic": "MAGI-2 craft demos on Higgsfield"
+      }
+    },
+    {
+      "id": "2126262623058395629",
+      "name": "Anne",
+      "display_name": "Anne",
+      "handle": "@0xAnnee",
+      "views": 782,
+      "views_label": "782",
+      "url": "https://x.com/0xAnnee/status/2126262623058395629",
+      "created_at": "2026-11-27T10:31:28.000Z",
+      "posted_at": "2026-11-27T10:31:28.000Z",
+      "text": "Made this clip with @openclipsai \n\nVeo, Kling, Seedance and Hailuo. All the top AI video models in one place.\n\nNo complicated prompts or waiting around for renders. Just find a clip you love, remix it with your own style and bring your ideas to life.\n\nCreating content has never https://t.co/9JRIMuybSc",
+      "original_en": "Made this clip with @openclipsai \n\nVeo, Kling, Seedance and Hailuo. All the top AI video models in one place.\n\nNo complicated prompts or waiting around for renders. Just find a clip you love, remix it with your own style and bring your ideas to life.\n\nCreating content has never https://t.co/9JRIMuybSc",
+      "lang": "en",
+      "hook": "Clip-remix app pitch (Veo, Kling, Seedance, Hailuo in one place): 782 views.",
+      "video_tip": "If you show a remix, put the original and your remix side by side for 5s each so the change is obvious.",
+      "media": "video",
+      "followers_count": 1523,
+      "likes": 46,
+      "reposts": 1,
+      "bookmarks": 2,
+      "replies": 14,
+      "quotes": 0,
+      "self_quote": false,
+      "board_rank": 18,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "note": "",
+        "topic": "Copy-paste AI animation wave"
+      }
+    },
+    {
+      "id": "2126095953027326299",
+      "name": "BLACK MAN ♠️",
+      "display_name": "BLACK MAN ♠️",
+      "handle": "@nathe3_io",
+      "views": 742,
+      "views_label": "742",
+      "url": "https://x.com/nathe3_io/status/2126095953027326299",
+      "created_at": "2026-11-26T23:29:10.000Z",
+      "posted_at": "2026-11-26T23:29:10.000Z",
+      "text": "AI animation is getting out of hand. Look at this fight scene! 🤯\n\nCreated with OpenClips AI @openclipsai\n\nTheir Black Friday deal is live as well \n\n#Ai #anime #openclipsai https://t.co/IipjSMpyqm",
+      "original_en": "AI animation is getting out of hand. Look at this fight scene! 🤯\n\nCreated with OpenClips AI @openclipsai\n\nTheir Black Friday deal is live as well \n\n#Ai #anime #openclipsai https://t.co/IipjSMpyqm",
+      "lang": "en",
+      "hook": "'AI animation is getting out of hand' fight scene plus a Black Friday deal mention: 742 views from 442 followers.",
+      "video_tip": "Open on the hardest hit of the fight in the first second, then rewind to show the setup.",
+      "media": "video",
+      "followers_count": 442,
+      "likes": 3,
+      "reposts": 2,
+      "bookmarks": 2,
+      "replies": 0,
+      "quotes": 1,
+      "self_quote": false,
+      "board_rank": 19,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "note": "",
+        "topic": "Copy-paste AI animation wave"
+      }
+    },
+    {
+      "id": "2126308813582237951",
+      "name": "Miunn Elmatar",
+      "display_name": "Miunn Elmatar",
+      "handle": "@MiunnElmatar",
+      "views": 713,
+      "views_label": "713",
+      "url": "https://x.com/MiunnElmatar/status/2126308813582237951",
+      "created_at": "2026-11-27T13:35:00.000Z",
+      "posted_at": "2026-11-27T13:35:00.000Z",
+      "text": "[NTE] - Lacrimosa\n- Dreaming of someone special\n- Anime-style AI Animation\n#NevernessToEverness https://t.co/zwQIw7QQQ3",
+      "original_en": "[NTE] - Lacrimosa\n- Dreaming of someone special\n- Anime-style AI Animation\n#NevernessToEverness https://t.co/zwQIw7QQQ3",
+      "lang": "en",
+      "hook": "Fandom anime-style AI animation for a game (Neverness to Everness): 713 views, 43 likes from 2K followers.",
+      "video_tip": "Pick a fandom you love, make a 15-20s anime-style character moment set to a quiet track, and tag the fandom's hashtag.",
+      "media": "video",
+      "followers_count": 2030,
+      "likes": 43,
+      "reposts": 2,
+      "bookmarks": 17,
+      "replies": 0,
+      "quotes": 0,
+      "self_quote": false,
+      "board_rank": 20,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "note": "",
+        "topic": "Copy-paste AI animation wave"
+      }
+    },
+    {
+      "id": "2126004541749596512",
+      "name": "Jeremiah Daws",
+      "display_name": "Jeremiah Daws",
+      "handle": "@JeremiahDaws",
+      "views": 616,
+      "views_label": "616",
+      "url": "https://x.com/JeremiahDaws/status/2126004541749596512",
+      "created_at": "2026-11-26T17:25:56.000Z",
+      "posted_at": "2026-11-26T17:25:56.000Z",
+      "text": "Going live at 12:30 EST. I'm making a 30-second AI short film from scratch, live, start to finish.\n\nThe story: a turkey makes a run for it.",
+      "original_en": "Going live at 12:30 EST. I'm making a 30-second AI short film from scratch, live, start to finish.\n\nThe story: a turkey makes a run for it.",
+      "lang": "en",
+      "hook": "Live-build announcement: a 30-second AI short film made from scratch on stream, story 'a turkey makes a run for it' - Thanksgiving timing, 616 views.",
+      "video_tip": "Run a short live session building one 30s skit; cut a 30s timelapse of prompt to final for the replay post.",
+      "media": "text",
+      "followers_count": 2634,
+      "likes": 17,
+      "reposts": 0,
+      "bookmarks": 1,
+      "replies": 3,
+      "quotes": 0,
+      "self_quote": false,
+      "board_rank": 21,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "coincidence/other",
+        "matched_keywords": [],
+        "media": "text",
+        "note": "",
+        "topic": null
+      }
+    }
+  ],
+  "virals_target": 20,
+  "virals_window": "last ~48h",
+  "virals_narrative": "Outsider lane (25-27.11) led by @lexx_aura at 173,696 views (copy-paste 'AI animation' + Seedance 2.5 template). Also clearing: @PiSForever44 31,393, @ChillaiKalan__ 29,901, @higgsfield_ai 9,605, @higgsfield_ai 8,836",
+  "patterns": [
+    "Watchlist on 26.11 (US Thanksgiving): 1 hit, 1 star - andresvandal's dark-fairytale micro-film 'Two gold coins for your deepest wish...' 22,698 ★ (video, Made in Higgsfield); total 22,698 views",
+    "Near misses: andresvandal's Spanish Anunnaki/Red Riding Hood follow-up 1,908, LudovicCreator 1,723 (HOLOGRAPHIC TIME ECHOES prompt share), ChrisGwinnLA 1,316 (Amalia at 710,941 YouTube views, self-quote), pixelbouncer 397 (15 originals); Gossip_Goblin and billywoodward posted nothing on 26.11",
+    "Bogdan's best was 'Commissar Vash and Captain Orlock arrive on Hartman's planet...' at 689 (photo, #Warhammer40K); 6 originals",
+    "Story-first captions win on the watchlist: the hit is a one-line fairytale logline over video, not a tool spec or prompt",
+    "Outsider lane split in two: a copy-paste 'This AI animation is better than Disney / absolutely amazing' + Seedance 2.5 template (lexx_aura 173,696; PiSForever44 31,393; several more accounts) and the continuing MAGI-2 on Higgsfield push (paid partnerships + brand demos: candle lighting, Blender previs, sketch-to-animation)",
+    "Continuity and craft pain points get engagement: nrqa__'s 'the reroll gives a new face, different light' framing; previs-vs-final and single-light-source tests",
+    "Tool-stack and cost posts (ComfyUI encoders, $638/month cancelled, full stack lists) earn more bookmarks than likes"
+  ],
+  "no_hits": [
+    {
+      "handle": "@Gossip_Goblin",
+      "reason": "No posts at all on 2026-11-26 (US Thanksgiving).",
+      "max_views": 0
+    },
+    {
+      "handle": "@pixelbouncer",
+      "reason": "15 original posts on 2026-11-26; none reached 5,000 views (best 397).",
+      "max_views": 397
+    },
+    {
+      "handle": "@LudovicCreator",
+      "reason": "4 original posts on 2026-11-26; none reached 5,000 views (best 1,723).",
+      "max_views": 1723
+    },
+    {
+      "handle": "@ChrisGwinnLA",
+      "reason": "1 original posts on 2026-11-26; none reached 5,000 views (best 1,316).",
+      "max_views": 1316
+    },
+    {
+      "handle": "@billywoodward",
+      "reason": "No posts at all on 2026-11-26 (US Thanksgiving).",
+      "max_views": 0
+    }
+  ],
+  "day_roster": [
+    {
+      "handle": "@andresvandal",
+      "name": "Andres Vandal",
+      "views": 22698,
+      "total_views": 24606,
+      "hit": true,
+      "posts": 2,
+      "best_url": "https://x.com/andresvandal/status/2126093452916261082"
+    },
+    {
+      "handle": "@LudovicCreator",
+      "name": "LudovicCreator",
+      "views": 1723,
+      "total_views": 5595,
+      "hit": false,
+      "posts": 4,
+      "best_url": "https://x.com/LudovicCreator/status/2125952814555787313"
+    },
+    {
+      "handle": "@ChrisGwinnLA",
+      "name": "Christopher Gwinn | Grindhouse Glitch",
+      "views": 1316,
+      "total_views": 1316,
+      "hit": false,
+      "posts": 1,
+      "best_url": "https://x.com/ChrisGwinnLA/status/2126004834025525575"
+    },
+    {
+      "handle": "@pixelbouncer",
+      "name": "Ƥ!ЖΣLƁΘUNCΣR",
+      "views": 397,
+      "total_views": 2424,
+      "hit": false,
+      "posts": 15,
+      "best_url": "https://x.com/pixelbouncer/status/2125980120418492583"
+    },
+    {
+      "handle": "@Gossip_Goblin",
+      "name": "Gossip Goblin",
+      "views": 0,
+      "total_views": 0,
+      "hit": false,
+      "posts": 0,
+      "best_url": null
+    },
+    {
+      "handle": "@billywoodward",
+      "name": "Billy Woodward",
+      "views": 0,
+      "total_views": 0,
+      "hit": false,
+      "posts": 0,
+      "best_url": null
+    }
+  ],
+  "you_rank": {
+    "best_views": 689,
+    "total_views": 2299,
+    "best_url": "https://x.com/SMKP_Films/status/2126060038934446151",
+    "posts": 6,
+    "vs_5k": "pending",
+    "vs_10k": "pending",
+    "rank_among_watchlist": 4,
+    "total_accounts": 7
+  },
+  "narrative_synthesis": "Outsider AI posts from the last ~48 hours were dominated by one copy-paste wave and one sponsored push. The biggest numbers came from a caption template - 'This AI animation is absolutely amazing' or 'better than Disney' plus 'Seedance 2.5' over an anime-style clip - that ran on several accounts within minutes of each other; lexx_aura's version hit 173,696 views and 1,555 bookmarks, PiSForever44's 31,393 from 1.4K followers, with more copies on 26-27.11. Treat that as a template wave, not proof of an organic trend. Second, MAGI-2 on Higgsfield kept going: paid-partnership tests repeat the $0.08/sec, 30s 1080p spec (ChillaiKalan__ 29,901), while Higgsfield's own demos moved to craft angles - a short lit by one candle, Blender previs against final shots, and sketch keyframes to animation (8.7K-9.6K each). Side currents: ComfyUI tooling news and stack lists earned more saves than likes, a post speculating that Grok Imagine is being deprioritized, creators naming continuity (new face on every reroll) as the bar for AI filmmaking, and Thanksgiving-timed content like a live 30-second turkey short. On the watchlist, a quiet holiday: andresvandal's one-line dark-fairytale logline over video was the only hit. For Bogdan: a 40K or sci-fi micro-short with a one-sentence ominous logline, or a continuity test across three angles, fits what is landing.",
+  "trend_input_only": [],
+  "trend_input_only_posts": [],
+  "leaderboards": {
+    "as_of": "2026-11-26",
+    "tracking_start": "2026-11-04",
+    "days_included": [
+      "2026-11-20",
+      "2026-11-21",
+      "2026-11-22",
+      "2026-11-23",
+      "2026-11-24",
+      "2026-11-25",
+      "2026-11-26"
+    ],
+    "month_days_included": [
+      "2026-11-04",
+      "2026-11-05",
+      "2026-11-06",
+      "2026-11-07",
+      "2026-11-08",
+      "2026-11-09",
+      "2026-11-10",
+      "2026-11-11",
+      "2026-11-12",
+      "2026-11-13",
+      "2026-11-14",
+      "2026-11-15",
+      "2026-11-16",
+      "2026-11-17",
+      "2026-11-18",
+      "2026-11-19",
+      "2026-11-20",
+      "2026-11-21",
+      "2026-11-22",
+      "2026-11-23",
+      "2026-11-24",
+      "2026-11-25",
+      "2026-11-26"
+    ],
+    "week": {
+      "label": "Rolling week · Nov 20–Nov 26",
+      "range": [
+        "2026-11-20",
+        "2026-11-26"
+      ],
+      "entries": [
+        {
+          "handle": "@Gossip_Goblin",
+          "name": "Gossip Goblin",
+          "hits": 8,
+          "days": 4,
+          "views": 603409,
+          "best": 294346,
+          "best_url": "https://x.com/Gossip_Goblin/status/2124541100480180361"
+        },
+        {
+          "handle": "@LudovicCreator",
+          "name": "LudovicCreator",
+          "hits": 2,
+          "days": 1,
+          "views": 65034,
+          "best": 59046,
+          "best_url": "https://x.com/LudovicCreator/status/2124578704550695184"
+        },
+        {
+          "handle": "@andresvandal",
+          "name": "Andres Vandal",
+          "hits": 2,
+          "days": 2,
+          "views": 56343,
+          "best": 33645,
+          "best_url": "https://x.com/andresvandal/status/2124333545921691925"
+        },
+        {
+          "handle": "@ChrisGwinnLA",
+          "name": "Christopher Gwinn | Grindhouse Glitch",
+          "hits": 1,
+          "days": 1,
+          "views": 7116,
+          "best": 7116,
+          "best_url": "https://x.com/ChrisGwinnLA/status/2125643215986704663"
+        }
+      ]
+    },
+    "month": {
+      "label": "November 2026 · from Nov 4",
+      "range": [
+        "2026-11-04",
+        "2026-11-26"
+      ],
+      "entries": [
+        {
+          "handle": "@Gossip_Goblin",
+          "name": "Gossip Goblin",
+          "hits": 27,
+          "days": 15,
+          "views": 1497153,
+          "best": 294346,
+          "best_url": "https://x.com/Gossip_Goblin/status/2124541100480180361"
+        },
+        {
+          "handle": "@LudovicCreator",
+          "name": "LudovicCreator",
+          "hits": 5,
+          "days": 4,
+          "views": 301480,
+          "best": 133926,
+          "best_url": "https://x.com/LudovicCreator/status/2120592485437350268"
+        },
+        {
+          "handle": "@andresvandal",
+          "name": "Andres Vandal",
+          "hits": 4,
+          "days": 4,
+          "views": 77507,
+          "best": 33645,
+          "best_url": "https://x.com/andresvandal/status/2124333545921691925"
+        },
+        {
+          "handle": "@ChrisGwinnLA",
+          "name": "Christopher Gwinn | Grindhouse Glitch",
+          "hits": 6,
+          "days": 6,
+          "views": 68035,
+          "best": 23566,
+          "best_url": "https://x.com/ChrisGwinnLA/status/2121834058267156701"
+        }
+      ]
+    }
+  },
+  "drafts_top10": [
+    {
+      "rank": 1,
+      "id": "2125661388395999651",
+      "handle": "@lexx_aura",
+      "views": 173696,
+      "lane": "outsider"
+    },
+    {
+      "rank": 2,
+      "id": "2125661239884071372",
+      "handle": "@PiSForever44",
+      "views": 31393,
+      "lane": "outsider"
+    },
+    {
+      "rank": 3,
+      "id": "2125650920604357103",
+      "handle": "@ChillaiKalan__",
+      "views": 29901,
+      "lane": "outsider"
+    },
+    {
+      "rank": 4,
+      "id": "2126093452916261082",
+      "handle": "@andresvandal",
+      "views": 22698,
+      "lane": "watchlist"
+    },
+    {
+      "rank": 5,
+      "id": "2125719279614222422",
+      "handle": "@higgsfield_ai",
+      "views": 9605,
+      "lane": "outsider"
+    },
+    {
+      "rank": 6,
+      "id": "2125680049101979836",
+      "handle": "@higgsfield_ai",
+      "views": 8836,
+      "lane": "outsider"
+    },
+    {
+      "rank": 7,
+      "id": "2125702616172875872",
+      "handle": "@higgsfield_ai",
+      "views": 8674,
+      "lane": "outsider"
+    },
+    {
+      "rank": 8,
+      "id": "2126239954049413246",
+      "handle": "@SD_Tutorial",
+      "views": 2914,
+      "lane": "outsider"
+    },
+    {
+      "rank": 9,
+      "id": "2125897686448840957",
+      "handle": "@testerlabor",
+      "views": 2699,
+      "lane": "outsider"
+    },
+    {
+      "rank": 10,
+      "id": "2126034459304583616",
+      "handle": "@ingi_erlingsson",
+      "views": 1914,
+      "lane": "outsider"
+    }
+  ],
+  "trend_keywords": {
+    "date": "2026-11-26",
+    "window": "day D board posts + last-24h posts >= min_views + outsiders + trend-input accounts + pattern brief",
+    "method": "sum(log10 views) over distinct posts x author spread x phrase length x entity/brief bonus; >=2 authors",
+    "keywords": [
+      {
+        "keyword": "Higgsfield",
+        "rank": 1,
+        "score": 133.8,
+        "posts": 8,
+        "authors": 6
+      },
+      {
+        "keyword": "Magi-2",
+        "rank": 2,
+        "score": 99.8,
+        "posts": 7,
+        "authors": 5
+      },
+      {
+        "keyword": "AI Animation",
+        "rank": 3,
+        "score": 68.1,
+        "posts": 4,
+        "authors": 4
+      },
+      {
+        "keyword": "video",
+        "rank": 4,
+        "score": 36.5,
+        "posts": 4,
+        "authors": 4
+      },
+      {
+        "keyword": "Seedance",
+        "rank": 5,
+        "score": 18.1,
+        "posts": 2,
+        "authors": 2
+      },
+      {
+        "keyword": "AI short film",
+        "rank": 6,
+        "score": 16.9,
+        "posts": 2,
+        "authors": 2
+      },
+      {
+        "keyword": "ComfyUI",
+        "rank": 7,
+        "score": 14.8,
+        "posts": 2,
+        "authors": 2
+      },
+      {
+        "keyword": "Code",
+        "rank": 8,
+        "score": 13.8,
+        "posts": 2,
+        "authors": 2
+      },
+      {
+        "keyword": "MAGI-2 handles",
+        "rank": 9,
+        "score": 12.9,
+        "posts": 2,
+        "authors": 1
+      },
+      {
+        "keyword": "Seedance 2.5",
+        "rank": 10,
+        "score": 11.1,
+        "posts": 1,
+        "authors": 1
+      },
+      {
+        "keyword": "model",
+        "rank": 11,
+        "score": 10.1,
+        "posts": 2,
+        "authors": 2
+      },
+      {
+        "keyword": "Blender previs",
+        "rank": 12,
+        "score": 8.3,
+        "posts": 1,
+        "authors": 1
+      }
+    ]
+  },
+  "trend_radar": {
+    "date": "2026-11-26",
+    "title": "Trends and post ideas",
+    "window": {
+      "end": "2026-11-27T10:30:09-05:00",
+      "label24": "26.11 10:30 - 27.11 10:30 UTC",
+      "label48": "25.11 10:30 - 27.11 10:30 UTC"
+    },
+    "corpus": {
+      "posts": 7,
+      "min_views": 5000,
+      "lanes": {
+        "watchlist": 1,
+        "outsider": 6,
+        "24h": 0,
+        "trend_input": 0
+      }
+    },
+    "summary": {
+      "top10_line": "TOP-10: 4/10 (40%) matched trends · visual 5, trend 4, coincidence/other 1",
+      "headline": "4 of 21 board hits (19%) matched 24-48 h trends. Median views: trend 9.2K vs non-trend 1.5K (mean 14.3K vs 14.5K). Watchlist: 0/1 on trend. 18 hits with video, median 1.6K vs 2.7K without.",
+      "takeaway": "A copy-paste AI animation template drove the biggest outsider numbers; on the watchlist a one-line story logline over video beat everything on a quiet Thanksgiving.",
+      "stats": {
+        "all": {
+          "n": 21,
+          "trend_n": 4,
+          "trend_pct": 19,
+          "avg_trend": 14254,
+          "avg_other": 14539,
+          "median_trend": 9220,
+          "median_other": 1461,
+          "verdicts": {
+            "trend": 4,
+            "visual": 15,
+            "author/audience": 0,
+            "coincidence/other": 2
+          }
+        },
+        "watchlist": {
+          "n": 1,
+          "trend_n": 0,
+          "trend_pct": 0,
+          "avg_trend": null,
+          "avg_other": 22698,
+          "median_trend": null,
+          "median_other": 22698,
+          "verdicts": {
+            "trend": 0,
+            "visual": 1,
+            "author/audience": 0,
+            "coincidence/other": 0
+          }
+        },
+        "outsiders": {
+          "n": 20,
+          "trend_n": 4,
+          "trend_pct": 20,
+          "avg_trend": 14254,
+          "avg_other": 14029,
+          "median_trend": 9220,
+          "median_other": 1334,
+          "verdicts": {
+            "trend": 4,
+            "visual": 14,
+            "author/audience": 0,
+            "coincidence/other": 2
+          }
+        },
+        "top10": {
+          "n": 10,
+          "trend_n": 4,
+          "trend_pct": 40,
+          "avg_trend": 14254,
+          "avg_other": 39219,
+          "median_trend": 9220,
+          "median_other": 12806,
+          "verdicts": {
+            "trend": 4,
+            "visual": 5,
+            "author/audience": 0,
+            "coincidence/other": 1
+          }
+        },
+        "media": {
+          "video_n": 18,
+          "median_video": 1625,
+          "other_n": 3,
+          "median_other": 2699
+        }
+      }
+    },
+    "topics": [
+      {
+        "name": "MAGI-2 craft demos on Higgsfield",
+        "keywords": [
+          "Higgsfield",
+          "Magi-2",
+          "Blender previs"
+        ],
+        "posts_24h": 1,
+        "posts_48h": 5,
+        "views_24h": 22698,
+        "views_prev24h": 57016,
+        "views_48h": 79714,
+        "momentum": "cooling x0.27",
+        "heat_raw": 12.53,
+        "evidence": [
+          {
+            "handle": "@ChillaiKalan__",
+            "views": 29901,
+            "url": "https://x.com/ChillaiKalan__/status/2125650920604357103",
+            "hook": "Paid-partnership MAGI-2 test with the standard spec line ($0.08/sec, up to 30s 1080p): 29,901 views, 221 bookmarks.",
+            "lane": "outsider"
+          },
+          {
+            "handle": "@andresvandal",
+            "views": 22698,
+            "url": "https://x.com/andresvandal/status/2126093452916261082",
+            "hook": "Dark-fairytale micro-film with a one-line logline hook ('Two gold coins for your deepest wish...') plus 'Made in Higgsfield' and #AIfilm tags - 22,698 views, th",
+            "lane": "watchlist"
+          },
+          {
+            "handle": "@higgsfield_ai",
+            "views": 9605,
+            "url": "https://x.com/higgsfield_ai/status/2125719279614222422",
+            "hook": "Higgsfield's own demo: a short lit by a single candle with consistent depth from close-up to wide - 9,605 views. Lighting challenge as the hook.",
+            "lane": "outsider"
+          }
+        ],
+        "heat": 100
+      },
+      {
+        "name": "Copy-paste AI animation wave",
+        "keywords": [
+          "AI animation",
+          "Seedance"
+        ],
+        "posts_24h": 0,
+        "posts_48h": 2,
+        "views_24h": 0,
+        "views_prev24h": 205089,
+        "views_48h": 205089,
+        "momentum": "down · previous 24 h only",
+        "heat_raw": 4.87,
+        "evidence": [
+          {
+            "handle": "@lexx_aura",
+            "views": 173696,
+            "url": "https://x.com/lexx_aura/status/2125661388395999651",
+            "hook": "Copy-paste 'This AI animation is absolutely amazing / better than Disney' + Seedance 2.5 template: 173,696 views, 4,915 likes, 1,555 bookmarks - the same captio",
+            "lane": "outsider"
+          },
+          {
+            "handle": "@PiSForever44",
+            "views": 31393,
+            "url": "https://x.com/PiSForever44/status/2125661239884071372",
+            "hook": "Same 'better than Disney' template, posted one minute after lexx_aura's, on a 1.4K-follower account: 31,393 views. Template wave, not an organic one-off.",
+            "lane": "outsider"
+          }
+        ],
+        "heat": 39
+      }
+    ],
+    "ideas": [
+      {
+        "title": "Single-candle grimdark lighting test",
+        "topic": "MAGI-2 craft demos on Higgsfield",
+        "keywords": [
+          "Higgsfield",
+          "AI video"
+        ],
+        "format": "video",
+        "visual_type": "video",
+        "visual": "15s: a tech-priest lit by one candle, extreme close-up to deep wide, one light source throughout.",
+        "angle": "Higgsfield's single-candle demo did 9,605 views; Higgsfield tops the X keyword sample at 721,463 (up x1.57).",
+        "hook_en": "One candle, one tech-priest, three shots. If your AI video model cheats the light, you will see it here.",
+        "why": "Lighting challenges are a fresh angle after the spec-list phase.",
+        "x_keywords": [
+          "Higgsfield",
+          "AI video"
+        ],
+        "x_rank": 1,
+        "source": "x-keywords"
+      },
+      {
+        "title": "Previs to final, sci-fi skit",
+        "topic": "MAGI-2 craft demos on Higgsfield",
+        "keywords": [
+          "Higgsfield",
+          "AI filmmaking"
+        ],
+        "format": "video",
+        "visual_type": "video",
+        "visual": "Split screen 15-20s: grey blockout of a starship corridor on the left, final shot on the right, cut on the same beats.",
+        "angle": "Higgsfield's Blender previs vs final post did 8,836 views; previs-to-final is turning into an AI filmmaking habit, two days running.",
+        "hook_en": "Grey boxes on the left, a boarding action on the right. Same camera move, previs in, final out.",
+        "why": "Previs-vs-final keeps drawing saves.",
+        "x_keywords": [
+          "Higgsfield",
+          "AI filmmaking"
+        ],
+        "x_rank": 1,
+        "source": "x-keywords"
+      },
+      {
+        "title": "One-line logline 40K micro-short",
+        "topic": "AI filmmaking",
+        "keywords": [
+          "short film",
+          "AI filmmaking"
+        ],
+        "format": "video",
+        "visual_type": "video",
+        "visual": "30-45s vertical micro-short: close-up of a bargain object (a servo-skull contract, a relic), cut to the consequence, end on one held frame.",
+        "angle": "andresvandal's one-line dark-fairytale logline over a short film clip was the watchlist's only hit at 22,698; AI filmmaking jumped to 314,757 from 7,693 in the X keyword sample.",
+        "hook_en": "The Commissar signed for one more day of life. The Emperor always collects.",
+        "why": "Story-first captions won the watchlist on 26.11; AI filmmaking up x40.91 in the sample.",
+        "x_keywords": [
+          "short film",
+          "AI filmmaking"
+        ],
+        "x_rank": 2,
+        "source": "x-keywords"
+      },
+      {
+        "title": "Continuity test: three angles, one scene",
+        "topic": "AI filmmaking",
+        "keywords": [
+          "AI filmmaking"
+        ],
+        "format": "video",
+        "visual_type": "video",
+        "visual": "20s sequence of Captain Orlock: close-up, wide, top-down, same face, light and props in every cut.",
+        "angle": "nrqa__'s reroll-continuity post (1,757 views, 34 bookmarks) named continuity as the bar for AI filmmaking.",
+        "hook_en": "Same face, same light, same armor - three angles. This is the only test that matters in AI filmmaking.",
+        "why": "Continuity is the pain point creators keep naming.",
+        "x_keywords": [
+          "AI filmmaking"
+        ],
+        "x_rank": 2,
+        "source": "x-keywords"
+      },
+      {
+        "title": "Better than Disney? A grimdark answer",
+        "topic": "Copy-paste AI animation wave",
+        "keywords": [
+          "AI animation",
+          "anime",
+          "Seedance"
+        ],
+        "format": "video",
+        "visual_type": "video",
+        "visual": "10-15s anime-style 40K character moment animated in Seedance, opening on motion, no title card.",
+        "angle": "The 'AI animation is better than Disney' + Seedance 2.5 template hit 173,696 (lexx_aura) and 31,393 (PiSForever44).",
+        "hook_en": "Everyone is posting 'better than Disney' AI animation. Disney never made an anime Space Marine cry.",
+        "why": "Rides the template's attention with a clip that is clearly Bogdan's own.",
+        "x_keywords": [
+          "AI animation",
+          "anime",
+          "Seedance"
+        ],
+        "x_rank": 3,
+        "source": "x-keywords"
+      },
+      {
+        "title": "My AI video stack card",
+        "topic": "ComfyUI",
+        "keywords": [
+          "ComfyUI",
+          "Midjourney",
+          "Seedance"
+        ],
+        "format": "video",
+        "visual_type": "video",
+        "visual": "20s clip from a recent short ending on a 2-second stack card listing every tool used.",
+        "angle": "Stack-list posts (ingi_erlingsson 1,914; SD_Tutorial ComfyUI encoders 64 bookmarks) earned more saves than likes.",
+        "hook_en": "Midjourney for the frames, Seedance for motion, ComfyUI for the fixes. Here is the whole stack behind this shot.",
+        "why": "ComfyUI up x1.99 in the X keyword sample; stack posts get saved.",
+        "x_keywords": [
+          "ComfyUI",
+          "Midjourney",
+          "Seedance"
+        ],
+        "x_rank": 5,
+        "source": "x-keywords"
+      }
+    ],
+    "articles": [
+      {
+        "title": "The copy-paste wave: why identical captions hit 173K",
+        "thesis": "A single caption template over anime-style clips outperformed every original post in the window, and creators should read it as distribution, not taste.",
+        "outline": [
+          "The template and who ran it",
+          "Numbers: 173,696 vs 31,393 vs smaller copies",
+          "Why the clip, not the caption, carried it",
+          "How to borrow the format honestly"
+        ],
+        "keywords": [
+          "AI animation",
+          "Seedance",
+          "anime"
+        ],
+        "visual": "Cover: grid of the identical captions; inline: view counts bar chart.",
+        "why": "AI animation posts topped the outsider lane even as the AI animation keyword fell in the sample (39,434 vs 228,863).",
+        "x_keywords": [
+          "AI animation",
+          "Seedance",
+          "anime"
+        ]
+      },
+      {
+        "title": "Continuity is the new bar for AI filmmaking",
+        "thesis": "After a week of model launches, the posts that land are the ones that hold a face, a light and a prop across cuts.",
+        "outline": [
+          "The reroll problem",
+          "Lighting tests: one source, many shots",
+          "Previs for camera control",
+          "A three-angle checklist for solo filmmakers"
+        ],
+        "keywords": [
+          "AI filmmaking",
+          "short film",
+          "Higgsfield"
+        ],
+        "visual": "Cover: three-angle contact sheet; inline: previs vs final frames.",
+        "why": "AI filmmaking rose to 314,757 from 7,693 in the X keyword sample; Higgsfield's craft demos drew 8.7K-9.6K each.",
+        "x_keywords": [
+          "AI filmmaking",
+          "short film",
+          "Higgsfield"
+        ]
+      }
+    ],
+    "why_hit": [
+      {
+        "id": "2126093452916261082",
+        "handle": "@andresvandal",
+        "lane": "watchlist",
+        "views": 22698,
+        "trend_match": 35,
+        "verdict": "visual",
+        "matched_keywords": [
+          "Higgsfield"
+        ],
+        "media": "video",
+        "followers": 19792,
+        "topic": "MAGI-2 craft demos on Higgsfield",
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2125661388395999651",
+        "handle": "@lexx_aura",
+        "lane": "outsider",
+        "views": 173696,
+        "trend_match": 35,
+        "verdict": "visual",
+        "matched_keywords": [
+          "AI Animation"
+        ],
+        "media": "video",
+        "followers": 27092,
+        "topic": "Copy-paste AI animation wave",
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2125661239884071372",
+        "handle": "@PiSForever44",
+        "lane": "outsider",
+        "views": 31393,
+        "trend_match": 35,
+        "verdict": "visual",
+        "matched_keywords": [
+          "AI Animation"
+        ],
+        "media": "video",
+        "followers": 1429,
+        "topic": "Copy-paste AI animation wave",
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2125650920604357103",
+        "handle": "@ChillaiKalan__",
+        "lane": "outsider",
+        "views": 29901,
+        "trend_match": 58,
+        "verdict": "trend",
+        "matched_keywords": [
+          "Higgsfield",
+          "Magi-2"
+        ],
+        "media": "video",
+        "followers": 15813,
+        "topic": "MAGI-2 craft demos on Higgsfield",
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2125719279614222422",
+        "handle": "@higgsfield_ai",
+        "lane": "outsider",
+        "views": 9605,
+        "trend_match": 58,
+        "verdict": "trend",
+        "matched_keywords": [
+          "Higgsfield",
+          "Magi-2"
+        ],
+        "media": "video",
+        "followers": 258508,
+        "topic": "MAGI-2 craft demos on Higgsfield",
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2125680049101979836",
+        "handle": "@higgsfield_ai",
+        "lane": "outsider",
+        "views": 8836,
+        "trend_match": 58,
+        "verdict": "trend",
+        "matched_keywords": [
+          "Higgsfield",
+          "Magi-2"
+        ],
+        "media": "video",
+        "followers": 258508,
+        "topic": "MAGI-2 craft demos on Higgsfield",
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2125702616172875872",
+        "handle": "@higgsfield_ai",
+        "lane": "outsider",
+        "views": 8674,
+        "trend_match": 58,
+        "verdict": "trend",
+        "matched_keywords": [
+          "Higgsfield",
+          "Magi-2"
+        ],
+        "media": "video",
+        "followers": 258508,
+        "topic": "MAGI-2 craft demos on Higgsfield",
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2126239954049413246",
+        "handle": "@SD_Tutorial",
+        "lane": "outsider",
+        "views": 2914,
+        "trend_match": 0,
+        "verdict": "coincidence/other",
+        "matched_keywords": [],
+        "media": "text",
+        "followers": 13999,
+        "topic": null,
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2125897686448840957",
+        "handle": "@testerlabor",
+        "lane": "outsider",
+        "views": 2699,
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "image",
+        "followers": 14756,
+        "topic": null,
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2126034459304583616",
+        "handle": "@ingi_erlingsson",
+        "lane": "outsider",
+        "views": 1914,
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "followers": 17343,
+        "topic": null,
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2126297459467198539",
+        "handle": "@nrqa__",
+        "lane": "outsider",
+        "views": 1757,
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "followers": 76334,
+        "topic": null,
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2125886174799737153",
+        "handle": "@E_R_music138562",
+        "lane": "outsider",
+        "views": 1493,
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "followers": 1213,
+        "topic": null,
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2125633352246116541",
+        "handle": "@janmexico",
+        "lane": "outsider",
+        "views": 1461,
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "followers": 165357,
+        "topic": "MAGI-2 craft demos on Higgsfield",
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2125695232398209523",
+        "handle": "@manushak17",
+        "lane": "outsider",
+        "views": 1207,
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "followers": 4177,
+        "topic": "MAGI-2 craft demos on Higgsfield",
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2125960363590177121",
+        "handle": "@yanhua1010",
+        "lane": "outsider",
+        "views": 1077,
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "followers": 39050,
+        "topic": null,
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2125971144180163042",
+        "handle": "@thedelost",
+        "lane": "outsider",
+        "views": 1031,
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "followers": 5777,
+        "topic": null,
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2125772237605077065",
+        "handle": "@Starkapoo",
+        "lane": "outsider",
+        "views": 965,
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "followers": 5142,
+        "topic": "MAGI-2 craft demos on Higgsfield",
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2126262623058395629",
+        "handle": "@0xAnnee",
+        "lane": "outsider",
+        "views": 782,
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "followers": 1523,
+        "topic": "Copy-paste AI animation wave",
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2126095953027326299",
+        "handle": "@nathe3_io",
+        "lane": "outsider",
+        "views": 742,
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "followers": 442,
+        "topic": "Copy-paste AI animation wave",
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2126308813582237951",
+        "handle": "@MiunnElmatar",
+        "lane": "outsider",
+        "views": 713,
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "followers": 2030,
+        "topic": "Copy-paste AI animation wave",
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2126004541749596512",
+        "handle": "@JeremiahDaws",
+        "lane": "outsider",
+        "views": 616,
+        "trend_match": 0,
+        "verdict": "coincidence/other",
+        "matched_keywords": [],
+        "media": "text",
+        "followers": 2634,
+        "topic": null,
+        "self_quote": false,
+        "note": ""
+      }
+    ],
+    "labels": {
+      "trend": "trend",
+      "visual": "visual",
+      "author": "author/audience",
+      "other": "coincidence/other",
+      "nontrend": "non-trend",
+      "self_quote": "self-quote",
+      "no_data": "no data"
+    },
+    "x_keywords": {
+      "fetched_at": "2026-11-27T15:30:00+00:00",
+      "window_start": "2026-11-25T15:30:00Z",
+      "calls": 32,
+      "method": "Read-only x MCP search_posts_all, 2 calls per keyword: last 24 h and previous 24 h (24-48 h ago); lang:en, no retweets/replies, sort=relevancy, up to 25 posts per window. This is a SAMPLE of top-relevance posts, not every post on X. Views = impression_count at fetch time. Rank = sum of sampled 24 h views; 48 h = both windows; trend = 24 h sum / previous 24 h sum (up >=1.3, down <=0.7). Fresh posts are still gaining views, so 'up' is understated. Top-post share > 70% means one viral post carries the keyword.",
+      "missing": [],
+      "sample": true,
+      "sample_size_per_call": 25,
+      "keywords": [
+        {
+          "keyword": "Higgsfield",
+          "query": "\"Higgsfield\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 25,
+            "total": 721463,
+            "median": 116,
+            "top": {
+              "views": 657994,
+              "url": "https://x.com/higgsfield/status/2126285551838089375",
+              "handle": "@higgsfield",
+              "text": "Higgsfield Black Friday: less than 12 hours left for the Secret Plan. Our biggest offer of the year: &gt; Secret plan: 2"
+            }
+          },
+          "prev24": {
+            "n": 25,
+            "total": 460174,
+            "median": 322,
+            "top": {
+              "views": 387633,
+              "url": "https://x.com/higgsfield/status/2125679477459910964",
+              "handle": "@higgsfield",
+              "text": "MAGI-2 is live, exclusively on Higgsfield. Now you can try the largest near-SOTA video model for free. &gt; $0.08 per se"
+            }
+          },
+          "w48": {
+            "n": 50,
+            "total": 1181637,
+            "top": {
+              "views": 657994,
+              "url": "https://x.com/higgsfield/status/2126285551838089375",
+              "handle": "@higgsfield",
+              "text": "Higgsfield Black Friday: less than 12 hours left for the Secret Plan. Our biggest offer of the year: &gt; Secret plan: 2"
+            }
+          },
+          "change": 1.57,
+          "trend": "up",
+          "partial": false,
+          "top_share": 0.91,
+          "rank": 1
+        },
+        {
+          "keyword": "AI filmmaking",
+          "query": "\"AI filmmaking\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 25,
+            "total": 314757,
+            "median": 83,
+            "top": {
+              "views": 164674,
+              "url": "https://x.com/JJ_Kresl/status/2126059273834873017",
+              "handle": "@JJ_Kresl",
+              "text": "The best take on AI \"filmmaking\" I've seen lately was on reddit when someone said \"Why would I bother to watch a movie n"
+            }
+          },
+          "prev24": {
+            "n": 25,
+            "total": 7693,
+            "median": 33,
+            "top": {
+              "views": 4533,
+              "url": "https://x.com/TheWrap/status/2125650140509941938",
+              "handle": "@TheWrap",
+              "text": "David Fincher Details His Vision for AI Filmmaking That Is Still ‘Based on Real Human Beings’ https://t.co/7QzIkQMm2N"
+            }
+          },
+          "w48": {
+            "n": 50,
+            "total": 322450,
+            "top": {
+              "views": 164674,
+              "url": "https://x.com/JJ_Kresl/status/2126059273834873017",
+              "handle": "@JJ_Kresl",
+              "text": "The best take on AI \"filmmaking\" I've seen lately was on reddit when someone said \"Why would I bother to watch a movie n"
+            }
+          },
+          "change": 40.91,
+          "trend": "up",
+          "partial": false,
+          "top_share": 0.52,
+          "rank": 2
+        },
+        {
+          "keyword": "AI animation",
+          "query": "\"AI animation\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 25,
+            "total": 39434,
+            "median": 109,
+            "top": {
+              "views": 15997,
+              "url": "https://x.com/juliet_2138_z/status/2126222810045362326",
+              "handle": "@juliet_2138_z",
+              "text": "This AI animation is better than Disney 🔥 Seedance 2.5 https://t.co/q1GwQNxJl6 https://t.co/dgJJouahoD"
+            }
+          },
+          "prev24": {
+            "n": 25,
+            "total": 228863,
+            "median": 207,
+            "top": {
+              "views": 173723,
+              "url": "https://x.com/lexx_aura/status/2125661388395999651",
+              "handle": "@lexx_aura",
+              "text": "This AI Animation is absolutely amazing 🔥 Seedance 2.5 https://t.co/CXvuZtGn0t"
+            }
+          },
+          "w48": {
+            "n": 50,
+            "total": 268297,
+            "top": {
+              "views": 173723,
+              "url": "https://x.com/lexx_aura/status/2125661388395999651",
+              "handle": "@lexx_aura",
+              "text": "This AI Animation is absolutely amazing 🔥 Seedance 2.5 https://t.co/CXvuZtGn0t"
+            }
+          },
+          "change": 0.17,
+          "trend": "down",
+          "partial": false,
+          "top_share": 0.41,
+          "rank": 3
+        },
+        {
+          "keyword": "Sora",
+          "query": "\"Sora\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 24,
+            "total": 27622,
+            "median": 248,
+            "top": {
+              "views": 14607,
+              "url": "https://x.com/Bio_Roxas/status/2125986792511865000",
+              "handle": "@Bio_Roxas",
+              "text": "This will be Sora https://t.co/ONMA6wGd06"
+            }
+          },
+          "prev24": {
+            "n": 24,
+            "total": 11530,
+            "median": 113,
+            "top": {
+              "views": 4690,
+              "url": "https://x.com/desirenoo/status/2125736861213888524",
+              "handle": "@desirenoo",
+              "text": "👤: if sora were a girl, which member would she date? 🩵: hmm, seoha (pointing at seoha) they admire each other, so cute 🫠"
+            }
+          },
+          "w48": {
+            "n": 48,
+            "total": 39152,
+            "top": {
+              "views": 14607,
+              "url": "https://x.com/Bio_Roxas/status/2125986792511865000",
+              "handle": "@Bio_Roxas",
+              "text": "This will be Sora https://t.co/ONMA6wGd06"
+            }
+          },
+          "change": 2.4,
+          "trend": "up",
+          "partial": false,
+          "top_share": 0.53,
+          "rank": 4
+        },
+        {
+          "keyword": "ComfyUI",
+          "query": "\"ComfyUI\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 25,
+            "total": 13976,
+            "median": 51,
+            "top": {
+              "views": 3211,
+              "url": "https://x.com/Furry4Ever/status/2126058422500253727",
+              "handle": "@Furry4Ever",
+              "text": "More scaly goodness, c0mm delivery for @the_xandart #furryartwork via ComfyUI, Directed by Me https://t.co/mbcChwm4PG"
+            }
+          },
+          "prev24": {
+            "n": 25,
+            "total": 7033,
+            "median": 92,
+            "top": {
+              "views": 1793,
+              "url": "https://x.com/ou_zhen599/status/2125948252780650699",
+              "handle": "@ou_zhen599",
+              "text": "Made with Krea 2 +MiniMax-H3 ComfyUI 🏷️“Royal Authority” 📷With the sound of gunfire, she brought everyone back under her"
+            }
+          },
+          "w48": {
+            "n": 50,
+            "total": 21009,
+            "top": {
+              "views": 3211,
+              "url": "https://x.com/Furry4Ever/status/2126058422500253727",
+              "handle": "@Furry4Ever",
+              "text": "More scaly goodness, c0mm delivery for @the_xandart #furryartwork via ComfyUI, Directed by Me https://t.co/mbcChwm4PG"
+            }
+          },
+          "change": 1.99,
+          "trend": "up",
+          "partial": false,
+          "top_share": 0.23,
+          "rank": 5
+        },
+        {
+          "keyword": "Kling",
+          "query": "\"Kling\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 25,
+            "total": 12868,
+            "median": 56,
+            "top": {
+              "views": 6914,
+              "url": "https://x.com/AIWarper/status/2126012160967160033",
+              "handle": "@AIWarper",
+              "text": "In order, here is: MAGI-2 FLUX 3 KLING 4.0 KLING 4.0 FLASH Also.... if this stuff is helpful at all please share! A sing"
+            }
+          },
+          "prev24": {
+            "n": 25,
+            "total": 7417,
+            "median": 81,
+            "top": {
+              "views": 2031,
+              "url": "https://x.com/goo_vision/status/2125654056744231335",
+              "handle": "@goo_vision",
+              "text": "Midnight 🌜 Krea 2 Large + Kling 3.0 Check out Krea ⬇️ https://t.co/acNTmyCwUe"
+            }
+          },
+          "w48": {
+            "n": 50,
+            "total": 20285,
+            "top": {
+              "views": 6914,
+              "url": "https://x.com/AIWarper/status/2126012160967160033",
+              "handle": "@AIWarper",
+              "text": "In order, here is: MAGI-2 FLUX 3 KLING 4.0 KLING 4.0 FLASH Also.... if this stuff is helpful at all please share! A sing"
+            }
+          },
+          "change": 1.73,
+          "trend": "up",
+          "partial": false,
+          "top_share": 0.54,
+          "rank": 6
+        },
+        {
+          "keyword": "Seedance",
+          "query": "\"Seedance\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 25,
+            "total": 11612,
+            "median": 50,
+            "top": {
+              "views": 8679,
+              "url": "https://x.com/4111J_/status/2126196587978178729",
+              "handle": "@4111J_",
+              "text": "$28.50 on Seedance 2.5 vs $1.20 on YouArt. Same 30s 1080p clip. The choice is obvious now. #Seedance #MAGI2 #YouArt #AIC"
+            }
+          },
+          "prev24": {
+            "n": 25,
+            "total": 35614,
+            "median": 82,
+            "top": {
+              "views": 9709,
+              "url": "https://x.com/TBigChees3/status/2125677311638851996",
+              "handle": "@TBigChees3",
+              "text": "MEET THE HENDERSONS Made with Seedance 2.5 + edited in Capcut I love how capable Seedance 2.5 is of capturing each of th"
+            }
+          },
+          "w48": {
+            "n": 50,
+            "total": 47226,
+            "top": {
+              "views": 9709,
+              "url": "https://x.com/TBigChees3/status/2125677311638851996",
+              "handle": "@TBigChees3",
+              "text": "MEET THE HENDERSONS Made with Seedance 2.5 + edited in Capcut I love how capable Seedance 2.5 is of capturing each of th"
+            }
+          },
+          "change": 0.33,
+          "trend": "down",
+          "partial": false,
+          "top_share": 0.75,
+          "rank": 7
+        },
+        {
+          "keyword": "AI video",
+          "query": "\"AI video\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 25,
+            "total": 10992,
+            "median": 55,
+            "top": {
+              "views": 5690,
+              "url": "https://x.com/im_shahid7/status/2126230275114041753",
+              "handle": "@im_shahid7",
+              "text": "AI video just hit a new price-breaking point with MAGI-2. @renoiseai is making high-quality AI video more accessible wit"
+            }
+          },
+          "prev24": {
+            "n": 25,
+            "total": 47884,
+            "median": 267,
+            "top": {
+              "views": 15650,
+              "url": "https://x.com/Vivienn1145/status/2125970465210720486",
+              "handle": "@Vivienn1145",
+              "text": "The biggest advantage of affordable AI video generation is having more room to experiment. At $0.04 per second, MAGI-2 o"
+            }
+          },
+          "w48": {
+            "n": 50,
+            "total": 58876,
+            "top": {
+              "views": 15650,
+              "url": "https://x.com/Vivienn1145/status/2125970465210720486",
+              "handle": "@Vivienn1145",
+              "text": "The biggest advantage of affordable AI video generation is having more room to experiment. At $0.04 per second, MAGI-2 o"
+            }
+          },
+          "change": 0.23,
+          "trend": "down",
+          "partial": false,
+          "top_share": 0.52,
+          "rank": 8
+        },
+        {
+          "keyword": "short film",
+          "query": "\"short film\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 25,
+            "total": 7530,
+            "median": 39,
+            "top": {
+              "views": 3111,
+              "url": "https://x.com/filmfare/status/2126299059744837975",
+              "handle": "@filmfare",
+              "text": "Which short film left the biggest impression on you? Show it some love by voting for People's Choice - Best Short Film a"
+            }
+          },
+          "prev24": {
+            "n": 25,
+            "total": 64980,
+            "median": 52,
+            "top": {
+              "views": 51066,
+              "url": "https://x.com/taran_adarsh/status/2125850445772112225",
+              "handle": "@taran_adarsh",
+              "text": "SHAHID KHAN WINS BEST SHORT FILM AWARD… #ShahidKhan has been honoured with the Best Short Film Award for #Madhuri - End "
+            }
+          },
+          "w48": {
+            "n": 50,
+            "total": 72510,
+            "top": {
+              "views": 51066,
+              "url": "https://x.com/taran_adarsh/status/2125850445772112225",
+              "handle": "@taran_adarsh",
+              "text": "SHAHID KHAN WINS BEST SHORT FILM AWARD… #ShahidKhan has been honoured with the Best Short Film Award for #Madhuri - End "
+            }
+          },
+          "change": 0.12,
+          "trend": "down",
+          "partial": false,
+          "top_share": 0.41,
+          "rank": 9
+        },
+        {
+          "keyword": "Runway",
+          "query": "\"Runway\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 25,
+            "total": 4618,
+            "median": 31,
+            "top": {
+              "views": 2407,
+              "url": "https://x.com/fl360aero/status/2126126891216044153",
+              "handle": "@fl360aero",
+              "text": "GOODBYE RUNWAY 06/24, HELLO RUNWAY 05/23! SHANNON AIRPORT MARKS A HISTORIC AVIATION MILESTONE AFTER 66 YEARS A little ch"
+            }
+          },
+          "prev24": {
+            "n": 25,
+            "total": 45461,
+            "median": 40,
+            "top": {
+              "views": 26048,
+              "url": "https://x.com/LesyaHendrix/status/2125617126161649957",
+              "handle": "@LesyaHendrix",
+              "text": "Fulton Hogan's runway-striping robot laying lines on a freshly paved airport runway in Queensland, at night, a few meter"
+            }
+          },
+          "w48": {
+            "n": 50,
+            "total": 50079,
+            "top": {
+              "views": 26048,
+              "url": "https://x.com/LesyaHendrix/status/2125617126161649957",
+              "handle": "@LesyaHendrix",
+              "text": "Fulton Hogan's runway-striping robot laying lines on a freshly paved airport runway in Queensland, at night, a few meter"
+            }
+          },
+          "change": 0.1,
+          "trend": "down",
+          "partial": false,
+          "top_share": 0.52,
+          "rank": 10
+        },
+        {
+          "keyword": "anime",
+          "query": "\"anime\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 25,
+            "total": 4426,
+            "median": 24,
+            "top": {
+              "views": 2013,
+              "url": "https://x.com/OmniReborn24/status/2126307554703601670",
+              "handle": "@OmniReborn24",
+              "text": "ELEMENTAL HERO AND NEOS ORIGINAL CARD ART VS. ANIME ART! 🦸🏻‍♂️ The Yu-Gi-Oh! GX anime gave many of Jaden’s Elemental HER"
+            }
+          },
+          "prev24": {
+            "n": 25,
+            "total": 9466,
+            "median": 57,
+            "top": {
+              "views": 4295,
+              "url": "https://x.com/SinisterX010/status/2125633557892841534",
+              "handle": "@SinisterX010",
+              "text": "Anime watching just got a serious upgrade! 🍿🔥 AniView 2.7.0 brings watch parties, torrent streaming, and Anime4K upscali"
+            }
+          },
+          "w48": {
+            "n": 50,
+            "total": 13892,
+            "top": {
+              "views": 4295,
+              "url": "https://x.com/SinisterX010/status/2125633557892841534",
+              "handle": "@SinisterX010",
+              "text": "Anime watching just got a serious upgrade! 🍿🔥 AniView 2.7.0 brings watch parties, torrent streaming, and Anime4K upscali"
+            }
+          },
+          "change": 0.47,
+          "trend": "down",
+          "partial": false,
+          "top_share": 0.45,
+          "rank": 11
+        },
+        {
+          "keyword": "image to video",
+          "query": "\"image to video\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 25,
+            "total": 4295,
+            "median": 14,
+            "top": {
+              "views": 1862,
+              "url": "https://x.com/ImagineArt_X/status/2126096478380994761",
+              "handle": "@ImagineArt_X",
+              "text": "1/7 the price. tied for #1 in image-to-video. Magi 2, on ImagineArt soon. https://t.co/MWyGClBrTE"
+            }
+          },
+          "prev24": {
+            "n": 25,
+            "total": 104029,
+            "median": 59,
+            "top": {
+              "views": 29667,
+              "url": "https://x.com/HBrooksLive/status/2125820304438313235",
+              "handle": "@HBrooksLive",
+              "text": "One thing I find interesting about MAGI-2 is how many different inputs it can work with. @magiai_hq Text, images, video,"
+            }
+          },
+          "w48": {
+            "n": 50,
+            "total": 108324,
+            "top": {
+              "views": 29667,
+              "url": "https://x.com/HBrooksLive/status/2125820304438313235",
+              "handle": "@HBrooksLive",
+              "text": "One thing I find interesting about MAGI-2 is how many different inputs it can work with. @magiai_hq Text, images, video,"
+            }
+          },
+          "change": 0.04,
+          "trend": "down",
+          "partial": false,
+          "top_share": 0.43,
+          "rank": 12
+        },
+        {
+          "keyword": "Veo",
+          "query": "\"Veo\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 25,
+            "total": 3408,
+            "median": 30,
+            "top": {
+              "views": 1298,
+              "url": "https://x.com/TropiCASLA/status/2126165395786858533",
+              "handle": "@TropiCASLA",
+              "text": "Lo decidi mañana (hoy) veo you can see everything."
+            }
+          },
+          "prev24": {
+            "n": 25,
+            "total": 1992,
+            "median": 40,
+            "top": {
+              "views": 294,
+              "url": "https://x.com/Jo_Buu0/status/2125617224547172582",
+              "handle": "@Jo_Buu0",
+              "text": "Google already owns the pieces of the strongest AI ecosystem on the planet. They’re just not wired together yet. ​Worksp"
+            }
+          },
+          "w48": {
+            "n": 50,
+            "total": 5400,
+            "top": {
+              "views": 1298,
+              "url": "https://x.com/TropiCASLA/status/2126165395786858533",
+              "handle": "@TropiCASLA",
+              "text": "Lo decidi mañana (hoy) veo you can see everything."
+            }
+          },
+          "change": 1.71,
+          "trend": "up",
+          "partial": false,
+          "top_share": 0.38,
+          "rank": 13
+        },
+        {
+          "keyword": "text to video",
+          "query": "\"text to video\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 25,
+            "total": 2700,
+            "median": 26,
+            "top": {
+              "views": 931,
+              "url": "https://x.com/Mahesh171819/status/2126212194962710828",
+              "handle": "@Mahesh171819",
+              "text": "This is the gold mine for free AI videos 32 tools. Text-to-video, image-to- video, avatars and more all free. Save it rn"
+            }
+          },
+          "prev24": {
+            "n": 25,
+            "total": 3665,
+            "median": 21,
+            "top": {
+              "views": 1008,
+              "url": "https://x.com/chocolaty89/status/2125904009701806134",
+              "handle": "@chocolaty89",
+              "text": "12 popular AI tools accessible to creators 1. Kling AI – Video generation 2. Higgsfield – Cinematic AI videos 3. Canva A"
+            }
+          },
+          "w48": {
+            "n": 50,
+            "total": 6365,
+            "top": {
+              "views": 1008,
+              "url": "https://x.com/chocolaty89/status/2125904009701806134",
+              "handle": "@chocolaty89",
+              "text": "12 popular AI tools accessible to creators 1. Kling AI – Video generation 2. Higgsfield – Cinematic AI videos 3. Canva A"
+            }
+          },
+          "change": 0.74,
+          "trend": "flat",
+          "partial": false,
+          "top_share": 0.34,
+          "rank": 14
+        },
+        {
+          "keyword": "Midjourney",
+          "query": "\"Midjourney\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 25,
+            "total": 2532,
+            "median": 25,
+            "top": {
+              "views": 421,
+              "url": "https://x.com/FramezeroAI/status/2126293028289830944",
+              "handle": "@FramezeroAI",
+              "text": "Inspired by Midjourney New Model I have generated Using Google Neon with Gemini Omni Flash. @midjourney @FlowbyGoogle #m"
+            }
+          },
+          "prev24": {
+            "n": 25,
+            "total": 2529,
+            "median": 38,
+            "top": {
+              "views": 354,
+              "url": "https://x.com/Guylock/status/2125672546645561406",
+              "handle": "@Guylock",
+              "text": "... damnit midjourney please stop cooking https://t.co/Trw56e9y3L"
+            }
+          },
+          "w48": {
+            "n": 50,
+            "total": 5061,
+            "top": {
+              "views": 421,
+              "url": "https://x.com/FramezeroAI/status/2126293028289830944",
+              "handle": "@FramezeroAI",
+              "text": "Inspired by Midjourney New Model I have generated Using Google Neon with Gemini Omni Flash. @midjourney @FlowbyGoogle #m"
+            }
+          },
+          "change": 1.0,
+          "trend": "flat",
+          "partial": false,
+          "top_share": 0.17,
+          "rank": 15
+        },
+        {
+          "keyword": "Grok Imagine",
+          "query": "\"Grok Imagine\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 25,
+            "total": 1705,
+            "median": 27,
+            "top": {
+              "views": 1008,
+              "url": "https://x.com/cale_ai/status/2126036095771004957",
+              "handle": "@cale_ai",
+              "text": "A correction I can't edit. I used Pixai for the original picture not the music. Then I used Grok imagine for editing the"
+            }
+          },
+          "prev24": {
+            "n": 25,
+            "total": 7467,
+            "median": 70,
+            "top": {
+              "views": 2699,
+              "url": "https://x.com/testerlabor/status/2125897686448840957",
+              "handle": "@testerlabor",
+              "text": "The last sentence Grok says here about Grok Imagine is very significant: “Resources shifted toward coding tools and agen"
+            }
+          },
+          "w48": {
+            "n": 50,
+            "total": 9172,
+            "top": {
+              "views": 2699,
+              "url": "https://x.com/testerlabor/status/2125897686448840957",
+              "handle": "@testerlabor",
+              "text": "The last sentence Grok says here about Grok Imagine is very significant: “Resources shifted toward coding tools and agen"
+            }
+          },
+          "change": 0.23,
+          "trend": "down",
+          "partial": false,
+          "top_share": 0.59,
+          "rank": 16
+        }
+      ]
+    },
+    "legend": "Trend match 0-100% = 1 - prod(1 - w) over matched 24 h keywords that another author also used in the 48 h window (w: rank 1-10 0.35, 11-25 0.22, 26-40 0.12, curated 0.20). Verdict: >= 50% -> trend; else video/image in the post data -> visual; else >= 100K followers (outsiders without follower data: >= 500K views, estimate) -> author/audience; else coincidence/other. Missing data shows as 'no data'. Heat = sum log10(views) of topic posts (24 h x1, 24-48 h x0.5), scaled to 100. Momentum = log-views last 24 h / previous 24 h. Trend-input-only accounts feed the corpus but are never shown as hits."
+  }
+}
