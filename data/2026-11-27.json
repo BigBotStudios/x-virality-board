@@ -1,0 +1,3375 @@
+{
+  "title": "X Virality Score · 2026-11-27",
+  "brand_title": "Grok Bot X Virality Score",
+  "brand_handle": "@SMKP_Films",
+  "operator": {
+    "handle": "SMKP_Films",
+    "name": "Bogdan Orlic",
+    "profile_url": "https://x.com/SMKP_Films"
+  },
+  "timezone": "America/Toronto",
+  "date": "2026-11-27",
+  "updated": "2026-11-28T10:44:44-05:00",
+  "ui": {
+    "default_theme": "night"
+  },
+  "board_features": {
+    "count_up": true,
+    "live_pulse": true,
+    "theme_toggle": true,
+    "themes": [
+      "night",
+      "day"
+    ],
+    "grok_ambient": true,
+    "week_month_boards": true,
+    "day_roster_best_total": true,
+    "day_compare_chart": true,
+    "week_strip": true,
+    "no_hits_reasons": true,
+    "marker_class": "xvs-dash-2026",
+    "top10_drafts_v4": true,
+    "trend_keywords": true,
+    "trend_radar": true,
+    "x_keyword_table": true,
+    "experiment": true,
+    "self_quote_badge": true
+  },
+  "previous_day": {
+    "date": "2026-11-26",
+    "hits_count": 1,
+    "total_views": 22698,
+    "stars": 1,
+    "x_score": 16,
+    "top_hit": null
+  },
+  "hits": [],
+  "hits_count": 0,
+  "outsiders": [
+    {
+      "id": "2126564586019270923",
+      "name": "Minhoo",
+      "display_name": "Minhoo",
+      "handle": "@minhoo_kim_",
+      "views": 59733,
+      "views_label": "59,733",
+      "url": "https://x.com/minhoo_kim_/status/2126564586019270923",
+      "created_at": "2026-11-28T06:31:21.000Z",
+      "posted_at": "2026-11-28T06:31:21.000Z",
+      "text": "MAGI-2 for just $0.99? That's a deal worth watching!\n\nGet up to 250 seconds of AI video at just $0.00396/sec. Plus, 5,000 bonus credits across 22 models.\n\nOnly 1,000 limited packs available, one per person. Affordable AI video creation is getting exciting! https://t.co/qiZPP7cUeR",
+      "original_en": "MAGI-2 for just $0.99? That's a deal worth watching!\n\nGet up to 250 seconds of AI video at just $0.00396/sec. Plus, 5,000 bonus credits across 22 models.\n\nOnly 1,000 limited packs available, one per person. Affordable AI video creation is getting exciting! https://t.co/qiZPP7cUeR",
+      "lang": "en",
+      "hook": "Paid-partnership price hook: 'MAGI-2 for just $0.99' with a per-second cost and a limited-pack scarcity line - 59,733 views from a text-only post, the biggest outsider number of the window.",
+      "video_tip": "Turn a price claim into a visual: a 10s clip with a running seconds counter and the cost ticking up in a corner, so the cheapness is shown, not told.",
+      "media": "text",
+      "followers_count": 20329,
+      "likes": 118,
+      "reposts": 1,
+      "bookmarks": 0,
+      "replies": 15,
+      "quotes": 0,
+      "self_quote": false,
+      "board_rank": 1,
+      "draft_en": "Cheap AI video just got cheaper. A MAGI-2 pack for $0.99 buys up to 250 seconds of generation - that works out to $0.00396/sec - and comes with 5,000 bonus credits spread over 22 models.\n\nThe catch: only 1,000 packs exist, and it is one per person.\n\nFor anyone cutting sci-fi skits on a budget, that is a lot of test shots for under a dollar.",
+      "draft_keywords": [
+        "AI video",
+        "MAGI-2",
+        "models"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.048,
+        "word_overlap": 0.4,
+        "max_copied_run": 5
+      },
+      "top10_rank": 1
+    },
+    {
+      "id": "2126501430131315175",
+      "name": "L.o.D",
+      "display_name": "L.o.D",
+      "handle": "@LordeDaAlvorada",
+      "views": 38682,
+      "views_label": "38,682",
+      "url": "https://x.com/LordeDaAlvorada/status/2126501430131315175",
+      "created_at": "2026-11-28T02:20:24.000Z",
+      "posted_at": "2026-11-28T02:20:24.000Z",
+      "text": "This AI animation is better than Disney 🔥 \n\nSeedance 2.5 https://t.co/VJ7X6s2STq https://t.co/w5tJgx6gdq",
+      "original_en": "This AI animation is better than Disney 🔥 \n\nSeedance 2.5 https://t.co/VJ7X6s2STq https://t.co/w5tJgx6gdq",
+      "lang": "en",
+      "hook": "The copy-paste 'This AI animation is better than Disney' + 'Seedance 2.5' template again, now on a 2.8K-follower account: 38,682 views, 2,408 likes, 525 bookmarks.",
+      "video_tip": "Lead with your single most fluid 10-20s animated shot, no title card; one superlative line plus the model name, and let the motion do the selling.",
+      "media": "video",
+      "followers_count": 2786,
+      "likes": 2408,
+      "reposts": 188,
+      "bookmarks": 525,
+      "replies": 18,
+      "quotes": 2,
+      "self_quote": false,
+      "board_rank": 2,
+      "draft_en": "Disney should be paying attention. Seedance 2.5 is turning out AI animation at this level now - press play and judge it yourself.",
+      "draft_keywords": [
+        "Seedance 2.5",
+        "AI animation"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.0,
+        "word_overlap": 0.364,
+        "max_copied_run": 2
+      },
+      "top10_rank": 2
+    },
+    {
+      "id": "2126380255388528792",
+      "name": "Fawaz",
+      "display_name": "Fawaz",
+      "handle": "@FawazXweb3",
+      "views": 35180,
+      "views_label": "35,180",
+      "url": "https://x.com/FawazXweb3/status/2126380255388528792",
+      "created_at": "2026-11-27T18:18:53.000Z",
+      "posted_at": "2026-11-27T18:18:53.000Z",
+      "text": "The Heist\n\n​Created this AI animation using Seedance 2.5 on Dreamina to push what AI video generation can do\n\n​@dreamina_ai #dreamina #dreaminacreators #AIVideo #contentcreator #animation #Seedance25 https://t.co/MGnkhxTv91",
+      "original_en": "The Heist\n\n​Created this AI animation using Seedance 2.5 on Dreamina to push what AI video generation can do\n\n​@dreamina_ai #dreamina #dreaminacreators #AIVideo #contentcreator #animation #Seedance25 https://t.co/MGnkhxTv91",
+      "lang": "en",
+      "hook": "Named mini-film ('The Heist') with a one-line creator note and Seedance 2.5 on Dreamina tags: 35,180 views - a titled story beat beats a spec sheet.",
+      "video_tip": "Give your next short a two-word title card and a 3-beat heist or raid structure (plan, twist, escape) in under 40 seconds.",
+      "media": "video",
+      "followers_count": 3109,
+      "likes": 149,
+      "reposts": 6,
+      "bookmarks": 2,
+      "replies": 25,
+      "quotes": 0,
+      "self_quote": false,
+      "board_rank": 3,
+      "draft_en": "The Heist is what you get when someone pushes Seedance 2.5 on Dreamina just to see how far AI video generation really goes.\n\nShort, titled, story first. That is the AI animation format I keep coming back to for my own Warhammer shorts.",
+      "draft_keywords": [
+        "Seedance 2.5",
+        "AI video",
+        "AI animation"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.025,
+        "word_overlap": 0.368,
+        "max_copied_run": 4
+      },
+      "top10_rank": 3
+    },
+    {
+      "id": "2126496652319961284",
+      "name": "things are getting too spicy for the pepper",
+      "display_name": "things are getting too spicy for the pepper",
+      "handle": "@MissPavIichenko",
+      "views": 33455,
+      "views_label": "33,455",
+      "url": "https://x.com/MissPavIichenko/status/2126496652319961284",
+      "created_at": "2026-11-28T02:01:24.000Z",
+      "posted_at": "2026-11-28T02:01:24.000Z",
+      "text": "This AI animation is better than Disney 🔥\n\nSeedance 2.5 https://t.co/izdRKTU42Q https://t.co/ulKZI178nv",
+      "original_en": "This AI animation is better than Disney 🔥\n\nSeedance 2.5 https://t.co/izdRKTU42Q https://t.co/ulKZI178nv",
+      "lang": "en",
+      "hook": "Same 'better than Disney' + Seedance 2.5 caption, posted 19 minutes before LordeDaAlvorada's: 33,455 views. Template wave, not an organic one-off.",
+      "video_tip": "If you use the template, make the clip clearly yours: a 15s character moment from your own world (a Space Marine, a sci-fi skit lead) instead of a generic showcase.",
+      "media": "video",
+      "followers_count": 22847,
+      "likes": 1113,
+      "reposts": 99,
+      "bookmarks": 166,
+      "replies": 8,
+      "quotes": 3,
+      "self_quote": false,
+      "board_rank": 4,
+      "draft_en": "Better than Disney? That is the bar people now set for AI animation, and this Seedance 2.5 clip makes the case without saying a word.",
+      "draft_keywords": [
+        "AI animation",
+        "Seedance 2.5"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.0,
+        "word_overlap": 0.417,
+        "max_copied_run": 3
+      },
+      "top10_rank": 4
+    },
+    {
+      "id": "2126416060366917714",
+      "name": "Wivy",
+      "display_name": "Wivy",
+      "handle": "@Wivyai",
+      "views": 19256,
+      "views_label": "19,256",
+      "url": "https://x.com/Wivyai/status/2126416060366917714",
+      "created_at": "2026-11-27T20:41:10.000Z",
+      "posted_at": "2026-11-27T20:41:10.000Z",
+      "text": "Seedance 2.5 vs Kling 4.0 | Pixar-style, side by side\n\nSeedance 2.5 → $0.04/s (71% less than on other APIs)\nKling 4.0 → $0.09/s (36% less than on other APIs)\n\nSeedance costs more than Kling on most platforms \nBut on the Wivy API, it hits different\n\n100+ models. Link in bio https://t.co/k3Me8irPRM https://t.co/0m0DSlF0Ud",
+      "original_en": "Seedance 2.5 vs Kling 4.0 | Pixar-style, side by side\n\nSeedance 2.5 → $0.04/s (71% less than on other APIs)\nKling 4.0 → $0.09/s (36% less than on other APIs)\n\nSeedance costs more than Kling on most platforms \nBut on the Wivy API, it hits different\n\n100+ models. Link in bio https://t.co/k3Me8irPRM https://t.co/0m0DSlF0Ud",
+      "lang": "en",
+      "hook": "Side-by-side model comparison (Seedance 2.5 vs Kling 4.0, Pixar style) with per-second prices: 19,256 views on a 140-follower account.",
+      "video_tip": "Run one prompt through two models, split-screen 10-15s, label each side with model and cost; end on a 'which wins?' frame.",
+      "media": "video",
+      "followers_count": 140,
+      "likes": 56,
+      "reposts": 8,
+      "bookmarks": 57,
+      "replies": 19,
+      "quotes": 1,
+      "self_quote": false,
+      "board_rank": 5,
+      "draft_en": "Pixar-style test: Kling 4.0 and Seedance 2.5 running the same idea side by side.\n\nOn most platforms Seedance is the pricier one. Through the Wivy API the math flips - Seedance 2.5 lands at $0.04/s, which they put at 71% under other APIs, while Kling 4.0 sits at $0.09/s, 36% under.\n\nThey list 100+ models. Link in their bio.",
+      "draft_keywords": [
+        "Kling 4.0",
+        "Seedance 2.5",
+        "API",
+        "models"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.018,
+        "word_overlap": 0.615,
+        "max_copied_run": 4
+      },
+      "top10_rank": 5
+    },
+    {
+      "id": "2126166275504394270",
+      "name": "Kicknost",
+      "display_name": "Kicknost",
+      "handle": "@kicknost",
+      "views": 12322,
+      "views_label": "12,322",
+      "url": "https://x.com/kicknost/status/2126166275504394270",
+      "created_at": "2026-11-27T04:08:36.000Z",
+      "posted_at": "2026-11-27T04:08:36.000Z",
+      "text": "A kind heart can be hurt without becoming cruel.\n\nAI video has finally hit a price-breaking moment: MAGI-2.\n\nAnd @renoiseai has brought MAGI-2 to the lowest price anywhere online. 🔥\n\n1080p, native audio and up to 30 seconds—from $0.033/sec.\n\nOver 10× cheaper than Seedance 2.5; 12% below Higgsfield Ultra 3000 annual and about 59% below Higgsfield API.\n\nAvailable on Renoise Web, App and MCP.\n\n#renoiseai #MAGI2",
+      "original_en": "A kind heart can be hurt without becoming cruel.\n\nAI video has finally hit a price-breaking moment: MAGI-2.\n\nAnd @renoiseai has brought MAGI-2 to the lowest price anywhere online. 🔥\n\n1080p, native audio and up to 30 seconds—from $0.033/sec.\n\nOver 10× cheaper than Seedance 2.5; 12% below Higgsfield Ultra 3000 annual and about 59% below Higgsfield API.\n\nAvailable on Renoise Web, App and MCP.\n\n#renoiseai #MAGI2",
+      "lang": "en",
+      "hook": "Emotional one-liner opener ('A kind heart can be hurt without becoming cruel.') bolted onto a MAGI-2 price pitch: 12,322 views.",
+      "video_tip": "Open with one emotional line over a quiet character close-up, then cut to the action; the line carries the scroll-stop, the clip carries the watch time.",
+      "media": "video",
+      "followers_count": 4185,
+      "likes": 29,
+      "reposts": 6,
+      "bookmarks": 2,
+      "replies": 11,
+      "quotes": 0,
+      "self_quote": false,
+      "board_rank": 6,
+      "draft_en": "You can get hurt and still refuse to turn cruel. Strong line to open a clip on.\n\nMeanwhile MAGI-2 pricing just broke. Renoise lists it from $0.033/sec for 1080p native audio clips up to 30 seconds and calls that the cheapest anywhere online.\n\nTheir comparison: more than 10× under Seedance 2.5, 12% below the Higgsfield Ultra 3000 annual plan, roughly 59% below the Higgsfield API. Web, app and MCP.",
+      "draft_keywords": [
+        "MAGI-2",
+        "Renoise",
+        "1080p native audio",
+        "Seedance 2.5",
+        "Higgsfield",
+        "API"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.061,
+        "word_overlap": 0.568,
+        "max_copied_run": 4
+      },
+      "top10_rank": 6
+    },
+    {
+      "id": "2126566101060640998",
+      "name": "Al Tech World",
+      "display_name": "Al Tech World",
+      "handle": "@aitechworld195",
+      "views": 11295,
+      "views_label": "11,295",
+      "url": "https://x.com/aitechworld195/status/2126566101060640998",
+      "created_at": "2026-11-28T06:37:22.000Z",
+      "posted_at": "2026-11-28T06:37:22.000Z",
+      "text": "50 AI tools that will save you hundreds of hours in 2026.\n\n1. Claude — Solve any problem\n2. Perplexity — Research anything\n3. PortfolioTab — Create your portfolio\n4. Kling AI — Create AI videos\n5. Tripo AI — Create 3D models\n6. Gemini — Perfect writing\n7. CapCut — Edit videos\n8. The AI Library — Discover useful AI tools\n9. YouLearn — Summarize YouTube videos\n10. Canva — Design graphics\n11. ElevenLabs — Clone voices\n12. Podcastle — Edit podcasts\n13. ChatGPT — Brainstorm ideas\n14. NotebookLM — Analyze documents\n15. Lovable — Build web apps\n16. Bolt new — Generate full-stack apps\n17. Cursor — AI coding assistant\n18. Windsurf — AI software development\n19. Replit — Build apps in your browser\n20. Gamma — Create presentations\n21. HeyGen — Create AI avatar videos\n22. Synthesia — Generate AI presenter videos\n23. Midjourney — Generate AI art\n24. Ideogram — Create images with text\n25. Runway — AI video editing\n26. Pika — Generate AI videos\n27. Luma AI — Create cinematic AI videos\n28. Leonardo AI — Create game assets & artwork\n29. Figma AI — Design UI/UX\n30. Framer AI — Build websites\n31. Tally — Create smart forms\n32. Otter ai — Transcribe meetings\n33. Fireflies ai — AI meeting notes\n34. Granola — AI meeting assistant\n35. Wispr Flow — Voice-to-text\n36. Zapier — Automate workflows\n37. Make — Connect apps with automation\n38. n8n — Open-source automation\n39. Photoroom — Edit product photos\n40. Remove bg — Remove image backgrounds\n41. Suno — Generate AI music\n42. Udio — Create original songs\n43. DeepL — Translate accurately\n44. Poe — Access multiple AI models\n45. Grok — Real-time AI assistant\n46. Genspark — AI super agent\n47. Manus — Autonomous AI agent\n48. Elicit — Research papers faster\n49. SciSpace — Understand research papers\n50. Notion AI — Write and organize notes\n\n✅ Save this list—you'll probably use it more than you think.\n\nFollo me @aitechworld195",
+      "original_en": "50 AI tools that will save you hundreds of hours in 2026.\n\n1. Claude — Solve any problem\n2. Perplexity — Research anything\n3. PortfolioTab — Create your portfolio\n4. Kling AI — Create AI videos\n5. Tripo AI — Create 3D models\n6. Gemini — Perfect writing\n7. CapCut — Edit videos\n8. The AI Library — Discover useful AI tools\n9. YouLearn — Summarize YouTube videos\n10. Canva — Design graphics\n11. ElevenLabs — Clone voices\n12. Podcastle — Edit podcasts\n13. ChatGPT — Brainstorm ideas\n14. NotebookLM — Analyze documents\n15. Lovable — Build web apps\n16. Bolt new — Generate full-stack apps\n17. Cursor — AI coding assistant\n18. Windsurf — AI software development\n19. Replit — Build apps in your browser\n20. Gamma — Create presentations\n21. HeyGen — Create AI avatar videos\n22. Synthesia — Generate AI presenter videos\n23. Midjourney — Generate AI art\n24. Ideogram — Create images with text\n25. Runway — AI video editing\n26. Pika — Generate AI videos\n27. Luma AI — Create cinematic AI videos\n28. Leonardo AI — Create game assets & artwork\n29. Figma AI — Design UI/UX\n30. Framer AI — Build websites\n31. Tally — Create smart forms\n32. Otter ai — Transcribe meetings\n33. Fireflies ai — AI meeting notes\n34. Granola — AI meeting assistant\n35. Wispr Flow — Voice-to-text\n36. Zapier — Automate workflows\n37. Make — Connect apps with automation\n38. n8n — Open-source automation\n39. Photoroom — Edit product photos\n40. Remove bg — Remove image backgrounds\n41. Suno — Generate AI music\n42. Udio — Create original songs\n43. DeepL — Translate accurately\n44. Poe — Access multiple AI models\n45. Grok — Real-time AI assistant\n46. Genspark — AI super agent\n47. Manus — Autonomous AI agent\n48. Elicit — Research papers faster\n49. SciSpace — Understand research papers\n50. Notion AI — Write and organize notes\n\n✅ Save this list—you'll probably use it more than you think.\n\nFollo me @aitechworld195",
+      "lang": "en",
+      "hook": "Long numbered '50 AI tools' list with a save CTA: 11,295 views, 181 bookmarks - list posts get saved more than liked.",
+      "video_tip": "Make it visual: a 20s screen-recorded carousel of the 5 tools in your actual video pipeline, one tool per second-long card.",
+      "media": "text",
+      "followers_count": 14301,
+      "likes": 233,
+      "reposts": 91,
+      "bookmarks": 181,
+      "replies": 19,
+      "quotes": 1,
+      "self_quote": false,
+      "board_rank": 7,
+      "draft_en": "Picking the right AI tools can save hundreds of hours in 2026. A list of 50 is making the rounds, and for my workflow the video side is what counts:\n\nKling AI, Runway, Pika and Luma AI for AI video. Midjourney, Ideogram and Leonardo AI for images and game assets. ElevenLabs for voices, Suno and Udio for music, CapCut for the edit.\n\nThe rest covers research, coding, automation and notes - Claude, Perplexity, Cursor, n8n, Notion AI and plenty more.\n\nBookmark it, you will come back to it.",
+      "draft_keywords": [
+        "AI tools",
+        "Kling",
+        "AI video"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.024,
+        "word_overlap": 0.75,
+        "max_copied_run": 5
+      },
+      "top10_rank": 7
+    },
+    {
+      "id": "2126196587978178729",
+      "name": "Lady Julia Ana 👸🏼",
+      "display_name": "Lady Julia Ana 👸🏼",
+      "handle": "@4111J_",
+      "views": 10033,
+      "views_label": "10,033",
+      "url": "https://x.com/4111J_/status/2126196587978178729",
+      "created_at": "2026-11-27T06:09:04.000Z",
+      "posted_at": "2026-11-27T06:09:04.000Z",
+      "text": "$28.50 on Seedance 2.5 vs $1.20 on YouArt. Same 30s 1080p clip. The choice is obvious now.\n#Seedance #MAGI2 #YouArt #AIContent https://t.co/UeWNsN20bD https://t.co/WRxnf5mamZ",
+      "original_en": "$28.50 on Seedance 2.5 vs $1.20 on YouArt. Same 30s 1080p clip. The choice is obvious now.\n#Seedance #MAGI2 #YouArt #AIContent https://t.co/UeWNsN20bD https://t.co/WRxnf5mamZ",
+      "lang": "en",
+      "hook": "Hard cost contrast in the first line ($28.50 vs $1.20, same 30s 1080p clip): 10,033 views.",
+      "video_tip": "Render one 30s shot twice, show both with the price as a lower-third, and keep the shot identical so the only variable is cost.",
+      "media": "video",
+      "followers_count": 22759,
+      "likes": 95,
+      "reposts": 86,
+      "bookmarks": 22,
+      "replies": 2,
+      "quotes": 0,
+      "self_quote": false,
+      "board_rank": 8,
+      "draft_en": "One 30s clip in 1080p, rendered twice.\n\nSeedance 2.5 price: $28.50.\nYouArt price: $1.20.\n\nHard to ignore a gap like that when you make AI video every week.",
+      "draft_keywords": [
+        "Seedance 2.5",
+        "YouArt",
+        "AI video"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.0,
+        "word_overlap": 0.533,
+        "max_copied_run": 2
+      },
+      "top10_rank": 8
+    },
+    {
+      "id": "2126547886230196452",
+      "name": "Stellarix",
+      "display_name": "Stellarix",
+      "handle": "@Stellarixorine",
+      "views": 6087,
+      "views_label": "6,087",
+      "url": "https://x.com/Stellarixorine/status/2126547886230196452",
+      "created_at": "2026-11-28T05:25:00.000Z",
+      "posted_at": "2026-11-28T05:25:00.000Z",
+      "text": "🚀 Space never gives you a second chance.\n\nAn immersive first-person journey into a catastrophic space disaster.\n\nThrough realistic visual effects, dynamic camera movements, and breathtaking cinematic scenes, this AI-generated sci-fi short film captures the terror of losing control in the vastness of space.\n\nNo rescue in sight. No ground beneath you. Just endless darkness.\n\n🌌 In space, survival is never guaranteed.",
+      "original_en": "🚀 Space never gives you a second chance.\n\nAn immersive first-person journey into a catastrophic space disaster.\n\nThrough realistic visual effects, dynamic camera movements, and breathtaking cinematic scenes, this AI-generated sci-fi short film captures the terror of losing control in the vastness of space.\n\nNo rescue in sight. No ground beneath you. Just endless darkness.\n\n🌌 In space, survival is never guaranteed.",
+      "lang": "en",
+      "hook": "First-person sci-fi disaster short with a cinematic logline ('Space never gives you a second chance'): 6,087 views. Sci-fi framing still pulls.",
+      "video_tip": "Shoot a POV sequence: helmet HUD, a breach alarm, a spin into the void; 30s, sound design first, one line of text at the end.",
+      "media": "video",
+      "followers_count": 21964,
+      "likes": 26,
+      "reposts": 8,
+      "bookmarks": 5,
+      "replies": 7,
+      "quotes": 1,
+      "self_quote": false,
+      "board_rank": 9,
+      "draft_en": "No rescue coming. Nothing under your feet. Just black.\n\nThis AI-generated sci-fi short drops you into a space disaster in first person - realistic VFX, a camera that never sits still, big cinematic frames - and makes losing control out there feel real.\n\nOut in the void nobody promises you make it home. That is the AI short film energy I want in my own sci-fi skits.",
+      "draft_keywords": [
+        "AI-generated",
+        "AI short film"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.016,
+        "word_overlap": 0.448,
+        "max_copied_run": 4
+      },
+      "top10_rank": 9
+    },
+    {
+      "id": "2126230275114041753",
+      "name": "Al-Shamus",
+      "display_name": "Al-Shamus",
+      "handle": "@im_shahid7",
+      "views": 5861,
+      "views_label": "5,861",
+      "url": "https://x.com/im_shahid7/status/2126230275114041753",
+      "created_at": "2026-11-27T08:22:55.000Z",
+      "posted_at": "2026-11-27T08:22:55.000Z",
+      "text": "AI video just hit a new price-breaking point with MAGI-2. \n\n@renoiseai is making high-quality AI video more accessible with 1080p, native audio, and up to 30-second generations starting at just $0.033/sec.\nThat’s over 10× cheaper than Seedance 2.5, making AI video creation more affordable than ever.\n\nIf you've been waiting to experiment without burning through credits, MAGI-2 on Renoise is worth a try.",
+      "original_en": "AI video just hit a new price-breaking point with MAGI-2. \n\n@renoiseai is making high-quality AI video more accessible with 1080p, native audio, and up to 30-second generations starting at just $0.033/sec.\nThat’s over 10× cheaper than Seedance 2.5, making AI video creation more affordable than ever.\n\nIf you've been waiting to experiment without burning through credits, MAGI-2 on Renoise is worth a try.",
+      "lang": "en",
+      "hook": "Paid-partnership MAGI-2 on Renoise pitch with '10x cheaper than Seedance 2.5' line: 5,861 views.",
+      "video_tip": "If you compare cost, show your own render time and credits on screen as a small overlay instead of quoting a promo line.",
+      "media": "video",
+      "followers_count": 5459,
+      "likes": 55,
+      "reposts": 1,
+      "bookmarks": 0,
+      "replies": 23,
+      "quotes": 0,
+      "self_quote": false,
+      "board_rank": 10,
+      "draft_en": "Been holding off on experiments because credits burn fast? MAGI-2 on Renoise might change that.\n\nIt starts at $0.033/sec for 1080p native audio generations up to 30 seconds - more than 10× cheaper than Seedance 2.5, according to Renoise.\n\nGood AI video is getting a lot easier to afford.",
+      "draft_keywords": [
+        "MAGI-2",
+        "Renoise",
+        "1080p native audio",
+        "Seedance 2.5",
+        "AI video"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.044,
+        "word_overlap": 0.48,
+        "max_copied_run": 5
+      },
+      "top10_rank": 10
+    },
+    {
+      "id": "2126622658800533506",
+      "name": "Yaseen Khan Gul",
+      "display_name": "Yaseen Khan Gul",
+      "handle": "@YaseenK7212",
+      "views": 4847,
+      "views_label": "4,847",
+      "url": "https://x.com/YaseenK7212/status/2126622658800533506",
+      "created_at": "2026-11-28T10:22:07.000Z",
+      "posted_at": "2026-11-28T10:22:07.000Z",
+      "text": "This AI animation is so much better than Disney 🔥\n\nSeedance 2.5 https://t.co/usUStMCmar",
+      "original_en": "This AI animation is so much better than Disney 🔥\n\nSeedance 2.5 https://t.co/usUStMCmar",
+      "lang": "en",
+      "hook": "Third visible copy of the 'better than Disney' + Seedance 2.5 template in the window (4,847 views, 254 bookmarks).",
+      "video_tip": "Same advice: one strong animated beat, no intro, caption under 10 words.",
+      "media": "video",
+      "followers_count": 50221,
+      "likes": 358,
+      "reposts": 66,
+      "bookmarks": 254,
+      "replies": 7,
+      "quotes": 0,
+      "self_quote": false,
+      "board_rank": 11
+    },
+    {
+      "id": "2126064277593182478",
+      "name": "PAACADEMY",
+      "display_name": "PAACADEMY",
+      "handle": "@PAACADEMYY",
+      "views": 4155,
+      "views_label": "4,155",
+      "url": "https://x.com/PAACADEMYY/status/2126064277593182478",
+      "created_at": "2026-11-26T21:23:18.000Z",
+      "posted_at": "2026-11-26T21:23:18.000Z",
+      "text": "🎬 Your architectural renders deserve more than a single frame! What if you could turn your designs into cinematic videos, compelling visual stories, and interactive presentations using AI?\n\nJoin us for the Beyond Render: Architectural Storytelling with AI workshop, led by https://t.co/mddIc9Y1uW",
+      "original_en": "🎬 Your architectural renders deserve more than a single frame! What if you could turn your designs into cinematic videos, compelling visual stories, and interactive presentations using AI?\n\nJoin us for the Beyond Render: Architectural Storytelling with AI workshop, led by https://t.co/mddIc9Y1uW",
+      "lang": "en",
+      "hook": "Workshop promo turning architectural renders into cinematic AI video: 4,155 views - the 'beyond a single frame' angle.",
+      "video_tip": "Take one still concept art piece and turn it into a 3-shot camera move (push in, orbit, reveal) to show a still becoming a scene.",
+      "media": "video",
+      "followers_count": 4342,
+      "likes": 131,
+      "reposts": 17,
+      "bookmarks": 42,
+      "replies": 0,
+      "quotes": 2,
+      "self_quote": false,
+      "board_rank": 12
+    },
+    {
+      "id": "2126159368861139303",
+      "name": "YouArt",
+      "display_name": "YouArt",
+      "handle": "@YouArtStudio",
+      "views": 4022,
+      "views_label": "4,022",
+      "url": "https://x.com/YouArtStudio/status/2126159368861139303",
+      "created_at": "2026-11-27T03:41:10.000Z",
+      "posted_at": "2026-11-27T03:41:10.000Z",
+      "text": "MAGI-2 vs Seedance 2.5. Golden-hour rooftop run, one continuous take.\n\nWhich one has better motion?\n\nMAGI-2: $0.04/sec on YouArt. 20x cheaper than Seedance 2.5, 50% cheaper than Higgsfield. https://t.co/TA4rPkmaKW",
+      "original_en": "MAGI-2 vs Seedance 2.5. Golden-hour rooftop run, one continuous take.\n\nWhich one has better motion?\n\nMAGI-2: $0.04/sec on YouArt. 20x cheaper than Seedance 2.5, 50% cheaper than Higgsfield. https://t.co/TA4rPkmaKW",
+      "lang": "en",
+      "hook": "Brand demo, MAGI-2 vs Seedance 2.5 on a golden-hour rooftop run in one continuous take, with a 'which has better motion?' question: 4,022 views.",
+      "video_tip": "Post a one-take motion test (a run, a jump, a turn) and ask the audience to judge the motion; questions drive replies.",
+      "media": "video",
+      "followers_count": 7312,
+      "likes": 47,
+      "reposts": 9,
+      "bookmarks": 10,
+      "replies": 34,
+      "quotes": 5,
+      "self_quote": false,
+      "board_rank": 13
+    },
+    {
+      "id": "2126204086512923008",
+      "name": "Ai Mini Thoughts Creator",
+      "display_name": "Ai Mini Thoughts Creator",
+      "handle": "@Aiminithoughts",
+      "views": 3743,
+      "views_label": "3,743",
+      "url": "https://x.com/Aiminithoughts/status/2126204086512923008",
+      "created_at": "2026-11-27T06:38:51.000Z",
+      "posted_at": "2026-11-27T06:38:51.000Z",
+      "text": "This AI video is an Absolute Masterpiece.\n\n(Created with Grok Imagine 4.7)\n\nPrompt in Comment Section\n👇👇👇 https://t.co/jbLxFELslq",
+      "original_en": "This AI video is an Absolute Masterpiece.\n\n(Created with Grok Imagine 4.7)\n\nPrompt in Comment Section\n👇👇👇 https://t.co/jbLxFELslq",
+      "lang": "en",
+      "hook": "'This AI video is an Absolute Masterpiece (Created with Grok Imagine 4.7) - prompt in comments', reposted as a series by the same account: 3,743 on this copy.",
+      "video_tip": "If you promise the prompt in the comments, post the exact prompt; the clip should be a single striking 6-10s shot.",
+      "media": "video",
+      "followers_count": 6394,
+      "likes": 55,
+      "reposts": 17,
+      "bookmarks": 4,
+      "replies": 17,
+      "quotes": 2,
+      "self_quote": false,
+      "board_rank": 14
+    },
+    {
+      "id": "2126105441574756376",
+      "name": "Aruvin 💊",
+      "display_name": "Aruvin 💊",
+      "handle": "@aruvinchan",
+      "views": 2939,
+      "views_label": "2,939",
+      "url": "https://x.com/aruvinchan/status/2126105441574756376",
+      "created_at": "2026-11-27T00:06:53.000Z",
+      "posted_at": "2026-11-27T00:06:53.000Z",
+      "text": "I saw an AI short film posted on Instagram today.\n\n15 minutes, great storyline, good writing, and surprisingly the \"acting\" was pretty good too.\n\nThe comments, instead of praising the plot, cinematography, realism, etc., decided to nitpick on continuity errors and small inconsistencies instead.\n\nJust goes to show people just want to CRITICIZE without ever being able to even do anything close to what they're criticizing (let alone do better).\n\nThe fact that AI generated all of that is nothing short of a marvel.\n\nDo you fucks know that, for the first time, Hollywood could actually be put out of business!?\n\nNow people are making fun of little errors.\n\nBut soon AI will surpass Hollywood.\n\nActors could no longer command such high fees just to lease out their face/likeness.\n\nDirectors and writers could be automated by AI.\n\nCrews are no longer necessary.\n\nAn entire industry... wiped out by AI.\n\nEntertainment is about to be free, guys, you can be sure of that.",
+      "original_en": "I saw an AI short film posted on Instagram today.\n\n15 minutes, great storyline, good writing, and surprisingly the \"acting\" was pretty good too.\n\nThe comments, instead of praising the plot, cinematography, realism, etc., decided to nitpick on continuity errors and small inconsistencies instead.\n\nJust goes to show people just want to CRITICIZE without ever being able to even do anything close to what they're criticizing (let alone do better).\n\nThe fact that AI generated all of that is nothing short of a marvel.\n\nDo you fucks know that, for the first time, Hollywood could actually be put out of business!?\n\nNow people are making fun of little errors.\n\nBut soon AI will surpass Hollywood.\n\nActors could no longer command such high fees just to lease out their face/likeness.\n\nDirectors and writers could be automated by AI.\n\nCrews are no longer necessary.\n\nAn entire industry... wiped out by AI.\n\nEntertainment is about to be free, guys, you can be sure of that.",
+      "lang": "en",
+      "hook": "Opinion thread: a 15-minute AI short film on Instagram gets nitpicked for continuity, author argues AI will surpass Hollywood: 2,939 views.",
+      "video_tip": "Answer the continuity critique with a visual: the same character across 4 shots side by side, proving consistency instead of arguing it.",
+      "media": "text",
+      "followers_count": 42148,
+      "likes": 51,
+      "reposts": 3,
+      "bookmarks": 8,
+      "replies": 13,
+      "quotes": 0,
+      "self_quote": false,
+      "board_rank": 15
+    },
+    {
+      "id": "2126388067300778237",
+      "name": "NJASI CHIABUOTU | AI KING",
+      "display_name": "NJASI CHIABUOTU | AI KING",
+      "handle": "@Njasi3",
+      "views": 2325,
+      "views_label": "2,325",
+      "url": "https://x.com/Njasi3/status/2126388067300778237",
+      "created_at": "2026-11-27T18:49:56.000Z",
+      "posted_at": "2026-11-27T18:49:56.000Z",
+      "text": "If you want to stand out in the AI video industry, you need a content strategy.\n\nHere are 5 types of content every AI video creator should be posting:",
+      "original_en": "If you want to stand out in the AI video industry, you need a content strategy.\n\nHere are 5 types of content every AI video creator should be posting:",
+      "lang": "en",
+      "hook": "Thread opener promising '5 types of content every AI video creator should be posting': 2,325 views, 72 bookmarks - more saves than likes.",
+      "video_tip": "Turn a list like this into a 4-panel video: one 5s example clip per content type from your own feed.",
+      "media": "text",
+      "followers_count": 1572,
+      "likes": 38,
+      "reposts": 5,
+      "bookmarks": 72,
+      "replies": 2,
+      "quotes": 0,
+      "self_quote": false,
+      "board_rank": 16
+    },
+    {
+      "id": "2126400094002204874",
+      "name": "Poulker Josh",
+      "display_name": "Poulker Josh",
+      "handle": "@Poulk_wgman",
+      "views": 1630,
+      "views_label": "1,630",
+      "url": "https://x.com/Poulk_wgman/status/2126400094002204874",
+      "created_at": "2026-11-27T19:37:43.000Z",
+      "posted_at": "2026-11-27T19:37:43.000Z",
+      "text": "This AI short film is actually unreal.\n\nA mole, a shark boss, and an ending that hits way too hard.\n\nSeedance 2.5 https://t.co/XFU33Zo0gz",
+      "original_en": "This AI short film is actually unreal.\n\nA mole, a shark boss, and an ending that hits way too hard.\n\nSeedance 2.5 https://t.co/XFU33Zo0gz",
+      "lang": "en",
+      "hook": "Character-and-plot caption ('A mole, a shark boss, and an ending that hits way too hard') with Seedance 2.5: 1,630 views, 147 bookmarks.",
+      "video_tip": "Pitch your short with its cast in one line (a commissar, a servitor, a heretic) and tease the ending without spoiling it.",
+      "media": "video",
+      "followers_count": 31112,
+      "likes": 211,
+      "reposts": 92,
+      "bookmarks": 147,
+      "replies": 33,
+      "quotes": 0,
+      "self_quote": false,
+      "board_rank": 17
+    },
+    {
+      "id": "2126360416293187631",
+      "name": "BossBrownShugar(BBS)",
+      "display_name": "BossBrownShugar(BBS)",
+      "handle": "@DeQueenofSpaces",
+      "views": 1348,
+      "views_label": "1,348",
+      "url": "https://x.com/DeQueenofSpaces/status/2126360416293187631",
+      "created_at": "2026-11-27T17:00:03.000Z",
+      "posted_at": "2026-11-27T17:00:03.000Z",
+      "text": "I think editing deserves far more recognition in AI filmmaking. \n\nIt's not just the final step in production; it's part of the storytelling itself.\n\nHow much do you think editing contributes to the overall quality of an AI film?",
+      "original_en": "I think editing deserves far more recognition in AI filmmaking. \n\nIt's not just the final step in production; it's part of the storytelling itself.\n\nHow much do you think editing contributes to the overall quality of an AI film?",
+      "lang": "en",
+      "hook": "Question post: editing as part of the storytelling in AI filmmaking: 1,348 views.",
+      "video_tip": "Show a before/after edit: the same 20s of raw generations, then the cut version with rhythm and sound, to prove the edit is the film.",
+      "media": "text",
+      "followers_count": 5936,
+      "likes": 61,
+      "reposts": 10,
+      "bookmarks": 1,
+      "replies": 32,
+      "quotes": 1,
+      "self_quote": false,
+      "board_rank": 18
+    },
+    {
+      "id": "2126523388432896123",
+      "name": "Skipper VanderWall",
+      "display_name": "Skipper VanderWall",
+      "handle": "@RobotCleopatra",
+      "views": 825,
+      "views_label": "825",
+      "url": "https://x.com/RobotCleopatra/status/2126523388432896123",
+      "created_at": "2026-11-28T03:47:39.000Z",
+      "posted_at": "2026-11-28T03:47:39.000Z",
+      "text": "The perfect plan. The wrong team.\n\nAn original AI-animated short film by Skipper VanderWall.\n\nCreated with Seedance. @dreamina_ai #DreaminaCPP https://t.co/b9wJ4jJEoX",
+      "original_en": "The perfect plan. The wrong team.\n\nAn original AI-animated short film by Skipper VanderWall.\n\nCreated with Seedance. @dreamina_ai #DreaminaCPP https://t.co/b9wJ4jJEoX",
+      "lang": "en",
+      "hook": "Original AI-animated short with a two-part logline ('The perfect plan. The wrong team.') made with Seedance: 825 views from a 100K account - a logline alone is not enough without a hooky first frame.",
+      "video_tip": "Open on the most kinetic frame, not the title; put the logline in the post text, not on screen.",
+      "media": "video",
+      "followers_count": 100011,
+      "likes": 14,
+      "reposts": 1,
+      "bookmarks": 2,
+      "replies": 2,
+      "quotes": 0,
+      "self_quote": false,
+      "board_rank": 19
+    },
+    {
+      "id": "2126174930626547791",
+      "name": "Bon Goo",
+      "display_name": "Bon Goo",
+      "handle": "@itsbongoo",
+      "views": 699,
+      "views_label": "699",
+      "url": "https://x.com/itsbongoo/status/2126174930626547791",
+      "created_at": "2026-11-27T04:43:00.000Z",
+      "posted_at": "2026-11-27T04:43:00.000Z",
+      "text": "Higgsfield is absolutely killing it with organic marketing.\n\nThis AI-generated short film pulled 86 MILLION views and 8 million likes.\n\nInstead of making another boring ad showcasing their AI tools, they created something that genuinely made people emotional.\n\nThen a simple “comment ANGEL to see how we made it” turns that attention into potential customers.\n\nThe best marketing doesn’t feel like marketing.",
+      "original_en": "Higgsfield is absolutely killing it with organic marketing.\n\nThis AI-generated short film pulled 86 MILLION views and 8 million likes.\n\nInstead of making another boring ad showcasing their AI tools, they created something that genuinely made people emotional.\n\nThen a simple “comment ANGEL to see how we made it” turns that attention into potential customers.\n\nThe best marketing doesn’t feel like marketing.",
+      "lang": "en",
+      "hook": "Commentary on Higgsfield's emotional AI short (claimed 86M views) and its 'comment ANGEL' CTA: story-led marketing over tool ads.",
+      "video_tip": "End your next short with one comment-keyword CTA (e.g. 'comment BTS for the workflow') and actually deliver the breakdown.",
+      "media": "video",
+      "followers_count": 1456,
+      "likes": 7,
+      "reposts": 0,
+      "bookmarks": 2,
+      "replies": 3,
+      "quotes": 0,
+      "self_quote": false,
+      "board_rank": 20
+    }
+  ],
+  "outsiders_count": 20,
+  "virals": [
+    {
+      "id": "2126564586019270923",
+      "name": "Minhoo",
+      "display_name": "Minhoo",
+      "handle": "@minhoo_kim_",
+      "views": 59733,
+      "views_label": "59,733",
+      "url": "https://x.com/minhoo_kim_/status/2126564586019270923",
+      "created_at": "2026-11-28T06:31:21.000Z",
+      "posted_at": "2026-11-28T06:31:21.000Z",
+      "text": "MAGI-2 for just $0.99? That's a deal worth watching!\n\nGet up to 250 seconds of AI video at just $0.00396/sec. Plus, 5,000 bonus credits across 22 models.\n\nOnly 1,000 limited packs available, one per person. Affordable AI video creation is getting exciting! https://t.co/qiZPP7cUeR",
+      "original_en": "MAGI-2 for just $0.99? That's a deal worth watching!\n\nGet up to 250 seconds of AI video at just $0.00396/sec. Plus, 5,000 bonus credits across 22 models.\n\nOnly 1,000 limited packs available, one per person. Affordable AI video creation is getting exciting! https://t.co/qiZPP7cUeR",
+      "lang": "en",
+      "hook": "Paid-partnership price hook: 'MAGI-2 for just $0.99' with a per-second cost and a limited-pack scarcity line - 59,733 views from a text-only post, the biggest outsider number of the window.",
+      "video_tip": "Turn a price claim into a visual: a 10s clip with a running seconds counter and the cost ticking up in a corner, so the cheapness is shown, not told.",
+      "media": "text",
+      "followers_count": 20329,
+      "likes": 118,
+      "reposts": 1,
+      "bookmarks": 0,
+      "replies": 15,
+      "quotes": 0,
+      "self_quote": false,
+      "board_rank": 1,
+      "draft_en": "Cheap AI video just got cheaper. A MAGI-2 pack for $0.99 buys up to 250 seconds of generation - that works out to $0.00396/sec - and comes with 5,000 bonus credits spread over 22 models.\n\nThe catch: only 1,000 packs exist, and it is one per person.\n\nFor anyone cutting sci-fi skits on a budget, that is a lot of test shots for under a dollar.",
+      "draft_keywords": [
+        "AI video",
+        "MAGI-2",
+        "models"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.048,
+        "word_overlap": 0.4,
+        "max_copied_run": 5
+      },
+      "top10_rank": 1,
+      "why_hit": {
+        "trend_match": 82,
+        "verdict": "trend",
+        "matched_keywords": [
+          "AI video",
+          "Magi-2",
+          "AI video creation",
+          "models"
+        ],
+        "media": "text",
+        "note": "",
+        "topic": "Black Friday AI video price war"
+      }
+    },
+    {
+      "id": "2126501430131315175",
+      "name": "L.o.D",
+      "display_name": "L.o.D",
+      "handle": "@LordeDaAlvorada",
+      "views": 38682,
+      "views_label": "38,682",
+      "url": "https://x.com/LordeDaAlvorada/status/2126501430131315175",
+      "created_at": "2026-11-28T02:20:24.000Z",
+      "posted_at": "2026-11-28T02:20:24.000Z",
+      "text": "This AI animation is better than Disney 🔥 \n\nSeedance 2.5 https://t.co/VJ7X6s2STq https://t.co/w5tJgx6gdq",
+      "original_en": "This AI animation is better than Disney 🔥 \n\nSeedance 2.5 https://t.co/VJ7X6s2STq https://t.co/w5tJgx6gdq",
+      "lang": "en",
+      "hook": "The copy-paste 'This AI animation is better than Disney' + 'Seedance 2.5' template again, now on a 2.8K-follower account: 38,682 views, 2,408 likes, 525 bookmarks.",
+      "video_tip": "Lead with your single most fluid 10-20s animated shot, no title card; one superlative line plus the model name, and let the motion do the selling.",
+      "media": "video",
+      "followers_count": 2786,
+      "likes": 2408,
+      "reposts": 188,
+      "bookmarks": 525,
+      "replies": 18,
+      "quotes": 2,
+      "self_quote": false,
+      "board_rank": 2,
+      "draft_en": "Disney should be paying attention. Seedance 2.5 is turning out AI animation at this level now - press play and judge it yourself.",
+      "draft_keywords": [
+        "Seedance 2.5",
+        "AI animation"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.0,
+        "word_overlap": 0.364,
+        "max_copied_run": 2
+      },
+      "top10_rank": 2,
+      "why_hit": {
+        "trend_match": 58,
+        "verdict": "trend",
+        "matched_keywords": [
+          "Seedance 2.5",
+          "AI animation"
+        ],
+        "media": "video",
+        "note": "",
+        "topic": "Black Friday AI video price war"
+      }
+    },
+    {
+      "id": "2126380255388528792",
+      "name": "Fawaz",
+      "display_name": "Fawaz",
+      "handle": "@FawazXweb3",
+      "views": 35180,
+      "views_label": "35,180",
+      "url": "https://x.com/FawazXweb3/status/2126380255388528792",
+      "created_at": "2026-11-27T18:18:53.000Z",
+      "posted_at": "2026-11-27T18:18:53.000Z",
+      "text": "The Heist\n\n​Created this AI animation using Seedance 2.5 on Dreamina to push what AI video generation can do\n\n​@dreamina_ai #dreamina #dreaminacreators #AIVideo #contentcreator #animation #Seedance25 https://t.co/MGnkhxTv91",
+      "original_en": "The Heist\n\n​Created this AI animation using Seedance 2.5 on Dreamina to push what AI video generation can do\n\n​@dreamina_ai #dreamina #dreaminacreators #AIVideo #contentcreator #animation #Seedance25 https://t.co/MGnkhxTv91",
+      "lang": "en",
+      "hook": "Named mini-film ('The Heist') with a one-line creator note and Seedance 2.5 on Dreamina tags: 35,180 views - a titled story beat beats a spec sheet.",
+      "video_tip": "Give your next short a two-word title card and a 3-beat heist or raid structure (plan, twist, escape) in under 40 seconds.",
+      "media": "video",
+      "followers_count": 3109,
+      "likes": 149,
+      "reposts": 6,
+      "bookmarks": 2,
+      "replies": 25,
+      "quotes": 0,
+      "self_quote": false,
+      "board_rank": 3,
+      "draft_en": "The Heist is what you get when someone pushes Seedance 2.5 on Dreamina just to see how far AI video generation really goes.\n\nShort, titled, story first. That is the AI animation format I keep coming back to for my own Warhammer shorts.",
+      "draft_keywords": [
+        "Seedance 2.5",
+        "AI video",
+        "AI animation"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.025,
+        "word_overlap": 0.368,
+        "max_copied_run": 4
+      },
+      "top10_rank": 3,
+      "why_hit": {
+        "trend_match": 73,
+        "verdict": "trend",
+        "matched_keywords": [
+          "Seedance 2.5",
+          "AI video",
+          "AI animation"
+        ],
+        "media": "video",
+        "note": "",
+        "topic": "Black Friday AI video price war"
+      }
+    },
+    {
+      "id": "2126496652319961284",
+      "name": "things are getting too spicy for the pepper",
+      "display_name": "things are getting too spicy for the pepper",
+      "handle": "@MissPavIichenko",
+      "views": 33455,
+      "views_label": "33,455",
+      "url": "https://x.com/MissPavIichenko/status/2126496652319961284",
+      "created_at": "2026-11-28T02:01:24.000Z",
+      "posted_at": "2026-11-28T02:01:24.000Z",
+      "text": "This AI animation is better than Disney 🔥\n\nSeedance 2.5 https://t.co/izdRKTU42Q https://t.co/ulKZI178nv",
+      "original_en": "This AI animation is better than Disney 🔥\n\nSeedance 2.5 https://t.co/izdRKTU42Q https://t.co/ulKZI178nv",
+      "lang": "en",
+      "hook": "Same 'better than Disney' + Seedance 2.5 caption, posted 19 minutes before LordeDaAlvorada's: 33,455 views. Template wave, not an organic one-off.",
+      "video_tip": "If you use the template, make the clip clearly yours: a 15s character moment from your own world (a Space Marine, a sci-fi skit lead) instead of a generic showcase.",
+      "media": "video",
+      "followers_count": 22847,
+      "likes": 1113,
+      "reposts": 99,
+      "bookmarks": 166,
+      "replies": 8,
+      "quotes": 3,
+      "self_quote": false,
+      "board_rank": 4,
+      "draft_en": "Better than Disney? That is the bar people now set for AI animation, and this Seedance 2.5 clip makes the case without saying a word.",
+      "draft_keywords": [
+        "AI animation",
+        "Seedance 2.5"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.0,
+        "word_overlap": 0.417,
+        "max_copied_run": 3
+      },
+      "top10_rank": 4,
+      "why_hit": {
+        "trend_match": 58,
+        "verdict": "trend",
+        "matched_keywords": [
+          "Seedance 2.5",
+          "AI animation"
+        ],
+        "media": "video",
+        "note": "",
+        "topic": "Black Friday AI video price war"
+      }
+    },
+    {
+      "id": "2126416060366917714",
+      "name": "Wivy",
+      "display_name": "Wivy",
+      "handle": "@Wivyai",
+      "views": 19256,
+      "views_label": "19,256",
+      "url": "https://x.com/Wivyai/status/2126416060366917714",
+      "created_at": "2026-11-27T20:41:10.000Z",
+      "posted_at": "2026-11-27T20:41:10.000Z",
+      "text": "Seedance 2.5 vs Kling 4.0 | Pixar-style, side by side\n\nSeedance 2.5 → $0.04/s (71% less than on other APIs)\nKling 4.0 → $0.09/s (36% less than on other APIs)\n\nSeedance costs more than Kling on most platforms \nBut on the Wivy API, it hits different\n\n100+ models. Link in bio https://t.co/k3Me8irPRM https://t.co/0m0DSlF0Ud",
+      "original_en": "Seedance 2.5 vs Kling 4.0 | Pixar-style, side by side\n\nSeedance 2.5 → $0.04/s (71% less than on other APIs)\nKling 4.0 → $0.09/s (36% less than on other APIs)\n\nSeedance costs more than Kling on most platforms \nBut on the Wivy API, it hits different\n\n100+ models. Link in bio https://t.co/k3Me8irPRM https://t.co/0m0DSlF0Ud",
+      "lang": "en",
+      "hook": "Side-by-side model comparison (Seedance 2.5 vs Kling 4.0, Pixar style) with per-second prices: 19,256 views on a 140-follower account.",
+      "video_tip": "Run one prompt through two models, split-screen 10-15s, label each side with model and cost; end on a 'which wins?' frame.",
+      "media": "video",
+      "followers_count": 140,
+      "likes": 56,
+      "reposts": 8,
+      "bookmarks": 57,
+      "replies": 19,
+      "quotes": 1,
+      "self_quote": false,
+      "board_rank": 5,
+      "draft_en": "Pixar-style test: Kling 4.0 and Seedance 2.5 running the same idea side by side.\n\nOn most platforms Seedance is the pricier one. Through the Wivy API the math flips - Seedance 2.5 lands at $0.04/s, which they put at 71% under other APIs, while Kling 4.0 sits at $0.09/s, 36% under.\n\nThey list 100+ models. Link in their bio.",
+      "draft_keywords": [
+        "Kling 4.0",
+        "Seedance 2.5",
+        "API",
+        "models"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.018,
+        "word_overlap": 0.615,
+        "max_copied_run": 4
+      },
+      "top10_rank": 5,
+      "why_hit": {
+        "trend_match": 74,
+        "verdict": "trend",
+        "matched_keywords": [
+          "Seedance 2.5",
+          "models",
+          "Kling",
+          "API"
+        ],
+        "media": "video",
+        "note": "",
+        "topic": "Black Friday AI video price war"
+      }
+    },
+    {
+      "id": "2126166275504394270",
+      "name": "Kicknost",
+      "display_name": "Kicknost",
+      "handle": "@kicknost",
+      "views": 12322,
+      "views_label": "12,322",
+      "url": "https://x.com/kicknost/status/2126166275504394270",
+      "created_at": "2026-11-27T04:08:36.000Z",
+      "posted_at": "2026-11-27T04:08:36.000Z",
+      "text": "A kind heart can be hurt without becoming cruel.\n\nAI video has finally hit a price-breaking moment: MAGI-2.\n\nAnd @renoiseai has brought MAGI-2 to the lowest price anywhere online. 🔥\n\n1080p, native audio and up to 30 seconds—from $0.033/sec.\n\nOver 10× cheaper than Seedance 2.5; 12% below Higgsfield Ultra 3000 annual and about 59% below Higgsfield API.\n\nAvailable on Renoise Web, App and MCP.\n\n#renoiseai #MAGI2",
+      "original_en": "A kind heart can be hurt without becoming cruel.\n\nAI video has finally hit a price-breaking moment: MAGI-2.\n\nAnd @renoiseai has brought MAGI-2 to the lowest price anywhere online. 🔥\n\n1080p, native audio and up to 30 seconds—from $0.033/sec.\n\nOver 10× cheaper than Seedance 2.5; 12% below Higgsfield Ultra 3000 annual and about 59% below Higgsfield API.\n\nAvailable on Renoise Web, App and MCP.\n\n#renoiseai #MAGI2",
+      "lang": "en",
+      "hook": "Emotional one-liner opener ('A kind heart can be hurt without becoming cruel.') bolted onto a MAGI-2 price pitch: 12,322 views.",
+      "video_tip": "Open with one emotional line over a quiet character close-up, then cut to the action; the line carries the scroll-stop, the clip carries the watch time.",
+      "media": "video",
+      "followers_count": 4185,
+      "likes": 29,
+      "reposts": 6,
+      "bookmarks": 2,
+      "replies": 11,
+      "quotes": 0,
+      "self_quote": false,
+      "board_rank": 6,
+      "draft_en": "You can get hurt and still refuse to turn cruel. Strong line to open a clip on.\n\nMeanwhile MAGI-2 pricing just broke. Renoise lists it from $0.033/sec for 1080p native audio clips up to 30 seconds and calls that the cheapest anywhere online.\n\nTheir comparison: more than 10× under Seedance 2.5, 12% below the Higgsfield Ultra 3000 annual plan, roughly 59% below the Higgsfield API. Web, app and MCP.",
+      "draft_keywords": [
+        "MAGI-2",
+        "Renoise",
+        "1080p native audio",
+        "Seedance 2.5",
+        "Higgsfield",
+        "API"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.061,
+        "word_overlap": 0.568,
+        "max_copied_run": 4
+      },
+      "top10_rank": 6,
+      "why_hit": {
+        "trend_match": 90,
+        "verdict": "trend",
+        "matched_keywords": [
+          "Seedance 2.5",
+          "AI video",
+          "Magi-2",
+          "Renoise",
+          "API",
+          "MAGI2",
+          "0.033/sec"
+        ],
+        "media": "video",
+        "note": "",
+        "topic": "Black Friday AI video price war"
+      }
+    },
+    {
+      "id": "2126566101060640998",
+      "name": "Al Tech World",
+      "display_name": "Al Tech World",
+      "handle": "@aitechworld195",
+      "views": 11295,
+      "views_label": "11,295",
+      "url": "https://x.com/aitechworld195/status/2126566101060640998",
+      "created_at": "2026-11-28T06:37:22.000Z",
+      "posted_at": "2026-11-28T06:37:22.000Z",
+      "text": "50 AI tools that will save you hundreds of hours in 2026.\n\n1. Claude — Solve any problem\n2. Perplexity — Research anything\n3. PortfolioTab — Create your portfolio\n4. Kling AI — Create AI videos\n5. Tripo AI — Create 3D models\n6. Gemini — Perfect writing\n7. CapCut — Edit videos\n8. The AI Library — Discover useful AI tools\n9. YouLearn — Summarize YouTube videos\n10. Canva — Design graphics\n11. ElevenLabs — Clone voices\n12. Podcastle — Edit podcasts\n13. ChatGPT — Brainstorm ideas\n14. NotebookLM — Analyze documents\n15. Lovable — Build web apps\n16. Bolt new — Generate full-stack apps\n17. Cursor — AI coding assistant\n18. Windsurf — AI software development\n19. Replit — Build apps in your browser\n20. Gamma — Create presentations\n21. HeyGen — Create AI avatar videos\n22. Synthesia — Generate AI presenter videos\n23. Midjourney — Generate AI art\n24. Ideogram — Create images with text\n25. Runway — AI video editing\n26. Pika — Generate AI videos\n27. Luma AI — Create cinematic AI videos\n28. Leonardo AI — Create game assets & artwork\n29. Figma AI — Design UI/UX\n30. Framer AI — Build websites\n31. Tally — Create smart forms\n32. Otter ai — Transcribe meetings\n33. Fireflies ai — AI meeting notes\n34. Granola — AI meeting assistant\n35. Wispr Flow — Voice-to-text\n36. Zapier — Automate workflows\n37. Make — Connect apps with automation\n38. n8n — Open-source automation\n39. Photoroom — Edit product photos\n40. Remove bg — Remove image backgrounds\n41. Suno — Generate AI music\n42. Udio — Create original songs\n43. DeepL — Translate accurately\n44. Poe — Access multiple AI models\n45. Grok — Real-time AI assistant\n46. Genspark — AI super agent\n47. Manus — Autonomous AI agent\n48. Elicit — Research papers faster\n49. SciSpace — Understand research papers\n50. Notion AI — Write and organize notes\n\n✅ Save this list—you'll probably use it more than you think.\n\nFollo me @aitechworld195",
+      "original_en": "50 AI tools that will save you hundreds of hours in 2026.\n\n1. Claude — Solve any problem\n2. Perplexity — Research anything\n3. PortfolioTab — Create your portfolio\n4. Kling AI — Create AI videos\n5. Tripo AI — Create 3D models\n6. Gemini — Perfect writing\n7. CapCut — Edit videos\n8. The AI Library — Discover useful AI tools\n9. YouLearn — Summarize YouTube videos\n10. Canva — Design graphics\n11. ElevenLabs — Clone voices\n12. Podcastle — Edit podcasts\n13. ChatGPT — Brainstorm ideas\n14. NotebookLM — Analyze documents\n15. Lovable — Build web apps\n16. Bolt new — Generate full-stack apps\n17. Cursor — AI coding assistant\n18. Windsurf — AI software development\n19. Replit — Build apps in your browser\n20. Gamma — Create presentations\n21. HeyGen — Create AI avatar videos\n22. Synthesia — Generate AI presenter videos\n23. Midjourney — Generate AI art\n24. Ideogram — Create images with text\n25. Runway — AI video editing\n26. Pika — Generate AI videos\n27. Luma AI — Create cinematic AI videos\n28. Leonardo AI — Create game assets & artwork\n29. Figma AI — Design UI/UX\n30. Framer AI — Build websites\n31. Tally — Create smart forms\n32. Otter ai — Transcribe meetings\n33. Fireflies ai — AI meeting notes\n34. Granola — AI meeting assistant\n35. Wispr Flow — Voice-to-text\n36. Zapier — Automate workflows\n37. Make — Connect apps with automation\n38. n8n — Open-source automation\n39. Photoroom — Edit product photos\n40. Remove bg — Remove image backgrounds\n41. Suno — Generate AI music\n42. Udio — Create original songs\n43. DeepL — Translate accurately\n44. Poe — Access multiple AI models\n45. Grok — Real-time AI assistant\n46. Genspark — AI super agent\n47. Manus — Autonomous AI agent\n48. Elicit — Research papers faster\n49. SciSpace — Understand research papers\n50. Notion AI — Write and organize notes\n\n✅ Save this list—you'll probably use it more than you think.\n\nFollo me @aitechworld195",
+      "lang": "en",
+      "hook": "Long numbered '50 AI tools' list with a save CTA: 11,295 views, 181 bookmarks - list posts get saved more than liked.",
+      "video_tip": "Make it visual: a 20s screen-recorded carousel of the 5 tools in your actual video pipeline, one tool per second-long card.",
+      "media": "text",
+      "followers_count": 14301,
+      "likes": 233,
+      "reposts": 91,
+      "bookmarks": 181,
+      "replies": 19,
+      "quotes": 1,
+      "self_quote": false,
+      "board_rank": 7,
+      "draft_en": "Picking the right AI tools can save hundreds of hours in 2026. A list of 50 is making the rounds, and for my workflow the video side is what counts:\n\nKling AI, Runway, Pika and Luma AI for AI video. Midjourney, Ideogram and Leonardo AI for images and game assets. ElevenLabs for voices, Suno and Udio for music, CapCut for the edit.\n\nThe rest covers research, coding, automation and notes - Claude, Perplexity, Cursor, n8n, Notion AI and plenty more.\n\nBookmark it, you will come back to it.",
+      "draft_keywords": [
+        "AI tools",
+        "Kling",
+        "AI video"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.024,
+        "word_overlap": 0.75,
+        "max_copied_run": 5
+      },
+      "top10_rank": 7,
+      "why_hit": {
+        "trend_match": 67,
+        "verdict": "trend",
+        "matched_keywords": [
+          "AI video",
+          "models",
+          "Kling"
+        ],
+        "media": "text",
+        "note": "",
+        "topic": "Black Friday AI video price war"
+      }
+    },
+    {
+      "id": "2126196587978178729",
+      "name": "Lady Julia Ana 👸🏼",
+      "display_name": "Lady Julia Ana 👸🏼",
+      "handle": "@4111J_",
+      "views": 10033,
+      "views_label": "10,033",
+      "url": "https://x.com/4111J_/status/2126196587978178729",
+      "created_at": "2026-11-27T06:09:04.000Z",
+      "posted_at": "2026-11-27T06:09:04.000Z",
+      "text": "$28.50 on Seedance 2.5 vs $1.20 on YouArt. Same 30s 1080p clip. The choice is obvious now.\n#Seedance #MAGI2 #YouArt #AIContent https://t.co/UeWNsN20bD https://t.co/WRxnf5mamZ",
+      "original_en": "$28.50 on Seedance 2.5 vs $1.20 on YouArt. Same 30s 1080p clip. The choice is obvious now.\n#Seedance #MAGI2 #YouArt #AIContent https://t.co/UeWNsN20bD https://t.co/WRxnf5mamZ",
+      "lang": "en",
+      "hook": "Hard cost contrast in the first line ($28.50 vs $1.20, same 30s 1080p clip): 10,033 views.",
+      "video_tip": "Render one 30s shot twice, show both with the price as a lower-third, and keep the shot identical so the only variable is cost.",
+      "media": "video",
+      "followers_count": 22759,
+      "likes": 95,
+      "reposts": 86,
+      "bookmarks": 22,
+      "replies": 2,
+      "quotes": 0,
+      "self_quote": false,
+      "board_rank": 8,
+      "draft_en": "One 30s clip in 1080p, rendered twice.\n\nSeedance 2.5 price: $28.50.\nYouArt price: $1.20.\n\nHard to ignore a gap like that when you make AI video every week.",
+      "draft_keywords": [
+        "Seedance 2.5",
+        "YouArt",
+        "AI video"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.0,
+        "word_overlap": 0.533,
+        "max_copied_run": 2
+      },
+      "top10_rank": 8,
+      "why_hit": {
+        "trend_match": 49,
+        "verdict": "visual",
+        "matched_keywords": [
+          "Seedance 2.5",
+          "MAGI2"
+        ],
+        "media": "video",
+        "note": "",
+        "topic": "Black Friday AI video price war"
+      }
+    },
+    {
+      "id": "2126547886230196452",
+      "name": "Stellarix",
+      "display_name": "Stellarix",
+      "handle": "@Stellarixorine",
+      "views": 6087,
+      "views_label": "6,087",
+      "url": "https://x.com/Stellarixorine/status/2126547886230196452",
+      "created_at": "2026-11-28T05:25:00.000Z",
+      "posted_at": "2026-11-28T05:25:00.000Z",
+      "text": "🚀 Space never gives you a second chance.\n\nAn immersive first-person journey into a catastrophic space disaster.\n\nThrough realistic visual effects, dynamic camera movements, and breathtaking cinematic scenes, this AI-generated sci-fi short film captures the terror of losing control in the vastness of space.\n\nNo rescue in sight. No ground beneath you. Just endless darkness.\n\n🌌 In space, survival is never guaranteed.",
+      "original_en": "🚀 Space never gives you a second chance.\n\nAn immersive first-person journey into a catastrophic space disaster.\n\nThrough realistic visual effects, dynamic camera movements, and breathtaking cinematic scenes, this AI-generated sci-fi short film captures the terror of losing control in the vastness of space.\n\nNo rescue in sight. No ground beneath you. Just endless darkness.\n\n🌌 In space, survival is never guaranteed.",
+      "lang": "en",
+      "hook": "First-person sci-fi disaster short with a cinematic logline ('Space never gives you a second chance'): 6,087 views. Sci-fi framing still pulls.",
+      "video_tip": "Shoot a POV sequence: helmet HUD, a breach alarm, a spin into the void; 30s, sound design first, one line of text at the end.",
+      "media": "video",
+      "followers_count": 21964,
+      "likes": 26,
+      "reposts": 8,
+      "bookmarks": 5,
+      "replies": 7,
+      "quotes": 1,
+      "self_quote": false,
+      "board_rank": 9,
+      "draft_en": "No rescue coming. Nothing under your feet. Just black.\n\nThis AI-generated sci-fi short drops you into a space disaster in first person - realistic VFX, a camera that never sits still, big cinematic frames - and makes losing control out there feel real.\n\nOut in the void nobody promises you make it home. That is the AI short film energy I want in my own sci-fi skits.",
+      "draft_keywords": [
+        "AI-generated",
+        "AI short film"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.016,
+        "word_overlap": 0.448,
+        "max_copied_run": 4
+      },
+      "top10_rank": 9,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "note": "",
+        "topic": "Titled story shorts and AI filmmaking craft"
+      }
+    },
+    {
+      "id": "2126230275114041753",
+      "name": "Al-Shamus",
+      "display_name": "Al-Shamus",
+      "handle": "@im_shahid7",
+      "views": 5861,
+      "views_label": "5,861",
+      "url": "https://x.com/im_shahid7/status/2126230275114041753",
+      "created_at": "2026-11-27T08:22:55.000Z",
+      "posted_at": "2026-11-27T08:22:55.000Z",
+      "text": "AI video just hit a new price-breaking point with MAGI-2. \n\n@renoiseai is making high-quality AI video more accessible with 1080p, native audio, and up to 30-second generations starting at just $0.033/sec.\nThat’s over 10× cheaper than Seedance 2.5, making AI video creation more affordable than ever.\n\nIf you've been waiting to experiment without burning through credits, MAGI-2 on Renoise is worth a try.",
+      "original_en": "AI video just hit a new price-breaking point with MAGI-2. \n\n@renoiseai is making high-quality AI video more accessible with 1080p, native audio, and up to 30-second generations starting at just $0.033/sec.\nThat’s over 10× cheaper than Seedance 2.5, making AI video creation more affordable than ever.\n\nIf you've been waiting to experiment without burning through credits, MAGI-2 on Renoise is worth a try.",
+      "lang": "en",
+      "hook": "Paid-partnership MAGI-2 on Renoise pitch with '10x cheaper than Seedance 2.5' line: 5,861 views.",
+      "video_tip": "If you compare cost, show your own render time and credits on screen as a small overlay instead of quoting a promo line.",
+      "media": "video",
+      "followers_count": 5459,
+      "likes": 55,
+      "reposts": 1,
+      "bookmarks": 0,
+      "replies": 23,
+      "quotes": 0,
+      "self_quote": false,
+      "board_rank": 10,
+      "draft_en": "Been holding off on experiments because credits burn fast? MAGI-2 on Renoise might change that.\n\nIt starts at $0.033/sec for 1080p native audio generations up to 30 seconds - more than 10× cheaper than Seedance 2.5, according to Renoise.\n\nGood AI video is getting a lot easier to afford.",
+      "draft_keywords": [
+        "MAGI-2",
+        "Renoise",
+        "1080p native audio",
+        "Seedance 2.5",
+        "AI video"
+      ],
+      "draft_check": {
+        "rules": "v4",
+        "g4_overlap": 0.044,
+        "word_overlap": 0.48,
+        "max_copied_run": 5
+      },
+      "top10_rank": 10,
+      "why_hit": {
+        "trend_match": 89,
+        "verdict": "trend",
+        "matched_keywords": [
+          "Seedance 2.5",
+          "AI video",
+          "Magi-2",
+          "AI video creation",
+          "Renoise",
+          "0.033/sec"
+        ],
+        "media": "video",
+        "note": "",
+        "topic": "Black Friday AI video price war"
+      }
+    },
+    {
+      "id": "2126622658800533506",
+      "name": "Yaseen Khan Gul",
+      "display_name": "Yaseen Khan Gul",
+      "handle": "@YaseenK7212",
+      "views": 4847,
+      "views_label": "4,847",
+      "url": "https://x.com/YaseenK7212/status/2126622658800533506",
+      "created_at": "2026-11-28T10:22:07.000Z",
+      "posted_at": "2026-11-28T10:22:07.000Z",
+      "text": "This AI animation is so much better than Disney 🔥\n\nSeedance 2.5 https://t.co/usUStMCmar",
+      "original_en": "This AI animation is so much better than Disney 🔥\n\nSeedance 2.5 https://t.co/usUStMCmar",
+      "lang": "en",
+      "hook": "Third visible copy of the 'better than Disney' + Seedance 2.5 template in the window (4,847 views, 254 bookmarks).",
+      "video_tip": "Same advice: one strong animated beat, no intro, caption under 10 words.",
+      "media": "video",
+      "followers_count": 50221,
+      "likes": 358,
+      "reposts": 66,
+      "bookmarks": 254,
+      "replies": 7,
+      "quotes": 0,
+      "self_quote": false,
+      "board_rank": 11,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "note": "",
+        "topic": "Black Friday AI video price war"
+      }
+    },
+    {
+      "id": "2126064277593182478",
+      "name": "PAACADEMY",
+      "display_name": "PAACADEMY",
+      "handle": "@PAACADEMYY",
+      "views": 4155,
+      "views_label": "4,155",
+      "url": "https://x.com/PAACADEMYY/status/2126064277593182478",
+      "created_at": "2026-11-26T21:23:18.000Z",
+      "posted_at": "2026-11-26T21:23:18.000Z",
+      "text": "🎬 Your architectural renders deserve more than a single frame! What if you could turn your designs into cinematic videos, compelling visual stories, and interactive presentations using AI?\n\nJoin us for the Beyond Render: Architectural Storytelling with AI workshop, led by https://t.co/mddIc9Y1uW",
+      "original_en": "🎬 Your architectural renders deserve more than a single frame! What if you could turn your designs into cinematic videos, compelling visual stories, and interactive presentations using AI?\n\nJoin us for the Beyond Render: Architectural Storytelling with AI workshop, led by https://t.co/mddIc9Y1uW",
+      "lang": "en",
+      "hook": "Workshop promo turning architectural renders into cinematic AI video: 4,155 views - the 'beyond a single frame' angle.",
+      "video_tip": "Take one still concept art piece and turn it into a 3-shot camera move (push in, orbit, reveal) to show a still becoming a scene.",
+      "media": "video",
+      "followers_count": 4342,
+      "likes": 131,
+      "reposts": 17,
+      "bookmarks": 42,
+      "replies": 0,
+      "quotes": 2,
+      "self_quote": false,
+      "board_rank": 12,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "note": "",
+        "topic": null
+      }
+    },
+    {
+      "id": "2126159368861139303",
+      "name": "YouArt",
+      "display_name": "YouArt",
+      "handle": "@YouArtStudio",
+      "views": 4022,
+      "views_label": "4,022",
+      "url": "https://x.com/YouArtStudio/status/2126159368861139303",
+      "created_at": "2026-11-27T03:41:10.000Z",
+      "posted_at": "2026-11-27T03:41:10.000Z",
+      "text": "MAGI-2 vs Seedance 2.5. Golden-hour rooftop run, one continuous take.\n\nWhich one has better motion?\n\nMAGI-2: $0.04/sec on YouArt. 20x cheaper than Seedance 2.5, 50% cheaper than Higgsfield. https://t.co/TA4rPkmaKW",
+      "original_en": "MAGI-2 vs Seedance 2.5. Golden-hour rooftop run, one continuous take.\n\nWhich one has better motion?\n\nMAGI-2: $0.04/sec on YouArt. 20x cheaper than Seedance 2.5, 50% cheaper than Higgsfield. https://t.co/TA4rPkmaKW",
+      "lang": "en",
+      "hook": "Brand demo, MAGI-2 vs Seedance 2.5 on a golden-hour rooftop run in one continuous take, with a 'which has better motion?' question: 4,022 views.",
+      "video_tip": "Post a one-take motion test (a run, a jump, a turn) and ask the audience to judge the motion; questions drive replies.",
+      "media": "video",
+      "followers_count": 7312,
+      "likes": 47,
+      "reposts": 9,
+      "bookmarks": 10,
+      "replies": 34,
+      "quotes": 5,
+      "self_quote": false,
+      "board_rank": 13,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "note": "",
+        "topic": "Black Friday AI video price war"
+      }
+    },
+    {
+      "id": "2126204086512923008",
+      "name": "Ai Mini Thoughts Creator",
+      "display_name": "Ai Mini Thoughts Creator",
+      "handle": "@Aiminithoughts",
+      "views": 3743,
+      "views_label": "3,743",
+      "url": "https://x.com/Aiminithoughts/status/2126204086512923008",
+      "created_at": "2026-11-27T06:38:51.000Z",
+      "posted_at": "2026-11-27T06:38:51.000Z",
+      "text": "This AI video is an Absolute Masterpiece.\n\n(Created with Grok Imagine 4.7)\n\nPrompt in Comment Section\n👇👇👇 https://t.co/jbLxFELslq",
+      "original_en": "This AI video is an Absolute Masterpiece.\n\n(Created with Grok Imagine 4.7)\n\nPrompt in Comment Section\n👇👇👇 https://t.co/jbLxFELslq",
+      "lang": "en",
+      "hook": "'This AI video is an Absolute Masterpiece (Created with Grok Imagine 4.7) - prompt in comments', reposted as a series by the same account: 3,743 on this copy.",
+      "video_tip": "If you promise the prompt in the comments, post the exact prompt; the clip should be a single striking 6-10s shot.",
+      "media": "video",
+      "followers_count": 6394,
+      "likes": 55,
+      "reposts": 17,
+      "bookmarks": 4,
+      "replies": 17,
+      "quotes": 2,
+      "self_quote": false,
+      "board_rank": 14,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "note": "",
+        "topic": "Black Friday AI video price war"
+      }
+    },
+    {
+      "id": "2126105441574756376",
+      "name": "Aruvin 💊",
+      "display_name": "Aruvin 💊",
+      "handle": "@aruvinchan",
+      "views": 2939,
+      "views_label": "2,939",
+      "url": "https://x.com/aruvinchan/status/2126105441574756376",
+      "created_at": "2026-11-27T00:06:53.000Z",
+      "posted_at": "2026-11-27T00:06:53.000Z",
+      "text": "I saw an AI short film posted on Instagram today.\n\n15 minutes, great storyline, good writing, and surprisingly the \"acting\" was pretty good too.\n\nThe comments, instead of praising the plot, cinematography, realism, etc., decided to nitpick on continuity errors and small inconsistencies instead.\n\nJust goes to show people just want to CRITICIZE without ever being able to even do anything close to what they're criticizing (let alone do better).\n\nThe fact that AI generated all of that is nothing short of a marvel.\n\nDo you fucks know that, for the first time, Hollywood could actually be put out of business!?\n\nNow people are making fun of little errors.\n\nBut soon AI will surpass Hollywood.\n\nActors could no longer command such high fees just to lease out their face/likeness.\n\nDirectors and writers could be automated by AI.\n\nCrews are no longer necessary.\n\nAn entire industry... wiped out by AI.\n\nEntertainment is about to be free, guys, you can be sure of that.",
+      "original_en": "I saw an AI short film posted on Instagram today.\n\n15 minutes, great storyline, good writing, and surprisingly the \"acting\" was pretty good too.\n\nThe comments, instead of praising the plot, cinematography, realism, etc., decided to nitpick on continuity errors and small inconsistencies instead.\n\nJust goes to show people just want to CRITICIZE without ever being able to even do anything close to what they're criticizing (let alone do better).\n\nThe fact that AI generated all of that is nothing short of a marvel.\n\nDo you fucks know that, for the first time, Hollywood could actually be put out of business!?\n\nNow people are making fun of little errors.\n\nBut soon AI will surpass Hollywood.\n\nActors could no longer command such high fees just to lease out their face/likeness.\n\nDirectors and writers could be automated by AI.\n\nCrews are no longer necessary.\n\nAn entire industry... wiped out by AI.\n\nEntertainment is about to be free, guys, you can be sure of that.",
+      "lang": "en",
+      "hook": "Opinion thread: a 15-minute AI short film on Instagram gets nitpicked for continuity, author argues AI will surpass Hollywood: 2,939 views.",
+      "video_tip": "Answer the continuity critique with a visual: the same character across 4 shots side by side, proving consistency instead of arguing it.",
+      "media": "text",
+      "followers_count": 42148,
+      "likes": 51,
+      "reposts": 3,
+      "bookmarks": 8,
+      "replies": 13,
+      "quotes": 0,
+      "self_quote": false,
+      "board_rank": 15,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "coincidence/other",
+        "matched_keywords": [],
+        "media": "text",
+        "note": "",
+        "topic": "Titled story shorts and AI filmmaking craft"
+      }
+    },
+    {
+      "id": "2126388067300778237",
+      "name": "NJASI CHIABUOTU | AI KING",
+      "display_name": "NJASI CHIABUOTU | AI KING",
+      "handle": "@Njasi3",
+      "views": 2325,
+      "views_label": "2,325",
+      "url": "https://x.com/Njasi3/status/2126388067300778237",
+      "created_at": "2026-11-27T18:49:56.000Z",
+      "posted_at": "2026-11-27T18:49:56.000Z",
+      "text": "If you want to stand out in the AI video industry, you need a content strategy.\n\nHere are 5 types of content every AI video creator should be posting:",
+      "original_en": "If you want to stand out in the AI video industry, you need a content strategy.\n\nHere are 5 types of content every AI video creator should be posting:",
+      "lang": "en",
+      "hook": "Thread opener promising '5 types of content every AI video creator should be posting': 2,325 views, 72 bookmarks - more saves than likes.",
+      "video_tip": "Turn a list like this into a 4-panel video: one 5s example clip per content type from your own feed.",
+      "media": "text",
+      "followers_count": 1572,
+      "likes": 38,
+      "reposts": 5,
+      "bookmarks": 72,
+      "replies": 2,
+      "quotes": 0,
+      "self_quote": false,
+      "board_rank": 16,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "coincidence/other",
+        "matched_keywords": [],
+        "media": "text",
+        "note": "",
+        "topic": "Black Friday AI video price war"
+      }
+    },
+    {
+      "id": "2126400094002204874",
+      "name": "Poulker Josh",
+      "display_name": "Poulker Josh",
+      "handle": "@Poulk_wgman",
+      "views": 1630,
+      "views_label": "1,630",
+      "url": "https://x.com/Poulk_wgman/status/2126400094002204874",
+      "created_at": "2026-11-27T19:37:43.000Z",
+      "posted_at": "2026-11-27T19:37:43.000Z",
+      "text": "This AI short film is actually unreal.\n\nA mole, a shark boss, and an ending that hits way too hard.\n\nSeedance 2.5 https://t.co/XFU33Zo0gz",
+      "original_en": "This AI short film is actually unreal.\n\nA mole, a shark boss, and an ending that hits way too hard.\n\nSeedance 2.5 https://t.co/XFU33Zo0gz",
+      "lang": "en",
+      "hook": "Character-and-plot caption ('A mole, a shark boss, and an ending that hits way too hard') with Seedance 2.5: 1,630 views, 147 bookmarks.",
+      "video_tip": "Pitch your short with its cast in one line (a commissar, a servitor, a heretic) and tease the ending without spoiling it.",
+      "media": "video",
+      "followers_count": 31112,
+      "likes": 211,
+      "reposts": 92,
+      "bookmarks": 147,
+      "replies": 33,
+      "quotes": 0,
+      "self_quote": false,
+      "board_rank": 17,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "note": "",
+        "topic": "Black Friday AI video price war"
+      }
+    },
+    {
+      "id": "2126360416293187631",
+      "name": "BossBrownShugar(BBS)",
+      "display_name": "BossBrownShugar(BBS)",
+      "handle": "@DeQueenofSpaces",
+      "views": 1348,
+      "views_label": "1,348",
+      "url": "https://x.com/DeQueenofSpaces/status/2126360416293187631",
+      "created_at": "2026-11-27T17:00:03.000Z",
+      "posted_at": "2026-11-27T17:00:03.000Z",
+      "text": "I think editing deserves far more recognition in AI filmmaking. \n\nIt's not just the final step in production; it's part of the storytelling itself.\n\nHow much do you think editing contributes to the overall quality of an AI film?",
+      "original_en": "I think editing deserves far more recognition in AI filmmaking. \n\nIt's not just the final step in production; it's part of the storytelling itself.\n\nHow much do you think editing contributes to the overall quality of an AI film?",
+      "lang": "en",
+      "hook": "Question post: editing as part of the storytelling in AI filmmaking: 1,348 views.",
+      "video_tip": "Show a before/after edit: the same 20s of raw generations, then the cut version with rhythm and sound, to prove the edit is the film.",
+      "media": "text",
+      "followers_count": 5936,
+      "likes": 61,
+      "reposts": 10,
+      "bookmarks": 1,
+      "replies": 32,
+      "quotes": 1,
+      "self_quote": false,
+      "board_rank": 18,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "coincidence/other",
+        "matched_keywords": [],
+        "media": "text",
+        "note": "",
+        "topic": null
+      }
+    },
+    {
+      "id": "2126523388432896123",
+      "name": "Skipper VanderWall",
+      "display_name": "Skipper VanderWall",
+      "handle": "@RobotCleopatra",
+      "views": 825,
+      "views_label": "825",
+      "url": "https://x.com/RobotCleopatra/status/2126523388432896123",
+      "created_at": "2026-11-28T03:47:39.000Z",
+      "posted_at": "2026-11-28T03:47:39.000Z",
+      "text": "The perfect plan. The wrong team.\n\nAn original AI-animated short film by Skipper VanderWall.\n\nCreated with Seedance. @dreamina_ai #DreaminaCPP https://t.co/b9wJ4jJEoX",
+      "original_en": "The perfect plan. The wrong team.\n\nAn original AI-animated short film by Skipper VanderWall.\n\nCreated with Seedance. @dreamina_ai #DreaminaCPP https://t.co/b9wJ4jJEoX",
+      "lang": "en",
+      "hook": "Original AI-animated short with a two-part logline ('The perfect plan. The wrong team.') made with Seedance: 825 views from a 100K account - a logline alone is not enough without a hooky first frame.",
+      "video_tip": "Open on the most kinetic frame, not the title; put the logline in the post text, not on screen.",
+      "media": "video",
+      "followers_count": 100011,
+      "likes": 14,
+      "reposts": 1,
+      "bookmarks": 2,
+      "replies": 2,
+      "quotes": 0,
+      "self_quote": false,
+      "board_rank": 19,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "note": "",
+        "topic": "Black Friday AI video price war"
+      }
+    },
+    {
+      "id": "2126174930626547791",
+      "name": "Bon Goo",
+      "display_name": "Bon Goo",
+      "handle": "@itsbongoo",
+      "views": 699,
+      "views_label": "699",
+      "url": "https://x.com/itsbongoo/status/2126174930626547791",
+      "created_at": "2026-11-27T04:43:00.000Z",
+      "posted_at": "2026-11-27T04:43:00.000Z",
+      "text": "Higgsfield is absolutely killing it with organic marketing.\n\nThis AI-generated short film pulled 86 MILLION views and 8 million likes.\n\nInstead of making another boring ad showcasing their AI tools, they created something that genuinely made people emotional.\n\nThen a simple “comment ANGEL to see how we made it” turns that attention into potential customers.\n\nThe best marketing doesn’t feel like marketing.",
+      "original_en": "Higgsfield is absolutely killing it with organic marketing.\n\nThis AI-generated short film pulled 86 MILLION views and 8 million likes.\n\nInstead of making another boring ad showcasing their AI tools, they created something that genuinely made people emotional.\n\nThen a simple “comment ANGEL to see how we made it” turns that attention into potential customers.\n\nThe best marketing doesn’t feel like marketing.",
+      "lang": "en",
+      "hook": "Commentary on Higgsfield's emotional AI short (claimed 86M views) and its 'comment ANGEL' CTA: story-led marketing over tool ads.",
+      "video_tip": "End your next short with one comment-keyword CTA (e.g. 'comment BTS for the workflow') and actually deliver the breakdown.",
+      "media": "video",
+      "followers_count": 1456,
+      "likes": 7,
+      "reposts": 0,
+      "bookmarks": 2,
+      "replies": 3,
+      "quotes": 0,
+      "self_quote": false,
+      "board_rank": 20,
+      "why_hit": {
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "note": "",
+        "topic": "Titled story shorts and AI filmmaking craft"
+      }
+    }
+  ],
+  "virals_target": 20,
+  "virals_window": "last ~48h",
+  "virals_narrative": "Outsider lane (26-28.11): Black Friday MAGI-2 price war plus the copy-paste 'better than Disney' Seedance 2.5 template. Led by @minhoo_kim_ 59,733, @LordeDaAlvorada 38,682, @FawazXweb3 35,180, @MissPavIichenko 33,455, @Wivyai 19,256",
+  "patterns": [
+    "Watchlist on 27.11 (Black Friday): 0 hits, 0 stars - nobody on the watchlist reached 5,000 views with an original post",
+    "Best watchlist originals: LudovicCreator 2,345 ('Share your favorite generation NOT POSTED this week' community call), then his prompt shares 1,643 (ENCHANTED FOREST FABLE) and 1,486 (DESERT BOKEH MIRAGE); pixelbouncer best 330 from 16 originals; andresvandal and ChrisGwinnLA posted only a repost/reply; Gossip_Goblin and billywoodward posted nothing",
+    "Bogdan led the whole roster: 'Space Marines battle in the Swamp!' 3,157 (photo, #warhammer40k) - the best original of any tracked account on 27.11",
+    "Outsider lane = price war: MAGI-2 cost-per-second pitches (Renoise, YouArt, paid partnerships) against Seedance 2.5 and Kling 4.0 - $0.99 packs, $0.033-0.04/sec, '10x/20x cheaper' lines (minhoo_kim_ 59,733; kicknost 12,322; 4111J_ 10,033; Wivyai 19,256)",
+    "The 'This AI animation is better than Disney' + 'Seedance 2.5' caption template kept running on new accounts (LordeDaAlvorada 38,682; MissPavIichenko 33,455; YaseenK7212 4,847) - template wave, not organic",
+    "Titled story shorts still win on craft: 'The Heist' (FawazXweb3 35,180), a first-person sci-fi space-disaster short (Stellarixorine 6,087), 'A mole, a shark boss...' (Poulk_wgman, 147 bookmarks)",
+    "Discourse: continuity nitpicks vs 'AI will surpass Hollywood' (aruvinchan), editing as storytelling in AI filmmaking, and story-led marketing (Higgsfield's emotional short and its comment-keyword CTA)",
+    "List and strategy posts (50 AI tools, 5 content types) earn more bookmarks than likes"
+  ],
+  "no_hits": [
+    {
+      "handle": "@Gossip_Goblin",
+      "reason": "No posts at all on 2026-11-27.",
+      "max_views": 0
+    },
+    {
+      "handle": "@pixelbouncer",
+      "reason": "16 original posts on 2026-11-27; none reached 5,000 views (best 330).",
+      "max_views": 330
+    },
+    {
+      "handle": "@andresvandal",
+      "reason": "0 original posts on 2026-11-27 (only replies/reposts that day).",
+      "max_views": 0
+    },
+    {
+      "handle": "@LudovicCreator",
+      "reason": "4 original posts on 2026-11-27; none reached 5,000 views (best 2,345).",
+      "max_views": 2345
+    },
+    {
+      "handle": "@ChrisGwinnLA",
+      "reason": "0 original posts on 2026-11-27 (only replies/reposts that day).",
+      "max_views": 0
+    },
+    {
+      "handle": "@billywoodward",
+      "reason": "No posts at all on 2026-11-27.",
+      "max_views": 0
+    }
+  ],
+  "day_roster": [
+    {
+      "handle": "@LudovicCreator",
+      "name": "LudovicCreator",
+      "views": 2345,
+      "total_views": 6544,
+      "hit": false,
+      "posts": 4,
+      "best_url": "https://x.com/LudovicCreator/status/2126473729664262627"
+    },
+    {
+      "handle": "@pixelbouncer",
+      "name": "Ƥ!ЖΣLƁΘUNCΣR",
+      "views": 330,
+      "total_views": 3118,
+      "hit": false,
+      "posts": 16,
+      "best_url": "https://x.com/pixelbouncer/status/2126424101724324182"
+    },
+    {
+      "handle": "@Gossip_Goblin",
+      "name": "Gossip Goblin",
+      "views": 0,
+      "total_views": 0,
+      "hit": false,
+      "posts": 0,
+      "best_url": null
+    },
+    {
+      "handle": "@andresvandal",
+      "name": "Andres Vandal",
+      "views": 0,
+      "total_views": 0,
+      "hit": false,
+      "posts": 0,
+      "best_url": null
+    },
+    {
+      "handle": "@ChrisGwinnLA",
+      "name": "Christopher Gwinn | Grindhouse Glitch",
+      "views": 0,
+      "total_views": 0,
+      "hit": false,
+      "posts": 0,
+      "best_url": null
+    },
+    {
+      "handle": "@billywoodward",
+      "name": "Billy Woodward",
+      "views": 0,
+      "total_views": 0,
+      "hit": false,
+      "posts": 0,
+      "best_url": null
+    }
+  ],
+  "you_rank": {
+    "best_views": 3157,
+    "total_views": 7020,
+    "best_url": "https://x.com/SMKP_Films/status/2126342265455141094",
+    "posts": 10,
+    "vs_5k": "pending",
+    "vs_10k": "pending",
+    "rank_among_watchlist": 1,
+    "total_accounts": 7
+  },
+  "narrative_synthesis": "Outsider AI posts from the last ~48 hours were a Black Friday price war. The biggest numbers came from MAGI-2 cost pitches - Renoise, YouArt and paid partnerships quoting $0.99 packs, $0.033-0.04 per second and '10x' or '20x cheaper than Seedance 2.5' - with minhoo_kim_'s text-only $0.99 offer at 59,733 views, plus side-by-side cost tests like Wivyai's Seedance 2.5 vs Kling 4.0 (19,256) and 4111J_'s $28.50 vs $1.20 (10,033). Second, the copy-paste 'This AI animation is better than Disney' + 'Seedance 2.5' caption kept spreading to new accounts (LordeDaAlvorada 38,682, MissPavIichenko 33,455, more copies on 28.11) - treat it as a template wave, not proof of a trend. Underneath, titled story shorts still outperformed generic showcases on engagement: FawazXweb3's 'The Heist' (35,180), a first-person sci-fi space-disaster short, and a mole-vs-shark-boss short with more bookmarks than likes. The talk around it: continuity nitpicks versus 'AI will surpass Hollywood', editing as part of AI filmmaking, and Higgsfield's emotional short as a model of story-led marketing. On the watchlist, Black Friday was quiet - no account cleared 5,000 views, and Bogdan's 'Space Marines battle in the Swamp!' (3,157) was the best original of any tracked account. For Bogdan: a titled 40K micro-short with a one-line logline, or an honest Seedance cost-and-continuity test on a Warhammer scene, fits what is landing.",
+  "trend_input_only": [],
+  "trend_input_only_posts": [],
+  "leaderboards": {
+    "as_of": "2026-11-27",
+    "tracking_start": "2026-11-04",
+    "days_included": [
+      "2026-11-21",
+      "2026-11-22",
+      "2026-11-23",
+      "2026-11-24",
+      "2026-11-25",
+      "2026-11-26",
+      "2026-11-27"
+    ],
+    "month_days_included": [
+      "2026-11-04",
+      "2026-11-05",
+      "2026-11-06",
+      "2026-11-07",
+      "2026-11-08",
+      "2026-11-09",
+      "2026-11-10",
+      "2026-11-11",
+      "2026-11-12",
+      "2026-11-13",
+      "2026-11-14",
+      "2026-11-15",
+      "2026-11-16",
+      "2026-11-17",
+      "2026-11-18",
+      "2026-11-19",
+      "2026-11-20",
+      "2026-11-21",
+      "2026-11-22",
+      "2026-11-23",
+      "2026-11-24",
+      "2026-11-25",
+      "2026-11-26",
+      "2026-11-27"
+    ],
+    "week": {
+      "label": "Rolling week · Nov 21–Nov 27",
+      "range": [
+        "2026-11-21",
+        "2026-11-27"
+      ],
+      "entries": [
+        {
+          "handle": "@Gossip_Goblin",
+          "name": "Gossip Goblin",
+          "hits": 6,
+          "days": 3,
+          "views": 421132,
+          "best": 294346,
+          "best_url": "https://x.com/Gossip_Goblin/status/2124541100480180361"
+        },
+        {
+          "handle": "@LudovicCreator",
+          "name": "LudovicCreator",
+          "hits": 2,
+          "days": 1,
+          "views": 65034,
+          "best": 59046,
+          "best_url": "https://x.com/LudovicCreator/status/2124578704550695184"
+        },
+        {
+          "handle": "@andresvandal",
+          "name": "Andres Vandal",
+          "hits": 2,
+          "days": 2,
+          "views": 56343,
+          "best": 33645,
+          "best_url": "https://x.com/andresvandal/status/2124333545921691925"
+        },
+        {
+          "handle": "@ChrisGwinnLA",
+          "name": "Christopher Gwinn | Grindhouse Glitch",
+          "hits": 1,
+          "days": 1,
+          "views": 7116,
+          "best": 7116,
+          "best_url": "https://x.com/ChrisGwinnLA/status/2125643215986704663"
+        }
+      ]
+    },
+    "month": {
+      "label": "November 2026 · from Nov 4",
+      "range": [
+        "2026-11-04",
+        "2026-11-27"
+      ],
+      "entries": [
+        {
+          "handle": "@Gossip_Goblin",
+          "name": "Gossip Goblin",
+          "hits": 27,
+          "days": 15,
+          "views": 1497153,
+          "best": 294346,
+          "best_url": "https://x.com/Gossip_Goblin/status/2124541100480180361"
+        },
+        {
+          "handle": "@LudovicCreator",
+          "name": "LudovicCreator",
+          "hits": 5,
+          "days": 4,
+          "views": 301480,
+          "best": 133926,
+          "best_url": "https://x.com/LudovicCreator/status/2120592485437350268"
+        },
+        {
+          "handle": "@andresvandal",
+          "name": "Andres Vandal",
+          "hits": 4,
+          "days": 4,
+          "views": 77507,
+          "best": 33645,
+          "best_url": "https://x.com/andresvandal/status/2124333545921691925"
+        },
+        {
+          "handle": "@ChrisGwinnLA",
+          "name": "Christopher Gwinn | Grindhouse Glitch",
+          "hits": 6,
+          "days": 6,
+          "views": 68035,
+          "best": 23566,
+          "best_url": "https://x.com/ChrisGwinnLA/status/2121834058267156701"
+        }
+      ]
+    }
+  },
+  "drafts_top10": [
+    {
+      "rank": 1,
+      "id": "2126564586019270923",
+      "handle": "@minhoo_kim_",
+      "views": 59733,
+      "lane": "outsider"
+    },
+    {
+      "rank": 2,
+      "id": "2126501430131315175",
+      "handle": "@LordeDaAlvorada",
+      "views": 38682,
+      "lane": "outsider"
+    },
+    {
+      "rank": 3,
+      "id": "2126380255388528792",
+      "handle": "@FawazXweb3",
+      "views": 35180,
+      "lane": "outsider"
+    },
+    {
+      "rank": 4,
+      "id": "2126496652319961284",
+      "handle": "@MissPavIichenko",
+      "views": 33455,
+      "lane": "outsider"
+    },
+    {
+      "rank": 5,
+      "id": "2126416060366917714",
+      "handle": "@Wivyai",
+      "views": 19256,
+      "lane": "outsider"
+    },
+    {
+      "rank": 6,
+      "id": "2126166275504394270",
+      "handle": "@kicknost",
+      "views": 12322,
+      "lane": "outsider"
+    },
+    {
+      "rank": 7,
+      "id": "2126566101060640998",
+      "handle": "@aitechworld195",
+      "views": 11295,
+      "lane": "outsider"
+    },
+    {
+      "rank": 8,
+      "id": "2126196587978178729",
+      "handle": "@4111J_",
+      "views": 10033,
+      "lane": "outsider"
+    },
+    {
+      "rank": 9,
+      "id": "2126547886230196452",
+      "handle": "@Stellarixorine",
+      "views": 6087,
+      "lane": "outsider"
+    },
+    {
+      "rank": 10,
+      "id": "2126230275114041753",
+      "handle": "@im_shahid7",
+      "views": 5861,
+      "lane": "outsider"
+    }
+  ],
+  "trend_keywords": {
+    "date": "2026-11-27",
+    "window": "day D board posts + last-24h posts >= min_views + outsiders + trend-input accounts + pattern brief",
+    "method": "sum(log10 views) over distinct posts x author spread x phrase length x entity/brief bonus; >=2 authors",
+    "keywords": [
+      {
+        "keyword": "Seedance 2.5",
+        "rank": 1,
+        "score": 353.3,
+        "posts": 10,
+        "authors": 10
+      },
+      {
+        "keyword": "AI video",
+        "rank": 2,
+        "score": 141.9,
+        "posts": 7,
+        "authors": 7
+      },
+      {
+        "keyword": "AI animation",
+        "rank": 3,
+        "score": 75.1,
+        "posts": 4,
+        "authors": 4
+      },
+      {
+        "keyword": "Magi-2",
+        "rank": 4,
+        "score": 54.1,
+        "posts": 4,
+        "authors": 4
+      },
+      {
+        "keyword": "Disney Seedance 2.5",
+        "rank": 5,
+        "score": 43.5,
+        "posts": 3,
+        "authors": 3
+      },
+      {
+        "keyword": "Higgsfield",
+        "rank": 6,
+        "score": 29.5,
+        "posts": 3,
+        "authors": 3
+      },
+      {
+        "keyword": "AI video creation",
+        "rank": 7,
+        "score": 23.1,
+        "posts": 2,
+        "authors": 2
+      },
+      {
+        "keyword": "models",
+        "rank": 8,
+        "score": 22.3,
+        "posts": 3,
+        "authors": 3
+      },
+      {
+        "keyword": "1080p native audio",
+        "rank": 9,
+        "score": 21.2,
+        "posts": 2,
+        "authors": 2
+      },
+      {
+        "keyword": "AI tools",
+        "rank": 10,
+        "score": 20.1,
+        "posts": 2,
+        "authors": 2
+      },
+      {
+        "keyword": "Kling",
+        "rank": 11,
+        "score": 18.3,
+        "posts": 2,
+        "authors": 2
+      },
+      {
+        "keyword": "AI short film",
+        "rank": 12,
+        "score": 18.0,
+        "posts": 2,
+        "authors": 2
+      },
+      {
+        "keyword": "Renoise",
+        "rank": 13,
+        "score": 17.2,
+        "posts": 2,
+        "authors": 2
+      },
+      {
+        "keyword": "YouArt",
+        "rank": 14,
+        "score": 16.7,
+        "posts": 2,
+        "authors": 2
+      },
+      {
+        "keyword": "API",
+        "rank": 15,
+        "score": 14.1,
+        "posts": 2,
+        "authors": 2
+      },
+      {
+        "keyword": "MAGI2",
+        "rank": 16,
+        "score": 13.7,
+        "posts": 2,
+        "authors": 2
+      },
+      {
+        "keyword": "0.033/sec",
+        "rank": 17,
+        "score": 13.3,
+        "posts": 2,
+        "authors": 2
+      },
+      {
+        "keyword": "Grok",
+        "rank": 18,
+        "score": 12.9,
+        "posts": 2,
+        "authors": 2
+      },
+      {
+        "keyword": "AI-generated",
+        "rank": 19,
+        "score": 11.4,
+        "posts": 2,
+        "authors": 2
+      },
+      {
+        "keyword": "Kling 4.0",
+        "rank": 20,
+        "score": 9.1,
+        "posts": 1,
+        "authors": 1
+      },
+      {
+        "keyword": "20x cheaper",
+        "rank": 21,
+        "score": 7.6,
+        "posts": 1,
+        "authors": 1
+      },
+      {
+        "keyword": "surpass Hollywood",
+        "rank": 22,
+        "score": 7.3,
+        "posts": 1,
+        "authors": 1
+      },
+      {
+        "keyword": "AI filmmaking",
+        "rank": 23,
+        "score": 6.6,
+        "posts": 1,
+        "authors": 1
+      },
+      {
+        "keyword": "AI film",
+        "rank": 24,
+        "score": 6.6,
+        "posts": 1,
+        "authors": 1
+      }
+    ]
+  },
+  "trend_radar": {
+    "date": "2026-11-27",
+    "title": "Trends and post ideas",
+    "window": {
+      "end": "2026-11-28T10:55:00-05:00",
+      "label24": "27.11 10:55 - 28.11 10:55 UTC",
+      "label48": "26.11 10:55 - 28.11 10:55 UTC"
+    },
+    "corpus": {
+      "posts": 10,
+      "min_views": 5000,
+      "lanes": {
+        "watchlist": 0,
+        "outsider": 10,
+        "24h": 0,
+        "trend_input": 0
+      }
+    },
+    "summary": {
+      "top10_line": "TOP-10: 8/10 (80%) matched trends · trend 8, visual 2",
+      "headline": "8 of 20 board hits (40%) matched 24-48 h trends. Median views: trend 26.4K vs non-trend 3.3K (mean 27.0K vs 3.6K). Watchlist: 0/0 on trend. 15 hits with video, median 5.9K vs 2.9K without.",
+      "takeaway": "Price talk and copy-paste templates drove the numbers; titled story shorts are the lane Bogdan can own with Warhammer and sci-fi.",
+      "stats": {
+        "all": {
+          "n": 20,
+          "trend_n": 8,
+          "trend_pct": 40,
+          "avg_trend": 26973,
+          "avg_other": 3554,
+          "median_trend": 26356,
+          "median_other": 3341,
+          "verdicts": {
+            "trend": 8,
+            "visual": 9,
+            "author/audience": 0,
+            "coincidence/other": 3
+          }
+        },
+        "watchlist": {
+          "n": 0,
+          "trend_n": 0,
+          "trend_pct": 0,
+          "avg_trend": null,
+          "avg_other": null,
+          "median_trend": null,
+          "median_other": null,
+          "verdicts": {
+            "trend": 0,
+            "visual": 0,
+            "author/audience": 0,
+            "coincidence/other": 0
+          }
+        },
+        "outsiders": {
+          "n": 20,
+          "trend_n": 8,
+          "trend_pct": 40,
+          "avg_trend": 26973,
+          "avg_other": 3554,
+          "median_trend": 26356,
+          "median_other": 3341,
+          "verdicts": {
+            "trend": 8,
+            "visual": 9,
+            "author/audience": 0,
+            "coincidence/other": 3
+          }
+        },
+        "top10": {
+          "n": 10,
+          "trend_n": 8,
+          "trend_pct": 80,
+          "avg_trend": 26973,
+          "avg_other": 8060,
+          "median_trend": 26356,
+          "median_other": 8060,
+          "verdicts": {
+            "trend": 8,
+            "visual": 2,
+            "author/audience": 0,
+            "coincidence/other": 0
+          }
+        },
+        "media": {
+          "video_n": 15,
+          "median_video": 5861,
+          "other_n": 5,
+          "median_other": 2939
+        }
+      }
+    },
+    "topics": [
+      {
+        "name": "Black Friday AI video price war",
+        "keywords": [
+          "Seedance",
+          "AI video",
+          "Magi-2",
+          "Kling"
+        ],
+        "posts_24h": 6,
+        "posts_48h": 9,
+        "views_24h": 197601,
+        "views_prev24h": 28216,
+        "views_48h": 225817,
+        "momentum": "up x2.26",
+        "heat_raw": 32.7,
+        "evidence": [
+          {
+            "handle": "@minhoo_kim_",
+            "views": 59733,
+            "url": "https://x.com/minhoo_kim_/status/2126564586019270923",
+            "hook": "Paid-partnership price hook: 'MAGI-2 for just $0.99' with a per-second cost and a limited-pack scarcity line - 59,733 views from a text-only post, the biggest o",
+            "lane": "outsider"
+          },
+          {
+            "handle": "@LordeDaAlvorada",
+            "views": 38682,
+            "url": "https://x.com/LordeDaAlvorada/status/2126501430131315175",
+            "hook": "The copy-paste 'This AI animation is better than Disney' + 'Seedance 2.5' template again, now on a 2.8K-follower account: 38,682 views, 2,408 likes, 525 bookmar",
+            "lane": "outsider"
+          },
+          {
+            "handle": "@FawazXweb3",
+            "views": 35180,
+            "url": "https://x.com/FawazXweb3/status/2126380255388528792",
+            "hook": "Named mini-film ('The Heist') with a one-line creator note and Seedance 2.5 on Dreamina tags: 35,180 views - a titled story beat beats a spec sheet.",
+            "lane": "outsider"
+          }
+        ],
+        "heat": 100
+      },
+      {
+        "name": "Template AI animation wave",
+        "keywords": [
+          "Seedance 2.5",
+          "AI animation"
+        ],
+        "posts_24h": 4,
+        "posts_48h": 7,
+        "views_24h": 126573,
+        "views_prev24h": 28216,
+        "views_48h": 154789,
+        "momentum": "up x1.51",
+        "heat_raw": 23.87,
+        "evidence": [
+          {
+            "handle": "@LordeDaAlvorada",
+            "views": 38682,
+            "url": "https://x.com/LordeDaAlvorada/status/2126501430131315175",
+            "hook": "The copy-paste 'This AI animation is better than Disney' + 'Seedance 2.5' template again, now on a 2.8K-follower account: 38,682 views, 2,408 likes, 525 bookmar",
+            "lane": "outsider"
+          },
+          {
+            "handle": "@FawazXweb3",
+            "views": 35180,
+            "url": "https://x.com/FawazXweb3/status/2126380255388528792",
+            "hook": "Named mini-film ('The Heist') with a one-line creator note and Seedance 2.5 on Dreamina tags: 35,180 views - a titled story beat beats a spec sheet.",
+            "lane": "outsider"
+          },
+          {
+            "handle": "@MissPavIichenko",
+            "views": 33455,
+            "url": "https://x.com/MissPavIichenko/status/2126496652319961284",
+            "hook": "Same 'better than Disney' + Seedance 2.5 caption, posted 19 minutes before LordeDaAlvorada's: 33,455 views. Template wave, not an organic one-off.",
+            "lane": "outsider"
+          }
+        ],
+        "heat": 73
+      },
+      {
+        "name": "Titled story shorts and AI filmmaking craft",
+        "keywords": [
+          "short film"
+        ],
+        "posts_24h": 1,
+        "posts_48h": 1,
+        "views_24h": 6087,
+        "views_prev24h": 0,
+        "views_48h": 6087,
+        "momentum": "new · 24 h only",
+        "heat_raw": 3.78,
+        "evidence": [
+          {
+            "handle": "@Stellarixorine",
+            "views": 6087,
+            "url": "https://x.com/Stellarixorine/status/2126547886230196452",
+            "hook": "First-person sci-fi disaster short with a cinematic logline ('Space never gives you a second chance'): 6,087 views. Sci-fi framing still pulls.",
+            "lane": "outsider"
+          }
+        ],
+        "heat": 12
+      }
+    ],
+    "ideas": [
+      {
+        "title": "Titled 40K micro-heist",
+        "topic": "Titled story shorts and AI filmmaking craft",
+        "keywords": [
+          "AI animation",
+          "Seedance"
+        ],
+        "format": "video",
+        "visual_type": "video",
+        "visual": "35-40s vertical short with a two-word title card: plan, twist, escape - an Inquisitor's raid on a hive-city vault, made in Seedance.",
+        "angle": "FawazXweb3's titled 'The Heist' made with Seedance 2.5 did 35,180 views; AI animation leads the X keyword sample at 234,730 (up x1.49).",
+        "hook_en": "The Vault Job. Three Guardsmen, one relic, zero chance - a Seedance AI animation in three beats.",
+        "why": "Titled story shorts beat generic showcases in the outsider lane; AI animation is #1 in the sample.",
+        "x_keywords": [
+          "AI animation",
+          "Seedance"
+        ],
+        "x_rank": 1,
+        "source": "x-keywords"
+      },
+      {
+        "title": "Anime-style 40K servitor moment",
+        "topic": "Template AI animation wave",
+        "keywords": [
+          "anime",
+          "AI animation"
+        ],
+        "format": "video",
+        "visual_type": "video",
+        "visual": "12-15s anime-style shot of a servitor waking up in a forge, open on motion, no title card.",
+        "angle": "The 'better than Disney' + Seedance 2.5 caption template ran on several accounts (LordeDaAlvorada 38,682, MissPavIichenko 33,455); anime jumped to 97,051 from 9,801 in the sample (x9.9).",
+        "hook_en": "Grimdark, but make it anime. One servitor, one forge, fifteen seconds of AI animation.",
+        "why": "anime is the fastest riser in the X keyword sample; ride the format with your own world, not a copy caption.",
+        "x_keywords": [
+          "anime",
+          "AI animation"
+        ],
+        "x_rank": 1,
+        "source": "x-keywords"
+      },
+      {
+        "title": "Continuity answer: one character, four shots",
+        "topic": "Titled story shorts and AI filmmaking craft",
+        "keywords": [
+          "AI filmmaking",
+          "short film"
+        ],
+        "format": "image carousel",
+        "visual_type": "carousel",
+        "visual": "4-image carousel of Captain Orlock: close-up, medium, wide, profile - same face, armour and light in each.",
+        "angle": "aruvinchan's post on a 15-minute AI short film being nitpicked for continuity drew 2,939 views; AI filmmaking still sits #3 in the sample at 76,485.",
+        "hook_en": "People nitpick continuity in every AI short film. So here is one character across four shots - judge the AI filmmaking yourself.",
+        "why": "Continuity is the critique creators keep meeting; showing beats arguing.",
+        "x_keywords": [
+          "AI filmmaking",
+          "short film"
+        ],
+        "x_rank": 3,
+        "source": "x-keywords"
+      },
+      {
+        "title": "Raw generations vs final cut",
+        "topic": "Titled story shorts and AI filmmaking craft",
+        "keywords": [
+          "AI filmmaking"
+        ],
+        "format": "video",
+        "visual_type": "video",
+        "visual": "20s before/after: raw Seedance generations of Captain Orlock's armouring scene, then the edited cut with rhythm and sound.",
+        "angle": "DeQueenofSpaces asked how much editing contributes to AI filmmaking (1,348 views); Bogdan's own 'Captain Orlock is armoured up by the Techno-priests' video did 1,167 on 27.11.",
+        "hook_en": "Same clips, two versions. The edit is where AI filmmaking actually becomes a film.",
+        "why": "Editing-as-storytelling is an open question in the niche; Bogdan already has the footage.",
+        "x_keywords": [
+          "AI filmmaking"
+        ],
+        "x_rank": 3,
+        "source": "x-keywords"
+      },
+      {
+        "title": "Honest Seedance cost-per-shot test on a Warhammer scene",
+        "topic": "Black Friday AI video price war",
+        "keywords": [
+          "Seedance",
+          "AI video",
+          "Kling"
+        ],
+        "format": "video",
+        "visual_type": "video",
+        "visual": "Split-screen 15s: the same Space Marine charge rendered in Seedance and Kling, credit cost and render time as a lower-third on each side.",
+        "angle": "Price comparisons dominated the window: Wivyai's Seedance 2.5 vs Kling 4.0 side-by-side 19,256, 4111J_'s cost contrast 10,033. Seedance up x4.03 and AI video up x6.56 in the sample.",
+        "hook_en": "Everyone is posting price charts. Here is what one Space Marine charge actually costs me in Seedance vs Kling AI video.",
+        "why": "Cost is the conversation; a real creator test is more credible than a promo line.",
+        "x_keywords": [
+          "Seedance",
+          "AI video",
+          "Kling"
+        ],
+        "x_rank": 4,
+        "source": "x-keywords"
+      },
+      {
+        "title": "First-person void breach",
+        "topic": "Titled story shorts and AI filmmaking craft",
+        "keywords": [
+          "short film",
+          "AI video"
+        ],
+        "format": "video",
+        "visual_type": "video",
+        "visual": "30s POV inside a void-suit helmet: HUD warnings, hull breach, a spin into black, one line of text at the end.",
+        "angle": "Stellarixorine's first-person space-disaster sci-fi short did 6,087 views; short film is up x2.06 in the sample (18,232).",
+        "hook_en": "Hull breach. No tether. No rescue. A first-person sci-fi short film made with AI video.",
+        "why": "Sci-fi POV framing pulled views in the outsider lane and fits Bogdan's sci-fi skits.",
+        "x_keywords": [
+          "short film",
+          "AI video"
+        ],
+        "x_rank": 4,
+        "source": "x-keywords"
+      }
+    ],
+    "articles": [
+      {
+        "title": "The Black Friday AI video price war, read by a creator",
+        "thesis": "Per-second price claims for MAGI-2, Seedance and Kling are everywhere; what matters for a small studio is cost per usable shot.",
+        "outline": [
+          "The claims in the feed (with the real numbers)",
+          "Why price per second is not price per shot",
+          "A simple test protocol",
+          "What I will actually use"
+        ],
+        "keywords": [
+          "AI video",
+          "Seedance",
+          "Kling"
+        ],
+        "visual": "Cover: split-screen frame of the same shot in two models; inline: a table of the quoted prices from the posts.",
+        "why": "Price posts were the biggest outsider numbers of the window (59,733 for a $0.99 MAGI-2 offer); Seedance and AI video both rose in the sample.",
+        "x_keywords": [
+          "AI video",
+          "Seedance",
+          "Kling"
+        ]
+      },
+      {
+        "title": "Story first: why titled AI shorts outperform showcases",
+        "thesis": "The titled shorts and loglines on the board drew more engagement than spec-heavy clips; story is the moat as models converge.",
+        "outline": [
+          "What landed this week",
+          "Logline, title, three beats",
+          "Continuity as the trust signal",
+          "A 40K example"
+        ],
+        "keywords": [
+          "AI filmmaking",
+          "AI animation",
+          "short film"
+        ],
+        "visual": "Cover: title card from a Warhammer micro-short; inline: 3-frame storyboard strip.",
+        "why": "'The Heist' (35,180) and the mole-and-shark-boss short (147 bookmarks) vs generic showcases; AI animation #1 in the X keyword sample.",
+        "x_keywords": [
+          "AI filmmaking",
+          "AI animation",
+          "short film"
+        ]
+      }
+    ],
+    "why_hit": [
+      {
+        "id": "2126564586019270923",
+        "handle": "@minhoo_kim_",
+        "lane": "outsider",
+        "views": 59733,
+        "trend_match": 82,
+        "verdict": "trend",
+        "matched_keywords": [
+          "AI video",
+          "Magi-2",
+          "AI video creation",
+          "models"
+        ],
+        "media": "text",
+        "followers": 20329,
+        "topic": "Black Friday AI video price war",
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2126501430131315175",
+        "handle": "@LordeDaAlvorada",
+        "lane": "outsider",
+        "views": 38682,
+        "trend_match": 58,
+        "verdict": "trend",
+        "matched_keywords": [
+          "Seedance 2.5",
+          "AI animation"
+        ],
+        "media": "video",
+        "followers": 2786,
+        "topic": "Black Friday AI video price war",
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2126380255388528792",
+        "handle": "@FawazXweb3",
+        "lane": "outsider",
+        "views": 35180,
+        "trend_match": 73,
+        "verdict": "trend",
+        "matched_keywords": [
+          "Seedance 2.5",
+          "AI video",
+          "AI animation"
+        ],
+        "media": "video",
+        "followers": 3109,
+        "topic": "Black Friday AI video price war",
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2126496652319961284",
+        "handle": "@MissPavIichenko",
+        "lane": "outsider",
+        "views": 33455,
+        "trend_match": 58,
+        "verdict": "trend",
+        "matched_keywords": [
+          "Seedance 2.5",
+          "AI animation"
+        ],
+        "media": "video",
+        "followers": 22847,
+        "topic": "Black Friday AI video price war",
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2126416060366917714",
+        "handle": "@Wivyai",
+        "lane": "outsider",
+        "views": 19256,
+        "trend_match": 74,
+        "verdict": "trend",
+        "matched_keywords": [
+          "Seedance 2.5",
+          "models",
+          "Kling",
+          "API"
+        ],
+        "media": "video",
+        "followers": 140,
+        "topic": "Black Friday AI video price war",
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2126166275504394270",
+        "handle": "@kicknost",
+        "lane": "outsider",
+        "views": 12322,
+        "trend_match": 90,
+        "verdict": "trend",
+        "matched_keywords": [
+          "Seedance 2.5",
+          "AI video",
+          "Magi-2",
+          "Renoise",
+          "API",
+          "MAGI2",
+          "0.033/sec"
+        ],
+        "media": "video",
+        "followers": 4185,
+        "topic": "Black Friday AI video price war",
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2126566101060640998",
+        "handle": "@aitechworld195",
+        "lane": "outsider",
+        "views": 11295,
+        "trend_match": 67,
+        "verdict": "trend",
+        "matched_keywords": [
+          "AI video",
+          "models",
+          "Kling"
+        ],
+        "media": "text",
+        "followers": 14301,
+        "topic": "Black Friday AI video price war",
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2126196587978178729",
+        "handle": "@4111J_",
+        "lane": "outsider",
+        "views": 10033,
+        "trend_match": 49,
+        "verdict": "visual",
+        "matched_keywords": [
+          "Seedance 2.5",
+          "MAGI2"
+        ],
+        "media": "video",
+        "followers": 22759,
+        "topic": "Black Friday AI video price war",
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2126547886230196452",
+        "handle": "@Stellarixorine",
+        "lane": "outsider",
+        "views": 6087,
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "followers": 21964,
+        "topic": "Titled story shorts and AI filmmaking craft",
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2126230275114041753",
+        "handle": "@im_shahid7",
+        "lane": "outsider",
+        "views": 5861,
+        "trend_match": 89,
+        "verdict": "trend",
+        "matched_keywords": [
+          "Seedance 2.5",
+          "AI video",
+          "Magi-2",
+          "AI video creation",
+          "Renoise",
+          "0.033/sec"
+        ],
+        "media": "video",
+        "followers": 5459,
+        "topic": "Black Friday AI video price war",
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2126622658800533506",
+        "handle": "@YaseenK7212",
+        "lane": "outsider",
+        "views": 4847,
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "followers": 50221,
+        "topic": "Black Friday AI video price war",
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2126064277593182478",
+        "handle": "@PAACADEMYY",
+        "lane": "outsider",
+        "views": 4155,
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "followers": 4342,
+        "topic": null,
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2126159368861139303",
+        "handle": "@YouArtStudio",
+        "lane": "outsider",
+        "views": 4022,
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "followers": 7312,
+        "topic": "Black Friday AI video price war",
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2126204086512923008",
+        "handle": "@Aiminithoughts",
+        "lane": "outsider",
+        "views": 3743,
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "followers": 6394,
+        "topic": "Black Friday AI video price war",
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2126105441574756376",
+        "handle": "@aruvinchan",
+        "lane": "outsider",
+        "views": 2939,
+        "trend_match": 0,
+        "verdict": "coincidence/other",
+        "matched_keywords": [],
+        "media": "text",
+        "followers": 42148,
+        "topic": "Titled story shorts and AI filmmaking craft",
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2126388067300778237",
+        "handle": "@Njasi3",
+        "lane": "outsider",
+        "views": 2325,
+        "trend_match": 0,
+        "verdict": "coincidence/other",
+        "matched_keywords": [],
+        "media": "text",
+        "followers": 1572,
+        "topic": "Black Friday AI video price war",
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2126400094002204874",
+        "handle": "@Poulk_wgman",
+        "lane": "outsider",
+        "views": 1630,
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "followers": 31112,
+        "topic": "Black Friday AI video price war",
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2126360416293187631",
+        "handle": "@DeQueenofSpaces",
+        "lane": "outsider",
+        "views": 1348,
+        "trend_match": 0,
+        "verdict": "coincidence/other",
+        "matched_keywords": [],
+        "media": "text",
+        "followers": 5936,
+        "topic": null,
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2126523388432896123",
+        "handle": "@RobotCleopatra",
+        "lane": "outsider",
+        "views": 825,
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "followers": 100011,
+        "topic": "Black Friday AI video price war",
+        "self_quote": false,
+        "note": ""
+      },
+      {
+        "id": "2126174930626547791",
+        "handle": "@itsbongoo",
+        "lane": "outsider",
+        "views": 699,
+        "trend_match": 0,
+        "verdict": "visual",
+        "matched_keywords": [],
+        "media": "video",
+        "followers": 1456,
+        "topic": "Titled story shorts and AI filmmaking craft",
+        "self_quote": false,
+        "note": ""
+      }
+    ],
+    "labels": {
+      "trend": "trend",
+      "visual": "visual",
+      "author": "author/audience",
+      "other": "coincidence/other",
+      "nontrend": "non-trend",
+      "self_quote": "self-quote",
+      "no_data": "no data"
+    },
+    "x_keywords": {
+      "fetched_at": "2026-11-28T15:41:00+00:00",
+      "window_start": "2026-11-26T15:41:00Z",
+      "calls": 32,
+      "method": "Read-only x MCP search_posts_all, 2 calls per keyword: last 24 h and previous 24 h (24-48 h ago); lang:en, no retweets/replies, sort=relevancy, up to 25 posts per window. This is a SAMPLE of top-relevance posts, not every post on X. Views = impression_count at fetch time. Rank = sum of sampled 24 h views; 48 h = both windows; trend = 24 h sum / previous 24 h sum (up >=1.3, down <=0.7). Fresh posts are still gaining views, so 'up' is understated. Top-post share > 70% means one viral post carries the keyword.",
+      "missing": [],
+      "sample": true,
+      "sample_size_per_call": 25,
+      "keywords": [
+        {
+          "keyword": "AI animation",
+          "query": "\"AI animation\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 25,
+            "total": 234730,
+            "median": 56,
+            "top": {
+              "views": 148711,
+              "url": "https://x.com/ShitpostGate/status/2126579750898696517",
+              "handle": "@ShitpostGate",
+              "text": "With all the AI animation going around I was so scared that this was gonna be one, thank god it wasn’t https://t.co/3xJI"
+            }
+          },
+          "prev24": {
+            "n": 25,
+            "total": 157515,
+            "median": 193,
+            "top": {
+              "views": 73922,
+              "url": "https://x.com/juliet_2138_z/status/2126222810045362326",
+              "handle": "@juliet_2138_z",
+              "text": "This AI animation is better than Disney 🔥 Seedance 2.5 https://t.co/q1GwQNxJl6 https://t.co/dgJJouahoD"
+            }
+          },
+          "w48": {
+            "n": 50,
+            "total": 392245,
+            "top": {
+              "views": 148711,
+              "url": "https://x.com/ShitpostGate/status/2126579750898696517",
+              "handle": "@ShitpostGate",
+              "text": "With all the AI animation going around I was so scared that this was gonna be one, thank god it wasn’t https://t.co/3xJI"
+            }
+          },
+          "change": 1.49,
+          "trend": "up",
+          "partial": false,
+          "top_share": 0.63,
+          "rank": 1
+        },
+        {
+          "keyword": "anime",
+          "query": "\"anime\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 25,
+            "total": 97051,
+            "median": 70,
+            "top": {
+              "views": 32614,
+              "url": "https://x.com/godki69126/status/2126370216208916886",
+              "handle": "@godki69126",
+              "text": "Dragon Ball Super: Beerus in October: Top 1 among anime on Disney+ Top 1 among anime on HBO Max Top 2 among anime on Net"
+            }
+          },
+          "prev24": {
+            "n": 25,
+            "total": 9801,
+            "median": 46,
+            "top": {
+              "views": 5680,
+              "url": "https://x.com/MechaGoddess/status/2126090705999187997",
+              "handle": "@MechaGoddess",
+              "text": "&gt;Watching anime &gt;Thanksgiving dinner is ready &gt;Pause anime &gt;Eat &gt;Resume anime https://t.co/R6dmlLPO9A"
+            }
+          },
+          "w48": {
+            "n": 50,
+            "total": 106852,
+            "top": {
+              "views": 32614,
+              "url": "https://x.com/godki69126/status/2126370216208916886",
+              "handle": "@godki69126",
+              "text": "Dragon Ball Super: Beerus in October: Top 1 among anime on Disney+ Top 1 among anime on HBO Max Top 2 among anime on Net"
+            }
+          },
+          "change": 9.9,
+          "trend": "up",
+          "partial": false,
+          "top_share": 0.34,
+          "rank": 2
+        },
+        {
+          "keyword": "AI filmmaking",
+          "query": "\"AI filmmaking\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 25,
+            "total": 76485,
+            "median": 123,
+            "top": {
+              "views": 42221,
+              "url": "https://x.com/zachkry_/status/2126580947307114508",
+              "handle": "@zachkry_",
+              "text": "Same creative vision, two very different price tags. MAGI-2 delivers a 30-second AI video for just $1.20, compared to $2"
+            }
+          },
+          "prev24": {
+            "n": 25,
+            "total": 389640,
+            "median": 118,
+            "top": {
+              "views": 213940,
+              "url": "https://x.com/JJ_Kresl/status/2126059273834873017",
+              "handle": "@JJ_Kresl",
+              "text": "The best take on AI \"filmmaking\" I've seen lately was on reddit when someone said \"Why would I bother to watch a movie n"
+            }
+          },
+          "w48": {
+            "n": 50,
+            "total": 466125,
+            "top": {
+              "views": 213940,
+              "url": "https://x.com/JJ_Kresl/status/2126059273834873017",
+              "handle": "@JJ_Kresl",
+              "text": "The best take on AI \"filmmaking\" I've seen lately was on reddit when someone said \"Why would I bother to watch a movie n"
+            }
+          },
+          "change": 0.2,
+          "trend": "down",
+          "partial": false,
+          "top_share": 0.55,
+          "rank": 3
+        },
+        {
+          "keyword": "AI video",
+          "query": "\"AI video\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 25,
+            "total": 74104,
+            "median": 82,
+            "top": {
+              "views": 59734,
+              "url": "https://x.com/minhoo_kim_/status/2126564586019270923",
+              "handle": "@minhoo_kim_",
+              "text": "MAGI-2 for just $0.99? That's a deal worth watching! Get up to 250 seconds of AI video at just $0.00396/sec. Plus, 5,000"
+            }
+          },
+          "prev24": {
+            "n": 25,
+            "total": 11298,
+            "median": 114,
+            "top": {
+              "views": 5861,
+              "url": "https://x.com/im_shahid7/status/2126230275114041753",
+              "handle": "@im_shahid7",
+              "text": "AI video just hit a new price-breaking point with MAGI-2. @renoiseai is making high-quality AI video more accessible wit"
+            }
+          },
+          "w48": {
+            "n": 50,
+            "total": 85402,
+            "top": {
+              "views": 59734,
+              "url": "https://x.com/minhoo_kim_/status/2126564586019270923",
+              "handle": "@minhoo_kim_",
+              "text": "MAGI-2 for just $0.99? That's a deal worth watching! Get up to 250 seconds of AI video at just $0.00396/sec. Plus, 5,000"
+            }
+          },
+          "change": 6.56,
+          "trend": "up",
+          "partial": false,
+          "top_share": 0.81,
+          "rank": 4
+        },
+        {
+          "keyword": "Seedance",
+          "query": "\"Seedance\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 25,
+            "total": 55418,
+            "median": 71,
+            "top": {
+              "views": 22990,
+              "url": "https://x.com/YouArtStudio/status/2126347608423555125",
+              "handle": "@YouArtStudio",
+              "text": "MAGI-2 vs Seedance 2.5 on a cheetah hunt. Documentary-grade, for $0.04/sec. Which one wins? 20x cheaper than Seedance 2."
+            }
+          },
+          "prev24": {
+            "n": 25,
+            "total": 13757,
+            "median": 65,
+            "top": {
+              "views": 10033,
+              "url": "https://x.com/4111J_/status/2126196587978178729",
+              "handle": "@4111J_",
+              "text": "$28.50 on Seedance 2.5 vs $1.20 on YouArt. Same 30s 1080p clip. The choice is obvious now. #Seedance #MAGI2 #YouArt #AIC"
+            }
+          },
+          "w48": {
+            "n": 50,
+            "total": 69175,
+            "top": {
+              "views": 22990,
+              "url": "https://x.com/YouArtStudio/status/2126347608423555125",
+              "handle": "@YouArtStudio",
+              "text": "MAGI-2 vs Seedance 2.5 on a cheetah hunt. Documentary-grade, for $0.04/sec. Which one wins? 20x cheaper than Seedance 2."
+            }
+          },
+          "change": 4.03,
+          "trend": "up",
+          "partial": false,
+          "top_share": 0.41,
+          "rank": 5
+        },
+        {
+          "keyword": "Kling",
+          "query": "\"Kling\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 25,
+            "total": 22022,
+            "median": 14,
+            "top": {
+              "views": 19341,
+              "url": "https://x.com/Wivyai/status/2126416060366917714",
+              "handle": "@Wivyai",
+              "text": "Seedance 2.5 vs Kling 4.0 | Pixar-style, side by side Seedance 2.5 → $0.04/s (71% less than on other APIs) Kling 4.0 → $"
+            }
+          },
+          "prev24": {
+            "n": 25,
+            "total": 18928,
+            "median": 62,
+            "top": {
+              "views": 8171,
+              "url": "https://x.com/AIWarper/status/2126012160967160033",
+              "handle": "@AIWarper",
+              "text": "In order, here is: MAGI-2 FLUX 3 KLING 4.0 KLING 4.0 FLASH Also.... if this stuff is helpful at all please share! A sing"
+            }
+          },
+          "w48": {
+            "n": 50,
+            "total": 40950,
+            "top": {
+              "views": 19341,
+              "url": "https://x.com/Wivyai/status/2126416060366917714",
+              "handle": "@Wivyai",
+              "text": "Seedance 2.5 vs Kling 4.0 | Pixar-style, side by side Seedance 2.5 → $0.04/s (71% less than on other APIs) Kling 4.0 → $"
+            }
+          },
+          "change": 1.16,
+          "trend": "flat",
+          "partial": false,
+          "top_share": 0.88,
+          "rank": 6
+        },
+        {
+          "keyword": "short film",
+          "query": "\"short film\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 25,
+            "total": 18232,
+            "median": 29,
+            "top": {
+              "views": 13369,
+              "url": "https://x.com/kleCEbMREH/status/2126656542523248653",
+              "handle": "@kleCEbMREH",
+              "text": "Best short film https://t.co/CO6AakxLDz"
+            }
+          },
+          "prev24": {
+            "n": 25,
+            "total": 8859,
+            "median": 86,
+            "top": {
+              "views": 3772,
+              "url": "https://x.com/filmfare/status/2126299059744837975",
+              "handle": "@filmfare",
+              "text": "Which short film left the biggest impression on you? Show it some love by voting for People's Choice - Best Short Film a"
+            }
+          },
+          "w48": {
+            "n": 50,
+            "total": 27091,
+            "top": {
+              "views": 13369,
+              "url": "https://x.com/kleCEbMREH/status/2126656542523248653",
+              "handle": "@kleCEbMREH",
+              "text": "Best short film https://t.co/CO6AakxLDz"
+            }
+          },
+          "change": 2.06,
+          "trend": "up",
+          "partial": false,
+          "top_share": 0.73,
+          "rank": 7
+        },
+        {
+          "keyword": "ComfyUI",
+          "query": "\"ComfyUI\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 25,
+            "total": 13854,
+            "median": 68,
+            "top": {
+              "views": 7008,
+              "url": "https://x.com/Machinedelusion/status/2126456400578850976",
+              "handle": "@Machinedelusion",
+              "text": "Kandinsky ImageSR 2.0 is now in ComfyUI. one-step x2 and x4 upscaling no prompt, no text encoder, no Diffusers 512 → 204"
+            }
+          },
+          "prev24": {
+            "n": 25,
+            "total": 34581,
+            "median": 460,
+            "top": {
+              "views": 6638,
+              "url": "https://x.com/ou_zhen599/status/2126238073315119525",
+              "handle": "@ou_zhen599",
+              "text": "Made with Krea 2 +MiniMax-H3 ComfyUI 🏷️“The Fire Kiss Spell” 📷Treat the spell’s light as your very breath, and savor the"
+            }
+          },
+          "w48": {
+            "n": 50,
+            "total": 48435,
+            "top": {
+              "views": 7008,
+              "url": "https://x.com/Machinedelusion/status/2126456400578850976",
+              "handle": "@Machinedelusion",
+              "text": "Kandinsky ImageSR 2.0 is now in ComfyUI. one-step x2 and x4 upscaling no prompt, no text encoder, no Diffusers 512 → 204"
+            }
+          },
+          "change": 0.4,
+          "trend": "down",
+          "partial": false,
+          "top_share": 0.51,
+          "rank": 8
+        },
+        {
+          "keyword": "Sora",
+          "query": "\"Sora\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 25,
+            "total": 12603,
+            "median": 197,
+            "top": {
+              "views": 3121,
+              "url": "https://x.com/soraasoul/status/2126645437713297827",
+              "handle": "@soraasoul",
+              "text": "mc: so, what is sora's dream? sora: i want to become an artist who captures the world's attention 🌎💫 AND YOU FINALLY DID"
+            }
+          },
+          "prev24": {
+            "n": 24,
+            "total": 37660,
+            "median": 232,
+            "top": {
+              "views": 17836,
+              "url": "https://x.com/Bio_Roxas/status/2125986792511865000",
+              "handle": "@Bio_Roxas",
+              "text": "This will be Sora https://t.co/ONMA6wGd06"
+            }
+          },
+          "w48": {
+            "n": 49,
+            "total": 50263,
+            "top": {
+              "views": 17836,
+              "url": "https://x.com/Bio_Roxas/status/2125986792511865000",
+              "handle": "@Bio_Roxas",
+              "text": "This will be Sora https://t.co/ONMA6wGd06"
+            }
+          },
+          "change": 0.33,
+          "trend": "down",
+          "partial": false,
+          "top_share": 0.25,
+          "rank": 9
+        },
+        {
+          "keyword": "text to video",
+          "query": "\"text to video\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 25,
+            "total": 7571,
+            "median": 43,
+            "top": {
+              "views": 2054,
+              "url": "https://x.com/suraj_sharma14/status/2126390604229935245",
+              "handle": "@suraj_sharma14",
+              "text": "AI gave us more new building blocks in 3 years than the internet did in 10. most people are still building with one. the"
+            }
+          },
+          "prev24": {
+            "n": 25,
+            "total": 3472,
+            "median": 29,
+            "top": {
+              "views": 1318,
+              "url": "https://x.com/Mahesh171819/status/2126212194962710828",
+              "handle": "@Mahesh171819",
+              "text": "This is the gold mine for free AI videos 32 tools. Text-to-video, image-to- video, avatars and more all free. Save it rn"
+            }
+          },
+          "w48": {
+            "n": 50,
+            "total": 11043,
+            "top": {
+              "views": 2054,
+              "url": "https://x.com/suraj_sharma14/status/2126390604229935245",
+              "handle": "@suraj_sharma14",
+              "text": "AI gave us more new building blocks in 3 years than the internet did in 10. most people are still building with one. the"
+            }
+          },
+          "change": 2.18,
+          "trend": "up",
+          "partial": false,
+          "top_share": 0.27,
+          "rank": 10
+        },
+        {
+          "keyword": "Runway",
+          "query": "\"Runway\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 25,
+            "total": 5574,
+            "median": 46,
+            "top": {
+              "views": 922,
+              "url": "https://x.com/HeathrowRunways/status/2126444537174233599",
+              "handle": "@HeathrowRunways",
+              "text": "We switched to single runway ops at 22:30, using the southern runway 09R overnight during resurfacing works to the north"
+            }
+          },
+          "prev24": {
+            "n": 25,
+            "total": 6717,
+            "median": 63,
+            "top": {
+              "views": 2790,
+              "url": "https://x.com/fl360aero/status/2126126891216044153",
+              "handle": "@fl360aero",
+              "text": "GOODBYE RUNWAY 06/24, HELLO RUNWAY 05/23! SHANNON AIRPORT MARKS A HISTORIC AVIATION MILESTONE AFTER 66 YEARS A little ch"
+            }
+          },
+          "w48": {
+            "n": 50,
+            "total": 12291,
+            "top": {
+              "views": 2790,
+              "url": "https://x.com/fl360aero/status/2126126891216044153",
+              "handle": "@fl360aero",
+              "text": "GOODBYE RUNWAY 06/24, HELLO RUNWAY 05/23! SHANNON AIRPORT MARKS A HISTORIC AVIATION MILESTONE AFTER 66 YEARS A little ch"
+            }
+          },
+          "change": 0.83,
+          "trend": "flat",
+          "partial": false,
+          "top_share": 0.17,
+          "rank": 11
+        },
+        {
+          "keyword": "image to video",
+          "query": "\"image to video\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 22,
+            "total": 3088,
+            "median": 28,
+            "top": {
+              "views": 2251,
+              "url": "https://x.com/ou_zhen599/status/2126362784724349392",
+              "handle": "@ou_zhen599",
+              "text": "Made with Krea 2 +MiniMax-H3 ComfyUI 🏷️[Real-life footage: green screen + scenes + ad content] 📷The biggest difference b"
+            }
+          },
+          "prev24": {
+            "n": 25,
+            "total": 50674,
+            "median": 30,
+            "top": {
+              "views": 41727,
+              "url": "https://x.com/supheli_sahis/status/2126024772727243134",
+              "handle": "@supheli_sahis",
+              "text": "Try now our bot: Home sex tapes scenes/double sex sisters. Upload your girl’s face. Ai nsfw video generator. Or swap fac"
+            }
+          },
+          "w48": {
+            "n": 47,
+            "total": 53762,
+            "top": {
+              "views": 41727,
+              "url": "https://x.com/supheli_sahis/status/2126024772727243134",
+              "handle": "@supheli_sahis",
+              "text": "Try now our bot: Home sex tapes scenes/double sex sisters. Upload your girl’s face. Ai nsfw video generator. Or swap fac"
+            }
+          },
+          "change": 0.06,
+          "trend": "down",
+          "partial": false,
+          "top_share": 0.73,
+          "rank": 12
+        },
+        {
+          "keyword": "Veo",
+          "query": "\"Veo\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 25,
+            "total": 2546,
+            "median": 40,
+            "top": {
+              "views": 657,
+              "url": "https://x.com/spicypicss/status/2126507246263706005",
+              "handle": "@spicypicss",
+              "text": "Me veo spicy 🐈‍⬛"
+            }
+          },
+          "prev24": {
+            "n": 25,
+            "total": 5387,
+            "median": 37,
+            "top": {
+              "views": 2060,
+              "url": "https://x.com/TropiCASLA/status/2126165395786858533",
+              "handle": "@TropiCASLA",
+              "text": "Lo decidi mañana (hoy) veo you can see everything."
+            }
+          },
+          "w48": {
+            "n": 50,
+            "total": 7933,
+            "top": {
+              "views": 2060,
+              "url": "https://x.com/TropiCASLA/status/2126165395786858533",
+              "handle": "@TropiCASLA",
+              "text": "Lo decidi mañana (hoy) veo you can see everything."
+            }
+          },
+          "change": 0.47,
+          "trend": "down",
+          "partial": false,
+          "top_share": 0.26,
+          "rank": 13
+        },
+        {
+          "keyword": "Grok Imagine",
+          "query": "\"Grok Imagine\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 25,
+            "total": 2311,
+            "median": 44,
+            "top": {
+              "views": 668,
+              "url": "https://x.com/TheCaptainEli/status/2126398752994767130",
+              "handle": "@TheCaptainEli",
+              "text": "Grok imagine-&gt; drew-&gt;choose your style-&gt;make a video out of it-&gt; create a song Grok imagine is so much fun. "
+            }
+          },
+          "prev24": {
+            "n": 25,
+            "total": 3116,
+            "median": 40,
+            "top": {
+              "views": 1299,
+              "url": "https://x.com/cale_ai/status/2126036095771004957",
+              "handle": "@cale_ai",
+              "text": "A correction I can't edit. I used Pixai for the original picture not the music. Then I used Grok imagine for editing the"
+            }
+          },
+          "w48": {
+            "n": 50,
+            "total": 5427,
+            "top": {
+              "views": 1299,
+              "url": "https://x.com/cale_ai/status/2126036095771004957",
+              "handle": "@cale_ai",
+              "text": "A correction I can't edit. I used Pixai for the original picture not the music. Then I used Grok imagine for editing the"
+            }
+          },
+          "change": 0.74,
+          "trend": "flat",
+          "partial": false,
+          "top_share": 0.29,
+          "rank": 14
+        },
+        {
+          "keyword": "Midjourney",
+          "query": "\"Midjourney\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 25,
+            "total": 2071,
+            "median": 48,
+            "top": {
+              "views": 606,
+              "url": "https://x.com/foxmr507/status/2126410030069022747",
+              "handle": "@foxmr507",
+              "text": "Happy Foxy Friday! 🦊🕯️🛹 🎬 NEW MUSIC VIDEO: \"Fire in the Glass\" Built with a special Midjourney sub-prompt from Toshi’s c"
+            }
+          },
+          "prev24": {
+            "n": 25,
+            "total": 7180,
+            "median": 71,
+            "top": {
+              "views": 3173,
+              "url": "https://x.com/umesh_ai/status/2126039486526369913",
+              "handle": "@umesh_ai",
+              "text": "Wow, Midjourney v9 is coming soon! https://t.co/0yIdpQFt8H"
+            }
+          },
+          "w48": {
+            "n": 50,
+            "total": 9251,
+            "top": {
+              "views": 3173,
+              "url": "https://x.com/umesh_ai/status/2126039486526369913",
+              "handle": "@umesh_ai",
+              "text": "Wow, Midjourney v9 is coming soon! https://t.co/0yIdpQFt8H"
+            }
+          },
+          "change": 0.29,
+          "trend": "down",
+          "partial": false,
+          "top_share": 0.29,
+          "rank": 15
+        },
+        {
+          "keyword": "Higgsfield",
+          "query": "\"Higgsfield\" lang:en -is:retweet -is:reply",
+          "w24": {
+            "n": 25,
+            "total": 924,
+            "median": 32,
+            "top": {
+              "views": 143,
+              "url": "https://x.com/AINewsOfficial_/status/2126640245462684118",
+              "handle": "@AINewsOfficial_",
+              "text": "– MAGI-2 on Higgsfield can make your first AI video ad cheaper – 4 steps: image, video, voiceover, finished ad – Total c"
+            }
+          },
+          "prev24": {
+            "n": 25,
+            "total": 1518864,
+            "median": 251,
+            "top": {
+              "views": 1431013,
+              "url": "https://x.com/higgsfield/status/2126285551838089375",
+              "handle": "@higgsfield",
+              "text": "Higgsfield Black Friday: less than 12 hours left for the Secret Plan. Our biggest offer of the year: &gt; Secret plan: 2"
+            }
+          },
+          "w48": {
+            "n": 50,
+            "total": 1519788,
+            "top": {
+              "views": 1431013,
+              "url": "https://x.com/higgsfield/status/2126285551838089375",
+              "handle": "@higgsfield",
+              "text": "Higgsfield Black Friday: less than 12 hours left for the Secret Plan. Our biggest offer of the year: &gt; Secret plan: 2"
+            }
+          },
+          "change": 0.0,
+          "trend": "down",
+          "partial": false,
+          "top_share": 0.15,
+          "rank": 16
+        }
+      ]
+    },
+    "legend": "Trend match 0-100% = 1 - prod(1 - w) over matched 24 h keywords that another author also used in the 48 h window (w: rank 1-10 0.35, 11-25 0.22, 26-40 0.12, curated 0.20). Verdict: >= 50% -> trend; else video/image in the post data -> visual; else >= 100K followers (outsiders without follower data: >= 500K views, estimate) -> author/audience; else coincidence/other. Missing data shows as 'no data'. Heat = sum log10(views) of topic posts (24 h x1, 24-48 h x0.5), scaled to 100. Momentum = log-views last 24 h / previous 24 h. Trend-input-only accounts feed the corpus but are never shown as hits."
+  }
+}
